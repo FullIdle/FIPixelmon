@@ -4,6 +4,8 @@ import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
 import com.google.common.collect.ListMultimap;
 import com.google.common.collect.Lists;
+import com.google.common.collect.MultimapBuilder;
+import com.google.common.collect.Multimaps;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
 import lombok.SneakyThrows;
@@ -74,17 +76,18 @@ public abstract class MixinEnumSpecies {
     }
 
     @Inject(method = "<clinit>",
-            at = @At(value = "FIELD",
-                    target = "Lcom/pixelmonmod/pixelmon/enums/EnumSpecies;formList:Lcom/google/common/collect/ListMultimap;",
-                    ordinal = 0,
-                    shift = At.Shift.AFTER
-            ),
+            at = @At("TAIL"),
             remap = false)
-    private static void formsRegister(CallbackInfo ci){
+    private static void formsRegister(CallbackInfo ci) {
+        formList = MultimapBuilder.enumKeys(EnumSpecies.class).arrayListValues(1).build(formList);
         for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet()) {
+            if (entry.getValue().isReplace()) {
+                formList.removeAll(entry.getKey());
+            }
             for (IEnumForm form : entry.getValue().getEnumForm()) {
                 formList.put(entry.getKey(),form);
             }
         }
+        formList = Multimaps.unmodifiableListMultimap(formList);
     }
 }

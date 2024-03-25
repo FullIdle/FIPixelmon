@@ -53,8 +53,18 @@ public class MixinBaseStatsLoader {
         String path;
         InputStreamReader insReader;
         if (PokemonConfig.extraPokemonConfig.keySet().contains(species)) {
-            path = FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexInteger() + ".json";
-            insReader = new FileReader(path);
+            if (species.getNationalPokedexInteger() < 906) {
+                if (PokemonConfig.extraPokemonConfig.get(species).isReplace()){
+                    path = FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexInteger() + ".json";
+                    insReader = new FileReader(path);
+                }else{
+                    path = "/assets/pixelmon/stats/" + species.getNationalPokedexNumber() + ".json";
+                    insReader = new InputStreamReader(BaseStats.class.getResourceAsStream(path));
+                }
+            }else{
+                path = FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexInteger() + ".json";
+                insReader = new FileReader(path);
+            }
         } else {
             path = "/assets/pixelmon/stats/" + species.getNationalPokedexNumber() + ".json";
             insReader = new InputStreamReader(BaseStats.class.getResourceAsStream(path));

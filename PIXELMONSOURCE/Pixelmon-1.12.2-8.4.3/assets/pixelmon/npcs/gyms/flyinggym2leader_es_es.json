@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "flyingleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Emelio Skyhart"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Extraño mis viejos combates en lo alto del cielo. ¡Haz recordar mi antigua gloria!",
+      "win": "¡Cómo en los viejos tiempos, já!",
+      "lose": "Que gran combate - aunque las cosas serían distintas a cientos de pies en el aire. ¡Te felicito por tu destreza!"
+    }
+  ]
+}

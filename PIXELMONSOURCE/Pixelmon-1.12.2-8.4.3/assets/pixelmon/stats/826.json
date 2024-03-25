@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Orbeetle",
+  "pokemon": "Orbeetle",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 45,
+    "Defence": 110,
+    "SpecialAttack": 80,
+    "SpecialDefence": 120,
+    "Speed": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 14,
+  "baseExp": 253,
+  "baseFriendship": 50,
+  "types": [
+    "Bug",
+    "Psychic"
+  ],
+  "height": 0.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dottler",
+    "Blipbug"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.3
+    }
+  },
+  "weight": 40.8,
+  "bounding_box": {
+    "width": 0.9,
+    "height": 1.1,
+    "eye_height": 0.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Frisk",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Confusion",
+      "Light Screen",
+      "Reflect",
+      "Struggle Bug"
+    ],
+    "4": [
+      "Confuse Ray"
+    ],
+    "8": [
+      "Magic Coat"
+    ],
+    "12": [
+      "Agility"
+    ],
+    "16": [
+      "Psybeam"
+    ],
+    "20": [
+      "Hypnosis"
+    ],
+    "24": [
+      "Ally Switch"
+    ],
+    "28": [
+      "Bug Buzz"
+    ],
+    "32": [
+      "Mirror Coat"
+    ],
+    "36": [
+      "Psychic"
+    ],
+    "40": [
+      "After You"
+    ],
+    "44": [
+      "Calm Mind"
+    ],
+    "48": [
+      "Psychic Terrain"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force"
+  ],
+  "eggMoves": [
+    "Infestation",
+    "Recover",
+    "Sticky Web",
+    "Supersonic"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Agility",
+    "Leech Life",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Shadow Ball",
+    "Future Sight",
+    "Trick",
+    "Skill Swap",
+    "Iron Defense",
+    "Calm Mind",
+    "Bug Buzz",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Stored Power",
+    "Ally Switch",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Facade",
+    "Helping Hand",
+    "Imprison",
+    "U-turn",
+    "Payback",
+    "Power Swap",
+    "Guard Swap",
+    "Psycho Cut",
+    "Trick Room",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Psychic Terrain"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "bounding_box": {
+        "width": 2.1,
+        "height": 1.1,
+        "eye_height": 0.6
+      }
+    }
+  }
+}

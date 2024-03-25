@@ -1,0 +1,202 @@
+{
+  "pixelmonName": "Araquanid",
+  "pokemon": "Araquanid",
+  "form": -1,
+  "stats": {
+    "HP": 68,
+    "Attack": 70,
+    "Defence": 92,
+    "Speed": 42,
+    "SpecialAttack": 50,
+    "SpecialDefence": 132
+  },
+  "catchRate": 100,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 50,
+  "baseExp": 159,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "height": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Dewpider"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": 0.0
+    }
+  },
+  "weight": 82.0,
+  "bounding_box": {
+    "width": 2.4,
+    "height": 2.6,
+    "eye_height": 1.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "WaterBubble",
+    null,
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Bug Bite",
+      "Infestation",
+      "Water Gun",
+      "Wide Guard"
+    ],
+    "12": [
+      "Bubble Beam"
+    ],
+    "16": [
+      "Aqua Ring"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "26": [
+      "Crunch"
+    ],
+    "32": [
+      "Soak"
+    ],
+    "38": [
+      "Entrainment"
+    ],
+    "44": [
+      "Lunge"
+    ],
+    "50": [
+      "Liquidation"
+    ],
+    "56": [
+      "Leech Life"
+    ],
+    "62": [
+      "Mirror Coat"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Power Split",
+    "Spit Up",
+    "Sticky Web",
+    "Stockpile"
+  ],
+  "transferMoves": [
+    "Aurora Beam",
+    "Bubble",
+    "Confide",
+    "Double Team",
+    "Frost Breath",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Magic Coat",
+    "Return",
+    "Signal Beam",
+    "Spider Web",
+    "Swagger",
+    "Toxic",
+    "Water Pulse",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Waterfall",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Iron Defense",
+    "Poison Jab",
+    "X-Scissor",
+    "Bug Buzz",
+    "Scald",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Dive",
+    "Wonder Room",
+    "Magic Room",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Frost Breath",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "forms": {}
+}

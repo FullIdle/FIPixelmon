@@ -1,0 +1,26 @@
+{
+  "id": "Ribombee",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ribombee"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

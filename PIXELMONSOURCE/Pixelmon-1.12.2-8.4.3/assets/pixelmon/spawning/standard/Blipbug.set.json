@@ -1,0 +1,29 @@
+{
+  "id": "Blipbug",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Blipbug"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

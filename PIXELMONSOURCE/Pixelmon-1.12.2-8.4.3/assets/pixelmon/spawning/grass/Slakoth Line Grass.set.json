@@ -1,0 +1,65 @@
+{
+  "id": "Slakoth Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Slakoth"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Vigoroth"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Slaking"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

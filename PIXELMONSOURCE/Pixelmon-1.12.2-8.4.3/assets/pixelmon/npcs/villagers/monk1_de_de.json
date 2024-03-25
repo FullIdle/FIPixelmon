@@ -1,0 +1,51 @@
+{
+    "skins": [
+        {
+            "filename": "monk1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Monk"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Auf Bergen zu meditieren ist friedlich, außer wenn neugierige Trainer hierher kommen, um Pokémon zu fangen!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Aufklärung wird so überschätzt."
+                },
+                {
+                    "text": "Warum verschwendest du Zeit damit, auf einem Berg zu sitzen, wenn du Pokémon fangen kannst!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Es ist egal, ob das Glas halb leer oder halb voll ist."
+                },
+                {
+                    "text": "Solange es etwas zu trinken gibt, geht es mir gut!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Yesterday is history, tomorrow is a mystery. Today is a gift."
+                },
+                {
+                    "text": "That's why they call it the present."
+                }
+            ]
+        }
+    ]
+}

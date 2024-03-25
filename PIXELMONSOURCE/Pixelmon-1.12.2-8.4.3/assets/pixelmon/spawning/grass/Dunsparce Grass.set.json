@@ -1,0 +1,25 @@
+{
+  "id": "Dunsparce Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dunsparce"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

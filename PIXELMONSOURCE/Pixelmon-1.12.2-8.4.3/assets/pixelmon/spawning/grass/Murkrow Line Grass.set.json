@@ -1,0 +1,57 @@
+{
+  "id": "Murkrow Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Murkrow"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "swamps"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Honchkrow"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "swamps"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

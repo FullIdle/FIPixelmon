@@ -1,0 +1,21 @@
+{
+  "cardCode": "JUNG59",
+  "attackNumber": 2,
+  "name": "attack.JUNG59.2.name",
+  "energy": [
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG59.2.text",
+  "effectsString": "OPP_CONDITION:ASLEEP",
+  "effects": [
+    {
+      "condition": "ASLEEP",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": null
+    }
+  ]
+}

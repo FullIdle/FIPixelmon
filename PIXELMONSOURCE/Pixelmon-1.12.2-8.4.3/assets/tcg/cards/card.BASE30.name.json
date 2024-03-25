@@ -1,0 +1,61 @@
+{
+  "id": 30,
+  "setId": 1,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 2,
+  "code": "BASE30",
+  "name": "card.BASE30.name",
+  "description": "",
+  "previousPokemonId": 1,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE30",
+      "attackNumber": 1,
+      "name": "attack.BASE30.1.name",
+      "energy": [
+        "GRASS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    },
+    {
+      "cardCode": "BASE30",
+      "attackNumber": 2,
+      "name": "attack.BASE30.2.name",
+      "energy": [
+        "GRASS",
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.BASE30.2.text",
+      "effects": [
+        "OPP_CONDITION:POISONED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

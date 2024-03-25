@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Drakloak",
+  "pokemon": "Drakloak",
+  "form": 0,
+  "stats": {
+    "HP": 68,
+    "Attack": 80,
+    "Defence": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 50,
+    "Speed": 102
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 6,
+  "baseExp": 144,
+  "baseFriendship": 50,
+  "types": [
+    "Dragon",
+    "Ghost"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dreepy"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 11.0,
+  "bounding_box": {
+    "width": 0.9,
+    "height": 1.6,
+    "eye_height": 0.85
+  },
+  "evolutions": [
+    {
+      "level": 60,
+      "to": {
+        "name": "Dragapult"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dragon Darts"
+      ]
+    }
+  ],
+  "abilities": [
+    "ClearBody",
+    "Infiltrator",
+    "CursedBody"
+  ],
+  "eggGroups": [
+    "Amorphous",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Bite",
+      "Dragon Pulse",
+      "Infestation",
+      "Quick Attack"
+    ],
+    "6": [
+      "Lock-On"
+    ],
+    "12": [
+      "Assurance"
+    ],
+    "18": [
+      "Hex"
+    ],
+    "24": [
+      "Agility"
+    ],
+    "30": [
+      "Double Hit"
+    ],
+    "36": [
+      "U-turn"
+    ],
+    "42": [
+      "Dragon Dance"
+    ],
+    "48": [
+      "Phantom Force"
+    ],
+    "54": [
+      "Take Down"
+    ],
+    "61": [
+      "Dragon Rush"
+    ],
+    "66": [
+      "Double-Edge"
+    ],
+    "72": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor"
+  ],
+  "eggMoves": [
+    "Confuse Ray",
+    "Curse",
+    "Disable",
+    "Double Team",
+    "Dragon Tail",
+    "Grudge",
+    "Sucker Punch"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Flamethrower",
+    "Hydro Pump",
+    "Surf",
+    "Thunderbolt",
+    "Thunder",
+    "Agility",
+    "Fire Blast",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Shadow Ball",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Ally Switch",
+    "Scald",
+    "Psychic Fangs"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Steel Wing",
+    "Attract",
+    "Beat Up",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Dive",
+    "Brine",
+    "U-turn",
+    "Assurance",
+    "Round",
+    "Hex",
+    "Acrobatics",
+    "Phantom Force",
+    "Breaking Swipe"
+  ]
+}

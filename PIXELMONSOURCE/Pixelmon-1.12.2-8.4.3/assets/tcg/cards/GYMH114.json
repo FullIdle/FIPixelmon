@@ -1,0 +1,61 @@
+{
+  "id": 435,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 19,
+  "code": "GYMH114",
+  "name": "card.GYMH114.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH114",
+      "attackNumber": 1,
+      "name": "attack.GYMH114.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMH114.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH114",
+      "attackNumber": 2,
+      "name": "attack.GYMH114.2.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH114.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": "30",
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

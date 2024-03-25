@@ -1,0 +1,322 @@
+{
+  "pixelmonName": "Slakoth",
+  "pokemon": "Slakoth",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 60,
+    "Speed": 30,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 5,
+  "baseExp": 83,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 24.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 0.4,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Vigoroth"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Truant",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Scratch",
+      "Yawn"
+    ],
+    "6": [
+      "Encore"
+    ],
+    "9": [
+      "Slack Off"
+    ],
+    "14": [
+      "Feint Attack"
+    ],
+    "17": [
+      "Amnesia"
+    ],
+    "22": [
+      "Covet"
+    ],
+    "25": [
+      "Chip Away"
+    ],
+    "30": [
+      "Counter"
+    ],
+    "33": [
+      "Flail"
+    ],
+    "38": [
+      "Play Rough"
+    ]
+  },
+  "tutorMoves": [
+    "After You",
+    "Covet",
+    "Fire Punch",
+    "Focus Punch",
+    "Gunk Shot",
+    "Ice Punch",
+    "Icy Wind",
+    "Shock Wave",
+    "Snore",
+    "Thunder Punch",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "After You",
+    "Body Slam",
+    "Crush Claw",
+    "Curse",
+    "Hammer Arm",
+    "Night Slash",
+    "Pursuit",
+    "Slash",
+    "Sleep Talk",
+    "Snore",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Cut",
+    "Double-Edge",
+    "Dynamic Punch",
+    "Endure",
+    "Fury Cutter",
+    "Headbutt",
+    "Hone Claws",
+    "Incinerate",
+    "Mega Kick",
+    "Mega Punch",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Retaliate",
+    "Rock Smash",
+    "Secret Power",
+    "Seismic Toss",
+    "Strength",
+    "Sucker Punch"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Shadow Claw",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Shadow Claw",
+    "Retaliate",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Shadow Claw",
+    "Retaliate",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Water Pulse",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Fling",
+    "Endure",
+    "Shadow Claw",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Focus Punch",
+    "Water Pulse",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

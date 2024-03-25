@@ -1,0 +1,32 @@
+{
+  "id": "Wurmple Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wurmple"
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 4,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:bright_powder",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "Charjabug",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Charjabug"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 20,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cell_battery",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods",
+          "jungles"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

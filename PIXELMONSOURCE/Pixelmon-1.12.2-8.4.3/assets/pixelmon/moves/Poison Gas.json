@@ -1,0 +1,49 @@
+{
+  "attackIndex": 171,
+  "attackName": "Poison Gas",
+  "attackType": "Poison",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 40,
+  "ppMax": 64,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Poison",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Poison"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Z-Poison Gas",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Defence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

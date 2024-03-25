@@ -1,0 +1,80 @@
+{
+  "attackIndex": 653,
+  "attackName": "Purify",
+  "attackType": "Poison",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Purify"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Z-Purify",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "Attack",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        },
+        {
+          "type": "Defence",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        },
+        {
+          "type": "SpecialAttack",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        },
+        {
+          "type": "SpecialDefence",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        },
+        {
+          "type": "Speed",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

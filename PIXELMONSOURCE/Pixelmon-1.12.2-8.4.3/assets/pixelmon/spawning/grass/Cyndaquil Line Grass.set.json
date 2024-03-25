@@ -1,0 +1,65 @@
+{
+  "id": "Cyndaquil Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cyndaquil"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Quilava"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 14,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Typhlosion"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

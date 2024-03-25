@@ -1,0 +1,103 @@
+{
+  "pixelmonName": "Wynaut",
+  "pokemon": "Wynaut",
+  "form": 0,
+  "stats": {
+    "HP": 95,
+    "Attack": 23,
+    "Defence": 48,
+    "Speed": 23,
+    "SpecialAttack": 23,
+    "SpecialDefence": 48
+  },
+  "catchRate": 125,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 44,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 14.0,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.7,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 15,
+      "to": {
+        "name": "Wobbuffet"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Counter",
+        "Mirror Coat",
+        "Safeguard",
+        "Destiny Bond"
+      ]
+    }
+  ],
+  "abilities": [
+    "ShadowTag",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Amnesia",
+      "Charm",
+      "Counter",
+      "Destiny Bond",
+      "Encore",
+      "Mirror Coat",
+      "Safeguard",
+      "Splash"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [],
+  "transferMoves": [
+    "Tickle"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Amnesia",
+    "Encore"
+  ],
+  "tmMoves8": [
+    "Safeguard",
+    "Charm"
+  ],
+  "tmMoves7": [
+    "Safeguard"
+  ],
+  "tmMoves6": [
+    "Safeguard"
+  ],
+  "forms": {}
+}

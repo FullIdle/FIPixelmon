@@ -1,0 +1,49 @@
+{
+  "id": "Riolu Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Riolu"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "extreme_hills_with_trees",
+          "mutated_extreme_hills_with_trees"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Lucario"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 31,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "extreme_hills_with_trees",
+          "mutated_extreme_hills_with_trees"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

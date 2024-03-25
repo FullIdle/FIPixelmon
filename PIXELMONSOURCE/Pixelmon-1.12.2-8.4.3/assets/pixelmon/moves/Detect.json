@@ -1,0 +1,55 @@
+{
+  "attackIndex": 293,
+  "attackName": "Detect",
+  "attackType": "Fighting",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Protect",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Protect"
+    },
+    {
+      "priority": 4,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fightinium_z",
+      "attackName": "Z-Detect",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Evasion",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

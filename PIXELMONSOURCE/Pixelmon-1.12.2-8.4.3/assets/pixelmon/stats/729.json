@@ -1,0 +1,198 @@
+{
+  "pixelmonName": "Brionne",
+  "pokemon": "Brionne",
+  "form": -1,
+  "stats": {
+    "HP": 60,
+    "Attack": 69,
+    "Defence": 69,
+    "Speed": 50,
+    "SpecialAttack": 91,
+    "SpecialDefence": 81
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 18,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Popplio"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 17.5,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Primarina"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Sparkling Aria"
+      ]
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "LiquidVoice"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Disarming Voice",
+      "Growl",
+      "Pound",
+      "Water Gun"
+    ],
+    "9": [
+      "Aqua Jet"
+    ],
+    "12": [
+      "Baby-Doll Eyes"
+    ],
+    "15": [
+      "Icy Wind"
+    ],
+    "20": [
+      "Sing"
+    ],
+    "25": [
+      "Bubble Beam"
+    ],
+    "30": [
+      "Encore"
+    ],
+    "35": [
+      "Misty Terrain"
+    ],
+    "40": [
+      "Hyper Voice"
+    ],
+    "45": [
+      "Moonblast"
+    ],
+    "50": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Flip Turn",
+    "Triple Axel",
+    "Water Pledge"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Life Dew",
+    "Perish Song"
+  ],
+  "transferMoves": [
+    "Aqua Tail",
+    "Aromatic Mist",
+    "Captivate",
+    "Confide",
+    "Covet",
+    "Double Slap",
+    "Double Team",
+    "Echoed Voice",
+    "Frustration",
+    "Hidden Power",
+    "Return",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Waterfall",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Iron Tail",
+    "Uproar",
+    "Hyper Voice",
+    "Scald",
+    "Work Up",
+    "Play Rough"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Helping Hand",
+    "Dive",
+    "Brine",
+    "Wonder Room",
+    "Round",
+    "Acrobatics",
+    "Draining Kiss",
+    "Misty Terrain"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Acrobatics",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "forms": {}
+}

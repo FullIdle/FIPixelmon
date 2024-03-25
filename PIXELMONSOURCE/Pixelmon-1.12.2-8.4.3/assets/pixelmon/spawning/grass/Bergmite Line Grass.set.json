@@ -1,0 +1,53 @@
+{
+  "id": "Bergmite Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bergmite"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 23,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river",
+          "ice_flats",
+          "biomesoplenty:glacier",
+          "traverse:glacier"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Avalugg"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river",
+          "ice_flats",
+          "biomesoplenty:glacier",
+          "traverse:glacier"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

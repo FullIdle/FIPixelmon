@@ -1,0 +1,25 @@
+{
+  "id": "Munna",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Munna"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 6,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

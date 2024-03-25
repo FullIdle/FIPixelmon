@@ -1,0 +1,42 @@
+{
+  "attackIndex": 46,
+  "attackName": "Dragon Rage",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "damage": 40,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "DoSetDamage"
+    }
+  ],
+  "animations": [
+      {
+          "id": "run"
+      }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "dragonium_z",
+      "attackName": "Devastating Drake",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "rancher.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Billy Bob"
+        },
+        {
+            "name": "Cowboy Roy"
+        },
+        {
+            "name": "Bubba Pete Jr."
+        },
+        {
+            "name": "Cletus Sr."
+        },
+        {
+            "name": "Zeb"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Miltank ha mille usi, ragazzino."
+                },
+                {
+                    "text": "Eeeecco perché avete tutti bisogno di noi ragazzo. Senza di noi come fareste ad avere tutto il latte del mondo a disposizione?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tutta la gente qui è abbronzata un casino, vero?"
+                },
+                {
+                    "text": "Vieni a lavorare con me, fratello! Sarà spassoso!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "È un duro essere un Allevatore. Mi fa male la vita a forza di piegarmi e alzarmi."
+                },
+                {
+                    "text": "Vorrei solo sedermi su una seggiola per qualche ora per riposarmi."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Dovreste andare tutti un po' in campagna."
+                },
+                {
+                    "text": "Respirare un po' d'aria fresca, altro che!"
+                }
+            ]
+        }
+    ]
+}

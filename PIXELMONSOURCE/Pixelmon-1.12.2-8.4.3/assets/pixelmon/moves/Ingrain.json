@@ -1,0 +1,49 @@
+{
+  "attackIndex": 341,
+  "attackName": "Ingrain",
+  "attackType": "Grass",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Ingrain",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Ingrain"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Z-Ingrain",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialDefence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

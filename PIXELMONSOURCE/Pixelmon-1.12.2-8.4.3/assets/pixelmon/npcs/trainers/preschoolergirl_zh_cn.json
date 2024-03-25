@@ -1,0 +1,70 @@
+{
+    "data": {
+        "trainerType": "PreschoolerGirl",
+        "minLevel": 5,
+        "maxLevel": 25,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 4,
+        "winnings": 10
+    },
+    "pokemon": [
+        {
+            "name": "Riolu"
+        },
+        {
+            "name": "Dratini"
+        },
+        {
+            "name": "Beldum"
+        },
+        {
+            "name": "Bagon"
+        },
+        {
+            "name": "Litwick"
+        },
+        {
+            "name": "Spheal"
+        },
+        {
+            "name": "Ralts"
+        },
+        {
+            "name": "Golett"
+        }
+    ],
+    "names": [
+        {
+            "name": "塞尔达"
+        },
+        {
+            "name": "芮妮"
+        },
+        {
+            "name": "盖比"
+        },
+        {
+            "name": "\"闪闪脚趾 \""
+        },
+        {
+            "name": "小珍妮"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "我要让我的爸爸妈妈以我为骄傲！",
+            "win": "耶！我都迫不及待的想告诉他们我赢了！",
+            "lose": "不错的游戏！它们会因为我好好运动而骄傲的！"
+        },
+        {
+            "opening": "我是一个大女孩了！我要揍你！",
+            "win": "不要因为你输了就哭！",
+            "lose": "大女孩......不能哭......大女孩......（抽鼻子）"
+        },
+        {
+            "opening": "我从未在神奇宝贝对战中输过！",
+            "win": "耶！一个接着一个！",
+            "lose": "这是我第一次对战..."
+        }
+    ]
+}

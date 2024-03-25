@@ -1,0 +1,39 @@
+{
+  "attackIndex": 257,
+  "attackName": "Trump Card",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 40,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "TrumpCard"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

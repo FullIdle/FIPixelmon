@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "waterleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "濤"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "時間的流動把你送來這裡，而潮水的流動將會把你捲離這裡！",
+      "win": "水超越一切，包括你！",
+      "lose": "看樣子，時間的流動超越了我..."
+    }
+  ]
+}

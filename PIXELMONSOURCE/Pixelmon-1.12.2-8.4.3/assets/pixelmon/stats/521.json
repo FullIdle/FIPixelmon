@@ -1,0 +1,266 @@
+{
+  "pixelmonName": "Unfezant",
+  "pokemon": "Unfezant",
+  "form": 0,
+  "stats": {
+    "HP": 80,
+    "Attack": 115,
+    "Defence": 80,
+    "Speed": 93,
+    "SpecialAttack": 65,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 14,
+  "baseExp": 215,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Tranquill",
+    "Pidove"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 25,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.35,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.25,
+      "z": 0.0
+    }
+  },
+  "weight": 29.0,
+  "bounding_box": {
+    "width": 1.1,
+    "height": 1.9,
+    "eye_height": 1.7
+  },
+  "evolutions": [],
+  "abilities": [
+    "BigPecks",
+    "SuperLuck",
+    "Rivalry"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Gust",
+      "Leer",
+      "Quick Attack"
+    ],
+    "12": [
+      "Taunt"
+    ],
+    "16": [
+      "Air Cutter"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "26": [
+      "Feather Dance"
+    ],
+    "36": [
+      "Detect"
+    ],
+    "42": [
+      "Air Slash"
+    ],
+    "50": [
+      "Roost"
+    ],
+    "58": [
+      "Tailwind"
+    ],
+    "66": [
+      "Sky Attack"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Hypnosis",
+    "Morning Sun",
+    "Night Slash",
+    "Wish"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Bestow",
+    "Confide",
+    "Double Team",
+    "Echoed Voice",
+    "Frustration",
+    "Hidden Power",
+    "Lucky Chant",
+    "Pluck",
+    "Psych Up",
+    "Razor Wind",
+    "Return",
+    "Secret Power",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Agility",
+    "Focus Energy",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Uproar",
+    "Heat Wave",
+    "Taunt",
+    "Brave Bird",
+    "Work Up",
+    "Hurricane"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Steel Wing",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "U-turn",
+    "Round",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Giga Impact",
+    "Fly",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Giga Impact",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Giga Impact",
+    "Psych Up",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "bounding_box": {
+        "width": 1.1,
+        "height": 1.9,
+        "eye_height": 1.7
+      }
+    }
+  }
+}

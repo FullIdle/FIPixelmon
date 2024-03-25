@@ -1,0 +1,66 @@
+{
+    "skins": [
+        {
+            "filename": "gardenermale2.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Christopher Lee"
+        },
+        {
+            "name": "José"
+        },
+        {
+            "name": "Sig. McGregor"
+        },
+        {
+            "name": "Percy"
+        },
+        {
+            "name": "Robert"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Devo stare attento a dove falciare, soprattutto vicino all'erba alta."
+                },
+                {
+                    "text": "Per errore non guardai una volta... è successo un disastro..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Un giardino non cresce da un giorno all'altro, ci vuole tempo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non capisco come la gente possa odiare Metapod."
+                },
+                {
+                    "text": "Prima o poi, ogni Metapod diventa un Butterfree."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La gente pensa che i Pokémon Coleottero siano deboli."
+                },
+                {
+                    "text": "Immagino non abbiano mai visto un Scyther, un Pinsir o un Beedrill..."
+				},
+				{
+					"text": "Devo continuare?"
+                }
+            ]
+        }
+    ]
+}

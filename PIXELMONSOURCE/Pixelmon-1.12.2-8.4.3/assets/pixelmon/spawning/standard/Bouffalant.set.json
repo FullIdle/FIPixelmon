@@ -1,0 +1,27 @@
+{
+  "id": "Bouffalant",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bouffalant"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 46,
+      "maxLevel": 58,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "plains",
+          "savannas"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

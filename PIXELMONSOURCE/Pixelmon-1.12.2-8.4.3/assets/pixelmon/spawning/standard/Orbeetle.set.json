@@ -1,0 +1,33 @@
+{
+  "id": "Orbeetle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Orbeetle"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:psychic_seed",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "Goomy Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Goomy"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_skin",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Sliggoo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 41,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_skin",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Goodra"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 51,
+      "maxLevel": 64,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

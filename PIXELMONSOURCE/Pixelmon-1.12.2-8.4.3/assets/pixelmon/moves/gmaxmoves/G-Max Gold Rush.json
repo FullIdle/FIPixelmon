@@ -1,0 +1,34 @@
+{
+  "attackIndex": 11000,
+  "attackName": "G-Max Gold Rush",
+  "attackType": "Normal",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 10,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "GoldRush"
+    },
+	{
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Smite"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

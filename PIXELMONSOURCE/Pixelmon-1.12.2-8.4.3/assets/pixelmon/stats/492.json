@@ -1,0 +1,312 @@
+{
+  "pixelmonName": "Shaymin",
+  "pokemon": "Shaymin",
+  "form": 0,
+  "stats": {
+    "HP": 100,
+    "Attack": 100,
+    "Defence": 100,
+    "Speed": 100,
+    "SpecialAttack": 100,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 100,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 2.1,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.25,
+    "eye_height": 0.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "NaturalCure",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Growth"
+    ],
+    "10": [
+      "Magical Leaf"
+    ],
+    "19": [
+      "Leech Seed"
+    ],
+    "28": [
+      "Synthesis"
+    ],
+    "37": [
+      "Sweet Scent"
+    ],
+    "46": [
+      "Natural Gift"
+    ],
+    "55": [
+      "Worry Seed"
+    ],
+    "64": [
+      "Aromatherapy"
+    ],
+    "73": [
+      "Energy Ball"
+    ],
+    "82": [
+      "Sweet Kiss"
+    ],
+    "91": [
+      "Healing Wish"
+    ],
+    "100": [
+      "Seed Flare"
+    ]
+  },
+  "tutorMoves": [
+    "Covet",
+    "Earth Power",
+    "Endeavor",
+    "Giga Drain",
+    "Laser Focus",
+    "Last Resort",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Worry Seed",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Air Slash",
+    "Bullet Seed",
+    "Defense Curl",
+    "Endure",
+    "Flash",
+    "Grass Whistle",
+    "Headbutt",
+    "Lucky Chant",
+    "Mud-Slap",
+    "Secret Power",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Swords Dance",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Energy Ball",
+    "Endure",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 100,
+        "Attack": 103,
+        "Defence": 75,
+        "Speed": 127,
+        "SpecialAttack": 120,
+        "SpecialDefence": 75
+      },
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "height": 0.4,
+      "evYields": {
+        "Speed": 3
+      },
+      "weight": 5.2,
+      "bounding_box": {
+        "width": 0.5,
+        "height": 0.5,
+        "eye_height": 0.3
+      },
+      "abilities": [
+        "SereneGrace",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "100": [
+          "Seed Flare"
+        ],
+        "0": [
+          "Growth"
+        ],
+        "10": [
+          "Magical Leaf"
+        ],
+        "19": [
+          "Leech Seed"
+        ],
+        "28": [
+          "Quick Attack"
+        ],
+        "37": [
+          "Sweet Scent"
+        ],
+        "46": [
+          "Natural Gift"
+        ],
+        "55": [
+          "Worry Seed"
+        ],
+        "64": [
+          "Air Slash"
+        ],
+        "73": [
+          "Energy Ball"
+        ],
+        "82": [
+          "Sweet Kiss"
+        ],
+        "91": [
+          "Leaf Storm"
+        ]
+      },
+      "tutorMoves": [
+        "Covet",
+        "Giga Drain",
+        "Laser Focus",
+        "Last Resort",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Tailwind",
+        "Worry Seed",
+        "Zen Headbutt"
+      ]
+    }
+  }
+}

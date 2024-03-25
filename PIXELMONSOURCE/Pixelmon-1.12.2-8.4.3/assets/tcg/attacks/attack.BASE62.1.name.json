@@ -1,0 +1,15 @@
+{
+  "cardCode": "BASE62",
+  "attackNumber": 1,
+  "name": "attack.BASE62.1.name",
+  "energy": [
+    "FIGHTING"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.BASE62.1.text",
+  "effectsString": "SANDATTACK",
+  "effects": [
+    {}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Cosmog",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cosmog",
+        "level": 15
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mutated_plains"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

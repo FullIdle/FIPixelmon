@@ -1,0 +1,149 @@
+{
+  "id": "Horsea Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Horsea"
+      },
+      "stringLocationTypes": [
+        "Old Rod"
+      ],
+      "minLevel": 10,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Horsea"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 20,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Seadra"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 32,
+      "maxLevel": 42,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 7.0
+    },
+    {
+      "spec": {
+        "name": "Seadra"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 35,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 20.0
+    }
+  ]
+}

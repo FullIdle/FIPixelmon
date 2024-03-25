@@ -1,0 +1,41 @@
+{
+  "id": "Snover Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Snover"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing forests",
+          "freezing mountains"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Abomasnow"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 35,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing forests",
+          "freezing mountains"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "id": "Lava Loot",
+  "spawnInfos": [
+    {
+      "stringLocationTypes": [
+        "Old Rod Lava",
+        "Good Rod Lava",
+        "Super Rod Lava"
+      ],
+      "typeID": "collection",
+      "collectionLabel": "spawning.collections.items",
+      "collection": [
+        {
+          "stringLocationTypes": [
+            "Old Rod Lava",
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "NIGHT"
+            ],
+            "stringBiomes": [
+              "roofed_forest",
+              "mutated_roofed_forest"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:dark_gem",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Old Rod Lava",
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "NIGHT"
+            ],
+            "stringBiomes": [
+              "mesas"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:fighting_gem",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Old Rod Lava",
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "stringBiomes": [
+            "savannas"
+          ],
+          "item": {
+            "itemID": "pixelmon:fire_gem",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Old Rod Lava",
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "stringBiomes": [
+            "arid"
+          ],
+          "item": {
+            "itemID": "pixelmon:ground_gem",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Old Rod Lava",
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "stringBiomes": [
+            "taigas"
+          ],
+          "item": {
+            "itemID": "pixelmon:normal_gem",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Old Rod Lava",
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "maxY": 32,
+            "seesSky": false
+          },
+          "item": {
+            "itemID": "pixelmon:rock_gem",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Old Rod Lava",
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "DAY"
+            ],
+            "stringBiomes": [
+              "mesas"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:steel_gem",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "DUSK"
+            ],
+            "stringBiomes": [
+              "roofed_forest",
+              "mutated_roofed_forest"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:dusk_stone_shard"
+          },
+          "minQuantity": 1,
+          "maxQuantity": 2,
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "NIGHT"
+            ],
+            "stringBiomes": [
+              "arid"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:fire_stone_shard"
+          },
+          "minQuantity": 1,
+          "maxQuantity": 2,
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "maxY": 32,
+            "seesSky": false
+          },
+          "item": {
+            "itemID": "pixelmon:moon_stone_shard"
+          },
+          "minQuantity": 1,
+          "maxQuantity": 2,
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "DAWN",
+              "DUSK"
+            ],
+            "stringBiomes": [
+              "mesas"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:shiny_stone_shard"
+          },
+          "minQuantity": 1,
+          "maxQuantity": 2,
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "DAWN"
+            ],
+            "stringBiomes": [
+              "mountainous"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:thunder_stone_shard"
+          },
+          "minQuantity": 1,
+          "maxQuantity": 2,
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "NIGHT"
+            ],
+            "stringBiomes": [
+              "arid"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:fire_stone",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "DAY"
+            ],
+            "stringBiomes": [
+              "savannas"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:heat_rock",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "NIGHT"
+            ],
+            "stringBiomes": [
+              "arid"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:fire_stone",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "maxY": 32,
+            "seesSky": false
+          },
+          "item": {
+            "itemID": "pixelmon:moon_stone",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "DAWN",
+              "DUSK"
+            ],
+            "stringBiomes": [
+              "mesas"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:shiny_stone",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "DUSK"
+            ],
+            "stringBiomes": [
+              "arid"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:smooth_rock",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "times": [
+              "DAWN"
+            ],
+            "stringBiomes": [
+              "mountainous"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:thunder_stone",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Old Rod Lava",
+            "Good Rod Lava",
+            "Super Rod Lava"
+          ],
+          "condition": {
+            "stringBiomes": [
+              "arid"
+            ]
+          },
+          "item": {
+            "itemID": "pixelmon:red_shard",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "percentage": 10
+        }
+      ],
+      "requiredSpace": 2,
+      "percentage": 15
+    }
+  ]
+}

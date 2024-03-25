@@ -1,0 +1,63 @@
+{
+  "id": "Wingull Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wingull"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 2,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:pretty_feather",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Pelipper"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:pretty_feather",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

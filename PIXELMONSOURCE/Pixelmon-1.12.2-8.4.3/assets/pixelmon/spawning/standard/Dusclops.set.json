@@ -1,0 +1,56 @@
+{
+  "id": "Dusclops",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dusclops"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:kasib_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mesa_rock",
+          "mesa_clear_rock",
+          "evil"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Dusclops"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:kasib_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

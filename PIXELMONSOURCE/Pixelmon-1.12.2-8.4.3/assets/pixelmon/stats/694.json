@@ -1,0 +1,246 @@
+{
+  "pixelmonName": "Helioptile",
+  "pokemon": "Helioptile",
+  "form": 0,
+  "stats": {
+    "HP": 44,
+    "Attack": 38,
+    "Defence": 33,
+    "Speed": 70,
+    "SpecialAttack": 61,
+    "SpecialDefence": 43
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 58,
+  "baseFriendship": 0,
+  "types": [
+    "Electric",
+    "Normal"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 6.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.5,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Heliolisk"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "DrySkin",
+    "SandVeil",
+    "SolarPower"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Mud-Slap",
+      "Tail Whip"
+    ],
+    "4": [
+      "Pound"
+    ],
+    "8": [
+      "Thunder Shock"
+    ],
+    "12": [
+      "Quick Attack"
+    ],
+    "16": [
+      "Charge"
+    ],
+    "20": [
+      "Bulldoze"
+    ],
+    "24": [
+      "Volt Switch"
+    ],
+    "28": [
+      "Parabolic Charge"
+    ],
+    "32": [
+      "Thunder Wave"
+    ],
+    "36": [
+      "Thunderbolt"
+    ],
+    "40": [
+      "Electrify"
+    ],
+    "44": [
+      "Thunder"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Dragon Rush",
+    "Dragon Tail",
+    "Glare"
+  ],
+  "transferMoves": [
+    "Camouflage",
+    "Charge Beam",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Magnet Rise",
+    "Psych Up",
+    "Razor Wind",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Surf",
+    "Thunderbolt",
+    "Thunder",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Dark Pulse",
+    "Grass Knot",
+    "Electro Ball",
+    "Ally Switch",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Dig",
+    "Light Screen",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Facade",
+    "Swift",
+    "Rock Tomb",
+    "U-turn",
+    "Low Sweep",
+    "Round",
+    "Volt Switch",
+    "Bulldoze",
+    "Electroweb",
+    "Electric Terrain"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Charge Beam",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Surf",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "forms": {}
+}

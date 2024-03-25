@@ -1,0 +1,413 @@
+{
+  "pixelmonName": "Scizor",
+  "pokemon": "Scizor",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 130,
+    "Defence": 100,
+    "Speed": 65,
+    "SpecialAttack": 55,
+    "SpecialDefence": 80
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 200,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 1.8,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Scyther"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": 0.0
+    }
+  },
+  "weight": 118.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.6,
+    "eye_height": 1.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Technician",
+    "LightMetal"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Agility",
+      "Air Slash",
+      "Bullet Punch",
+      "False Swipe",
+      "Fury Cutter",
+      "Leer",
+      "Quick Attack",
+      "Wing Attack"
+    ],
+    "12": [
+      "Metal Claw"
+    ],
+    "16": [
+      "Double Team"
+    ],
+    "20": [
+      "Double Hit"
+    ],
+    "24": [
+      "Slash"
+    ],
+    "28": [
+      "Focus Energy"
+    ],
+    "32": [
+      "Iron Defense"
+    ],
+    "36": [
+      "Iron Head"
+    ],
+    "40": [
+      "X-Scissor"
+    ],
+    "44": [
+      "Laser Focus"
+    ],
+    "48": [
+      "Swords Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Defog",
+    "Feint",
+    "Night Slash",
+    "Quick Guard"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Bide",
+    "Bug Bite",
+    "Captivate",
+    "Confide",
+    "Curse",
+    "Cut",
+    "Detect",
+    "Double-Edge",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Knock Off",
+    "Mimic",
+    "Morning Sun",
+    "Natural Gift",
+    "Ominous Wind",
+    "Pursuit",
+    "Rage",
+    "Razor Wind",
+    "Return",
+    "Rock Smash",
+    "Roost",
+    "Secret Power",
+    "Silver Wind",
+    "Skull Bash",
+    "Strength",
+    "Struggle Bug",
+    "Swagger",
+    "Tailwind",
+    "Take Down",
+    "Toxic",
+    "Vacuum Wave"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Agility",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Superpower",
+    "Iron Defense",
+    "X-Scissor",
+    "Bug Buzz",
+    "Flash Cannon",
+    "Iron Head"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Steel Wing",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Brick Break",
+    "Sand Tomb",
+    "U-turn",
+    "Assurance",
+    "Fling",
+    "Psycho Cut",
+    "Cross Poison",
+    "Venoshock",
+    "Round",
+    "Acrobatics",
+    "False Swipe",
+    "Air Slash",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "False Swipe",
+    "Fling",
+    "Brutal Swing",
+    "Acrobatics",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "False Swipe",
+    "Fling",
+    "Acrobatics",
+    "Giga Impact",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Acrobatics",
+    "Giga Impact",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing",
+    "Roost",
+    "False Swipe",
+    "Fling",
+    "Endure",
+    "Silver Wind",
+    "Giga Impact",
+    "Swords Dance",
+    "Captivate",
+    "X-Scissor",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Rock Smash",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Hyper Beam",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Sandstorm",
+    "Swift",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing",
+    "Fury Cutter"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 70,
+        "Attack": 150,
+        "Defence": 140,
+        "Speed": 75,
+        "SpecialAttack": 65,
+        "SpecialDefence": 100
+      },
+      "height": 2.0,
+      "weight": 125.0,
+      "abilities": [
+        "Technician",
+        null,
+        null
+      ]
+    }
+  }
+}

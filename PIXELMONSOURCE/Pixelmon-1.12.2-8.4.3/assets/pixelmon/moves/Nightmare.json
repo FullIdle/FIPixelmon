@@ -1,0 +1,49 @@
+{
+  "attackIndex": 199,
+  "attackName": "Nightmare",
+  "attackType": "Ghost",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Nightmare",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Nightmare"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Z-Nightmare",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialAttack",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

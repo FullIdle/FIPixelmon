@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "fireleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "肯恩" 
+    }
+  ],
+  "chat": [
+    {
+      "opening": "你準備好加熱了嗎？",
+      "win": "哈!等你跟我一樣熾熱的時候再回來吧！",
+      "lose": "你只是運氣好，孩子！"
+    }
+  ]
+}

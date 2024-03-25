@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Tetsuo"
+        },
+        {
+            "name": "Neo"
+        },
+        {
+            "name": "Luke"
+        },
+        {
+            "name": "Raz"
+        },
+        {
+            "name": "Nate"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "No, I won't give you a demonstration."
+                },
+                {
+                    "text": "Psychic powers are a gift best used responsibly, not a party trick."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Your mind is full of... woah."
+                },
+                {
+                    "text": "No, never mind, I'll leave you alone, goodbye."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Nothing is impossible to a properly awakened mind."
+                },
+                {
+                    "text": "With a mere thought, I can juggle Poké Balls, which is actually really useless."
+                }
+            ]
+        }
+    ]
+}

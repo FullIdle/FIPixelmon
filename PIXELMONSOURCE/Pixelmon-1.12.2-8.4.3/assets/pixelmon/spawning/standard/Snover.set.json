@@ -1,0 +1,34 @@
+{
+  "id": "Snover",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Snover"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 35,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests",
+          "freezing mountains"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

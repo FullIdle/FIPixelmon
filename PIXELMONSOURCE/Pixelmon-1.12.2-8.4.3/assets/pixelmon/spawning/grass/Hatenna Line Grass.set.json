@@ -1,0 +1,68 @@
+{
+  "id": "Hatenna Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hatenna"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "magical"
+        ]
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Hattrem"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Hatterene"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "magical"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

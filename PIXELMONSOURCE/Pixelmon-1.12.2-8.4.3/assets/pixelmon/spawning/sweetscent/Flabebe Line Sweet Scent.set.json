@@ -1,0 +1,158 @@
+{
+  "id": "Flabebe Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Flabebe"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Floette",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Floette",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Floette",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Floette",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Floette",
+        "form": 4
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Floette",
+        "form": 5
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Florges"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

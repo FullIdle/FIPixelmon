@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:mailbox/mailbox_closed_black" },
+    "facing=north,open=false": { "model": "pixelmon:mailbox/mailbox_closed_black" },
+    "facing=south,open=false": {
+      "model": "pixelmon:mailbox/mailbox_closed_black",
+      "y": 180
+    },
+    "facing=east,open=false": {
+      "model": "pixelmon:mailbox/mailbox_closed_black",
+      "y": 90
+    },
+    "facing=west,open=false": {
+      "model": "pixelmon:mailbox/mailbox_closed_black",
+        "y": 270
+    },
+    "facing=north,open=true": { "model": "pixelmon:mailbox/mailbox_open_black" },
+    "facing=south,open=true": {
+        "model": "pixelmon:mailbox/mailbox_open_black",
+        "y": 180
+    },
+    "facing=east,open=true": {
+        "model": "pixelmon:mailbox/mailbox_open_black",
+        "y": 90
+    },
+    "facing=west,open=true": {
+        "model": "pixelmon:mailbox/mailbox_open_black",
+        "y": 270
+    }
+  }
+}

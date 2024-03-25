@@ -1,0 +1,61 @@
+{
+  "attackIndex": 170,
+  "attackName": "Dream Eater",
+  "attackType": "Psychic",
+  "attackCategory": "SPECIAL",
+  "basePower": 100,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "drainPercent": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "DreamEater"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 0.4
+			},
+			"15": {
+				"id": "beam",
+				"inverted": true,
+				"scale": 0.4,
+				"texture": "NORMAL",
+				"speed": 0.35
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Shattered Psyche",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

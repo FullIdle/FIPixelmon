@@ -1,0 +1,15 @@
+[
+  {
+    "name": "POKEBALL_BASE",
+    "ingredient": [
+      {
+        "item": "pixelmon:iron_base",
+        "data": 0
+      },
+      {
+        "item": "pixelmon:aluminum_base",
+        "data": 0
+      }
+    ]
+  }
+]

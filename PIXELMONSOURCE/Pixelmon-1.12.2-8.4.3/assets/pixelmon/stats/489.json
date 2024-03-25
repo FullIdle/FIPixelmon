@@ -1,0 +1,220 @@
+{
+  "pixelmonName": "Phione",
+  "pokemon": "Phione",
+  "form": 0,
+  "stats": {
+    "HP": 80,
+    "Attack": 80,
+    "Defence": 80,
+    "Speed": 80,
+    "SpecialAttack": 80,
+    "SpecialDefence": 80
+  },
+  "catchRate": 30,
+  "malePercent": -1,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 3.1,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 1.1,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Hydration",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Fairy"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Bubble",
+      "Water Sport"
+    ],
+    "9": [
+      "Charm"
+    ],
+    "16": [
+      "Supersonic"
+    ],
+    "24": [
+      "Bubble Beam"
+    ],
+    "31": [
+      "Acid Armor"
+    ],
+    "39": [
+      "Whirlpool"
+    ],
+    "46": [
+      "Water Pulse"
+    ],
+    "54": [
+      "Aqua Ring"
+    ],
+    "61": [
+      "Dive"
+    ],
+    "69": [
+      "Rain Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Icy Wind",
+    "Knock Off",
+    "Last Resort",
+    "Liquidation",
+    "Signal Beam",
+    "Snore",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Ancient Power",
+    "Brine",
+    "Endure",
+    "Mud-Slap",
+    "Natural Gift",
+    "Secret Power",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Scald",
+    "Fling",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Scald",
+    "Fling",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Scald",
+    "Fling",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Brine",
+    "Fling",
+    "Endure",
+    "Psych Up",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "forms": {}
+}

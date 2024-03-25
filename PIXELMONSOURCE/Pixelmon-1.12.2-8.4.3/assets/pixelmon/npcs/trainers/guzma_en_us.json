@@ -1,0 +1,75 @@
+{
+    "data": {
+        "trainerType": "Bosses",
+        "minLevel": 40,
+        "maxLevel": 60,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 100
+    },
+    "models":[
+        {
+            "name": "guzma"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Golisopod"
+        },
+        {
+            "name": "Ariados"
+        },
+        {
+            "name": "Masquerain"
+        },
+        {
+            "name": "Pinsir"
+        },
+        {
+            "name": "Scizor"
+        },
+        {
+            "name": "Vikavolt"
+        },
+        {
+            "name": "Honchkrow"
+        },
+        {
+            "name": "Toxicroak"
+        },
+        {
+            "name": "Liepard"
+        },
+        {
+            "name": "Bisharp"
+        },
+        {
+            "name": "Toxapex"
+        },
+        {
+            "name": "Genesect"
+        }
+    ],
+    "names": [
+        {
+            "name": "Guzma"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "The hated boss who beats you down physically and mentally. Yeah, that's right, Big Bad Guzma is here!",
+            "win": "I'll be happy to beat you anytime!",
+            "lose": "I see. Great work...I guess."
+        },
+        {
+            "opening": "It's not every day someone comes straight to me for a beating!",
+            "win": "Can't you just watch out for your own Pokemon and stay out of other people's business?",
+            "lose": "I'm gonna beat you down one of these days!"
+        },
+        {
+            "opening": "You keep getting up in my grill, like a cloud of smoke I can't brush away. It's time I put out your fire at the source!",
+            "win": "Yo, you just got burned!",
+            "lose": "I got too close to the fire, and I was burned!"
+        }
+    ]
+}

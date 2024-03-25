@@ -1,0 +1,39 @@
+{
+  "attackIndex": 251,
+  "attackName": "Acrobatics",
+  "attackType": "Flying",
+  "attackCategory": "PHYSICAL",
+  "basePower": 55,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Acrobatics"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Supersonic Skystrike",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

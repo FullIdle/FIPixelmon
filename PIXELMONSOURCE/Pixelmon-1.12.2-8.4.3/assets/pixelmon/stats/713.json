@@ -1,0 +1,361 @@
+{
+  "pixelmonName": "Avalugg",
+  "pokemon": "Avalugg",
+  "form": 0,
+  "stats": {
+    "HP": 95,
+    "Attack": 117,
+    "Defence": 184,
+    "Speed": 28,
+    "SpecialAttack": 44,
+    "SpecialDefence": 46
+  },
+  "catchRate": 55,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 11,
+  "baseExp": 180,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Bergmite"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.03,
+      "z": -0.24
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.03,
+      "z": -0.24
+    }
+  },
+  "weight": 505.0,
+  "bounding_box": {
+    "width": 2.4,
+    "height": 1.2,
+    "eye_height": 1.15
+  },
+  "evolutions": [],
+  "abilities": [
+    "OwnTempo",
+    "IceBody",
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Body Slam",
+      "Harden",
+      "Powder Snow",
+      "Rapid Spin",
+      "Tackle",
+      "Wide Guard"
+    ],
+    "9": [
+      "Curse"
+    ],
+    "12": [
+      "Icy Wind"
+    ],
+    "15": [
+      "Protect"
+    ],
+    "18": [
+      "Avalanche"
+    ],
+    "21": [
+      "Bite"
+    ],
+    "24": [
+      "Ice Fang"
+    ],
+    "27": [
+      "Iron Defense"
+    ],
+    "30": [
+      "Recover"
+    ],
+    "33": [
+      "Crunch"
+    ],
+    "36": [
+      "Take Down"
+    ],
+    "41": [
+      "Blizzard"
+    ],
+    "46": [
+      "Double-Edge"
+    ],
+    "51": [
+      "Skull Bash"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Aurora Veil",
+    "Mirror Coat",
+    "Mist"
+  ],
+  "transferMoves": [
+    "After You",
+    "Barrier",
+    "Block",
+    "Confide",
+    "Double Team",
+    "Flash",
+    "Frost Breath",
+    "Frustration",
+    "Hidden Power",
+    "Ice Ball",
+    "Return",
+    "Roar",
+    "Rock Polish",
+    "Rock Smash",
+    "Secret Power",
+    "Sharpen",
+    "Strength",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Earthquake",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Superpower",
+    "Iron Defense",
+    "Gyro Ball",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Heavy Slam",
+    "High Horsepower",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Rock Tomb",
+    "Icicle Spear",
+    "Avalanche",
+    "Ice Fang",
+    "Round",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {
+    "3": {
+      "form": 3,
+      "stats": {
+        "HP": 95,
+        "Attack": 127,
+        "Defence": 184,
+        "SpecialAttack": 34,
+        "SpecialDefence": 36,
+        "Speed": 38
+      },
+      "baseFriendship": 70,
+      "types": [
+        "Ice",
+        "Rock"
+      ],
+      "height": 1.4,
+      "isRideable": true,
+      "canFly": false,
+      "canSurf": false,
+      "experienceGroup": "MediumFast",
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.03,
+          "z": -0.24
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.03,
+          "z": -0.24
+        }
+      },
+      "weight": 262.4,
+      "bounding_box": {
+        "width": 2.4,
+        "height": 1.2,
+        "eye_height": 1.15
+      },
+      "evolutions": [],
+      "abilities": [
+        "StrongJaw",
+        "IceBody",
+        "Sturdy"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Tackle"
+        ],
+        "5": [
+          "Powder Snow"
+        ],
+        "9": [
+          "Ice Shard"
+        ],
+        "15": [
+          "Bite"
+        ],
+        "21": [
+          "Iron Defense"
+        ],
+        "29": [
+          "Crunch",
+          "Earth Power"
+        ],
+        "37": [
+          "Mountain Gale",
+          "Blizzard"
+        ],
+        "47": [
+          "Double-Edge"
+        ]
+      },
+      "tutorMoves": [
+        "Ice Fang",
+        "Ice Ball",
+        "Rock Smash",
+        "Bulldoze",
+        "Stealth Rock",
+        "Power Shift",
+        "Rest",
+        "Rock Slide",
+        "Iron Head",
+        "Water Pulse",
+        "Icy Wind",
+        "Earth Power",
+        "Flash Cannon",
+        "Giga Impact",
+        "High Horse",
+        "Stone Edge",
+        "Hyper Beam",
+        "Ice Beam"
+      ],
+      "eggMoves": [],
+      "transferMoves": [],
+      "hmMoves": [],
+      "trMoves": [],
+      "tmMoves8": [],
+      "tmMoves7": [],
+      "tmMoves6": []
+    }
+  }
+}

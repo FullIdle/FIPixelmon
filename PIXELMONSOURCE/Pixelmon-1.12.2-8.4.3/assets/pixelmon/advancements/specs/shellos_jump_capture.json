@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/422-moons\"}"
+		},
+		"title": {
+			"translate": "advancements.shellos_jump.title"
+		},
+		"description": {
+			"translate": "advancements.shellos_jump.description"
+		},
+		"hidden": true
+	},
+    "parent" : "pixelmon:specs/spec_trigger",
+	"criteria": {
+		"shellos_jump_spec_trigger": {
+			"trigger": "pixelmon:spec_trigger",
+			"conditions" : {
+				"spec" : "f:!0 Shellos"
+			}
+		}
+	}
+}

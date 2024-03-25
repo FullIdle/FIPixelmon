@@ -1,0 +1,47 @@
+{
+  "attackIndex": 103,
+  "attackName": "Hydro Pump",
+  "attackType": "Water",
+  "attackCategory": "SPECIAL",
+  "basePower": 110,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 80,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 128, 255],
+				"scale": 0.6,
+				"segments": 30,
+				"power": 90,
+				"speed": 0.6,
+				"variation": 0.7
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
+      "basePower": 185,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

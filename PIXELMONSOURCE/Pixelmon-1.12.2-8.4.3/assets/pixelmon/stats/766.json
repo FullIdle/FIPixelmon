@@ -1,0 +1,236 @@
+{
+  "pixelmonName": "Passimian",
+  "pokemon": "Passimian",
+  "form": -1,
+  "stats": {
+    "HP": 100,
+    "Attack": 120,
+    "Defence": 90,
+    "Speed": 80,
+    "SpecialAttack": 40,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 35,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 1.1,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.15
+    }
+  },
+  "weight": 82.8,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 0.9,
+    "eye_height": 0.65
+  },
+  "evolutions": [],
+  "abilities": [
+    "Receiver",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Tackle"
+    ],
+    "5": [
+      "Rock Smash"
+    ],
+    "10": [
+      "Focus Energy"
+    ],
+    "15": [
+      "Beat Up"
+    ],
+    "20": [
+      "Scary Face"
+    ],
+    "25": [
+      "Take Down"
+    ],
+    "30": [
+      "Fling"
+    ],
+    "35": [
+      "Bulk Up"
+    ],
+    "40": [
+      "Thrash"
+    ],
+    "45": [
+      "Double-Edge"
+    ],
+    "50": [
+      "Close Combat"
+    ],
+    "55": [
+      "Reversal"
+    ],
+    "60": [
+      "Giga Impact"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Feint",
+    "Knock Off",
+    "Quick Attack",
+    "Quick Guard",
+    "Seismic Toss",
+    "Vital Throw"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Bestow",
+    "Block",
+    "Confide",
+    "Double Team",
+    "Endeavor",
+    "Focus Punch",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Return",
+    "Shock Wave",
+    "Smack Down",
+    "Snatch",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Uproar",
+    "Taunt",
+    "Superpower",
+    "Bulk Up",
+    "Gyro Ball",
+    "Close Combat",
+    "Seed Bomb",
+    "Focus Blast",
+    "Energy Ball",
+    "Gunk Shot",
+    "Iron Head",
+    "Grass Knot",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Beat Up",
+    "Facade",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Drain Punch",
+    "Low Sweep",
+    "Round",
+    "Acrobatics",
+    "Retaliate",
+    "Bulldoze",
+    "Electroweb",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Brutal Swing",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

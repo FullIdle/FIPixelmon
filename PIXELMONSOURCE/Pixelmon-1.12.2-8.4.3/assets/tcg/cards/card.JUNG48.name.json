@@ -1,0 +1,58 @@
+{
+  "id": 150,
+  "setId": 2,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 70,
+  "code": "JUNG48",
+  "name": "card.JUNG48.name",
+  "description": "",
+  "previousPokemonId": 69,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG48",
+      "attackNumber": 1,
+      "name": "attack.JUNG48.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.JUNG48.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:POISONED"
+      ]
+    },
+    {
+      "cardCode": "JUNG48",
+      "attackNumber": 2,
+      "name": "attack.JUNG48.2.name",
+      "energy": [
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

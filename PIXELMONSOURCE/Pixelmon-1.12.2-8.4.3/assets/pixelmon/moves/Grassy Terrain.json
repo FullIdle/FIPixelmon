@@ -1,0 +1,51 @@
+{
+  "attackIndex": 583,
+  "attackName": "Grassy Terrain",
+  "attackType": "Grass",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "langStart": "pixelmon.status.grassyterrain",
+      "langEnd": "pixelmon.status.grassyterrainend",
+      "type": "GrassyTerrain",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "GrassyTerrain"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Z-Grassy Terrain",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Defence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

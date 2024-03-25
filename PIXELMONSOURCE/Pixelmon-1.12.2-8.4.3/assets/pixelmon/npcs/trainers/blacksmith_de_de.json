@@ -1,0 +1,88 @@
+{
+    "data": {
+        "trainerType": "Blacksmith",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Magneton"
+        },
+        {
+            "name": "Aron"
+        },
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Scizor"
+        },
+        {
+            "name": "Metang"
+        },
+        {
+            "name": "Lairon"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bazza"
+        },
+        {
+            "name": "Garth"
+        },
+        {
+            "name": "Rusty"
+        },
+        {
+            "name": "Atsushi"
+        },
+        {
+            "name": "Rarth"
+        },
+        {
+            "name": "Tibo"
+        },
+        {
+            "name": "Henry"
+        },
+        {
+            "name": "Bart"
+        },
+        {
+            "name": "Mikio"
+        },
+        {
+            "name": "Bartholomew"
+        },
+        {
+            "name": "Gunther"
+        },
+        {
+            "name": "Lars"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Du willst es wirklich wagen einen Stahl Trainer herauszufordern?",
+            "win": "Du hast es gewagt und Verloren!",
+            "lose": "Du hast es gewagt und es hat sich gelohnt.."
+        },
+        {
+            "opening": "Ich werde nicht umsonst Mann aus Stahl genannt! Sei bereit, hier komm ich!",
+            "win": "Stahl ist und bleibt unbesiegbar!",
+            "lose": "Stahl ist wohl doch nicht übermächtig.."
+        },
+        {
+            "opening": "Meine Pokemon wurden hart Trainiert! Sie sind unbesiegbar!",
+            "win": "Ich hab hab dich gewarnt!",
+            "lose": "Ich bin nicht so unbesiegbar wie ich dachte.."
+        }
+    ]
+}

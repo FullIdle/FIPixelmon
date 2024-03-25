@@ -1,0 +1,56 @@
+{
+  "id": "Vanillite Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vanillite"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Vanillish"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 7.0
+    },
+    {
+      "spec": {
+        "name": "Vanilluxe"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

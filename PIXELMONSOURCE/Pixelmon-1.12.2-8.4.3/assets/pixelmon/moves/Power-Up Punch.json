@@ -1,0 +1,42 @@
+{
+  "attackIndex": 610,
+  "attackName": "Power-Up Punch",
+  "attackType": "Fighting",
+  "attackCategory": "PHYSICAL",
+  "basePower": 40,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Attack",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fightinium_z",
+      "attackName": "All-Out Pummeling",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

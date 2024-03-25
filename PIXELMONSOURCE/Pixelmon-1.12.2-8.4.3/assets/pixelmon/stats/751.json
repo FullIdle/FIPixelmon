@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Dewpider",
+  "pokemon": "Dewpider",
+  "form": -1,
+  "stats": {
+    "HP": 38,
+    "Attack": 40,
+    "Defence": 52,
+    "Speed": 27,
+    "SpecialAttack": 40,
+    "SpecialDefence": 72
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 8,
+  "spawnLevelRange": 25,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Bug"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 4.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.65,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Araquanid"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterBubble",
+    null,
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Infestation",
+      "Water Gun"
+    ],
+    "4": [
+      "Bug Bite"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "12": [
+      "Bubble Beam"
+    ],
+    "16": [
+      "Aqua Ring"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "28": [
+      "Soak"
+    ],
+    "32": [
+      "Entrainment"
+    ],
+    "36": [
+      "Lunge"
+    ],
+    "40": [
+      "Liquidation"
+    ],
+    "44": [
+      "Leech Life"
+    ],
+    "48": [
+      "Mirror Coat"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Power Split",
+    "Spit Up",
+    "Sticky Web",
+    "Stockpile"
+  ],
+  "transferMoves": [
+    "Aurora Beam",
+    "Bubble",
+    "Confide",
+    "Double Team",
+    "Frost Breath",
+    "Frustration",
+    "Hidden Power",
+    "Magic Coat",
+    "Return",
+    "Signal Beam",
+    "Spider Web",
+    "Swagger",
+    "Toxic",
+    "Water Pulse",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Waterfall",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Iron Defense",
+    "Poison Jab",
+    "X-Scissor",
+    "Bug Buzz",
+    "Scald",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Wonder Room",
+    "Magic Room",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Frost Breath",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "forms": {}
+}

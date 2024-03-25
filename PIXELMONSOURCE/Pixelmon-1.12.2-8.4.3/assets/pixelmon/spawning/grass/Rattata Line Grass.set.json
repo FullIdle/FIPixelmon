@@ -1,0 +1,103 @@
+{
+  "id": "Rattata Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rattata",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 2,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "forests"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Rattata",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 2,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Raticate",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "forests"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Raticate",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

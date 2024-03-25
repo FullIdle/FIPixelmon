@@ -1,0 +1,322 @@
+{
+  "pixelmonName": "Carvanha",
+  "pokemon": "Carvanha",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 90,
+    "Defence": 20,
+    "Speed": 65,
+    "SpecialAttack": 65,
+    "SpecialDefence": 20
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 88,
+  "baseFriendship": 35,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 1,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.0,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 20.8,
+  "bounding_box": {
+    "width": 0.9,
+    "height": 1.3,
+    "eye_height": 0.8
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Sharpedo"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Slash"
+      ]
+    }
+  ],
+  "abilities": [
+    "RoughSkin",
+    null,
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Aqua Jet",
+      "Leer"
+    ],
+    "4": [
+      "Poison Fang"
+    ],
+    "8": [
+      "Focus Energy"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Ice Fang"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Swagger"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Agility"
+    ],
+    "40": [
+      "Liquidation"
+    ],
+    "44": [
+      "Take Down"
+    ]
+  },
+  "tutorMoves": [
+    "Flip Turn",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Destiny Bond",
+    "Double-Edge",
+    "Thrash",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Fury Cutter",
+    "Hidden Power",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Rage",
+    "Refresh",
+    "Return",
+    "Secret Power",
+    "Spite",
+    "Super Fang",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Agility",
+    "Focus Energy",
+    "Waterfall",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Uproar",
+    "Taunt",
+    "Dark Pulse",
+    "Zen Headbutt",
+    "Scald",
+    "Psychic Fangs",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Dive",
+    "Bounce",
+    "Brine",
+    "Payback",
+    "Assurance",
+    "Ice Fang",
+    "Round",
+    "Retaliate",
+    "Snarl"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Payback",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Snarl",
+    "Dark Pulse",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Payback",
+    "Retaliate",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Payback",
+    "Retaliate",
+    "Swagger",
+    "Substitute",
+    "Snarl"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Brine",
+    "Endure",
+    "Payback",
+    "Captivate",
+    "Dark Pulse",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "forms": {}
+}

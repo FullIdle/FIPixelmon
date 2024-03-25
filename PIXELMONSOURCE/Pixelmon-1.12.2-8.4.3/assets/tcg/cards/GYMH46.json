@@ -1,0 +1,65 @@
+{
+  "id": 367,
+  "setId": 6,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 90,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 76,
+  "code": "GYMH46",
+  "name": "card.GYMH46.name",
+  "description": "",
+  "previousPokemonId": 75,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH46",
+      "attackNumber": 1,
+      "name": "attack.GYMH46.1.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH46.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH46",
+      "attackNumber": 2,
+      "name": "attack.GYMH46.2.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 50,
+      "modifier": null,
+      "text": "attack.GYMH46.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 4,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

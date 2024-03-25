@@ -1,0 +1,47 @@
+{
+  "attackIndex": 39,
+  "attackName": "Rock Smash",
+  "attackType": "Fighting",
+  "attackCategory": "PHYSICAL",
+  "basePower": 40,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Defence",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 50.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fightinium_z",
+      "attackName": "All-Out Pummeling",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

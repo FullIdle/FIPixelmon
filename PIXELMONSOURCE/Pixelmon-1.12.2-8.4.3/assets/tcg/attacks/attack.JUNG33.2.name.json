@@ -1,0 +1,21 @@
+{
+  "cardCode": "JUNG33",
+  "attackNumber": 2,
+  "name": "attack.JUNG33.2.name",
+  "energy": [
+    "GRASS",
+    "GRASS",
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 40,
+  "modifier": null,
+  "text": "attack.JUNG33.2.text",
+  "effectsString": "LEECHSEED:HALF_DAMAGE",
+  "effects": [
+    {
+      "type": "HalfDamage",
+      "healAmount": 0
+    }
+  ]
+}

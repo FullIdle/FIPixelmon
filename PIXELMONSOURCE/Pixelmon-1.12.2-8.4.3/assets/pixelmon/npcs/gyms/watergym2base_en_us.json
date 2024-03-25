@@ -1,0 +1,31 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "swimmer_m1.png"
+    },
+	{
+      "filename": "swimmer_m2.png"
+    },
+	{
+      "filename": "swimmer_f1.png"
+    },
+	{
+      "filename": "swimmer_f2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Swimmer"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "The water here is so refreshing!",
+      "win": "Was the water too intense for you?",
+      "lose": "Ugh! I need to swim to cool down..."
+    }
+  ]
+}

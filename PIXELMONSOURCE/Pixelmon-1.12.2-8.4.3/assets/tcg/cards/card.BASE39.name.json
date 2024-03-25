@@ -1,0 +1,59 @@
+{
+  "id": 39,
+  "setId": 1,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 30,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 137,
+  "code": "BASE39",
+  "name": "card.BASE39.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE39",
+      "attackNumber": 1,
+      "name": "attack.BASE39.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.BASE39.1.text",
+      "effects": [
+        "CHANGE_WEAKNESS:OPP"
+      ]
+    },
+    {
+      "cardCode": "BASE39",
+      "attackNumber": 2,
+      "name": "attack.BASE39.2.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.BASE39.2.text",
+      "effects": [
+        "CHANGE_RESISTANCE:SELF"
+      ]
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

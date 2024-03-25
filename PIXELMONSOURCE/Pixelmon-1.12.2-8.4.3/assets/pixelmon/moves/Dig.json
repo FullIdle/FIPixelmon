@@ -1,0 +1,42 @@
+{
+  "attackIndex": 127,
+  "attackName": "Dig",
+  "attackType": "Ground",
+  "attackCategory": "PHYSICAL",
+  "basePower": 80,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "message": "pixelmon.effect.dighole",
+      "base": "UnderGround",
+      "type": "UnderGround",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "Dig"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "groundium_z",
+      "attackName": "Tectonic Rage",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "Starly",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Starly"
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "savannas"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Starly"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "savannas"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

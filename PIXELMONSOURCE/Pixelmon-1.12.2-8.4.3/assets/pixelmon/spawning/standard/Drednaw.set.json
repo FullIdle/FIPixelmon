@@ -1,0 +1,24 @@
+{
+  "id": "Drednaw",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Drednaw"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

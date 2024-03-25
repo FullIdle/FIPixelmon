@@ -1,0 +1,24 @@
+{
+    "display" : {
+        "icon" : {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/244\"}"
+        },
+        "title" : {
+            "translate" : "advancements.entei_capture.title"
+        },
+        "description" : {
+            "translate" : "advancements.entei_capture.description"
+        },
+        "hidden": true
+    },
+    "parent" : "pixelmon:legendaries/legendary_capture_trigger",
+    "criteria" : {
+        "entei_capture" : {
+            "trigger" : "pixelmon:legendary_capture_trigger",
+            "conditions" : {
+                "pokemon" : "entei"
+            }
+        }
+    }
+}

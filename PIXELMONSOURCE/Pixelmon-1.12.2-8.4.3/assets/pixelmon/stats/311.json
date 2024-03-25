@@ -1,0 +1,287 @@
+{
+  "pixelmonName": "Plusle",
+  "pokemon": "Plusle",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 95,
+    "SpecialAttack": 85,
+    "SpecialDefence": 75
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 120,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.2,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.6,
+    "eye_height": 0.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "Plus",
+    null,
+    "LightningRod"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Nuzzle",
+      "Play Nice",
+      "Quick Attack",
+      "Thunder Wave"
+    ],
+    "4": [
+      "Helping Hand"
+    ],
+    "7": [
+      "Spark"
+    ],
+    "10": [
+      "Encore"
+    ],
+    "13": [
+      "Bestow"
+    ],
+    "16": [
+      "Swift"
+    ],
+    "19": [
+      "Electro Ball"
+    ],
+    "22": [
+      "Copycat"
+    ],
+    "25": [
+      "Charm"
+    ],
+    "28": [
+      "Charge"
+    ],
+    "31": [
+      "Discharge"
+    ],
+    "34": [
+      "Baton Pass"
+    ],
+    "37": [
+      "Agility"
+    ],
+    "40": [
+      "Last Resort"
+    ],
+    "43": [
+      "Thunder"
+    ],
+    "46": [
+      "Nasty Plot"
+    ],
+    "49": [
+      "Entrainment"
+    ]
+  },
+  "tutorMoves": [
+    "Covet",
+    "Electroweb",
+    "Helping Hand",
+    "Iron Tail",
+    "Last Resort",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Thunder Punch",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Discharge",
+    "Fake Tears",
+    "Lucky Chant",
+    "Sing",
+    "Sweet Kiss",
+    "Tearful Look",
+    "Wish"
+  ],
+  "transferMoves": [
+    "Body Slam",
+    "Captivate",
+    "Counter",
+    "Defense Curl",
+    "Double-Edge",
+    "Dynamic Punch",
+    "Endure",
+    "Flash",
+    "Headbutt",
+    "Mega Kick",
+    "Mega Punch",
+    "Metronome",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Rollout",
+    "Secret Power",
+    "Seismic Toss",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Flash",
+    "Thunder Wave",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,80 @@
+package com.pixelmonmod.tcg.network;
+
+import com.pixelmonmod.tcg.network.packets.BattleSpectatorUpdatePacket;
+import com.pixelmonmod.tcg.network.packets.CardBackSyncPacket;
+import com.pixelmonmod.tcg.network.packets.CardSyncPacket;
+import com.pixelmonmod.tcg.network.packets.CoinSyncPacket;
+import com.pixelmonmod.tcg.network.packets.DisenchantPacket;
+import com.pixelmonmod.tcg.network.packets.EssencePurchasePacket;
+import com.pixelmonmod.tcg.network.packets.EssenceSyncPacket;
+import com.pixelmonmod.tcg.network.packets.EssenceSyncRequestPacket;
+import com.pixelmonmod.tcg.network.packets.GenericGUIPacket;
+import com.pixelmonmod.tcg.network.packets.OpenBinderPacket;
+import com.pixelmonmod.tcg.network.packets.OpenPackGuiPacket;
+import com.pixelmonmod.tcg.network.packets.OpenPackPacket;
+import com.pixelmonmod.tcg.network.packets.PackSyncPacket;
+import com.pixelmonmod.tcg.network.packets.PrinterStartPacket;
+import com.pixelmonmod.tcg.network.packets.PrinterSyncPacket;
+import com.pixelmonmod.tcg.network.packets.RulebookUpdatePacket;
+import com.pixelmonmod.tcg.network.packets.battles.CardSelectorToServerPacket;
+import com.pixelmonmod.tcg.network.packets.battles.CoinFlipAckPacket;
+import com.pixelmonmod.tcg.network.packets.battles.CustomGUIChoiceToServerPacket;
+import com.pixelmonmod.tcg.network.packets.battles.EndGamePacket;
+import com.pixelmonmod.tcg.network.packets.battles.ForceEndBattlePacket;
+import com.pixelmonmod.tcg.network.packets.battles.GameStateSyncPacket;
+import com.pixelmonmod.tcg.network.packets.battles.GenericActionRequestPacket;
+import com.pixelmonmod.tcg.network.packets.battles.PrizeSelectorToClientPacket;
+import com.pixelmonmod.tcg.network.packets.battles.PrizeSelectorToServerPacket;
+import com.pixelmonmod.tcg.network.packets.battles.RenderStatePreBattleSyncPacket;
+import com.pixelmonmod.tcg.network.packets.battles.RenderStateSyncPacket;
+import com.pixelmonmod.tcg.network.packets.battles.RetreatAndSwitchPacket;
+import com.pixelmonmod.tcg.network.packets.battles.ShowOpponentCardPacket;
+import com.pixelmonmod.tcg.network.packets.battles.SwitchPacket;
+import com.pixelmonmod.tcg.network.packets.battles.TCGGuiClientPacket;
+import com.pixelmonmod.tcg.network.packets.battles.TrainerPlayedPacket;
+import com.pixelmonmod.tcg.network.packets.battles.UpdateServerCardRecordPacket;
+import net.minecraftforge.fml.common.network.NetworkRegistry;
+import net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper;
+import net.minecraftforge.fml.relauncher.Side;
+
+public class PacketHandler {
+   public static SimpleNetworkWrapper net;
+
+   public static void initPackets() {
+      int index = 0;
+      net = NetworkRegistry.INSTANCE.newSimpleChannel("tcg");
+      net.registerMessage(CardSyncPacket.Handler.class, CardSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(CardBackSyncPacket.Handler.class, CardBackSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(CoinSyncPacket.Handler.class, CoinSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(EssenceSyncPacket.Handler.class, EssenceSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(EssencePurchasePacket.Handler.class, EssencePurchasePacket.class, index++, Side.SERVER);
+      net.registerMessage(EssenceSyncRequestPacket.Handler.class, EssenceSyncRequestPacket.class, index++, Side.SERVER);
+      net.registerMessage(OpenPackPacket.Handler.class, OpenPackPacket.class, index++, Side.SERVER);
+      net.registerMessage(OpenPackGuiPacket.Handler.class, OpenPackGuiPacket.class, index++, Side.CLIENT);
+      net.registerMessage(PackSyncPacket.Handler.class, PackSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(GenericGUIPacket.Handler.class, GenericGUIPacket.class, index++, Side.SERVER);
+      net.registerMessage(OpenBinderPacket.Handler.class, OpenBinderPacket.class, index++, Side.SERVER);
+      net.registerMessage(GenericActionRequestPacket.Handler.class, GenericActionRequestPacket.class, index++, Side.SERVER);
+      net.registerMessage(GameStateSyncPacket.Handler.class, GameStateSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(TCGGuiClientPacket.Handler.class, TCGGuiClientPacket.class, index++, Side.CLIENT);
+      net.registerMessage(RenderStateSyncPacket.Handler.class, RenderStateSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(RenderStatePreBattleSyncPacket.Handler.class, RenderStatePreBattleSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(EndGamePacket.Handler.class, EndGamePacket.class, index++, Side.CLIENT);
+      net.registerMessage(TrainerPlayedPacket.Handler.class, TrainerPlayedPacket.class, index++, Side.CLIENT);
+      net.registerMessage(CardSelectorToServerPacket.Handler.class, CardSelectorToServerPacket.class, index++, Side.SERVER);
+      net.registerMessage(PrizeSelectorToServerPacket.Handler.class, PrizeSelectorToServerPacket.class, index++, Side.SERVER);
+      net.registerMessage(PrizeSelectorToClientPacket.Handler.class, PrizeSelectorToClientPacket.class, index++, Side.CLIENT);
+      net.registerMessage(RetreatAndSwitchPacket.Handler.class, RetreatAndSwitchPacket.class, index++, Side.SERVER);
+      net.registerMessage(SwitchPacket.Handler.class, SwitchPacket.class, index++, Side.SERVER);
+      net.registerMessage(CoinFlipAckPacket.Handler.class, CoinFlipAckPacket.class, index++, Side.SERVER);
+      net.registerMessage(CustomGUIChoiceToServerPacket.Handler.class, CustomGUIChoiceToServerPacket.class, index++, Side.SERVER);
+      net.registerMessage(ForceEndBattlePacket.Handler.class, ForceEndBattlePacket.class, index++, Side.SERVER);
+      net.registerMessage(UpdateServerCardRecordPacket.Handler.class, UpdateServerCardRecordPacket.class, index++, Side.SERVER);
+      net.registerMessage(PrinterStartPacket.Handler.class, PrinterStartPacket.class, index++, Side.SERVER);
+      net.registerMessage(RulebookUpdatePacket.Handler.class, RulebookUpdatePacket.class, index++, Side.SERVER);
+      net.registerMessage(BattleSpectatorUpdatePacket.Handler.class, BattleSpectatorUpdatePacket.class, index++, Side.SERVER);
+      net.registerMessage(PrinterSyncPacket.Handler.class, PrinterSyncPacket.class, index++, Side.CLIENT);
+      net.registerMessage(DisenchantPacket.Handler.class, DisenchantPacket.class, index++, Side.SERVER);
+      net.registerMessage(ShowOpponentCardPacket.Handler.class, ShowOpponentCardPacket.class, index++, Side.SERVER);
+   }
+}

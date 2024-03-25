@@ -1,0 +1,15 @@
+{
+  "cardCode": "BASE6",
+  "attackNumber": 1,
+  "name": "attack.BASE6.1.name",
+  "energy": [
+    "WATER",
+    "WATER",
+    "WATER"
+  ],
+  "damage": 50,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

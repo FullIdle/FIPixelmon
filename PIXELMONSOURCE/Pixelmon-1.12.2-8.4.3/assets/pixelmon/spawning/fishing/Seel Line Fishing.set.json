@@ -1,0 +1,105 @@
+{
+  "id": "Seel Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Seel"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 10,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Seel"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 70.0
+    },
+    {
+      "spec": {
+        "name": "Dewgong"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 34,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Dewgong"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 37,
+      "maxLevel": 52,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

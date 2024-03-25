@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CGC",
+    "G G",
+    "CGC"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "type": "forge:ore_dict",
+      "ore": "gemCrystal"
+    }
+  },
+  "result": {
+    "item": "pixelmon:lure_casing_strong",
+    "count": 1
+  }
+}

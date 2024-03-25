@@ -1,0 +1,16 @@
+{
+  "cardCode": "GYMC99",
+  "attackNumber": 2,
+  "name": "attack.GYMC99.2.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 40,
+  "modifier": null,
+  "text": "attack.GYMC99.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "attackIndex": 675,
+  "attackName": "Plasma Fists",
+  "attackType": "Electric",
+  "attackCategory": "PHYSICAL",
+  "basePower": 100,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "IonDeluge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IonDeluge"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "electrium_z",
+      "attackName": "Gigavolt Havoc",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

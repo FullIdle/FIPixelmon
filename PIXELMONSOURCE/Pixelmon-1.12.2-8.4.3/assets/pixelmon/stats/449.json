@@ -1,0 +1,283 @@
+{
+  "pixelmonName": "Hippopotas",
+  "pokemon": "Hippopotas",
+  "form": 0,
+  "stats": {
+    "HP": 68,
+    "Attack": 72,
+    "Defence": 78,
+    "Speed": 32,
+    "SpecialAttack": 38,
+    "SpecialDefence": 42
+  },
+  "catchRate": 140,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 11,
+  "baseExp": 95,
+  "baseFriendship": 70,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.3
+    }
+  },
+  "weight": 49.5,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 0.9,
+    "eye_height": 0.8
+  },
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Hippowdon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandStream",
+    null,
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Sand Attack",
+      "Tackle"
+    ],
+    "4": [
+      "Bite"
+    ],
+    "8": [
+      "Yawn"
+    ],
+    "12": [
+      "Sand Tomb"
+    ],
+    "16": [
+      "Dig"
+    ],
+    "20": [
+      "Crunch"
+    ],
+    "24": [
+      "Sandstorm"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "32": [
+      "Roar"
+    ],
+    "36": [
+      "Rest"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "44": [
+      "Double-Edge"
+    ],
+    "48": [
+      "Fissure"
+    ],
+    "52": [
+      "Slack Off"
+    ]
+  },
+  "tutorMoves": [
+    "Scorching Sands"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Whirlwind"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Mud-Slap",
+    "Natural Gift",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Earthquake",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Superpower",
+    "Muddy Water",
+    "Earth Power",
+    "Stealth Rock",
+    "High Horsepower"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Revenge",
+    "Weather Ball",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Mud Shot",
+    "Round",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Endure",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

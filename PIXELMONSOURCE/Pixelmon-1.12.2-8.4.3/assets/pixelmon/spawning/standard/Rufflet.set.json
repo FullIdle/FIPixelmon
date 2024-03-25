@@ -1,0 +1,51 @@
+{
+  "id": "Rufflet",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rufflet"
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests"
+        ],
+        "minY": 100
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Rufflet"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 10,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "Shellder Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shellder"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_pearl",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:pearl",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "baseBlocks": [
+          "minecraft:beaches"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

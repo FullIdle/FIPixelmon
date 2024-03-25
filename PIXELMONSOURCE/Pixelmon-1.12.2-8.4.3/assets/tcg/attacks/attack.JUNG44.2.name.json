@@ -1,0 +1,21 @@
+{
+  "cardCode": "JUNG44",
+  "attackNumber": 2,
+  "name": "attack.JUNG44.2.name",
+  "energy": [
+    "FIRE",
+    "FIRE",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.JUNG44.2.text",
+  "effectsString": "HEAD-SELF_IMMUNE:*",
+  "effects": [
+    {
+      "onMe": true,
+      "immuneType": "All",
+      "needCoinSide": "Head"
+    }
+  ]
+}

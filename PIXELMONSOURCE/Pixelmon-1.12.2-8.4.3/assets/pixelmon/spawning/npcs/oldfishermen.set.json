@@ -1,0 +1,37 @@
+{
+  "id": "OldFishermen",
+  "spawnInfos": [
+    {
+      "name": "OldFisherman",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "river",
+          "beaches"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 5,
+          "condition": {
+            "neededNearbyBlocks": [
+              "water"
+            ]
+          }
+        },
+        {
+          "multiplier": 20,
+          "condition": {
+            "stringBiomes": [
+              "river"
+            ]
+          }
+        }
+      ],
+      "typeID": "npc",
+      "rarity": 5.0
+    }
+  ]
+}

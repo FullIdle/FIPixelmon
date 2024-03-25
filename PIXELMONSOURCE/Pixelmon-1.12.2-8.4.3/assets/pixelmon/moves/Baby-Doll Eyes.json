@@ -1,0 +1,57 @@
+{
+  "attackIndex": 561,
+  "attackName": "Baby-Doll Eyes",
+  "attackType": "Fairy",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "type": "Attack",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fairium_z",
+      "attackName": "Z-Baby-Doll Eyes",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Defence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

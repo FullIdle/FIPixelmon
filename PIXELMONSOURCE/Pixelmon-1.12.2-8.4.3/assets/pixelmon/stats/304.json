@@ -1,0 +1,334 @@
+{
+  "pixelmonName": "Aron",
+  "pokemon": "Aron",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 70,
+    "Defence": 100,
+    "Speed": 30,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 12,
+  "baseExp": 96,
+  "baseFriendship": 35,
+  "types": [
+    "Steel",
+    "Rock"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 40,
+    "passive": 60,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 60.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.7,
+    "eye_height": 0.35
+  },
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Lairon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "RockHead",
+    "HeavyMetal"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Tackle"
+    ],
+    "4": [
+      "Metal Claw"
+    ],
+    "8": [
+      "Rock Tomb"
+    ],
+    "12": [
+      "Roar"
+    ],
+    "16": [
+      "Headbutt"
+    ],
+    "20": [
+      "Protect"
+    ],
+    "24": [
+      "Rock Slide"
+    ],
+    "28": [
+      "Iron Head"
+    ],
+    "33": [
+      "Metal Sound"
+    ],
+    "36": [
+      "Take Down"
+    ],
+    "40": [
+      "Autotomize"
+    ],
+    "44": [
+      "Iron Tail"
+    ],
+    "48": [
+      "Iron Defense"
+    ],
+    "52": [
+      "Heavy Slam"
+    ],
+    "56": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Metal Burst"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Dragon Rush",
+    "Endeavor",
+    "Head Smash",
+    "Mud-Slap",
+    "Stomp"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Ancient Power",
+    "Captivate",
+    "Confide",
+    "Cut",
+    "Defense Curl",
+    "Double Team",
+    "Frustration",
+    "Fury Cutter",
+    "Hidden Power",
+    "Hone Claws",
+    "Magnet Rise",
+    "Mimic",
+    "Natural Gift",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Shock Wave",
+    "Smelling Salts",
+    "Spite",
+    "Strength",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Earthquake",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Uproar",
+    "Superpower",
+    "Iron Defense",
+    "Earth Power",
+    "Iron Head",
+    "Stealth Rock",
+    "Heavy Slam",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Screech",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Rock Tomb",
+    "Shadow Claw",
+    "Round",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Shadow Claw",
+    "Rock Polish",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Shadow Claw",
+    "Rock Polish",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Shadow Claw",
+    "Rock Polish",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Shock Wave",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Endure",
+    "Shadow Claw",
+    "Rock Polish",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Shock Wave",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

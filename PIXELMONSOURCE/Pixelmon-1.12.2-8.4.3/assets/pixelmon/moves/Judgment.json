@@ -1,0 +1,65 @@
+{
+  "attackIndex": 468,
+  "attackName": "Judgment",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 100,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Judgment"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"atTarget": false,
+				"scale": 1.2
+			},
+			"7": {
+				"id": "RAIN",
+				"texture": "NORMAL",
+				"scale": 0.7,
+				"durationTicks": 5,
+				"power": 3,
+				"heightAboveTarget": 6
+			},
+			"14": {
+				"id": "RAIN",
+				"texture": "NORMAL",
+				"scale": 0.6,
+				"durationTicks": 5,
+				"power": 3,
+				"heightAboveTarget": 6
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

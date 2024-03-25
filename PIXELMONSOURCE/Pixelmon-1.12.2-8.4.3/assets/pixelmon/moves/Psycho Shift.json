@@ -1,0 +1,48 @@
+{
+  "attackIndex": 417,
+  "attackName": "Psycho Shift",
+  "attackType": "Psychic",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PsychoShift"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Psycho Shift",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialAttack",
+		  "amount": 2,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

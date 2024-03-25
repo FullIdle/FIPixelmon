@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=south,multipos=base": { "model": "pixelmon:vending/vending_machine_bottom_gray" },
+    "facing=north,multipos=base": {
+      "model": "pixelmon:vending/vending_machine_bottom_gray",
+      "y": 180
+    },
+    "facing=east,multipos=base": {
+      "model": "pixelmon:vending/vending_machine_bottom_gray",
+      "y": 270
+    },
+    "facing=west,multipos=base": {
+      "model": "pixelmon:vending/vending_machine_bottom_gray",
+      "y": 90
+    },
+    "facing=south,multipos=top": { "model": "pixelmon:vending/vending_machine_top_gray" },
+    "facing=north,multipos=top": {
+      "model": "pixelmon:vending/vending_machine_top_gray",
+      "y": 180
+    },
+    "facing=east,multipos=top": {
+      "model": "pixelmon:vending/vending_machine_top_gray",
+      "y": 270
+    },
+    "facing=west,multipos=top": {
+      "model": "pixelmon:vending/vending_machine_top_gray",
+      "y": 90
+    },
+    "facing=north,multipos=bottom": { "model": "pixelmon:void" },
+    "facing=south,multipos=bottom": { "model": "pixelmon:void" },
+    "facing=east,multipos=bottom": { "model": "pixelmon:void" },
+    "facing=west,multipos=bottom": { "model": "pixelmon:void" }
+  }
+}

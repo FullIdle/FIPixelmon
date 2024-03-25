@@ -1,0 +1,68 @@
+{
+  "id": "Fletchling Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Fletchling"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "freezing forests"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Fletchinder"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 18,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "freezing forests"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Talonflame"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

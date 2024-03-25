@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "blackbelt.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bruce"
+        },
+        {
+            "name": "Jackie"
+        },
+        {
+            "name": "Jet"
+        },
+        {
+            "name": "Jean-Claude"
+        },
+        {
+            "name": "Steven"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "J'ai beau être ceinture noire, je dois continuer à m'entraîner !"
+                },
+                {
+                    "text": "Va me chercher des planches, des parpaings, et une cascade. Vite !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Huah! Sho! OooooooOOOOOOOOO!"
+                },
+                {
+                    "text": "Ca t'impressionne ? Est-ce que j'ai rempli ton coeur d'une angoisse sans nom ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "A mon niveau, je peux tout changer en arme."
+                },
+                {
+                    "text": "Je peux tenir tête à une horde de Rattatac enragés en n'utilisant que mon petit doigt."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai été élevé par des Machopeur."
+                },
+                {
+                    "text": "Si c'avait été des Mackogneur, je serais peut-être devenu encore plus puissant."
+                }
+            ]
+        }
+    ]
+}

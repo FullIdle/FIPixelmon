@@ -1,0 +1,89 @@
+{
+  "id": "Zoroark",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zoroark",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Zoroark",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing forests",
+          "mutated_ice_flats"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.01
+    },
+    {
+      "spec": {
+        "name": "Zoroark",
+        "form": 107
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

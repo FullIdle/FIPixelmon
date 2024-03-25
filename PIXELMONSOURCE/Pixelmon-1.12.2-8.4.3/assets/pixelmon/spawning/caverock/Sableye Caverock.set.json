@@ -1,0 +1,36 @@
+{
+  "id": "Sableye Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sableye"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 30.0
+    }
+  ]
+}

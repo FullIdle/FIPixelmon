@@ -1,0 +1,25 @@
+{
+  "id": "MrRime",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "MrRime"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

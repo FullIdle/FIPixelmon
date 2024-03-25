@@ -1,0 +1,50 @@
+{
+  "attackIndex": 615,
+  "attackName": "Sticky Web",
+  "attackType": "Bug",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -2,
+  "makesContact": false,
+  "effects": [
+    {
+      "maxLayers": 1,
+      "type": "StickyWeb",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StickyWeb"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "buginium_z",
+      "attackName": "Z-Sticky Web",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Speed",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

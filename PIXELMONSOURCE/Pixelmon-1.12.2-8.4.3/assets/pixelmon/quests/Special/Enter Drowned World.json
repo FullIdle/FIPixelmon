@@ -1,0 +1,52 @@
+{
+	"radiant": true,
+	"weight": 0,
+	"abandonable": true,
+	"repeatable": true,
+	"color": {
+		"r": -1,
+		"g": 0,
+		"b": 0
+	},
+	"activeStage": 10,
+	"stages": [
+		{
+			"stage": 0,
+			"nextStage": 1,
+			"objectives": [
+				"DATE 10/09 22/12"
+			],
+			"actions": []
+		},
+		{
+			"stage": 1,
+			"nextStage": 10,
+			"icon": "SPEECH_BUBBLE",
+			"objectives": [
+				"NPC_TIMED_INSERTER NPC 0.4 150 15000",
+				"DIALOGUE ?NPC? npcName start startYes startNo - - - - - -",
+				"NPC_RESPOND ?NPC? 0",
+				"NPC_RESPOND ?NPC? 1",
+				"NAME_INSERTER NAME -1"
+			],
+			"actions": [
+				"2 DIALOGUE npcName accepted goodbye - - - - - - -",
+				"2 SET_STAGE 10 -",
+				"3 DIALOGUE npcName rejected goodbye - - - - - - -"
+			]
+		},
+		{
+			"stage": 10,
+			"nextStage": -1,
+			"objectives": [
+				"FOLLOWTHROUGH"
+			],
+			"actions": [
+				"1 SOUND 0 1 0 relative ambient.underwater.enter master 1 1",
+				"0 SET_FLAG HalloweenStarted",
+				"0 TELEPORT 0 128 0 0 0 73 false false false true true false"
+			]
+		}
+	],
+	"strings": {}
+}

@@ -1,0 +1,60 @@
+{
+    "skins": [
+        {
+            "filename": "evilprofessor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Victor"
+        },
+        {
+            "name": "Doofenshmirtz"
+        },
+        {
+            "name": "Gregory"
+        },
+        {
+            "name": "Dott. Henry Wu"
+        },
+        {
+            "name": "Dott. Trayaurus"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Il mio soggetto per i test è scappato!"
+                },
+                {
+                    "text": "Sapevo che avrei dovuto avere delle sbarre di ferro extra forti!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I Pokemon non sono altro che strumenti, intrappolati, solo per essere usati come armi di distruzione."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non provare nemmeno a fermarmi, allenatore!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Troppo tardi, allenatore!"
+                },
+                {
+                    "text": "Il mio piano è quasi completo!"
+                }
+            ]
+        }
+    ]
+}

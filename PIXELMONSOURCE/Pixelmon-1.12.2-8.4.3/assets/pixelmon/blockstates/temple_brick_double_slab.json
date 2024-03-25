@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"half=bottom,variant=default": { "model": "pixelmon:ShrineBrick" },
+		"half=top,variant=default": { "model": "pixelmon:ShrineBrick" }
+	}
+}

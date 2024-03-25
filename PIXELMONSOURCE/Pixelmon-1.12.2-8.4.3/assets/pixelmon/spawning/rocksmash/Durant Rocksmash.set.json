@@ -1,0 +1,24 @@
+{
+  "id": "Durant Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Durant"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 1,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 60.0
+    }
+  ]
+}

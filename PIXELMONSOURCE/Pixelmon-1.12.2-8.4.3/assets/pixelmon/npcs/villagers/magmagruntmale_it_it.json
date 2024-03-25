@@ -1,0 +1,69 @@
+{
+    "skins": [
+        {
+            "filename": "magmagruntmale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Recluta Team Magma"
+        },
+        {
+            "name": "Recluta Team Magma"
+        },
+        {
+            "name": "Recluta Team Magma"
+        },
+        {
+            "name": "Recluta Team Magma"
+        },
+        {
+            "name": "Recluta Team Magma"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "A chi importa che il Team Idro abbia il vantaggio di tipo?"
+                },
+                {
+                    "text": "Groudon batterebbe Kyogre tranquillamente!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Vediamo, un dinosauro gigante o una balena gonfia..."
+                },
+                {
+                    "text": "Sai cos'altro è un Pokemon balena? Wailord. Kyogre è solo un Wailord a cui è andata meglio!"
+				},
+				{
+					"text": "Inoltre Groudon è un dinosauro fighissimo, e tutti amano i dinosauri!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Le persone continuano a confonderci per il Team Coraggio per qualche motivo...."
+                },
+                {
+                    "text": "Mi chiedo se il Team Idro abbia lo stesso problema..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I vulcani sono così ganzi!"
+                },
+                {
+                    "text": "O forse dovrei dire... scottanti!"
+                }
+            ]
+        }
+    ]
+}

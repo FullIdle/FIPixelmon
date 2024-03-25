@@ -1,0 +1,32 @@
+{
+  "id": "Throh",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Throh"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mutated_savanna",
+          "mutated_savanna_rock"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

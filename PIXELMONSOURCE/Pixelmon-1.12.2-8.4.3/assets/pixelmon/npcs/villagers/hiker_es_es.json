@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hiker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Herman"
+        },
+        {
+            "name": "Zsolt"
+        },
+        {
+            "name": "Gastón"
+        },
+        {
+            "name": "Willi"
+        },
+        {
+            "name": "Marek"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Voy a quedarme en este pueblo un tiempo."
+                },
+                {
+                    "text": "¡Debo descansar y conseguir suministros, después continuaré mi camino!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Un buen calzado es muy importante en el alpinismo."
+                },
+                {
+                    "text": "Alpinismo-extremo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Si comes verduras y cargas con una gran mochila, crecerás grande y fuerte como yo!"
+                },
+                {
+                    "text": "Si luchas contra algún Ursaring en las montañas, también puede ayudar."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hace semanas, uno de mis Pokémon usó Avalancha mientras escalaba una pendiente."
+                },
+                {
+                    "text": "Lo intercambié."
+                }
+            ]
+        }
+    ]
+}

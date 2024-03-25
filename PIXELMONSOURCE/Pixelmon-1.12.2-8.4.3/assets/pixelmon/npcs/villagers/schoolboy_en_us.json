@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "schoolboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Ethan"
+        },
+        {
+            "name": "Matt"
+        },
+        {
+            "name": "Liam"
+        },
+        {
+            "name": "Tyler"
+        },
+        {
+            "name": "Ryan"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I wonder if I can work at a Pokémon Center when I grow up."
+                },
+                {
+                    "text": "What kind of school do you have to go to if you want to work there? I should ask."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'll be going to after-school activities today."
+                },
+                {
+                    "text": "I can't wait for class to be over!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "We're learning about a distant region in geography class."
+                },
+                {
+                    "text": "There are lots of volcanoes all over! Awesome!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My teacher's going to take us to a field trip next month!"
+                },
+                {
+                    "text": "We'll visit a Pokémon ranch. Maybe we'll see cute baby Pokémon?"
+                }
+            ]
+        }
+    ]
+}

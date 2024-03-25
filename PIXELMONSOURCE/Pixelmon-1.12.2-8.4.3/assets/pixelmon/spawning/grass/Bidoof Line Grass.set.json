@@ -1,0 +1,47 @@
+{
+  "id": "Bidoof Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bidoof"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Bibarel"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "cardCode": "TERO65",
+  "attackNumber": 1,
+  "name": "attack.TERO65.1.name",
+  "energy": [
+    "PSYCHIC"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.TERO65.1.text",
+  "effectsString": "SELF_DRAW:1",
+  "effects": [
+    {
+      "onMe": true,
+      "count": 1,
+      "needCoinSide": null
+    }
+  ]
+}

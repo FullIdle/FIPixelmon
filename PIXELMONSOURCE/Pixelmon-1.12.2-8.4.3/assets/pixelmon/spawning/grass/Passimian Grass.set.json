@@ -1,0 +1,26 @@
+{
+  "id": "Passimian Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Passimian"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungle_hills",
+          "mutated_jungle"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

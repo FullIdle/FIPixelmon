@@ -1,0 +1,58 @@
+{
+  "id": 219,
+  "setId": 3,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 54,
+  "code": "FOSS53",
+  "name": "card.FOSS53.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS53",
+      "attackNumber": 1,
+      "name": "attack.FOSS53.1.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.FOSS53.1.text",
+      "effects": [
+        "OPP_DISABLEPLAY:TRAINER"
+      ]
+    },
+    {
+      "cardCode": "FOSS53",
+      "attackNumber": 2,
+      "name": "attack.FOSS53.2.name",
+      "energy": [
+        "WATER"
+      ],
+      "damage": 10,
+      "modifier": "Multiply",
+      "text": "attack.FOSS53.2.text",
+      "effects": [
+        "FLIPS_MULTIPLY:3"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

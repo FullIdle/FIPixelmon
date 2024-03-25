@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/399-sirdoofusiii\"}"
+		},
+		"title": {
+			"translate": "advancements.sir_doofus.title"
+		},
+		"description": {
+			"translate": "advancements.sir_doofus.description"
+		},
+		"hidden": true
+	},
+    "parent" : "pixelmon:specs/spec_trigger",
+	"criteria": {
+		"sir_doofus_spec_trigger": {
+			"trigger": "pixelmon:spec_trigger",
+			"conditions" : {
+				"spec" : "f:1 Bidoof"
+			}
+		}
+	}
+}

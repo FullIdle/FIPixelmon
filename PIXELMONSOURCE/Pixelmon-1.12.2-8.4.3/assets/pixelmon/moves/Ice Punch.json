@@ -1,0 +1,45 @@
+{
+  "attackIndex": 67,
+  "attackName": "Ice Punch",
+  "attackType": "Ice",
+  "attackCategory": "PHYSICAL",
+  "basePower": 75,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Freeze",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Freeze"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

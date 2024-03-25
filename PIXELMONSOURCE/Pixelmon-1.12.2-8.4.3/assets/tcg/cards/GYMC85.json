@@ -1,0 +1,61 @@
+{
+  "id": 538,
+  "setId": 7,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 97,
+  "code": "GYMC85",
+  "name": "card.GYMC85.name",
+  "description": "",
+  "previousPokemonId": 96,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC85",
+      "attackNumber": 1,
+      "name": "attack.GYMC85.1.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMC85.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC85",
+      "attackNumber": 2,
+      "name": "attack.GYMC85.2.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMC85.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

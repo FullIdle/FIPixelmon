@@ -1,0 +1,55 @@
+{
+  "attackIndex": 590,
+  "attackName": "Ion Deluge",
+  "attackType": "Electric",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 25,
+  "ppMax": 40,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "IonDeluge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IonDeluge"
+    },
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "electrium_z",
+      "attackName": "Z-Ion Deluge",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialAttack",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

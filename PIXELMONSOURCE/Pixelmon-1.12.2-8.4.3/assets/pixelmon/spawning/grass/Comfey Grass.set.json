@@ -1,0 +1,25 @@
+{
+  "id": "Comfey Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Comfey"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

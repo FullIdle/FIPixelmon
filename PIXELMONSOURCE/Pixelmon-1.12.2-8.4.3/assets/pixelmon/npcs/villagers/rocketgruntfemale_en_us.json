@@ -1,0 +1,51 @@
+{
+    "skins": [
+        {
+            "filename": "rocketgruntfemale1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Rocket Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Team Rocket, blasting off at the speed of light!"
+                },
+                {
+                    "text": "Yes, the speed of light...Don't question it."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "We disown those two clowns and the Meowth."
+                },
+                {
+                    "text": "They're more of a Rainbow Rocket."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Give me your Pokemon, otherwise I'll have to use my level 12 Zubat!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Do you think other teams make fun of us?"
+                },
+                {
+                    "text": "At least we're better than Team Skull, right?"
+                }
+            ]
+        }
+    ]
+}

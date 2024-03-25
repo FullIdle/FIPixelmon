@@ -1,0 +1,267 @@
+{
+  "pixelmonName": "Xerneas",
+  "pokemon": "Xerneas",
+  "form": 0,
+  "stats": {
+    "HP": 126,
+    "Attack": 131,
+    "Defence": 95,
+    "Speed": 99,
+    "SpecialAttack": 131,
+    "SpecialDefence": 98
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 306,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 3.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.75,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.9,
+      "z": -0.3
+    }
+  },
+  "weight": 215.0,
+  "bounding_box": {
+    "width": 1.5,
+    "height": 3.0,
+    "eye_height": 2.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "FairyAura",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Gravity",
+      "Tackle"
+    ],
+    "5": [
+      "Light Screen"
+    ],
+    "10": [
+      "Aurora Beam"
+    ],
+    "15": [
+      "Nature Power"
+    ],
+    "20": [
+      "Night Slash"
+    ],
+    "25": [
+      "Aromatherapy"
+    ],
+    "30": [
+      "Psych Up"
+    ],
+    "35": [
+      "Horn Leech"
+    ],
+    "40": [
+      "Misty Terrain"
+    ],
+    "45": [
+      "Ingrain"
+    ],
+    "50": [
+      "Take Down"
+    ],
+    "55": [
+      "Geomancy"
+    ],
+    "60": [
+      "Moonblast"
+    ],
+    "65": [
+      "Heal Pulse"
+    ],
+    "70": [
+      "Megahorn"
+    ],
+    "75": [
+      "Close Combat"
+    ],
+    "80": [
+      "Outrage"
+    ],
+    "85": [
+      "Giga Impact"
+    ]
+  },
+  "tutorMoves": [
+    "Misty Explosion",
+    "Terrain Pulse"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Block",
+    "Confide",
+    "Cut",
+    "Defog",
+    "Double Team",
+    "Echoed Voice",
+    "Endeavor",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Return",
+    "Roar",
+    "Secret Power",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Thunderbolt",
+    "Thunder",
+    "Psychic",
+    "Substitute",
+    "Outrage",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Megahorn",
+    "Hyper Voice",
+    "Calm Mind",
+    "Close Combat",
+    "Focus Blast",
+    "Zen Headbutt",
+    "Flash Cannon",
+    "Grass Knot",
+    "Play Rough",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Swift",
+    "Wonder Room",
+    "Round",
+    "Draining Kiss",
+    "Misty Terrain",
+    "Smart Strike"
+  ],
+  "tmMoves7": [
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

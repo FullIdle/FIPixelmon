@@ -1,0 +1,45 @@
+{
+  "id": "Pansear Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pansear"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 11,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Simisear"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

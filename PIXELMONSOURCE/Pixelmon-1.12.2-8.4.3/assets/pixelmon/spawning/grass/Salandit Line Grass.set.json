@@ -1,0 +1,119 @@
+{
+  "id": "Salandit Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Salandit"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mutated_swampland",
+          "evil",
+          "mutated_mesa",
+          "mesa_rock",
+          "mutated_mesa_clear_rock",
+          "mutated_mesa_rock"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Salandit"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Salazzle"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mutated_swampland",
+          "evil",
+          "mutated_mesa",
+          "mesa_rock",
+          "mutated_mesa_clear_rock",
+          "mutated_mesa_rock"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Salazzle"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

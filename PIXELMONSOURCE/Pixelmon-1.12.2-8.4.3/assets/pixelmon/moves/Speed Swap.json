@@ -1,0 +1,55 @@
+{
+  "attackIndex": 662,
+  "attackName": "Speed Swap",
+  "attackType": "Psychic",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "langString": "pixelmon.effect.speedswap",
+      "swapStats": [
+        "Speed"
+      ],
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "SpeedSwap"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Speed Swap",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "Speed",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

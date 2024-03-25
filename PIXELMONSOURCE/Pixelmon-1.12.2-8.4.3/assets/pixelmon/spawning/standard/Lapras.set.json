@@ -1,0 +1,32 @@
+{
+  "id": "Lapras",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lapras"
+      },
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

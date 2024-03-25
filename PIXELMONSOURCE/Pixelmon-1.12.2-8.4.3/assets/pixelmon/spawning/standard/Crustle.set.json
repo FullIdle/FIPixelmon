@@ -1,0 +1,35 @@
+{
+  "id": "Crustle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Crustle"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "stone_beach",
+          "gravel_beach"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

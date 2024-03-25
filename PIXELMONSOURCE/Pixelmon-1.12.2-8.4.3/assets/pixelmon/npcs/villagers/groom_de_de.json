@@ -1,0 +1,37 @@
+{
+    "skins": [
+        {
+            "filename": "suit.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mark"
+        },
+        {
+            "name": "Brandon"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "Henry"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich bin so nervös, ich hoffe, dass ich meine Gelübde nicht versauen werde!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Heute ist der glücklichste Tag meines Lebens, ich kann es kaum erwarten, verheiratet zu sein!"
+                }
+            ]
+        }
+    ]
+}

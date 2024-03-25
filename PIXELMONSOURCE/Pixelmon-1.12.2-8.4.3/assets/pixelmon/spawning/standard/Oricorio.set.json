@@ -1,0 +1,96 @@
+{
+  "id": "Oricorio",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Oricorio",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forest",
+          "forest_hills",
+          "boreal_forest",
+          "woodland",
+          "woodlands",
+          "forested_hills"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Oricorio",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Oricorio",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Oricorio",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

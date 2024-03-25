@@ -1,0 +1,56 @@
+{
+  "attackIndex": 560,
+  "attackName": "Aromatic Mist",
+  "attackType": "Fairy",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AromaticMist"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "fairium_z",
+      "attackName": "Z-Aromatic Mist",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "SpecialDefence",
+          "amount": 2,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

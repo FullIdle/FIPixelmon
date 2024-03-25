@@ -1,0 +1,59 @@
+{
+  "id": 303,
+  "setId": 4,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 54,
+  "code": "TERO65",
+  "name": "card.TERO65.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO65",
+      "attackNumber": 1,
+      "name": "attack.TERO65.1.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.TERO65.1.text",
+      "effects": [
+        "SELF_DRAW:1"
+      ]
+    },
+    {
+      "cardCode": "TERO65",
+      "attackNumber": 2,
+      "name": "attack.TERO65.2.name",
+      "energy": [
+        "WATER",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": "Plus",
+      "text": "attack.TERO65.2.text",
+      "effects": [
+        "DAMAGE_BONUS:SELF:WATER:10:20"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

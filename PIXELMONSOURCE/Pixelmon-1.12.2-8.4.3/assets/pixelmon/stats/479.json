@@ -1,0 +1,365 @@
+{
+  "pixelmonName": "Rotom",
+  "pokemon": "Rotom",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 77,
+    "Speed": 91,
+    "SpecialAttack": 95,
+    "SpecialDefence": 77
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 26,
+  "spawnLevelRange": 8,
+  "baseExp": 154,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Ghost"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "weight": 0.3,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.5,
+    "eye_height": 0.25
+  },
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Double Team"
+    ],
+    "5": [
+      "Thunder Shock"
+    ],
+    "10": [
+      "Confuse Ray"
+    ],
+    "15": [
+      "Charge"
+    ],
+    "20": [
+      "Electro Ball"
+    ],
+    "25": [
+      "Thunder Wave"
+    ],
+    "30": [
+      "Shock Wave"
+    ],
+    "35": [
+      "Hex"
+    ],
+    "40": [
+      "Substitute"
+    ],
+    "45": [
+      "Trick"
+    ],
+    "50": [
+      "Discharge"
+    ],
+    "55": [
+      "Uproar"
+    ]
+  },
+  "tutorMoves": [
+    "Poltergeist",
+    "Rising Voltage"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Charge Beam",
+    "Confide",
+    "Defog",
+    "Disarming Voice",
+    "Dream Eater",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Mud-Slap",
+    "Natural Gift",
+    "Ominous Wind",
+    "Pain Split",
+    "Psych Up",
+    "Return",
+    "Secret Power",
+    "Signal Beam",
+    "Snatch",
+    "Spite",
+    "Sucker Punch",
+    "Swagger",
+    "Telekinesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Uproar",
+    "Trick",
+    "Hyper Voice",
+    "Dark Pulse",
+    "Nasty Plot",
+    "Electro Ball",
+    "Foul Play",
+    "Stored Power",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Round",
+    "Hex",
+    "Volt Switch",
+    "Electroweb",
+    "Electric Terrain",
+    "Eerie Impulse"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Thief",
+    "Snatch",
+    "Charge Beam",
+    "Endure",
+    "Will-O-Wisp",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dark Pulse",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Fire"
+      ]
+    },
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Water"
+      ]
+    },
+    "3": {
+      "form": 3,
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Ice"
+      ]
+    },
+    "4": {
+      "form": 4,
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Flying"
+      ]
+    },
+    "5": {
+      "form": 5,
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 107,
+        "Speed": 86,
+        "SpecialAttack": 105,
+        "SpecialDefence": 107
+      },
+      "types": [
+        "Electric",
+        "Grass"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "cardCode": "FOSS22",
+  "attackNumber": 1,
+  "name": "attack.FOSS22.1.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS22.1.text",
+  "effectsString": "OPP_DAMAGE:BENCH:1:20",
+  "effects": [
+    {
+      "onMe": false,
+      "location": "Bench",
+      "count": 1,
+      "amount": 20,
+      "needCoinSide": null
+    }
+  ]
+}

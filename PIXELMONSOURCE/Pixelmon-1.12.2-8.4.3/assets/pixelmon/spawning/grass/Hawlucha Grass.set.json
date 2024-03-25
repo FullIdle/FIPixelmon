@@ -1,0 +1,32 @@
+{
+  "id": "Hawlucha Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hawlucha"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:kings_rock",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "extreme_hills_with_trees",
+          "mutated_extreme_hills_with_trees"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

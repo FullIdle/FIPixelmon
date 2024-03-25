@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shopman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "M. Patate"
+        },
+        {
+            "name": "Edmund l'Épicier"
+        },
+        {
+            "name": "M. Dublé"
+        },
+        {
+            "name": "Maurice le Maraîcher"
+        },
+        {
+            "name": "M. Laverdure"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, ça vous dit d'acheter des brocolis frais ?"
+                },
+                {
+                    "text": "Comment ça, vous n'aimez pas les brocolis ? C'est la première fois que j'entends ça !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bienvenue au marché. Je peux vous aider à trouver votre bonheur ?"
+                },
+                {
+                    "text": "Des Pokémon ? Non, ici, c'est une épicerie. Les Pokémon, ça ne se mange pas, pas vrai ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Quelle belle journée ! Et si vous achetiez des bananes ?"
+                },
+                {
+                    "text": "Vous savez, les bananes, c'est bon pour le cerveau ! C'est pour ça que je suis aussi intelligent !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Vite, vite ! Aujourd'hui, on fait le plein de bonnes affaires dans notre magasin !"
+                },
+                {
+                    "text": "C'est trop cher ? Pff ! Par rapport à hier, ce sont de bonnes affaires !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, nous avons de délicieuses pommes bien sucrées aujourd'hui."
+                },
+                {
+                    "text": "Non, vous ne pouvez pas goûter avant d'acheter !"
+                }
+            ]
+        }
+    ]
+}

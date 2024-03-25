@@ -1,0 +1,66 @@
+{
+  "id": "Tepig Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tepig"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Pignite"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 17,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Emboar"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

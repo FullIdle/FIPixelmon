@@ -1,0 +1,286 @@
+{
+  "pixelmonName": "Diggersby",
+  "pokemon": "Diggersby",
+  "form": 0,
+  "stats": {
+    "HP": 85,
+    "Attack": 56,
+    "Defence": 77,
+    "Speed": 78,
+    "SpecialAttack": 50,
+    "SpecialDefence": 77
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 14,
+  "baseExp": 148,
+  "baseFriendship": 0,
+  "types": [
+    "Normal",
+    "Ground"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bunnelby"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.57,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.57,
+      "z": -0.4
+    }
+  },
+  "weight": 42.4,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.8,
+    "eye_height": 0.9
+  },
+  "evolutions": [],
+  "abilities": [
+    "Pickup",
+    "CheekPouch",
+    "HugePower"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Laser Focus",
+      "Leer",
+      "Mud-Slap",
+      "Tackle"
+    ],
+    "9": [
+      "Quick Attack"
+    ],
+    "12": [
+      "Mud Shot"
+    ],
+    "15": [
+      "Flail"
+    ],
+    "18": [
+      "Double Kick"
+    ],
+    "23": [
+      "Bulldoze"
+    ],
+    "28": [
+      "Dig"
+    ],
+    "33": [
+      "Bounce"
+    ],
+    "38": [
+      "Take Down"
+    ],
+    "43": [
+      "Swords Dance"
+    ],
+    "48": [
+      "Earthquake"
+    ],
+    "53": [
+      "Super Fang"
+    ],
+    "58": [
+      "Hammer Arm"
+    ]
+  },
+  "tutorMoves": [
+    "Scorching Sands"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Rollout"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Cut",
+    "Double Slap",
+    "Double Team",
+    "Endeavor",
+    "Focus Punch",
+    "Frustration",
+    "Gastro Acid",
+    "Hidden Power",
+    "Knock Off",
+    "Last Resort",
+    "Nature Power",
+    "Odor Sleuth",
+    "Power-Up Punch",
+    "Recycle",
+    "Return",
+    "Rock Smash",
+    "Rototiller",
+    "Secret Power",
+    "Smack Down",
+    "Snatch",
+    "Strength",
+    "Swagger",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Surf",
+    "Low Kick",
+    "Earthquake",
+    "Agility",
+    "Substitute",
+    "Sludge Bomb",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Uproar",
+    "Superpower",
+    "Bulk Up",
+    "Earth Power",
+    "Gunk Shot",
+    "Iron Head",
+    "Stone Edge",
+    "Grass Knot",
+    "Foul Play",
+    "Work Up",
+    "Wild Charge",
+    "High Horsepower"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Hyper Beam",
+    "Giga Impact",
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Bounce",
+    "Mud Shot",
+    "U-turn",
+    "Payback",
+    "Fling",
+    "Round",
+    "Bulldoze",
+    "Brutal Swing",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Brutal Swing",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Surf",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Nature Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "forms": {}
+}

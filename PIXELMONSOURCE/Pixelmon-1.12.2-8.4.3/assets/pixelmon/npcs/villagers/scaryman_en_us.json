@@ -1,0 +1,69 @@
+{
+    "skins": [
+        { 
+            "filename": "cueball.png"
+        },
+		{ 
+            "filename": "streetthug.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "The Switchblade"
+        },
+        {
+            "name": "Gouger"
+        },
+        {
+            "name": "Mr. Stabs"
+        },
+        {
+            "name": "Mad-Eye"
+        },
+        {
+            "name": "Gutmaul"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "This is my spot. Stay away."
+                },
+                {
+                    "text": "What did I say?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My gang should be here any minute now."
+                },
+                {
+                    "text": "Yeah, we're the most dangerous men in the region."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I like cute Pokémon. A guy mocked me for that, once."
+                },
+                {
+                    "text": "Just once. I ate his face. I swear."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "If you see a cop around, tell me, OK?"
+                },
+                {
+                    "text": "Why? Because I'm allergic to cops and to nosy people."
+                }
+            ]
+        }
+    ]
+}

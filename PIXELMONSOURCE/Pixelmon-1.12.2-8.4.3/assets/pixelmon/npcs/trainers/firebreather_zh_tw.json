@@ -1,0 +1,88 @@
+{
+    "data": {
+        "trainerType": "FireBreather",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Flareon"
+        },
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Vulpix"
+        },
+        {
+            "name": "Camerupt"
+        },
+        {
+            "name": "Charmeleon"
+        }
+    ],
+    "names": [
+        {
+            "name": "格雷格"
+        },
+        {
+            "name": "丹尼爾"
+        },
+        {
+            "name": "尼克"
+        },
+        {
+            "name": "薛瑞爾"
+        },
+        {
+            "name": "尼古拉斯"
+        },
+        {
+            "name": "搏爾特"
+        },
+        {
+            "name": "詹姆斯"
+        },
+        {
+            "name": "杰"
+        },
+        {
+            "name": "艾克"
+        },
+        {
+            "name": "優米"
+        },
+        {
+            "name": "里歐"
+        },
+        {
+            "name": "蓋瑞特"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "火？",
+            "win": "火！",
+            "lose": "火..."
+        },
+        {
+            "opening": "這是一個奇怪的職業。",
+            "win": "但我喜歡這個職業。",
+            "lose": "而且我不喜歡這個職業.."
+        },
+        {
+            "opening": "我用我的熱情訓練我的寶可夢。",
+            "win": "我的熱情比以前更閃耀了！",
+            "lose": "我的熱情被澆熄了.."
+        }
+    ]
+}

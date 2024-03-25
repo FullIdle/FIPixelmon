@@ -1,0 +1,89 @@
+{
+  "id": "Snorlax",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Snorlax",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:leftovers",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Snorlax",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:leftovers",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Snorlax",
+        "form": 109
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:leftovers",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "stone_beach"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

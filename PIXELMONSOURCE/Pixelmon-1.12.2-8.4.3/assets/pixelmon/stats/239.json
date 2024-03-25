@@ -1,0 +1,353 @@
+{
+  "pixelmonName": "Elekid",
+  "pokemon": "Elekid",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 63,
+    "Defence": 37,
+    "Speed": 95,
+    "SpecialAttack": 65,
+    "SpecialDefence": 55
+  },
+  "catchRate": 45,
+  "malePercent": 75,
+  "spawnLevel": 15,
+  "spawnLevelRange": 5,
+  "baseExp": 106,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 23.5,
+  "bounding_box": {
+    "width": 0.3,
+    "height": 0.3,
+    "eye_height": 0.15
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Electabuzz"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Static",
+    null,
+    "VitalSpirit"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Quick Attack"
+    ],
+    "4": [
+      "Thunder Shock"
+    ],
+    "8": [
+      "Charge"
+    ],
+    "12": [
+      "Swift"
+    ],
+    "16": [
+      "Shock Wave"
+    ],
+    "20": [
+      "Thunder Wave"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Thunder Punch"
+    ],
+    "32": [
+      "Discharge"
+    ],
+    "36": [
+      "Low Kick"
+    ],
+    "40": [
+      "Thunderbolt"
+    ],
+    "44": [
+      "Light Screen"
+    ],
+    "48": [
+      "Thunder"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Cross Chop",
+    "Dynamic Punch",
+    "Feint",
+    "Focus Punch",
+    "Hammer Arm"
+  ],
+  "transferMoves": [
+    "Barrier",
+    "Captivate",
+    "Charge Beam",
+    "Confide",
+    "Counter",
+    "Covet",
+    "Curse",
+    "Detect",
+    "Double Team",
+    "Double-Edge",
+    "Dual Chop",
+    "Flash",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Karate Chop",
+    "Magnet Rise",
+    "Meditate",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Return",
+    "Rock Smash",
+    "Rolling Kick",
+    "Secret Power",
+    "Seismic Toss",
+    "Signal Beam",
+    "Swagger",
+    "Toxic",
+    "Zap Cannon"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Low Kick",
+    "Thunderbolt",
+    "Thunder",
+    "Psychic",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Uproar",
+    "Electro Ball",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Thunder Wave",
+    "Screech",
+    "Light Screen",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Brick Break",
+    "Fling",
+    "Round",
+    "Volt Switch",
+    "Electroweb"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Flash",
+    "Thunder Wave",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Focus Punch",
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "tmMoves2": [
+    "Dynamic Punch",
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Zap Cannon",
+    "Hidden Power",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Mud-Slap",
+    "Double Team",
+    "Ice Punch",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Thunder Punch",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fire Punch"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,93 @@
+{
+  "id": "Sandile Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sandile"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_glasses",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Krokorok"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 29,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_glasses",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Krookodile"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sunglasses",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_desert"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

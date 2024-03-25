@@ -1,0 +1,54 @@
+{
+  "attackIndex": 510,
+  "attackName": "Ally Switch",
+  "attackType": "Psychic",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "priority": 2,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AllySwitch"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Ally Switch",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Speed",
+		  "amount": 2,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

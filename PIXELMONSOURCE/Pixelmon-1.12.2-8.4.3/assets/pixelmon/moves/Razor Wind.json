@@ -1,0 +1,40 @@
+{
+  "attackIndex": 71,
+  "attackName": "Razor Wind",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "message": "pixelmon.effect.razorwind",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "RazorWind"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

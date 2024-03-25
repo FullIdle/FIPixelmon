@@ -1,0 +1,593 @@
+{
+  "pixelmonName": "Muk",
+  "pokemon": "Muk",
+  "form": 0,
+  "stats": {
+    "HP": 105,
+    "Attack": 105,
+    "Defence": 75,
+    "Speed": 50,
+    "SpecialAttack": 65,
+    "SpecialDefence": 100
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 12,
+  "baseExp": 157,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Grimer"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1,
+    "Attack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.45,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.45,
+      "z": -0.3
+    }
+  },
+  "weight": 30.0,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.2,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Stench",
+    "StickyHold",
+    "PoisonTouch"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Mud-Slap",
+      "Poison Gas",
+      "Pound",
+      "Venom Drench"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "7": [
+      "Mud-Slap"
+    ],
+    "12": [
+      "Disable"
+    ],
+    "15": [
+      "Sludge"
+    ],
+    "18": [
+      "Mud Bomb"
+    ],
+    "21": [
+      "Minimize"
+    ],
+    "26": [
+      "Fling"
+    ],
+    "29": [
+      "Sludge Bomb"
+    ],
+    "32": [
+      "Sludge Wave"
+    ],
+    "37": [
+      "Screech"
+    ],
+    "40": [
+      "Gunk Shot"
+    ],
+    "46": [
+      "Acid Armor"
+    ],
+    "52": [
+      "Belch"
+    ],
+    "57": [
+      "Memento"
+    ]
+  },
+  "tutorMoves": [
+    "Block",
+    "Fire Punch",
+    "Focus Punch",
+    "Giga Drain",
+    "Gunk Shot",
+    "Ice Punch",
+    "Pain Split",
+    "Shock Wave",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Curse",
+    "Haze",
+    "Imprison",
+    "Lick",
+    "Mean Look",
+    "Power-Up Punch",
+    "Scary Face",
+    "Shadow Punch",
+    "Shadow Sneak",
+    "Spit Up",
+    "Stockpile",
+    "Swallow"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Body Slam",
+    "Captivate",
+    "Dynamic Punch",
+    "Endure",
+    "Incinerate",
+    "Mimic",
+    "Natural Gift",
+    "Rage",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Zap Cannon"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Slide",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Slide",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Focus Blast",
+    "Fling",
+    "Endure",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Captivate",
+    "Dark Pulse",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Focus Punch",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "tmMoves2": [
+    "Dynamic Punch",
+    "Curse",
+    "Toxic",
+    "Zap Cannon",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Hyper Beam",
+    "Protect",
+    "Giga Drain",
+    "Endure",
+    "Frustration",
+    "Thunder",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Ice Punch",
+    "Swagger",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Thunder Punch",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fire Punch"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Body Slam",
+    "Hyper Beam",
+    "Rage",
+    "Mega Drain",
+    "Thunderbolt",
+    "Thunder",
+    "Mimic",
+    "Double Team",
+    "Bide",
+    "Self-Destruct",
+    "Fire Blast",
+    "Rest",
+    "Explosion",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "abilities": [
+        "PoisonTouch",
+        "Gluttony",
+        "PowerOfAlchemy"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Bite",
+          "Harden",
+          "Poison Gas",
+          "Pound",
+          "Venom Drench"
+        ],
+        "4": [
+          "Harden"
+        ],
+        "7": [
+          "Bite"
+        ],
+        "12": [
+          "Disable"
+        ],
+        "15": [
+          "Acid Spray"
+        ],
+        "18": [
+          "Poison Fang"
+        ],
+        "21": [
+          "Minimize"
+        ],
+        "26": [
+          "Fling"
+        ],
+        "29": [
+          "Knock Off"
+        ],
+        "32": [
+          "Crunch"
+        ],
+        "37": [
+          "Screech"
+        ],
+        "40": [
+          "Gunk Shot"
+        ],
+        "46": [
+          "Acid Armor"
+        ],
+        "52": [
+          "Belch"
+        ],
+        "57": [
+          "Memento"
+        ]
+      },
+      "tmMoves": [
+        "Toxic",
+        "Venoshock",
+        "Hidden Power",
+        "Sunny Day",
+        "Taunt",
+        "Hyper Beam",
+        "Protect",
+        "Rain Dance",
+        "Frustration",
+        "Return",
+        "Shadow Ball",
+        "Brick Break",
+        "Double Team",
+        "Sludge Wave",
+        "Flamethrower",
+        "Sludge Bomb",
+        "Fire Blast",
+        "Rock Tomb",
+        "Torment",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Focus Blast",
+        "Fling",
+        "Brutal Swing",
+        "Quash",
+        "Embargo",
+        "Explosion",
+        "Payback",
+        "Giga Impact",
+        "Rock Polish",
+        "Stone Edge",
+        "Rock Slide",
+        "Infestation",
+        "Poison Jab",
+        "Swagger",
+        "Substitute",
+        "Snarl",
+        "Dark Pulse",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Block",
+        "Fire Punch",
+        "Focus Punch",
+        "Gastro Acid",
+        "Giga Drain",
+        "Gunk Shot",
+        "Ice Punch",
+        "Knock Off",
+        "Pain Split",
+        "Recycle",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Thunder Punch"
+      ],
+      "eggMoves": [
+        "Assurance",
+        "Clear Smog",
+        "Curse",
+        "Imprison",
+        "Mean Look",
+        "Power-Up Punch",
+        "Pursuit",
+        "Scary Face",
+        "Shadow Sneak",
+        "Spit Up",
+        "Spite",
+        "Stockpile",
+        "Swallow"
+      ],
+      "tmMoves7": [
+        "Toxic",
+        "Venoshock",
+        "Hidden Power",
+        "Sunny Day",
+        "Taunt",
+        "Hyper Beam",
+        "Protect",
+        "Rain Dance",
+        "Frustration",
+        "Return",
+        "Shadow Ball",
+        "Brick Break",
+        "Double Team",
+        "Sludge Wave",
+        "Flamethrower",
+        "Sludge Bomb",
+        "Fire Blast",
+        "Rock Tomb",
+        "Torment",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Focus Blast",
+        "Fling",
+        "Brutal Swing",
+        "Quash",
+        "Embargo",
+        "Explosion",
+        "Payback",
+        "Giga Impact",
+        "Rock Polish",
+        "Stone Edge",
+        "Rock Slide",
+        "Infestation",
+        "Poison Jab",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Snarl",
+        "Dark Pulse",
+        "Confide"
+      ]
+    }
+  }
+}

@@ -1,0 +1,170 @@
+{
+    "data": {
+        "trainerType": "Fisherman",
+        "minLevel": 24,
+        "maxLevel": 36,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Squirtle"
+        },
+        {
+            "name": "Wartortle"
+        },
+        {
+            "name": "Horsea"
+        },
+        {
+            "name": "Magikarp"
+        },
+        {
+            "name": "Gyarados"
+        },
+        {
+            "name": "Blastoise"
+        },
+        {
+            "name": "Tentacool"
+        },
+        {
+            "name": "Krabby"
+        },
+        {
+            "name": "Goldeen"
+        },
+        {
+            "name": "Seaking"
+        },
+        {
+            "name": "Staryu"
+        },
+        {
+            "name": "Starmie"
+        },
+        {
+            "name": "Lapras"
+        },
+        {
+            "name": "Shellder"
+        }
+    ],
+    "names": [
+        {
+            "name": "Wilton"
+        },
+        {
+            "name": "Fins"
+        },
+        {
+            "name": "Marvin"
+        },
+        {
+            "name": "Marlin"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Jill"
+        },
+        {
+            "name": "David"
+        },
+        {
+            "name": "Zack"
+        },
+        {
+            "name": "Dani"
+        },
+        {
+            "name": "Estefan"
+        },
+        {
+            "name": "Scott"
+        },
+        {
+            "name": "Todd"
+        },
+        {
+            "name": "Tom"
+        },
+        {
+            "name": "Mitchell"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¡El tipo agua es el mejor!",
+            "win": "¡Te dije que los Pokémon de tipo agua son los mejores!",
+            "lose": "Supongo que el tipo Agua no es el mejor."
+        },
+        {
+            "opening": "¡Intenta derrotar a mis Pokémon de tipo agua!",
+            "win": "¡Mis Pokémon de tipo Agua son los mejores!",
+            "lose": "¡Maldición! ¿¡Mis Pokémon de tipo Agua han perdido!?"
+        },
+        {
+            "opening": "¡Te apuesto a que no me puedes ganar!",
+            "win": "Sabía que te derrotaría.",
+            "lose": "Me has derrotado. Imposible."
+        },
+        {
+            "opening": "¿Tienes algún Pokémon de tipo Agua?",
+            "win": "Vale, te he derrotado. Ahora, ¿si no te importa mostrarme tus Pokémon de tipo Agua?.",
+            "lose": "Creo que los Pokémon de tipo Agua no son tan buenos después de todo."
+        },
+        {
+            "opening": "Te intercambio mi Pokémon de tipo Agua por algo.",
+            "win": "En realidad, ¡No quiero intercambiar! ¡Mi equipo es el mejor!",
+            "lose": "Entonces, ¿quieres intercambiar?"
+        },
+        {
+            "opening": "¿Quieres un combate?",
+            "win": "Gran batalla. Fue un verdadero reto para mí.",
+            "lose": "Ganó el mejor Entrenador."
+        },
+        {
+            "opening": "¡Hora de probar a mis Pokémon!",
+            "win": "Finalmente, mi entrenamiento ha dado resultados.",
+            "lose": "¡Necesito entrenar más!"
+        },
+        {
+            "opening": "¡Mis Pokémon son los mejores!",
+            "win": "¿Ves? Mis Pokemon son los mejores.",
+            "lose": "No, no no. ¡No es justo! ¡Has hecho trampas!"
+        },
+        {
+            "opening": "Me encanta pescar. ¿Y a ti?",
+            "win": "Te puedo enseñar a pescar si quieres.",
+            "lose": "Oh genial, he perdido. Creo que seguiré pescando."
+        },
+        {
+            "opening": "Desearía poder navegar através del mar.",
+            "win": "He ganado. Ahora debo encontrar a alguien que tenga la MO Surf.",
+            "lose": "Buen combate. ¿Sabes donde puedo conseguir Surf?"
+        },
+        {
+            "opening": "Parece que has estado viajando por todas partes.",
+            "win": "Chico sin suerte. Puede que la próxima vez.",
+            "lose": "Tus Pokémon son increibles. Tal vez deba intentar visitar mundo en vez de pescar todo el día."
+        },
+        {
+            "opening": "¿Te has preguntado alguna vez como es ser un Magikarp?",
+            "win": "Debe de ser genial poder nadar libremente por el océano.",
+            "lose": "No valgo como entrenador. ¡Desearía ser un Pokémon!"
+        },
+        {
+            "opening": "¿Crees que puedes derrotar a mis Pokémon de tipo Agua?",
+            "win": "¡Mis Pokémon de tipo Agua son invencibles!",
+            "lose": "¡OH NO! ¡Mis Pokémon de tipo Agua han perdido!"
+        },
+        {
+            "opening": "Has pasado delante de mí. Ahora tenemos que combatir.",
+            "win": "He ganado. Ahora tienes que correr al Centro Pokémon.",
+            "lose": "He perdido. Ahora debo ir corriendo al Centro Pokémon."
+        }
+    ]
+}

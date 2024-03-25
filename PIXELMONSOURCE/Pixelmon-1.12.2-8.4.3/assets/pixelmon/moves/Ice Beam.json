@@ -1,0 +1,58 @@
+{
+  "attackIndex": 105,
+  "attackName": "Ice Beam",
+  "attackType": "Ice",
+  "attackCategory": "SPECIAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Freeze",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Freeze"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255],
+				"variation": 0.6,
+				"speed": 0.6,
+				"scale": 0.4,
+				"segments": 20
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

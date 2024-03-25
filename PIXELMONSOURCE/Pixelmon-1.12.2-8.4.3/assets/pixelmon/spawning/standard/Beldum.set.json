@@ -1,0 +1,103 @@
+{
+  "id": "Beldum",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Beldum"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ],
+        "minY": 90
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Beldum"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mutated_ice_flats"
+        ],
+        "minY": 90
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Beldum"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Beldum"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 40
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "Venipede",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Venipede"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

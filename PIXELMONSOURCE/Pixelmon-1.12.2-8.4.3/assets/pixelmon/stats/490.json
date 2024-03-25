@@ -1,0 +1,264 @@
+{
+  "pixelmonName": "Manaphy",
+  "pokemon": "Manaphy",
+  "form": -1,
+  "stats": {
+    "HP": 100,
+    "Attack": 100,
+    "Defence": 100,
+    "Speed": 100,
+    "SpecialAttack": 100,
+    "SpecialDefence": 100
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Phione"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "weight": 1.4,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 1.0,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Hydration",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Fairy"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Bubble",
+      "Tail Glow",
+      "Water Sport"
+    ],
+    "9": [
+      "Charm"
+    ],
+    "16": [
+      "Supersonic"
+    ],
+    "24": [
+      "Bubble Beam"
+    ],
+    "31": [
+      "Acid Armor"
+    ],
+    "39": [
+      "Whirlpool"
+    ],
+    "46": [
+      "Water Pulse"
+    ],
+    "54": [
+      "Aqua Ring"
+    ],
+    "61": [
+      "Dive"
+    ],
+    "69": [
+      "Rain Dance"
+    ],
+    "76": [
+      "Heart Swap"
+    ]
+  },
+  "tutorMoves": [
+    "Bounce",
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Icy Wind",
+    "Knock Off",
+    "Last Resort",
+    "Liquidation",
+    "Signal Beam",
+    "Skill Swap",
+    "Snore",
+    "Uproar",
+    "Water Pulse"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Ancient Power",
+    "Brine",
+    "Endure",
+    "Flash",
+    "Mud-Slap",
+    "Natural Gift",
+    "Secret Power",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Fling",
+    "Giga Impact",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Skill Swap",
+    "Energy Ball",
+    "Brine",
+    "Fling",
+    "Endure",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,252 @@
+{
+  "pixelmonName": "Klinklang",
+  "pokemon": "Klinklang",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 100,
+    "Defence": 115,
+    "Speed": 90,
+    "SpecialAttack": 70,
+    "SpecialDefence": 85
+  },
+  "catchRate": 30,
+  "malePercent": -1,
+  "spawnLevel": 49,
+  "spawnLevelRange": 11,
+  "baseExp": 234,
+  "baseFriendship": 70,
+  "types": [
+    "Steel"
+  ],
+  "height": 0.6,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Klang",
+    "Klink"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.1,
+      "y": -1.05,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.1,
+      "y": -1.05,
+      "z": 0.0
+    }
+  },
+  "weight": 81.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 0.8,
+    "eye_height": 0.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "Plus",
+    "Minus",
+    "ClearBody"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bind",
+      "Charge",
+      "Gear Up",
+      "Magnetic Flux",
+      "Thunder Shock",
+      "Vise Grip"
+    ],
+    "12": [
+      "Charge Beam"
+    ],
+    "16": [
+      "Metal Sound"
+    ],
+    "20": [
+      "Autotomize"
+    ],
+    "24": [
+      "Discharge"
+    ],
+    "28": [
+      "Screech"
+    ],
+    "32": [
+      "Gear Grind"
+    ],
+    "36": [
+      "Lock-On"
+    ],
+    "42": [
+      "Shift Gear"
+    ],
+    "48": [
+      "Zap Cannon"
+    ],
+    "56": [
+      "Hyper Beam"
+    ],
+    "64": [
+      "Electric Terrain"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage",
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Gravity",
+    "Hidden Power",
+    "Magic Coat",
+    "Magnet Rise",
+    "Mirror Shot",
+    "Recycle",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Swagger",
+    "Telekinesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Uproar",
+    "Iron Defense",
+    "Power Gem",
+    "Flash Cannon",
+    "Ally Switch",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Screech",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Sandstorm",
+    "Facade",
+    "Assurance",
+    "Trick Room",
+    "Round",
+    "Volt Switch",
+    "Electric Terrain"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Giga Impact",
+    "Rock Polish",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Giga Impact",
+    "Rock Polish",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Giga Impact",
+    "Rock Polish",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Wild Charge",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

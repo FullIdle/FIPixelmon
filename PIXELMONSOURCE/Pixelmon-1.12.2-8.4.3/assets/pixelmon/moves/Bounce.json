@@ -1,0 +1,53 @@
+{
+  "attackIndex": 393,
+  "attackName": "Bounce",
+  "attackType": "Flying",
+  "attackCategory": "PHYSICAL",
+  "basePower": 85,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 85,
+  "makesContact": true,
+  "effects": [
+    {
+      "message": "pixelmon.effect.flyup",
+      "base": "Flying",
+      "type": "Flying",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "Fly"
+    },
+    {
+      "type": "Paralysis",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Supersonic Skystrike",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

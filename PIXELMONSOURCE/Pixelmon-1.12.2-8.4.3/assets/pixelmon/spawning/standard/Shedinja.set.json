@@ -1,0 +1,48 @@
+{
+  "id": "Shedinja",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shedinja"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Shedinja",
+        "form": 107
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+    "skins": [
+        {
+            "filename": "santa.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Babbo Natale"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Conosci Dasher e Dancer, Prancer e Vixen. Cometa e Cupido, Donner e Blitzen."
+                },
+                {
+                    "text": "Chi è Rudolph?"
+				},
+				{
+					"text": "Aveva un naso rosso? Non sembra in forma."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non ho una fabbrica di giocattoli, ma ho un blocco di comando.."
+                },
+                {
+                    "text": "Cosa vuoi per Natale? Potrei essere in grado di generarlo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Buon Natale!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Penso che la signora Claus abbia cambiato i miei biscotti con gocce di cioccolato con l'uvetta."
+                },
+                {
+                    "text": "La sto mettendo nella lista dei cattivi."
+                }
+            ]
+        }
+    ]
+}

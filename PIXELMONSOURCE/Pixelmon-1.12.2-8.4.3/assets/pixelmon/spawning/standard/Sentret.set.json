@@ -1,0 +1,22 @@
+{
+  "id": "Sentret",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sentret"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 300.0
+    }
+  ]
+}

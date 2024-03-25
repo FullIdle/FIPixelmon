@@ -1,0 +1,79 @@
+{
+  "id": 492,
+  "setId": 7,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 150,
+  "code": "GYMC39",
+  "name": "card.GYMC39.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC39",
+      "attackNumber": 1,
+      "name": "attack.GYMC39.1.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMC39.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC39",
+      "attackNumber": 2,
+      "name": "attack.GYMC39.2.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMC39.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC39",
+      "attackNumber": 3,
+      "name": "attack.GYMC39.3.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC",
+        "PSYCHIC",
+        "COLORLESS"
+      ],
+      "damage": 60,
+      "modifier": null,
+      "text": "attack.GYMC39.3.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

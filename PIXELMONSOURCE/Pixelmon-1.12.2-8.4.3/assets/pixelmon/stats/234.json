@@ -1,0 +1,397 @@
+{
+  "pixelmonName": "Stantler",
+  "pokemon": "Stantler",
+  "form": 0,
+  "stats": {
+    "HP": 73,
+    "Attack": 95,
+    "Defence": 62,
+    "Speed": 85,
+    "SpecialAttack": 85,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.4,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.3
+    }
+  },
+  "weight": 71.2,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.4,
+    "eye_height": 1.2
+  },
+  "evolutions": [
+    {
+      "level": 21,
+      "to": {
+        "name": "Wyrdeer"
+      },
+      "conditions": [
+        {
+          "withPokemon": [],
+          "withTypes": [],
+          "withForms": [
+            "HISUIAN"
+          ],
+          "evoConditionType": "party"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": []
+    }
+  ],
+  "abilities": [
+    "Intimidate",
+    "Frisk",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Me First",
+      "Tackle"
+    ],
+    "3": [
+      "Leer"
+    ],
+    "7": [
+      "Astonish"
+    ],
+    "10": [
+      "Hypnosis"
+    ],
+    "13": [
+      "Stomp"
+    ],
+    "16": [
+      "Sand Attack"
+    ],
+    "21": [
+      "Take Down"
+    ],
+    "23": [
+      "Confuse Ray"
+    ],
+    "27": [
+      "Calm Mind"
+    ],
+    "33": [
+      "Role Play"
+    ],
+    "38": [
+      "Zen Headbutt"
+    ],
+    "43": [
+      "Jump Kick"
+    ],
+    "49": [
+      "Imprison"
+    ],
+    "50": [
+      "Captivate"
+    ],
+    "55": [
+      "Me First"
+    ]
+  },
+  "tutorMoves": [
+    "Bounce",
+    "Gravity",
+    "Iron Tail",
+    "Last Resort",
+    "Magic Room",
+    "Role Play",
+    "Shock Wave",
+    "Signal Beam",
+    "Skill Swap",
+    "Snore",
+    "Spite",
+    "Throat Chop",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Bite",
+    "Disable",
+    "Double Kick",
+    "Extrasensory",
+    "Me First",
+    "Megahorn",
+    "Mud Sport",
+    "Rage",
+    "Spite",
+    "Thrash",
+    "Zen Headbutt"
+  ],
+  "transferMoves": [
+    "Body Slam",
+    "Curse",
+    "Detect",
+    "Double-Edge",
+    "Endure",
+    "Flash",
+    "Headbutt",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Nightmare",
+    "Retaliate",
+    "Secret Power",
+    "Sucker Punch",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room",
+    "Wild Charge"
+  ],
+  "tmMoves4": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap",
+    "Energy Ball",
+    "Charge Beam",
+    "Endure",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room"
+  ],
+  "tmMoves3": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Roar",
+    "Toxic",
+    "Psych Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Dream Eater",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Nightmare"
+  ],
+  "forms": {}
+}

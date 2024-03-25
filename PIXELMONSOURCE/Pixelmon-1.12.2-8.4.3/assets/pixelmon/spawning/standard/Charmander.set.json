@@ -1,0 +1,29 @@
+{
+  "id": "Charmander",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Charmander"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mutated_mesa"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

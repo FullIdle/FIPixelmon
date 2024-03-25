@@ -1,0 +1,45 @@
+{
+  "attackIndex": 634,
+  "attackName": "First Impression",
+  "attackType": "Bug",
+  "attackCategory": "PHYSICAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "priority": 2,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FakeOut"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "buginium_z",
+      "attackName": "Savage Spin-Out",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

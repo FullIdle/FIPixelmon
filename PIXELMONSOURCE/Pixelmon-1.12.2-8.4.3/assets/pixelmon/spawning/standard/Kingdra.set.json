@@ -1,0 +1,29 @@
+{
+  "id": "Kingdra",
+  "spawnInfos": [
+	  {
+      "spec": {
+        "name": "Kingdra",
+        "form": 102
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:infinite_ocean"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

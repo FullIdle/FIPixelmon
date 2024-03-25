@@ -1,0 +1,31 @@
+{
+    "rewards": {
+        "recipes": [
+            "pixelmon:anvil"
+        ]
+    },
+    "criteria": {
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "pixelmon:anvil"
+            }
+        },
+        "has_iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_iron"
+        ]
+    ]
+}

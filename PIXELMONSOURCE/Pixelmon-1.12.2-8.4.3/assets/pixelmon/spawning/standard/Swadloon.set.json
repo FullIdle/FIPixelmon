@@ -1,0 +1,35 @@
+{
+  "id": "Swadloon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Swadloon"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 20,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "forests",
+          "flowery",
+          "bamboo_forest"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

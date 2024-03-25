@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "madame.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Liliane"
+    },
+    {
+      "name": "Christy"
+    },
+    {
+      "name": "Abigail"
+    },
+    {
+      "name": "Jacqueline"
+    },
+    {
+      "name": "Charlene"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Was für ein reizendes Dörfchen. Schaut euch diese Tagelöhner an, die um ihr Leben arbeiten müssen."
+        },
+        {
+          "text": "Ich wende mich nun wichtigeren Dingen zu. Ich muss noch einen Diamanten kaufen."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich frage mich wo mein Chauffeur steckt. Er ist schon MINUTENLANG mit dem Auto weg."
+        },
+        {
+          "text": "Es ist mir unmöglich mit diesen Schuhen noch länger hier herumzustehen."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Superbälle? Oh, Kindchen die haben einfach keinen Stil. Meine Pokébälle sind aus reinem Gold."
+        },
+        {
+          "text": "Aber sie werden sehr schnell schmutzig, sodass ich sie oft ersetzen muss. Ach je!"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich habe meinen Enkelsohn mit so wenig in die Welt entlassen. Er hat nur ein Rattata."
+        },
+        {
+          "text": "Und seinen blauen Anzug. Und nichts als fünf millionen Pokédollars in bar. Ich hoffe er überlebt."
+        }
+      ]
+    }
+  ]
+}

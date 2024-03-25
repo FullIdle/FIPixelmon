@@ -1,0 +1,52 @@
+{
+  "attackIndex": 407,
+  "attackName": "Miracle Eye",
+  "attackType": "Psychic",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 40,
+  "ppMax": 64,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Foresight",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Foresight"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Miracle Eye",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "SpecialAttack",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

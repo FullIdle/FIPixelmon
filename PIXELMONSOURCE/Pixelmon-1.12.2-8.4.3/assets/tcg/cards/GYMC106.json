@@ -1,0 +1,61 @@
+{
+  "id": 559,
+  "setId": 7,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 29,
+  "code": "GYMC106",
+  "name": "card.GYMC106.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC106",
+      "attackNumber": 1,
+      "name": "attack.GYMC106.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMC106.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC106",
+      "attackNumber": 2,
+      "name": "attack.GYMC106.2.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.GYMC106.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

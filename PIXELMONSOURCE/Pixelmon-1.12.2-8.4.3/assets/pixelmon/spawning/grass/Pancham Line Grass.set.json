@@ -1,0 +1,60 @@
+{
+  "id": "Pancham Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pancham"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Pangoro"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

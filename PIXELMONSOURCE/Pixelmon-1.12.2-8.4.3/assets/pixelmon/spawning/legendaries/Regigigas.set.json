@@ -1,0 +1,30 @@
+{
+  "id": "Regigigas",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Regigigas",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ],
+        "maxY": 40
+      },
+      "rarity": 1.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "attackIndex": 636,
+  "attackName": "Floral Healing",
+  "attackType": "Fairy",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "increment": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recover"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Z-Floral Healing",
+      "basePower": 0,
+      "effects": [
+	    {
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Haze",
+		  "onlyLowered": true
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

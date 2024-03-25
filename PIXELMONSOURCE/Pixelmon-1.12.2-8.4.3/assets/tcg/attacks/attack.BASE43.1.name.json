@@ -1,0 +1,20 @@
+{
+  "cardCode": "BASE43",
+  "attackNumber": 1,
+  "name": "attack.BASE43.1.name",
+  "energy": [
+    "PSYCHIC"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.BASE43.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:PARALYZED",
+  "effects": [
+    {
+      "condition": "PARALYZED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

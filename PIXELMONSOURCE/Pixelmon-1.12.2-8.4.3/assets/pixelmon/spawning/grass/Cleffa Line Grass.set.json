@@ -1,0 +1,130 @@
+{
+  "id": "Cleffa Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cleffa"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Clefairy"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 70
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Clefairy"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Clefable"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 70
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Clefable"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

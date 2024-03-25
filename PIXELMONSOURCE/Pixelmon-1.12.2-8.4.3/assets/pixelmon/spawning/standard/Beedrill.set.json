@@ -1,0 +1,69 @@
+{
+  "id": "Beedrill",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Beedrill",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "forests",
+          "taigas"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Beedrill",
+        "form": 108
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "forests",
+          "taigas"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

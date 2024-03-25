@@ -1,0 +1,55 @@
+{
+  "attackIndex": 353,
+  "attackName": "Snatch",
+  "attackType": "Dark",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "priority": 4,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "type": "Snatch",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Snatch"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "darkinium_z",
+      "attackName": "Z-Snatch",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Speed",
+		  "amount": 2,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

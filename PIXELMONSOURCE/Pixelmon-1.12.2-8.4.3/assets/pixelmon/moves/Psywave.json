@@ -1,0 +1,39 @@
+{
+  "attackIndex": 180,
+  "attackName": "Psywave",
+  "attackType": "Psychic",
+  "attackCategory": "SPECIAL",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Psywave"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Shattered Psyche",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

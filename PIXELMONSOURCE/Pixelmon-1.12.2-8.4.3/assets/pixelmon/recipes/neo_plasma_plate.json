@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "CCC",
+    "SSS"
+  ],
+  "key": {
+    "C": {
+      "type": "forge:ore_dict",
+      "ore": "gemCrystal"
+    },
+	"S": {
+      "item": "pixelmon:silicon"
+    }
+  },
+  "result": {
+    "item": "pixelmon:neo_plasma_plate",
+    "count": 1
+  }
+}

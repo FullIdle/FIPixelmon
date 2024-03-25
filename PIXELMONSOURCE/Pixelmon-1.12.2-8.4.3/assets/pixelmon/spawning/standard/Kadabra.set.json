@@ -1,0 +1,51 @@
+{
+  "id": "Kadabra",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kadabra"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Kadabra"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

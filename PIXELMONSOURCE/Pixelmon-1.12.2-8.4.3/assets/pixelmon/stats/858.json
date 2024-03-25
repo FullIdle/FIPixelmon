@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Hatterene",
+  "pokemon": "Hatterene",
+  "form": 0,
+  "stats": {
+    "HP": 57,
+    "Attack": 90,
+    "Defence": 95,
+    "SpecialAttack": 136,
+    "SpecialDefence": 103,
+    "Speed": 29
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 55,
+  "spawnLevelRange": 3,
+  "baseExp": 255,
+  "baseFriendship": 50,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Hattrem",
+    "Hatenna"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.3,
+      "z": -0.5
+    }
+  },
+  "weight": 5.1,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.8,
+    "eye_height": 1.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    "Anticipation",
+    "MagicBounce"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Brutal Swing",
+      "Confusion",
+      "Disarming Voice",
+      "Life Dew",
+      "Play Nice",
+      "Psycho Cut"
+    ],
+    "15": [
+      "Aromatherapy"
+    ],
+    "20": [
+      "Psybeam"
+    ],
+    "25": [
+      "Heal Pulse"
+    ],
+    "30": [
+      "Dazzling Gleam"
+    ],
+    "37": [
+      "Calm Mind"
+    ],
+    "46": [
+      "Psychic"
+    ],
+    "55": [
+      "Healing Wish"
+    ],
+    "64": [
+      "Magic Powder"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force",
+    "Misty Explosion"
+  ],
+  "eggMoves": [
+    "After You",
+    "Aromatic Mist",
+    "Nuzzle",
+    "Quash"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Psychic",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Shadow Ball",
+    "Future Sight",
+    "Skill Swap",
+    "Calm Mind",
+    "Dark Pulse",
+    "Power Whip",
+    "Stored Power",
+    "Play Rough",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Magical Leaf",
+    "Thunder Wave",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Charm",
+    "Attract",
+    "Facade",
+    "Helping Hand",
+    "Imprison",
+    "Power Swap",
+    "Guard Swap",
+    "Shadow Claw",
+    "Psycho Cut",
+    "Trick Room",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Draining Kiss",
+    "Mystical Fire",
+    "Brutal Swing"
+  ]
+}

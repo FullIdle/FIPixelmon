@@ -1,0 +1,56 @@
+{
+    "skins": [
+        {
+            "filename": "lass2.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Amy"
+        },
+        {
+            "name": "Jade"
+        },
+        {
+            "name": "Hermione"
+        },
+        {
+            "name": "Coraline"
+        },
+        {
+            "name": "Usagi"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I caught a Pidgey again. I think I'm going to start a collection."
+                },
+                {
+                    "text": "Then maybe I'll release them all at the same time, in class."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I've seen a documentary about the savanna and now I want a Shinx."
+                },
+                {
+                    "text": "But a Ranger told me it'd be \"environmentally irresponsible\". That's so unfair."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My mom took me to the circus last week!"
+                },
+                {
+                    "text": "I saw two Spheal juggling a third one. I didn't know they could do that."
+                }
+            ]
+        }
+    ]
+}

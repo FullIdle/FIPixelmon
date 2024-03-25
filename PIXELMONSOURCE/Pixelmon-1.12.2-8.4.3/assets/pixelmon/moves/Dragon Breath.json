@@ -1,0 +1,53 @@
+{
+  "attackIndex": 310,
+  "attackName": "Dragon Breath",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 60,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Paralysis",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL"
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "dragonium_z",
+      "attackName": "Devastating Drake",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

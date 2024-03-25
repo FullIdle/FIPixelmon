@@ -1,0 +1,51 @@
+{
+  "id": "Woobat Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Woobat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "redwoods"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Swoobat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 27,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "redwoods"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

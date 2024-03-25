@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+			"item": "pixelmon:poke_ball"
+		},
+		"title": {
+			"translate": "advancements.wild_battle_victory_50000.title"
+		},
+		"description": {
+			"translate": "advancements.wild_battle_victory_50000.description"
+		},
+		"background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+		"hidden": false
+	},
+	"parent": "pixelmon:wild_battle_victories/wild_battle_victory_5000",
+	"criteria": {
+		"wild_battle_victory_50000": {
+			"trigger": "pixelmon:wild_battle_victory_trigger",
+			"conditions" : {
+				"wild_kills" : 50000
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"half=bottom,variant=default": { "model": "pixelmon:half_slab_temple_brick" },
+		"half=top,variant=default": { "model": "pixelmon:upper_slab_temple_brick" }
+	}
+}

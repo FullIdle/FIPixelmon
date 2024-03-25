@@ -1,0 +1,39 @@
+{
+  "attackIndex": 302,
+  "attackName": "Fury Cutter",
+  "attackType": "Bug",
+  "attackCategory": "PHYSICAL",
+  "basePower": 40,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 95,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FuryCutter"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "buginium_z",
+      "attackName": "Savage Spin-Out",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

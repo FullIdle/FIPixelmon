@@ -1,0 +1,46 @@
+{
+  "id": 179,
+  "setId": 3,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 89,
+  "code": "FOSS13",
+  "name": "card.FOSS13.name",
+  "description": "",
+  "previousPokemonId": 88,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS13",
+      "attackNumber": 1,
+      "name": "attack.FOSS13.1.name",
+      "energy": [
+        "GRASS",
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.FOSS13.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:POISONED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "ToxicGas"
+}

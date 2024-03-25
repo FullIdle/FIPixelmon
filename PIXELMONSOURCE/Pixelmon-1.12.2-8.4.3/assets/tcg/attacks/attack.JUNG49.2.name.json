@@ -1,0 +1,22 @@
+{
+  "cardCode": "JUNG49",
+  "attackNumber": 2,
+  "name": "attack.JUNG49.2.name",
+  "energy": [
+    "GRASS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG49.2.text",
+  "effectsString": "FIND_POKEMON:1:POKEMON:69",
+  "effects": [
+    {
+      "count": 1,
+      "type": "ByPokemon",
+      "pokedexNumbers": [
+        69
+      ],
+      "energy": null
+    }
+  ]
+}

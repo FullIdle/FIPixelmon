@@ -1,0 +1,40 @@
+{
+  "id": "Mightyena",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mightyena"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods",
+          "forest",
+          "birch_forest",
+          "evil"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 7.0
+    }
+  ]
+}

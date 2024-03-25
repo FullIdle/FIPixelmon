@@ -1,0 +1,291 @@
+{
+  "pixelmonName": "Snover",
+  "pokemon": "Snover",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 62,
+    "Defence": 50,
+    "Speed": 40,
+    "SpecialAttack": 62,
+    "SpecialDefence": 60
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 5,
+  "baseExp": 131,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Ice"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 50.5,
+  "bounding_box": {
+    "width": 1.1,
+    "height": 0.9,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Abomasnow"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Ice Punch"
+      ]
+    }
+  ],
+  "abilities": [
+    "SnowWarning",
+    null,
+    "Soundproof"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Powder Snow"
+    ],
+    "5": [
+      "Leafage"
+    ],
+    "10": [
+      "Mist"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Razor Leaf"
+    ],
+    "25": [
+      "Icy Wind"
+    ],
+    "30": [
+      "Swagger"
+    ],
+    "35": [
+      "Ingrain"
+    ],
+    "41": [
+      "Wood Hammer"
+    ],
+    "45": [
+      "Blizzard"
+    ],
+    "50": [
+      "Sheer Cold"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Growth",
+    "Leech Seed",
+    "Skull Bash",
+    "Stomp"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Flash",
+    "Frost Breath",
+    "Frustration",
+    "Grass Whistle",
+    "Headbutt",
+    "Hidden Power",
+    "Mud-Slap",
+    "Natural Gift",
+    "Return",
+    "Role Play",
+    "Secret Power",
+    "Synthesis",
+    "Toxic",
+    "Water Pulse",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Ice Beam",
+    "Blizzard",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Seed Bomb",
+    "Energy Ball",
+    "Grass Knot"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Ice Punch",
+    "Magical Leaf",
+    "Solar Beam",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Weather Ball",
+    "Bullet Seed",
+    "Avalanche",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Swords Dance",
+    "Frost Breath",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Frost Breath",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Frost Breath",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Bullet Seed",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Energy Ball",
+    "Endure",
+    "Flash",
+    "Avalanche",
+    "Swords Dance",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

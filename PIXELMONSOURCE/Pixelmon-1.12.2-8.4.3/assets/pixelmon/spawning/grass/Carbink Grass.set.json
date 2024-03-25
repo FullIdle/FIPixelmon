@@ -1,0 +1,25 @@
+{
+  "id": "Carbink Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Carbink"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 12,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

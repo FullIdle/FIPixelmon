@@ -1,0 +1,60 @@
+package com.pixelmonmod.pixelmon.enums.items;
+
+import java.util.Locale;
+
+public enum EnumBadges {
+   BalanceBadge,
+   BeaconBadge,
+   BoulderBadge,
+   CascadeBadge,
+   CoalBadge,
+   CobbleBadge,
+   DynamoBadge,
+   EarthBadge,
+   FeatherBadge,
+   FenBadge,
+   FogBadge,
+   ForestBadge,
+   GlacierBadge,
+   HeatBadge,
+   HiveBadge,
+   IcicleBadge,
+   KnuckleBadge,
+   MarshBadge,
+   MindBadge,
+   MineBadge,
+   MineralBadge,
+   PlainBadge,
+   RainbowBadge,
+   RainBadge,
+   RelicBadge,
+   RisingBadge,
+   SoulBadge,
+   StoneBadge,
+   StormBadge,
+   ThunderBadge,
+   VolcanoBadge,
+   ZephyrBadge,
+   BasicBadge,
+   BoltBadge,
+   FreezeBadge,
+   InsectBadge,
+   JetBadge,
+   LegendBadge,
+   QuakeBadge,
+   ToxicBadge,
+   TrioBadge,
+   WaveBadge,
+   BugBadge,
+   CliffBadge,
+   RumbleBadge,
+   PlantBadge,
+   VoltageBadge,
+   FairyBadge,
+   PsychicBadge,
+   IcebergBadge;
+
+   public String getFileName() {
+      return this.toString().toLowerCase(Locale.US).replace("badge", "_badge");
+   }
+}

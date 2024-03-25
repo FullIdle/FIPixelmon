@@ -1,0 +1,61 @@
+{
+  "id": "Trubbish Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Trubbish"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 23,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silk_scarf",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mutated_swampland"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Garbodor"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 37,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:silk_scarf",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mutated_swampland"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

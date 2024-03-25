@@ -1,0 +1,28 @@
+{
+  "id": "Reshiram",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Reshiram",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "redwood_taiga_hills"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

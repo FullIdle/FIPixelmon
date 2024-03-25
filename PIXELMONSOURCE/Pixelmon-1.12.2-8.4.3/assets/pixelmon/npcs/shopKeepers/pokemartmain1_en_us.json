@@ -1,0 +1,188 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shopman2.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Charles"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to my Poké Mart. I hope you find something you like!",
+      "goodbye": "See you next time."
+    },
+    {
+      "hello": "Hello, welcome to the Poké Mart. How may I help you?",
+      "goodbye": "Thank you for shopping at the Poké Mart. Have a nice day."
+    },
+    {
+      "hello": "Hello there! Welcome to my Poké Mart. I have only the best Pokémon products for sale.",
+      "goodbye": "Thank you for shopping at my store."
+    },
+    {
+      "hello": "Welcome to my Poké Mart. Nice day for shopping, isn't it?",
+      "goodbye": "Come back soon, won't you?"
+    },
+    {
+      "hello": "Hello there, welcome to the Poké Mart! We have many specials today!",
+      "goodbye": "Come see us again, won't you?"
+    },
+    {
+      "hello": "Hey there, welcome to the Poké Mart. Looking for anything special?",
+      "goodbye": "Okay, see ya next time."
+    },
+    {
+      "hello": "How are you? Welcome to our Poké Mart! We've got some great gear for your Pokémon.",
+      "goodbye": "Ciao, my friend. Come back anytime."
+    },
+    {
+      "hello": "Hello, check out our Poké Mart! We have some useful Pokémon gear today.",
+      "goodbye": "Come back again soon, okay?"
+    },
+    {
+      "hello": "Hi, looking for the best Poké Mart? Well, you just found it!",
+      "goodbye": "Leaving so soon? Well, make sure you come back even sooner!"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:poke_ball",
+      "multi": 0.9
+    },
+    {
+      "name": "pixelmon:great_ball"
+    },
+    {
+      "name": "pixelmon:ultra_ball",
+      "multi": 1.1,
+      "rarity": 0.7
+    },
+    {
+      "name": "pixelmon:luxury_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:potion"
+    },
+    {
+      "name": "pixelmon:super_potion"
+    },
+    {
+      "name": "pixelmon:hyper_potion",
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:max_potion",
+      "rarity": 0.1,
+      "multi": 0.8
+    },
+    {
+      "name": "pixelmon:pp_up",
+      "rarity": 0.4
+    },
+    {
+      "name": "pixelmon:pp_max",
+      "rarity": 0.05
+    },
+    {
+      "name": "pixelmon:full_restore",
+      "rarity": 0.1
+    },
+    {
+      "name": "pixelmon:full_heal"
+    },
+	  {
+      "name": "pixelmon:big_malasada"
+    },
+	  {
+      "name": "pixelmon:rage_candy_bar"
+    },
+	  {
+      "name": "pixelmon:lumiose_galette"
+    },
+	  {
+      "name": "pixelmon:casteliacone"
+    },
+	  {
+      "name": "pixelmon:old_gateau"
+    },
+	  {
+      "name": "pixelmon:lava_cookie"
+    },
+	  {
+      "name": "pixelmon:shalour_sable"
+    },
+    {
+      "name": "pixelmon:komala_coffee"
+    },
+    {
+      "name": "pixelmon:tapu_cocoa"
+    },
+    {
+      "name": "pixelmon:roserade_tea"
+    },
+    {
+      "name": "pixelmon:pinap_juice"
+    },
+    {
+      "name": "pixelmon:skitty_smoothie"
+    },
+    {
+      "name": "pixelmon:antidote",
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:awakening",
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:burn_heal",
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:ice_heal",
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:paralyze_heal",
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:revive",
+      "rarity": 0.8
+    }
+  ]
+}

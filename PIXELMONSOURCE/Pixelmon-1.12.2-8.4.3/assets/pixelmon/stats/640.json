@@ -1,0 +1,293 @@
+{
+  "pixelmonName": "Virizion",
+  "pokemon": "Virizion",
+  "form": 0,
+  "stats": {
+    "HP": 91,
+    "Attack": 90,
+    "Defence": 72,
+    "Speed": 108,
+    "SpecialAttack": 90,
+    "SpecialDefence": 129
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Grass",
+    "Fighting"
+  ],
+  "height": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.25
+    }
+  },
+  "weight": 200.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.8,
+    "eye_height": 1.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Helping Hand",
+      "Leer",
+      "Quick Attack",
+      "Work Up"
+    ],
+    "7": [
+      "Magical Leaf"
+    ],
+    "14": [
+      "Quick Guard"
+    ],
+    "21": [
+      "Double Kick"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "35": [
+      "Giga Drain"
+    ],
+    "42": [
+      "Take Down"
+    ],
+    "49": [
+      "Sacred Sword"
+    ],
+    "56": [
+      "Swords Dance"
+    ],
+    "63": [
+      "Leaf Blade"
+    ],
+    "70": [
+      "Close Combat"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching",
+    "Grassy Glide"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Aerial Ace",
+    "Block",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Nature Power",
+    "Psych Up",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Synthesis",
+    "Toxic",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Megahorn",
+    "Taunt",
+    "Superpower",
+    "Calm Mind",
+    "Leaf Blade",
+    "Close Combat",
+    "Seed Bomb",
+    "X-Scissor",
+    "Focus Blast",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Leaf Storm",
+    "Stone Edge",
+    "Grass Knot",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Magical Leaf",
+    "Solar Beam",
+    "Solar Blade",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Revenge",
+    "Brick Break",
+    "Bounce",
+    "Round",
+    "Retaliate",
+    "False Swipe",
+    "Air Slash",
+    "Smart Strike"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

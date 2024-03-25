@@ -1,0 +1,61 @@
+{
+  "id": "Volcarona",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Volcarona",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "desert_hills"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Volcarona",
+        "form": 107
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "desert_hills"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

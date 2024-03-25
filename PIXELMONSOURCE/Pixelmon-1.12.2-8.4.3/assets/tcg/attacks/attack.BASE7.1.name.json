@@ -1,0 +1,13 @@
+{
+  "cardCode": "BASE7",
+  "attackNumber": 1,
+  "name": "attack.BASE7.1.name",
+  "energy": [
+    "FIGHTING"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

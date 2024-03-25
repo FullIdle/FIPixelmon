@@ -1,0 +1,15 @@
+{
+  "cardCode": "TERO38",
+  "attackNumber": 1,
+  "name": "attack.TERO38.1.name",
+  "energy": [
+    "LIGHTNING"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.TERO38.1.text",
+  "effectsString": "SANDATTACK",
+  "effects": [
+    {}
+  ]
+}

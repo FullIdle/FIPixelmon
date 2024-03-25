@@ -1,0 +1,86 @@
+{
+    "data": {
+        "trainerType": "Gentleman",
+        "minLevel": 7,
+        "maxLevel": 12,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 2,
+        "winnings": 200,
+        "rarity": 6,
+        "spawnBiomes": "Plains"
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Pikachu"
+        },
+        {
+            "name": "Grimer"
+        }
+    ],
+    "names": [
+        {
+            "name": "溫斯頓"
+        },
+        {
+            "name": "羅伯特"
+        },        
+        {
+            "name": "魯珀特"
+        },        
+        {
+            "name": "海因里希"
+        },        
+        {
+            "name": "伯特倫"
+        },        
+        {
+            "name": "蒙塔古"
+        },        
+        {
+            "name": "肯尼思"
+        },        
+        {
+            "name": "華萊士"
+        },        
+        {
+            "name": "蘭多夫"
+        },        
+        {
+            "name": "威爾弗雷德"
+        },
+        {
+            "name": "威廉"
+        },
+        {
+            "name": "金斯利"
+        },
+        {
+            "name": "林肯"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "我擁有一個豪宅。",
+            "win": "這是一個紳士的遊戲。",
+            "lose": "你怎麼這麼沒禮貌。"
+        },        
+        {
+            "opening": "您好。",
+            "win": "對我來說今天是更好的一天。",
+            "lose": "你怎麼如此無禮不回答我。"
+        },        
+        {
+            "opening": "花式的紳士般對戰？",
+            "win": "看樣子我已經你了。",
+            "lose": "你是多麼地野蠻。"
+        },
+        {
+            "opening": "賺錢不是我的唯一專長。",
+            "win": "我還有很多其他專長。",
+            "lose": "也許我需要更多的練習。"
+        }
+    ]
+}

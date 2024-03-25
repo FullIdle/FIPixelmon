@@ -1,0 +1,80 @@
+{
+  "id": "Elgyem Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Elgyem"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Elgyem"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Beheeyem"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Beheeyem"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "Burmy Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Burmy",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Burmy"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Wormadam",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 20,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Wormadam"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 20,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Mothim",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 20,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Mothim"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 20,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

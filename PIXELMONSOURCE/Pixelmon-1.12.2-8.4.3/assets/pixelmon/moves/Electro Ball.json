@@ -1,0 +1,49 @@
+{
+  "attackIndex": 497,
+  "attackName": "Electro Ball",
+  "attackType": "Electric",
+  "attackCategory": "SPECIAL",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ElectroBall"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 102],
+				"scale": 0.5
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "electrium_z",
+      "attackName": "Gigavolt Havoc",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

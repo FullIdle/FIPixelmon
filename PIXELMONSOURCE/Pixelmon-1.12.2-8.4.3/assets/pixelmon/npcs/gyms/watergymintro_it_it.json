@@ -1,0 +1,25 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "sailor.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Ekitai"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Benvenuti nella Fortezza del nuotatore."
+        },
+        {
+          "text": "Il nostro capopalestra ama lavare via i suoi avversari!"
+        }
+      ]
+    }
+  ]
+}

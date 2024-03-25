@@ -1,0 +1,55 @@
+{
+  "id": "Milcery Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Milcery"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:strawberry_sweet",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:flower_sweet",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:love_sweet",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:berry_sweet",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:clover_sweet",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:star_sweet",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ribbon_sweet",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

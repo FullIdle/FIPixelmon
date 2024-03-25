@@ -1,0 +1,54 @@
+{
+  "id": "Talonflame",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Talonflame",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "freezing forests",
+          "taigas"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Talonflame",
+        "form": 113
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "birches",
+          "freezing forests",
+          "taigas"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

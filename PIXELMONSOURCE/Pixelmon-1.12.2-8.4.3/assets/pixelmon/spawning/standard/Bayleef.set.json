@@ -1,0 +1,36 @@
+{
+  "id": "Bayleef",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bayleef"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains",
+          "flowery"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

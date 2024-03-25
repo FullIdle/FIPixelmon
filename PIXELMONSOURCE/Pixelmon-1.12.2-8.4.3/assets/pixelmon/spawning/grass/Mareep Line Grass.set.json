@@ -1,0 +1,69 @@
+{
+  "id": "Mareep Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mareep",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Flaaffy"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Ampharos"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

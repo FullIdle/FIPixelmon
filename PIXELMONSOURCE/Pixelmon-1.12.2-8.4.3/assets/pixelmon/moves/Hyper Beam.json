@@ -1,0 +1,98 @@
+{
+  "attackIndex": 57,
+  "attackName": "Hyper Beam",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 150,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Recharge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recharge"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 0],
+				"variation": 0.8,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 26
+			},
+			"5": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 153, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 1
+			},
+			"10": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 153, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 2
+			},
+			"15": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 153, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 2
+			},
+			"20": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 153, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 1
+			},
+			"25": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 153, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 200,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

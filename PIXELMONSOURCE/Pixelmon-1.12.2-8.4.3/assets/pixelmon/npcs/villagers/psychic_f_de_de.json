@@ -1,0 +1,67 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Maria"
+        },
+        {
+            "name": "Mme. Voyeuse"
+        },
+        {
+            "name": "Lutetia"
+        },
+        {
+            "name": "Ariadne"
+        },
+        {
+            "name": "Natasha"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Du willst eine Demonstration? Ha! Du musst zuerst meine Handfläche mit Gold überqueren."
+                },
+                {
+                    "text": "Ich kann schon sehen, dass du in Schwierigkeiten geraten bist!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich kann deine Gedanken lesen. Sie sind mit Pokémon gefüllt, nichts als Pokémon."
+                },
+                {
+                    "text": "Das ist wirklich nicht interessant für mich. Weg mit dir!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich habe die Macht, deine Zukunft vorherzusagen! Ich sehe viele Schlachten und ein bisschen Ruhm."
+                },
+                {
+                    "text": "Ich bin mir sicher, dass ich für ein paar Goldstücke mehr Ruhm sehen würde."
+                }
+            ]
+        },
+        {
+
+            "lines": [
+                {
+                    "text": "Sie sind zum größten Wahrsager der Welt gekommen! Fragen Sie, und ich werde alles offenbaren!"
+                },
+                {
+                    "text": "Welches Pokémon solltest du in der nächsten Schlacht einsetzen? Woher soll ich das wissen? Mit dir ausgehen!"
+                }
+            ]
+        }
+    ]
+}

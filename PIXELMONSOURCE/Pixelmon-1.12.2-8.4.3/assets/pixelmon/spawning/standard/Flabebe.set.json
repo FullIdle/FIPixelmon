@@ -1,0 +1,27 @@
+{
+  "id": "Flabebe",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Flabebe"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 6,
+      "maxLevel": 18,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+    "skins": [
+        { 
+            "filename": "officerjenny.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Agent Jenny"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Hé, est-ce que tous ces Pokémon sont à vous ? Prenez-en bien soin !"
+                },
+                {
+                    "text": "Je reviendrai vérifier !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Avez-vous remarqué un signe de la Team Rocket ? J'ai entendu dire qu'on les avait vu dans le coin."
+                },
+                {
+                    "text": "Vous avez vu la Team Rocket dans la ville voisine ? Merci bien ! Je m'en occupe !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Attention aux voleurs de Pokémon. On a reçu des plaintes, récemment."
+                },
+                {
+                    "text": "Vous n'en êtes pas un, quand même ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'adore ce boulot ! Je peu chercher les fauteurs de trouble et tout arranger !"
+                },
+                {
+                    "text": "Voleurs de Pokémon, arnaqueurs, ecrocs en tout genre ! Gare à l'Agent Jenny!"
+                }
+            ]
+        }
+    ]
+}

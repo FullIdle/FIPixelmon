@@ -1,0 +1,34 @@
+{
+  "id": "Leavanny",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Leavanny"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "forests",
+          "flowery",
+          "bamboo_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

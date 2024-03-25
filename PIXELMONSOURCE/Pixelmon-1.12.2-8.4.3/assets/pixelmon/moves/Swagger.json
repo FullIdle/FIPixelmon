@@ -1,0 +1,55 @@
+{
+  "attackIndex": 37,
+  "attackName": "Swagger",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Attack",
+      "amount": 2,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "Confusion",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Confusion"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Swagger",
+      "basePower": 0,
+      "effects": [
+	    {
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Haze",
+		  "onlyLowered": true
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

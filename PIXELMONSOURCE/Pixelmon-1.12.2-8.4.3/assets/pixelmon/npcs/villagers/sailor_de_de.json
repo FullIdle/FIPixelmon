@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "sailor.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Johann"
+    },
+    {
+      "name": "Käptn Holzbein"
+    },
+    {
+      "name": "August"
+    },
+    {
+      "name": "Peter"
+    },
+    {
+      "name": "Matrose Carsten"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Ich forderte mit drei Kumpels ein Machomei zum Armdrücken heraus."
+        },
+        {
+          "text": "Er besiegte uns ohne ins schwitzen zu geraten. Wie machte er es nur?!"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Überrascht einen Seemann hier zu sehen? Wir sind auf Landgang!"
+        },
+        {
+          "text": "Heut Abend esse ich mit meiner Familie. Ich hoffe es gibt nicht Karpador mit Spinat. Ich hasse Spinat..."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Mein alter Kapitän Holzbein behauptete ein weißes Wailmer habe sein Bein abgebissen, und nun will er Rache."
+        },
+        {
+          "text": "Ich sagte ihm Wailmer haben nicht mal Zähne doch er hört nicht zu.*Seufz*"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich habe die ganze Welt gesehn, alles klar?"
+        },
+        {
+          "text": "Und ich sag dir. Pokémon in anderen Regionen... sind schauderhaft."
+        }
+      ]
+    }
+  ]
+}

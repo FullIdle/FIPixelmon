@@ -1,0 +1,18 @@
+{
+  "cardCode": "BASE39",
+  "attackNumber": 2,
+  "name": "attack.BASE39.2.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.BASE39.2.text",
+  "effectsString": "CHANGE_RESISTANCE:SELF",
+  "effects": [
+    {
+      "onMe": true
+    }
+  ]
+}

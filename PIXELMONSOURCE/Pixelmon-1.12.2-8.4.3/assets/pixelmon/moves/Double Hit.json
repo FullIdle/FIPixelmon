@@ -1,0 +1,41 @@
+{
+  "attackIndex": 475,
+  "attackName": "Double Hit",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 35,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "minHits": 2,
+      "maxHits": 0,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MultipleHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

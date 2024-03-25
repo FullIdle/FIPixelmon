@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "pixelmon:silicon"
+    }
+  },
+  "result": {
+    "item": "pixelmon:galactic_helm",
+    "count": 1
+  }
+}

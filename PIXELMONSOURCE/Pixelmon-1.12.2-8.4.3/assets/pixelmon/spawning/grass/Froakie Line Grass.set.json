@@ -1,0 +1,67 @@
+{
+  "id": "Froakie Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Froakie"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Frogadier"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Greninja",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

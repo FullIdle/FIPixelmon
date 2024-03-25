@@ -1,0 +1,39 @@
+{
+  "attackIndex": 648,
+  "attackName": "Pollen Puff",
+  "attackType": "Bug",
+  "attackCategory": "SPECIAL",
+  "basePower": 90,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PollenPuff"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "buginium_z",
+      "attackName": "Savage Spin-Out",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

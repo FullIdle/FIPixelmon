@@ -1,0 +1,45 @@
+{
+  "id": 167,
+  "setId": 3,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 142,
+  "code": "FOSS1",
+  "name": "card.FOSS1.name",
+  "description": "",
+  "previousPokemonId": 10000,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS1",
+      "attackNumber": 1,
+      "name": "attack.FOSS1.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "DisableEvolution"
+}

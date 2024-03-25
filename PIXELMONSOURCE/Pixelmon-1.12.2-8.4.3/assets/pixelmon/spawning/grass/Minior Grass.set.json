@@ -1,0 +1,58 @@
+{
+  "id": "Minior Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Minior",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "freezing mountains"
+        ],
+        "minY": 100
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Minior",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

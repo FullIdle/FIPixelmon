@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:nest_ball"
+        },
+        "title": {
+            "translate": "advancements.nest_ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.nest_ball_capture.description"
+        },
+        "hidden": true
+    },
+    "parent": "pixelmon:balls/ball_capture_trigger",
+    "criteria": {
+        "nest_ball_capture": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "nest_ball"
+            }
+        }
+    }
+}

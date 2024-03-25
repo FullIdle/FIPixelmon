@@ -1,0 +1,48 @@
+{
+  "id": "Impidimp",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Impidimp"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest",
+          "mystic_grove",
+          "sacred_springs",
+          "ominous_woods"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Impidimp"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

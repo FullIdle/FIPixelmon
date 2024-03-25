@@ -1,0 +1,26 @@
+{
+  "id": "Togetic",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Togetic"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "scientist_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Adam"
+        },
+        {
+            "name": "Arquimedes"
+        },
+        {
+            "name": "Riff"
+        },
+        {
+            "name": "Teodoro \"Seis Ojos\""
+        },
+        {
+            "name": "Cornelius"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¡Los avances tecnológicos son fascinantes! Aveces se lo digo a mi mujer al oído."
+                },
+                {
+                    "text": "... ¡Si, mi mujer! ¿Por qué la gente se sorpende de eso?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Actualmente estoy investigando el desviado albinismo epidermico en los Pokémon!"
+                },
+                {
+                    "text": "O \"Shinies\" para entendernos."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Esta bata de laboratorio no es muy comoda, pero, ¿qué más puedo llevar para hacer la investigación?"
+                },
+                {
+                    "text": "¿Pantalones cortos?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La Pokédex dice que la Madre de Cubone murió - pero si cada Madre de Cubone muere..."
+                },
+                {
+                    "text": "¡Las matemáticas no cuandran en absoluto!"
+                }
+            ]
+        }
+    ]
+}

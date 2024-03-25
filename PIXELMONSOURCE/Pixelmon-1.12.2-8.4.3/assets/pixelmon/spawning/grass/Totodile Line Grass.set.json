@@ -1,0 +1,95 @@
+{
+  "id": "Totodile Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Totodile"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 18,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Croconaw"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 18,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Feraligatr"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

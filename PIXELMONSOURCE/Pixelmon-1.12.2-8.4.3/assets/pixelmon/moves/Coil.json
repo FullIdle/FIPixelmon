@@ -1,0 +1,90 @@
+{
+  "attackIndex": 498,
+  "attackName": "Coil",
+  "attackType": "Poison",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Attack",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "Defence",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "Accuracy",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [255, 51, 51],
+				"scale": 0.25,
+				"segments": 7
+			},
+			"14": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [0, 102, 204],
+				"scale": 0.25,
+				"segments": 7
+			},
+			"21": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [255, 153, 255],
+				"scale": 0.25,
+				"segments": 7
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Coil",
+      "basePower": 0,
+      "effects": [
+	    {
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Haze",
+		  "onlyLowered": true
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

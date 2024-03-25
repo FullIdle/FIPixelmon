@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "baker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mr. Donut"
+        },
+        {
+            "name": "Mr. Puff"
+        },
+        {
+            "name": "Bob Baker"
+        },
+        {
+            "name": "Pieman Pete"
+        },
+        {
+            "name": "Mr. Bakelight"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "If you need bread, come to my bakery."
+                },
+                {
+                    "text": "I only ever use the finest-grade flour."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hello, we are selling fresh, crusty loaves for half price this afternoon."
+                },
+                {
+                    "text": "Can I interest you in a dozen of the finest?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I get a sinking feeling whenever I see a cake not rising."
+                },
+                {
+                    "text": "Pastry cooking is a demanding art! Not for the faint-hearted! "
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "You need a bit of fattening up! Come buy some lovely pies at my bakery."
+                },
+                {
+                    "text": "You don't like pies? All the more for me, then!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I wish I could stop eating so much of the bread I bake."
+                },
+                {
+                    "text": "Do you think I should go on a diet?"
+                }
+            ]
+        }
+    ]
+}

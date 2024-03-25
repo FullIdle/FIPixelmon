@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "cult.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Cult Member"
+        },
+        {
+            "name": "Cult Member"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "All hail our Lord and Savior, Bidoo...I mean, Arceus!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "The battle between land and sea will soon destroy our world, unless the sky interferes."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Would you like to join our cult?"
+                },
+                {
+                    "text": "We have meetings every Friday, and there are always snacks!"
+                }
+            ]
+        }
+    ]
+}

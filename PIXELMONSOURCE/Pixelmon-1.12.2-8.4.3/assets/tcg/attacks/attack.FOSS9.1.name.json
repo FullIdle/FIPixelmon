@@ -1,0 +1,14 @@
+{
+  "cardCode": "FOSS9",
+  "attackNumber": 1,
+  "name": "attack.FOSS9.1.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

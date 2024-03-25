@@ -1,0 +1,22 @@
+{
+  "id": "Mega Mewtwo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mewtwo"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.1
+    }
+  ]
+}

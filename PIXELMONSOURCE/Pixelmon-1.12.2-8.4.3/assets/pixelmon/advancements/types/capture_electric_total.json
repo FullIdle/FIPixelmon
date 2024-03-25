@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lead"
+		},
+		"title": {
+			"translate": "advancements.capture_electric_total.title"
+		},
+		"description": {
+			"translate": "advancements.capture_electric_total.description"
+		},
+		"background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+		"hidden": true
+	},
+	"parent": "pixelmon:types/capture_electric_25",
+	"criteria": {
+		"capture_electric_total": {
+			"trigger": "pixelmon:capture_type_trigger",
+			"conditions" : {
+				"type" : "Electric",
+				"count" : 95
+			}
+		}
+	}
+}

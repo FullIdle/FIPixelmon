@@ -1,0 +1,18 @@
+{
+  "cardCode": "TERO12",
+  "attackNumber": 1,
+  "name": "attack.TERO12.1.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC"
+  ],
+  "damage": 40,
+  "modifier": null,
+  "text": "attack.TERO12.1.text",
+  "effectsString": "TAIL-SELF_MISSED",
+  "effects": [
+    {
+      "needCoinSide": "Tail"
+    }
+  ]
+}

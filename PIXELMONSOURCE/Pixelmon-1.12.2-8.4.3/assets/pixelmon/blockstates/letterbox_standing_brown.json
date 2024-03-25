@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:mailbox/letterbox_standing_brown" },
+    "facing=north": { "model": "pixelmon:mailbox/letterbox_standing_brown" },
+    "facing=south": {
+      "model": "pixelmon:mailbox/letterbox_standing_brown",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "pixelmon:mailbox/letterbox_standing_brown",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "pixelmon:mailbox/letterbox_standing_brown",
+      "y": 270
+    }
+  }
+}

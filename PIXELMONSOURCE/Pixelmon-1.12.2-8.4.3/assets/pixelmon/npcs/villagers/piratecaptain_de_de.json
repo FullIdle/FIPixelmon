@@ -1,0 +1,60 @@
+{
+    "skins": [
+        {
+            "filename": "piratecaptain.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Captain BlockBeard"
+        },
+        {
+            "name": "Captain Crook"
+        },
+        {
+            "name": "Captain Crawdaunt"
+        },
+        {
+            "name": "Captain Morgan"
+        },
+        {
+            "name": "Long John Silver"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Wir haben unseren Schatz unter roten X begraben, aber die Leute würden ihn weiterhin stehlen."
+                },
+                {
+                    "text": "Wir mussten raffiniert werden und begannen, unseren Schatz besser zu verstecken."
+				},
+				{
+					"text": "Wie unter zwei Palmen gekreuzt wie ein X."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Deine Schätze werden meine sein!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Das Gold aus dem Seetempel zu nehmen, ist schwerer als das Öffnen einer Muschel!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hast du Orangen bei dir? Meine Crew bekommt Skorbut."
+                }
+            ]
+        }
+    ]
+}

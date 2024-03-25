@@ -1,0 +1,112 @@
+{
+    "data": {
+        "trainerType": "Rancher",
+        "minLevel": 15,
+        "maxLevel": 30,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Ponyta"
+        },
+        {
+            "name": "Rapidash"
+        },
+        {
+            "name": "Exeggcute"
+        },
+        {
+            "name": "Mareep"
+        },
+        {
+            "name": "Flaaffy"
+        },
+        {
+            "name": "Ampharos"
+        },
+        {
+            "name": "Psyduck"
+        },
+        {
+            "name": "Golduck"
+        },
+        {
+            "name": "Farfetchd"
+        },
+        {
+            "name": "Miltank"
+        },
+        {
+            "name": "Torchic"
+        },
+        {
+            "name": "Combusken"
+        },
+        {
+            "name": "Blaziken"
+        },
+        {
+            "name": "Tepig"
+        },
+        {
+            "name": "Pignite"
+        },
+        {
+            "name": "Emboar"
+        }
+    ],
+    "names": [
+        {
+            "name": "阿貝爾"
+        },
+        {
+            "name": "布羅迪"
+        },
+        {
+            "name": "布魯克斯"
+        },
+        {
+            "name": "克林特"
+        },
+        {
+            "name": "寇特"
+        },
+        {
+            "name": "加勒特"
+        },
+        {
+            "name": "格蘭特"
+        },
+        {
+            "name": "漢克"
+        },
+        {
+            "name": "瑪柏瑞克"
+        },
+        {
+            "name": "韋德"
+        },
+        {
+            "name": "溫斯頓"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "你看起來想要打一架？",
+            "win": "耶！看樣子是我贏了！",
+            "lose": "你擁有一群非常健康的寶可夢。"
+        },
+        {
+            "opening": "沒有甚麼比在牧場漫長地工作一天之後來場寶可夢對戰還更棒的了。",
+            "win": "好吧！做得好！是時候我該睡覺了！",
+            "lose": "你只是趁我疲累的時候打贏我。"
+        },
+        {
+            "opening": "照料大奶罐是一件累人的事情，來對戰吧！",
+            "win": "我應該常常對戰來提提神！",
+            "lose": "我不應該停下我的工作。"
+        }
+    ]
+}

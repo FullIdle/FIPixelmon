@@ -1,0 +1,80 @@
+{
+    "data": {
+        "trainerType": "Ornithologist",
+        "minLevel": 15,
+        "maxLevel": 45,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 45
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Fearow"
+        },
+        {
+            "name": "Charizard"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Farfetchd"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sra. Pájaro"
+        },
+        {
+            "name": "Lucía"
+        },
+        {
+            "name": "Amelia"
+        },
+        {
+            "name": "Annette"
+        },
+        {
+            "name": "Cassie"
+        },
+        {
+            "name": "Jane"
+        },
+        {
+            "name": "Gloria"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Los Pokémon voladores son encantadores, ¿verdad?",
+            "win": "¡Aha! ¡Mis Pokémon voladores y yo hemos trabajado duro, ya viste!",
+            "lose": "¡Oh mis pobres Pokémon! ¡No importa!"
+        },
+        {
+            "opening": "¿Tienes varios tipos de Pokémon por ahí?",
+            "win": "Más suerte la próxima vez. ¡Sigue entrenando!",
+            "lose": "Bueno, no puedo ganarles a todos, ¿verdad?"
+        }
+    ]
+}

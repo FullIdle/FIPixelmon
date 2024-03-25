@@ -1,0 +1,44 @@
+{
+  "attackIndex": 194,
+  "attackName": "Sketch",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 1,
+  "ppMax": 1,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Sketch"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Sketch",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "persists": false,
+		  "effectTypeID": "RaiseStats"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "Lycanroc",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lycanroc",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Lycanroc",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "hills",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Lycanroc",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "hills",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

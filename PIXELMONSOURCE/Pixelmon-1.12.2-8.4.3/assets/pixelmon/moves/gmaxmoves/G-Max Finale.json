@@ -1,0 +1,29 @@
+{
+  "attackIndex": 11030,
+  "attackName": "G-Max Finale",
+  "attackType": "Fairy",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 10,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Finale"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

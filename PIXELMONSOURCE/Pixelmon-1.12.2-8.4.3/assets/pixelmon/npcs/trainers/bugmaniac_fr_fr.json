@@ -1,0 +1,117 @@
+{
+    "data": {
+        "trainerType": "BugManiac",
+        "minLevel": 16,
+        "maxLevel": 24,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 24
+    },
+    "pokemon": [
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Beedrill"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Paras"
+        }
+    ],
+    "names": [
+        {
+            "name": "Rydia"
+        },
+        {
+            "name": "Crystal"
+        },
+        {
+            "name": "Megan"
+        },
+        {
+            "name": "Natalie"
+        },
+        {
+            "name": "Agatha"
+        },
+        {
+            "name": "Alexandra"
+        },
+        {
+            "name": "Brooke"
+        },
+        {
+            "name": "Marlee"
+        },
+        {
+            "name": "Julia"
+        },
+        {
+            "name": "Stella"
+        },
+        {
+            "name": "Tami"
+        },
+        {
+            "name": "Elsa"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "J'aime les insects !",
+            "win": "Je te l'avais dit que les insectes étaient géniaux !",
+            "lose": "Les insectes sont quand même géniaux !"
+        },
+        {
+            "opening": "As-u vu un Papilusion ? J'aime les Papilusion.",
+            "win": "Je pense que je viens d'en voir un. Merci pour le combat.",
+            "lose": "Ok ... Si tu en vois un, dis-le moi !"
+        },
+        {
+            "opening": "Les insectes sont si beau. J'aimerais te voir essayer de battre mon équipe !",
+            "win": "Vois-tu maintenant la beauté de mes insectes ?",
+            "lose": "Tu m'as peut-être vaincu, mais ce sont mes insectes qui ont vraiment brillé."
+        },
+        {
+            "opening": "Peut-on combattre ? J'ai besoin de rendre mes insectes plus forts.",
+            "win": "Apparemment mes Pokémon étaient plus forts que je ne le pensais.",
+            "lose": "J'aurais dû savoir que mes Pokémon étaient trop faibles."
+        },
+        {
+            "opening": "J'ai entrainé mon équipe avec beaucoup de patience... Battons-nous !",
+            "win": "Apparemment mon entraînement a porté ses fruits.",
+            "lose": "Comment j'ai pu perdre après m'être tant entrainé ?"
+        },
+        {
+            "opening": "Combattre est quelque chose de sérieux. Faisons un match fun !",
+            "win": "C'était fun ! Rebattons-nous une prochaine fois !",
+            "lose": "C'était fun ! Merci pour le combat."
+        },
+        {
+            "opening": "Si je gagne, tu dois me donner tes Pokémon insectes !",
+            "win": "Haha ! Donne les moi !",
+            "lose": "Touche pas à mes Pokémon !"
+        },
+        {
+            "opening": "INSECTES !",
+            "win": "La loi des Insectes!",
+            "lose": "Pourquoi les Pokémon Insectes sont-ils si faibles ?"
+        },
+        {
+            "opening": "Il n'y a pas de bon Pokémon Insecte ! Si je perds, j'entraîne une nouvelle équipe !",
+            "win": "Apparemment j'avais tord ! Tous les Pokémon sont géniaux ! Je n'ai pas besoin d'une nouvelle équipe ! Celle-ci est géniale !",
+            "lose": "Voilà ! Je commence une nouvelle équipe !"
+        },
+		{
+            "opening": "Insectes, insectes, insectes!",
+            "win": "J'ai besoinde  plus d'insectes!",
+            "lose": "J'ai besoin de plus d'insectes!"
+        }
+    ]
+}

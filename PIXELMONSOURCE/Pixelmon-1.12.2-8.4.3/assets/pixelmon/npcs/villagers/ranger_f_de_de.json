@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "ranger_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Diana"
+        },
+        {
+            "name": "Helen"
+        },
+        {
+            "name": "Sylvie"
+        },
+        {
+            "name": "Jane"
+        },
+        {
+            "name": "Naomi"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Später treffen sich die Bauern mit der Gemeinde."
+                },
+                {
+                    "text": "Wir sprechen über den Erhalt der umliegenden Fauna und Flora."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Gras-Trainer begrüßen uns Bauern immer mit einem Lächeln. Es ist erfreulich."
+                },
+                {
+                    "text": "Sie erkennen, wie wichtig unsere Arbeit ist."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wir haben Aktivitäten für den Sommer geplant. Wir bringen die einheimischen Kinder in den Wald und bringen ihnen etwas über die Natur bei."
+                },
+                {
+                    "text": "Einige sind sehr gespannt darauf, ihre Pokémon-Reise zu beginnen. Exkursionen helfen ihnen beim Warten."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich muss mit den Höheren über unsere Uniformen sprechen."
+                },
+                {
+                    "text": "Die Brombeeren kratzen immer wieder an meinen Oberschenkeln. Ich wünschte, ich hätte lange Hosen."
+                }
+            ]
+        }
+    ]
+}

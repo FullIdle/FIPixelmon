@@ -1,0 +1,29 @@
+{
+  "id": "Zeraora",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zeraora",
+        "level": 50
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "mutated_savanna_rock"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

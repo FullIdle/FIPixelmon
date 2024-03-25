@@ -1,0 +1,60 @@
+{
+  "id": 289,
+  "setId": 4,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 20,
+  "code": "TERO51",
+  "name": "card.TERO51.name",
+  "description": "",
+  "previousPokemonId": 19,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO51",
+      "attackNumber": 1,
+      "name": "attack.TERO51.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    },
+    {
+      "cardCode": "TERO51",
+      "attackNumber": 2,
+      "name": "attack.TERO51.2.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 50,
+      "modifier": null,
+      "text": "attack.TERO51.2.text",
+      "effects": [
+        "TAIL-SELF_MISSED"
+      ]
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

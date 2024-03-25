@@ -1,0 +1,47 @@
+{
+  "attackIndex": 313,
+  "attackName": "Metal Claw",
+  "attackType": "Steel",
+  "attackCategory": "PHYSICAL",
+  "basePower": 50,
+  "ppBase": 35,
+  "ppMax": 56,
+  "accuracy": 95,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Attack",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Corkscrew Crash",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

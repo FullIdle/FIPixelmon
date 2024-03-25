@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shopman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sr. Spuds"
+        },
+        {
+            "name": "Gill el Tendero"
+        },
+        {
+            "name": "Sr. Penny"
+        },
+        {
+            "name": "Bert"
+        },
+        {
+            "name": "Sr. Verde"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Hola, ¿te gustaría comprar brócoli fresco?"
+                },
+                {
+                    "text": "¿No te gusta el brócoli? Vaya, ¡nunca antes había escuchado algo parecido!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bienvenido al mercado. ¿Puedo ayudarte a encontrar lo que andas buscando?"
+                },
+                {
+                    "text": "¿Pokémon? No, este es un mercado de comida. No creo que vayas a comerte eso, ¿verdad?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bonito día, ¿no? ¿Te gustaría comprar algún platano?"
+                },
+                {
+                    "text": "Tengo que decirte, ¡que los platanos son comida para el cerebro! ¡Por eso soy tan inteligente!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Deprisa, deprisa! ¡Hoy tenemos muchas ofertas en nuestra tienda!"
+                },
+                {
+                    "text": "¿Demasiado caro? ¡Hah! ¡Es una ganga comparado al precio que tenía ayer!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hola, sólamente durante hoy tendremos algunas deliciosas manzanas dulces."
+                },
+                {
+                    "text": "No, ¡nadie puede probarlas primero!"
+                }
+            ]
+        }
+    ]
+}

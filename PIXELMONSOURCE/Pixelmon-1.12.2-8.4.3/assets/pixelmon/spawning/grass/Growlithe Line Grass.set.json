@@ -1,0 +1,51 @@
+{
+  "id": "Growlithe Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Growlithe"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Arcanine"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

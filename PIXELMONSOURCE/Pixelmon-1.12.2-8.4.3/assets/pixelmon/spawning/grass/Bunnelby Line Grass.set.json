@@ -1,0 +1,45 @@
+{
+  "id": "Bunnelby Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bunnelby"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Diggersby"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 21,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

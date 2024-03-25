@@ -1,0 +1,2063 @@
+{
+  "type":["Grass"],
+  "npcs": [
+    {
+      "name": "grassgymintro",
+      "type": "chat",
+      "x": 17,
+      "y": 8,
+      "z": 26
+    },
+    {
+      "name": "grassgymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 0,
+      "x": 6,
+      "y": 3,
+      "z": 32
+    },
+    {
+      "name": "grassgymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 90,
+      "x": 13,
+      "y": 3,
+      "z": 25
+    },
+    {
+      "name": "grassgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 0,
+      "x": 6,
+      "y": 3,
+      "z": 18
+    },
+    {
+      "name": "grassgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 20,
+      "y": 3,
+      "z": 18
+    },
+    {
+      "name": "grassgymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 0,
+      "x": 15,
+      "y": 12,
+      "z": 4,
+      "drops": [ "Galar: Giga Drain", "Galar: Solar Beam", "Galar: Solar Blade", "Galar: Magical Leaf", "Galar: Bullet Seed", "Galar: Seed Bomb", "Galar: Leaf Blade", "Galar: Energy Ball", "Galar: Leaf Storm", "Galar: Power Whip", "Galar: Grass Knot" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Grass Knot", "Mega Drain", "Magical Leaf" ],
+          "move2": [ "Venoshock" ],
+          "move3": [ "Sleep Powder", "Poison Powder", "Leech Seed" ],
+          "move4": [ "Round", "Mud-Slap", "Growth", "Synthesis" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:poison_barb", "pixelmon:poison_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Ivysaur",
+      "minLevel": 16,
+      "maxLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Grass Knot", "Giga Drain", "Magical Leaf" ],
+          "move2": [ "Venoshock" ],
+          "move3": [ "Sleep Powder", "Leech Seed", "Synthesis" ],
+          "move4": [ "Sleep Powder", "Leech Seed", "Synthesis" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:poison_barb", "pixelmon:poison_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Venusaur",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Sludge Bomb" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Leaf Storm", "Petal Dance", "Grass Knot", "Frenzy Plant" ],
+          "move3": [ "Synthesis" ],
+          "move4": [ "Sleep Powder", "Knock Off", "Substitute", "Hidden Power Fire" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:salac_berry", "pixelmon:venusaurite" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Sludge Bomb" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Leaf Storm", "Petal Dance", "Grass Knot", "Frenzy Plant" ],
+          "move3": [ "Synthesis" ],
+          "move4": [ "Sleep Powder", "Knock Off", "Substitute", "Leech Seed", "Toxic", "Roar" ],
+          "heldItem": [ "pixelmon:black_sludge", "pixelmon:leftovers", "pixelmon:venusaurite" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 128,
+          "EVDefence": 128
+        },
+        {
+          "move1": [ "Sludge Bomb", "Weather Ball", "Hidden Power Fire", "Ancient Power", "Synthesis", "Sleep Powder" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Petal Dance", "Grass Knot", "Solar Beam" ],
+          "move3": [ "Growth" ],
+          "move4": [ "Sunny Day" ],
+          "heldItem": [ "pixelmon:heat_rock", "pixelmon:life_orb", "pixelmon:venusaurite" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Power Whip", "Petal Blizzard" ],
+          "move2": [ "Earthquake", "Knock Off", "Outrage", "Sleep Powder", "Synthesis", "Substitute" ],
+          "move3": [ "Earthquake", "Knock Off", "Outrage", "Sleep Powder", "Synthesis", "Substitute" ],
+          "move4": [ "Swords Dance", "Curse" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:venusaurite" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Oddish",
+      "maxLevel": 20,
+      "sets": [
+        {
+          "move1": [ "Absorb", "Mega Drain", "Grass Knot" ],
+          "move2": [ "Acid" ],
+          "move3": [ "Sleep Powder", "Stun Spore", "Poison Powder", "Teeter Dance" ],
+          "move4": [ "Leech Seed", "Synthesis" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:poison_barb", "pixelmon:poison_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Gloom",
+      "minLevel": 21,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Grass Knot", "Energy Ball" ],
+          "move2": [ "Venoshock" ],
+          "move3": [ "Sleep Powder", "Stun Spore", "Poison Powder", "Teeter Dance" ],
+          "move4": [ "Leech Seed", "Synthesis" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:poison_barb", "pixelmon:poison_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Vileplume",
+      "minLevel": 36,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Grass Knot", "Petal Dance", "Energy Ball" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Hidden Power Fire", "Hidden Power Ground", "Moonblast" ],
+          "move4": [ "Moonlight", "Synthesis" ],
+          "heldItem": [ "pixelmon:black_sludge", "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:lum_berry" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Grass Knot", "Energy Ball" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Hidden Power Fire", "Hidden Power Ground", "Moonblast", "Sleep Powder", "Worry Seed", "Aromatherapy", "Stun Spore", "Teeter Dance", "Double Team", "Ingrain", "Toxic" ],
+          "move4": [ "Moonlight", "Synthesis" ],
+          "heldItem": [ "pixelmon:black_sludge", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Bellossom",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Petal Dance", "Grass Knot", "Leaf Storm", "Energy Ball" ],
+          "move2": [ "Hidden Power Fire", "Hidden Power Rock", "Moonblast", "Sludge Bomb" ],
+          "move3": [ "Hidden Power Fire", "Hidden Power Rock", "Moonblast", "Sludge Bomb" ],
+          "move4": [ "Sleep Powder", "Synthesis" ],
+          "ability": [ "Chlorophyll" ],
+          "heldItem": [ "pixelmon:life_orb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "Drain Punch" ],
+          "move3": [ "Swords Dance" ],
+          "move4": [ "Sleep Powder", "Synthesis", "Double-Edge", "Return" ],
+          "ability": [ "Chlorophyll" ],
+          "heldItem": [ "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Paras",
+      "maxLevel": 23,
+      "sets": [
+        {
+          "move1": [ "Spore", "Stun Spore" ],
+          "move2": [ "Fury Cutter", "Leech Life", "Fell Stinger", "Knock Off", "Aromatherapy", "Leech Seed" ],
+          "move3": [ "Bullet Seed" ],
+          "move4": [ "Synthesis" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Parasect",
+      "minLevel": 24,
+      "sets": [
+        {
+          "move1": [ "Spore" ],
+          "move2": [ "Synthesis", "Leech Seed" ],
+          "move3": [ "Seed Bomb" ],
+          "move4": [ "Knock Off", "X-Scissor", "Aromatherapy", "Substitute" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Spore", "Knock Off", "Brick Break", "Cross Poison", "Dig", "Aerial Ace", "Pursuit" ],
+          "move2": [ "X-Scissor" ],
+          "move3": [ "Seed Bomb" ],
+          "move4": [ "Swords Dance" ],
+          "heldItem": [ "pixelmon:life_orb" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Bellsprout",
+      "maxLevel": 20,
+      "sets": [
+        {
+          "move1": [ "Mega Drain", "Grass Knot", "Magical Leaf" ],
+          "move2": [ "Acid" ],
+          "move3": [ "Sleep Powder", "Poison Powder" ],
+          "move4": [ "Infestation", "Round", "Growth" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:poison_barb", "pixelmon:poison_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Weepinbell",
+      "minLevel": 21,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Grass Knot", "Magical Leaf", "Giga Drain" ],
+          "move2": [ "Venoshock" ],
+          "move3": [ "Sleep Powder", "Poison Powder", "Stun Spore" ],
+          "move4": [ "Growth" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:poison_barb", "pixelmon:poison_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Victreebel",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Leaf Storm" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Hidden Power Fire" ],
+          "move4": [ "Sleep Powder", "Encore" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:payapa_berry", "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Leaf Storm", "Solar Beam" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Weather Ball", "Growth" ],
+          "move4": [ "Sunny Day" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:payapa_berry", "pixelmon:focus_sash", "pixelmon:heat_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Synthesis" ],
+          "move4": [ "Stockpile" ],
+          "heldItem": [ "pixelmon:payapa_berry", "pixelmon:leftovers" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Leaf Blade", "Power Whip" ],
+          "move2": [ "Knock Off", "Sucker Punch" ],
+          "move3": [ "Double-Edge", "Return", "Body Slam" ],
+          "move4": [ "Sleep Powder" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:payapa_berry", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Exeggcute",
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Confusion" ],
+          "move2": [ "Mega Drain", "Grass Knot" ],
+          "move3": [ "Sleep Powder", "Stun Spore", "Poison Powder", "Leech Seed" ],
+          "move4": [ "Synthesis" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Exeggutor",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Leaf Storm", "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Hidden Power Fire", "Ancient Power", "Sludge Bomb" ],
+          "move4": [ "Sleep Powder", "Explosion" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:petaya_berry", "pixelmon:expert_belt", "pixelmon:yache_berry", "pixelmon:colbur_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Energy Ball", "Giga Drain", "Grass Knot", "Solar Beam" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Hidden Power Fire", "Ancient Power", "Sludge Bomb", "Sleep Powder" ],
+          "move4": [ "Sunny Day" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:heat_rock", "pixelmon:petaya_berry", "pixelmon:expert_belt", "pixelmon:yache_berry", "pixelmon:colbur_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Leaf Storm", "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Hidden Power Fire", "Ancient Power", "Sludge Bomb" ],
+          "move4": [ "Hidden Power Fire", "Ancient Power", "Sludge Bomb" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:petaya_berry", "pixelmon:expert_belt", "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:yache_berry", "pixelmon:colbur_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Leaf Storm", "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Hidden Power Fire", "Ancient Power", "Sludge Bomb", "Sleep Powder" ],
+          "move4": [ "Trick Room" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:petaya_berry", "pixelmon:expert_belt", "pixelmon:yache_berry", "pixelmon:colbur_berry", "pixelmon:lum_berry", "pixelmon:sitrus_berry" ],
+          "nature": [ "Quiet" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4,
+          "IVSpeed": 0
+        },
+        {
+          "move1": [ "Leaf Storm", "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Hidden Power Fire", "Ancient Power", "Sludge Bomb", "Sleep Powder" ],
+          "move4": [ "Rest" ],
+          "ability": [ "Harvest" ],
+          "heldItem": [ "pixelmon:lum_berry" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Substitute", "Leech Seed", "Synthesis" ],
+          "move4": [ "Substitute", "Leech Seed", "Synthesis" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:petaya_berry", "pixelmon:expert_belt", "pixelmon:yache_berry", "pixelmon:colbur_berry", "pixelmon:lum_berry", "pixelmon:sitrus_berry" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Light Screen" ],
+          "move4": [ "Reflect" ],
+          "heldItem": [ "pixelmon:light_clay" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Zen Headbutt" ],
+          "move3": [ "Low Kick", "Thief", "Explosion", "Return", "Double-Edge", "Synthesis" ],
+          "move4": [ "Curse", "Trick Room" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:expert_belt", "pixelmon:yache_berry", "pixelmon:colbur_berry", "pixelmon:lum_berry", "pixelmon:sitrus_berry" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4,
+          "IVSpeed": 0
+        }
+      ]
+    },
+    {
+      "name": "Tangela",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Sleep Powder", "Stun Spore" ],
+          "move4": [ "Hidden Power Ice", "Hidden Power Fire", "Ancient Power", "Sludge Bomb", "Shock Wave", "Knock Off" ],
+          "ability": [ "Regenerator" ],
+          "heldItem": [ "pixelmon:life_orb" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Hidden Power Ice", "Hidden Power Fire", "Ancient Power", "Sludge Bomb", "Shock Wave", "Knock Off" ],
+          "move4": [ "Hidden Power Ice", "Hidden Power Fire", "Ancient Power", "Sludge Bomb", "Shock Wave", "Knock Off" ],
+          "ability": [ "Regenerator" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_specs", "pixelmon:assault_vest" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Synthesis" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Sleep Powder", "Stun Spore", "Toxic" ],
+          "move4": [ "Hidden Power Ice", "Hidden Power Fire", "Ancient Power", "Sludge Bomb", "Shock Wave", "Knock Off", "Leech Seed", "Infestation" ],
+          "ability": [ "Regenerator" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVDefence": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Chikorita",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Aromatherapy" ],
+          "move2": [ "Synthesis" ],
+          "move3": [ "Magical Leaf", "Grass Knot" ],
+          "move4": [ "Grass Whistle", "Poison Powder", "Leech Seed" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVDefence": 128,
+          "EVHP": 252,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Bayleef",
+      "minLevel": 16,
+      "maxLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Aromatherapy" ],
+          "move2": [ "Synthesis" ],
+          "move3": [ "Magical Leaf", "Grass Knot", "Giga Drain" ],
+          "move4": [ "Grass Whistle", "Toxic", "Leech Seed" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVDefence": 128,
+          "EVHP": 252,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Meganium",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Aromatherapy" ],
+          "move2": [ "Synthesis" ],
+          "move3": [ "Grass Knot", "Giga Drain", "Energy Ball" ],
+          "move4": [ "Dragon Tail", "Toxic", "Leech Seed", "Counter", "Hidden Power Fire", "Swagger", "Double Team", "Substitute" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVDefence": 4,
+          "EVHP": 252,
+          "EVSpecialDefence": 252
+        },
+        {
+          "move1": [ "Giga Drain", "Grass Knot", "Energy Ball" ],
+          "move2": [ "Synthesis", "Dragon Tail", "Toxic", "Leech Seed", "Counter", "Hidden Power Fire", "Aromatherapy", "Swagger", "Double Team", "Substitute" ],
+          "move3": [ "Reflect" ],
+          "move4": [ "Light Screen" ],
+          "heldItem": [ "pixelmon:light_clay" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVDefence": 4,
+          "EVHP": 252,
+          "EVSpecialDefence": 252
+        },
+        {
+          "move1": [ "Rest" ],
+          "move2": [ "Grass Knot", "Giga Drain", "Energy Ball" ],
+          "move3": [ "Dragon Tail", "Toxic", "Leech Seed", "Counter", "Hidden Power Fire", "Swagger", "Double Team", "Substitute", "Protect" ],
+          "move4": [ "Dragon Tail", "Toxic", "Leech Seed", "Counter", "Hidden Power Fire", "Swagger", "Double Team", "Substitute", "Protect" ],
+          "heldItem": [ "pixelmon:lum_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVDefence": 4,
+          "EVHP": 252,
+          "EVSpecialDefence": 252
+        },
+        {
+          "move1": [ "Petal Blizzard" ],
+          "move2": [ "Earthquake", "Iron Tail", "Outrage" ],
+          "move3": [ "Earthquake", "Iron Tail", "Outrage" ],
+          "move4": [ "Return", "Double-Edge", "Body Slam" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:assault_vest", "pixelmon:leftovers" ],
+          "nature": [ "Adamant" ],
+          "EVDefence": 4,
+          "EVHP": 252,
+          "EVAttack": 252
+        }
+      ]
+    },
+    {
+      "name": "Hoppip",
+      "maxLevel": 17,
+      "sets": [
+        {
+          "move1": [ "Sleep Powder", "Stun Spore", "Poison Powder" ],
+          "move2": [ "Aerial Ace" ],
+          "move3": [ "Bullet Seed" ],
+          "move4": [ "Aromatherapy", "Substitute", "Memento", "Synthesis", "Leech Seed", "Encore" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Skiploom",
+      "minLevel": 18,
+      "maxLevel": 26,
+      "sets": [
+        {
+          "move1": [ "Acrobatics", "Aerial Ace" ],
+          "move2": [ "Bullet Seed", "Mega Drain", "Grass Knot" ],
+          "move3": [ "Sleep Powder", "Toxic", "Stun Spore", "Encore", "Leech Seed", "Substitute", "Protect", "Round", "U-turn", "Fairy Wind", "Confusion" ],
+          "move4": [ "Sleep Powder", "Toxic", "Stun Spore", "Encore", "Leech Seed", "Substitute", "Protect", "Round", "U-turn", "Fairy Wind", "Confusion" ],
+          "heldItem": [ "pixelmon:charti_berry", "pixelmon:occa_berry", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Hasty", "Naive" ],
+          "EVAttack": 128,
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Jumpluff",
+      "minLevel": 27,
+      "sets": [
+        {
+          "move1": [ "Acrobatics" ],
+          "move2": [ "Seed Bomb" ],
+          "move3": [ "Sleep Powder", "U-turn", "Toxic", "Memento", "Encore", "Leech Seed", "Substitute" ],
+          "move4": [ "Sleep Powder", "U-turn", "Toxic", "Memento", "Encore", "Leech Seed", "Substitute" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Acrobatics" ],
+          "move2": [ "Seed Bomb" ],
+          "move3": [ "Sleep Powder", "Substitute" ],
+          "move4": [ "Swords Dance" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Acrobatics", "Aerial Ace" ],
+          "move2": [ "Seed Bomb" ],
+          "move3": [ "Natural Gift" ],
+          "move4": [ "Swords Dance" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "heldItem": [ "pixelmon:chople_berry" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sunkern",
+      "maxLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Absorb", "Mega Drain", "Grass Knot" ],
+          "move2": [ "Toxic" ],
+          "move3": [ "Leech Seed" ],
+          "move4": [ "Growth" ],
+          "heldItem": [ "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:sitrus_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sunflora",
+      "minLevel": 28,
+      "maxLevel": 42,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Petal Dance", "Energy Ball" ],
+          "move2": [ "Earth Power", "Sludge Bomb", "Encore", "Grass Whistle" ],
+          "move3": [ "Earth Power", "Sludge Bomb", "Encore", "Grass Whistle" ],
+          "move4": [ "Synthesis" ],
+          "heldItem": [ "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sunflora",
+      "minLevel": 43,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Petal Dance", "Leaf Storm", "Energy Ball" ],
+          "move2": [ "Earth Power", "Hidden Power Ice", "Hidden Power Fire", "Sludge Bomb", "Encore", "Grass Whistle"  ],
+          "move3": [ "Earth Power", "Hidden Power Ice", "Hidden Power Fire", "Sludge Bomb", "Encore", "Grass Whistle" ],
+          "move4": [ "Synthesis" ],
+          "heldItem": [ "pixelmon:life_orb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Treecko",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Absorb", "Mega Drain", "Grass Knot", "Magical Leaf" ],
+          "move2": [ "Dragon Breath", "Mud-Slap", "Swift", "Substitute", "Leech Seed", "Endeavor" ],
+          "move3": [ "Dragon Breath", "Mud-Slap", "Swift", "Substitute", "Leech Seed", "Endeavor" ],
+          "move4": [ "Dragon Breath", "Mud-Slap", "Swift", "Substitute", "Leech Seed", "Endeavor" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:grass_gem" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Grovyle",
+      "minLevel": 16,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Magical Leaf", "Grass Knot" ],
+          "move2": [ "Dragon Breath", "Swift", "Substitute", "Leech Seed", "Endeavor" ],
+          "move3": [ "Dragon Breath", "Swift", "Substitute", "Leech Seed", "Endeavor" ],
+          "move4": [ "Dragon Breath", "Swift", "Substitute", "Leech Seed", "Endeavor" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:grass_gem" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sceptile",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Dragon Pulse", "Rock Slide", "X-Scissor", "Earthquake", "Iron Tail", "Thunder Punch", "Crunch", "Protect", "Endeavor" ],
+          "move3": [ "Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Dragon Pulse", "Rock Slide", "X-Scissor", "Earthquake", "Iron Tail", "Thunder Punch", "Crunch", "Protect", "Endeavor" ],
+          "move4": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash" ],
+          "nature": [ "Naive", "Hasty", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Dragon Pulse", "Rock Slide", "X-Scissor", "Earthquake", "Iron Tail", "Thunder Punch", "Crunch", "Protect", "Endeavor" ],
+          "move3": [ "Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Dragon Pulse", "Rock Slide", "X-Scissor", "Earthquake", "Iron Tail", "Thunder Punch", "Crunch", "Protect", "Endeavor" ],
+          "move4": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:white_herb", "pixelmon:focus_sash" ],
+          "nature": [ "Naive", "Hasty", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Substitute", "Leech Seed", "Protect", "Toxic", "Endeavor" ],
+          "move3": [ "Substitute", "Leech Seed", "Protect", "Toxic", "Endeavor" ],
+          "move4": [ "Substitute", "Leech Seed", "Protect", "Toxic", "Endeavor" ],
+          "ability": [ "Overgrow" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Dragon Pulse" ],
+          "move3": [ "Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Dragon Pulse" ],
+          "move4": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:focus_sash" ],
+          "nature": [ "Naive", "Hasty", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "Drain Punch", "Acrobatics", "Dragon Claw", "Rock Slide", "X-Scissor", "Earthquake", "Iron Tail", "Thunder Punch", "Crunch", "Quick Attack" ],
+          "move3": [ "Drain Punch", "Acrobatics", "Dragon Claw", "Rock Slide", "X-Scissor", "Earthquake", "Iron Tail", "Thunder Punch", "Crunch", "Quick Attack" ],
+          "move4": [ "Swords Dance" ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:flying_gem", "pixelmon:focus_sash" ],
+          "nature": [ "Naive", "Hasty", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Lotad",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Absorb", "Mega Drain", "Grass Knot" ],
+          "move2": [ "Bubble", "Whirlpool", "Water Pulse", "Water Gun" ],
+          "move3": [ "Icy Wind", "Round" ],
+          "move4": [ "Rain Dance" ],
+          "heldItem": [ "pixelmon:mystic_water", "pixelmon:water_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:wise_glasses", "pixelmon:damp_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Lombre",
+      "minLevel": 14,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Absorb", "Mega Drain", "Grass Knot" ],
+          "move2": [ "Bubble", "Whirlpool", "Water Pulse", "Water Gun" ],
+          "move3": [ "Icy Wind", "Round", "Mud-Slap" ],
+          "move4": [ "Rain Dance" ],
+          "heldItem": [ "pixelmon:mystic_water", "pixelmon:water_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:wise_glasses", "pixelmon:damp_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Ludicolo",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Hydro Pump", "Surf", "Scald" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Ice Beam", "Blizzard", "Focus Blast" ],
+          "move4": [ "Rain Dance" ],
+          "ability": [ "Swift Swim" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:damp_rock", "pixelmon:tanga_berry", "pixelmon:kee_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Hydro Pump", "Surf", "Scald" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Ice Beam", "Blizzard" ],
+          "move4": [ "Focus Blast" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:tanga_berry", "pixelmon:kee_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Hydro Pump", "Surf", "Scald" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Ice Beam", "Focus Blast", "Fake Out" ],
+          "move4": [ "Ice Beam", "Focus Blast", "Fake Out" ],
+          "heldItem": [ "pixelmon:assault_vest", "pixelmon:life_orb", "pixelmon:leftovers", "pixelmon:tanga_berry", "pixelmon:kee_berry" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Hydro Pump", "Surf", "Scald" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Synthesis", "Leech Seed", "Substitute", "Toxic", "Knock Off", "Protect" ],
+          "move4": [ "Synthesis", "Leech Seed", "Substitute", "Toxic", "Knock Off", "Protect" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:kee_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVSpecialDefence": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Waterfall", "Dive" ],
+          "move2": [ "Seed Bomb", "Bullet Seed" ],
+          "move3": [ "Drain Punch", "Ice Punch", "Thunder Punch", "Fire Punch", "Knock Off", "Zen Headbutt" ],
+          "move4": [ "Swords Dance" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:tanga_berry", "pixelmon:kee_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Seedot",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Bullet Seed" ],
+          "move2": [ "Rock Smash", "Rollout", "Beat Up", "Quick Attack", "Defog" ],
+          "move3": [ "Rock Smash", "Rollout", "Beat Up", "Quick Attack", "Defog" ],
+          "move4": [ "Rock Smash", "Rollout", "Beat Up", "Quick Attack", "Defog" ],
+          "heldItem": [ "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Nuzleaf",
+      "minLevel": 14,
+      "maxLevel": 43,
+      "sets": [
+        {
+          "move1": [ "Bullet Seed" ],
+          "move2": [ "Thief" ],
+          "move3": [ "Power-Up Punch", "Rock Tomb", "Thief", "Quick Attack", "Defog", "Fury Cutter" ],
+          "move4": [ "Power-Up Punch", "Rock Tomb", "Thief", "Quick Attack", "Defog", "Fury Cutter" ],
+          "heldItem": [ "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:black_glasses", "pixelmon:dark_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Shiftry",
+      "minLevel": 44,
+      "sets": [
+        {
+          "move1": [ "Knock Off", "Dark Pulse" ],
+          "move2": [ "Leaf Storm", "Giga Drain", "Leaf Blade", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Sucker Punch", "Extrasensory", "Hurricane", "Dig", "Low Kick", "Rock Slide", "X-Scissor", "Aerial Ace", "Explosion", "Defog", "Fake Out", "Swagger", "Hidden Power Fire" ],
+          "move4": [ "Sucker Punch", "Extrasensory", "Hurricane", "Dig", "Low Kick", "Rock Slide", "X-Scissor", "Aerial Ace", "Explosion", "Defog", "Fake Out", "Swagger", "Hidden Power Fire" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:lum_berry", "pixelmon:black_glasses", "pixelmon:focus_sash", "pixelmon:miracle_seed" ],
+          "nature": [ "Lonely", "Naughty", "Hasty", "Naive" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Knock Off" ],
+          "move2": [ "Leaf Blade" ],
+          "move3": [ "Sucker Punch", "Explosion" ],
+          "move4": [ "Swords Dance" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:lum_berry", "pixelmon:black_glasses", "pixelmon:focus_sash", "pixelmon:miracle_seed" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Knock Off" ],
+          "move2": [ "Leaf Blade" ],
+          "move3": [ "Dig", "Low Kick", "Rock Slide", "X-Scissor", "Aerial Ace", "Explosion" ],
+          "move4": [ "Dig", "Low Kick", "Rock Slide", "X-Scissor", "Aerial Ace", "Explosion" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:lum_berry", "pixelmon:black_glasses", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:focus_sash", "pixelmon:miracle_seed" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Dark Pulse" ],
+          "move2": [ "Solar Beam", "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Extrasensory", "Focus Blast", "Silver Wind", "Air Cutter", "Growth", "Hidden Power Fire" ],
+          "move4": [ "Sunny Day" ],
+          "ability": [ "Chlorophyll" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:lum_berry", "pixelmon:black_glasses", "pixelmon:focus_sash", "pixelmon:miracle_seed", "pixelmon:heat_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Dark Pulse" ],
+          "move2": [ "Leaf Storm", "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Extrasensory", "Focus Blast", "Silver Wind", "Air Cutter", "Hidden Power Fire" ],
+          "move4": [ "Nasty Plot" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:lum_berry", "pixelmon:black_glasses", "pixelmon:focus_sash", "pixelmon:miracle_seed" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Shroomish",
+      "maxLevel": 22,
+      "sets": [
+        {
+          "move1": [ "Stun Spore", "Leech Seed", "Poison Powder" ],
+          "move2": [ "Synthesis" ],
+          "move3": [ "Bullet Seed", "Absorb", "Mega Drain", "Grass Knot" ],
+          "move4": [ "Tackle", "Round", "Flash" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:bright_powder" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Breloom",
+      "minLevel": 23,
+      "maxLevel": 38,
+      "sets": [
+        {
+          "move1": [ "Bullet Seed", "Seed Bomb" ],
+          "move2": [ "Spore" ],
+          "move3": [ "Mach Punch", "Low Sweep", "Brick Break", "Drain Punch", "Wake-Up Slap" ],
+          "move4": [ "Swords Dance", "Rock Tomb", "Rock Slide", "Thunder Punch" ],
+          "heldItem": [ "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:black_belt", "pixelmon:fighting_gem", "pixelmon:expert_belt", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Breloom",
+      "minLevel": 39,
+      "sets": [
+        {
+          "move1": [ "Bullet Seed", "Seed Bomb" ],
+          "move2": [ "Spore" ],
+          "move3": [ "Mach Punch", "Low Sweep", "Drain Punch", "Superpower", "Focus Punch" ],
+          "move4": [ "Swords Dance", "Rock Tomb", "Stone Edge", "Thunder Punch", "Iron Tail" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Spore", "Stun Spore", "Leech Seed", "Protect", "Seed Bomb" ],
+          "move2": [ "Spore", "Stun Spore", "Leech Seed", "Protect", "Seed Bomb" ],
+          "move3": [ "Substitute" ],
+          "move4": [ "Focus Punch" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        },
+        {
+          "move1": [ "Bullet Seed", "Seed Bomb" ],
+          "move2": [ "Spore", "Stun Spore" ],
+          "move3": [ "Mach Punch", "Low Sweep", "Drain Punch", "Superpower", "Focus Punch" ],
+          "move4": [ "Natural Gift" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:lansat_berry", "pixelmon:black_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Bullet Seed", "Seed Bomb" ],
+          "move2": [ "Mach Punch", "Low Sweep", "Drain Punch", "Superpower" ],
+          "move3": [ "Rock Tomb", "Thunder Punch", "Iron Tail" ],
+          "move4": [ "Rock Tomb", "Thunder Punch", "Iron Tail" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:black_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Seed Bomb" ],
+          "move2": [ "Facade", "Mach Punch", "Spore" ],
+          "move3": [ "Drain Punch", "Superpower" ],
+          "move4": [ "Swords Dance" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Budew",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Absorb", "Mega Drain", "Grass Knot" ],
+          "move2": [ "Spikes" ],
+          "move3": [ "Synthesis", "Rest" ],
+          "move4": [ "Swift", "Mud-Slap", "Sleep Powder", "Stun Spore" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Roselia",
+      "minLevel": 16,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Magical Leaf", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Venoshock" ],
+          "move3": [ "Sleep Powder", "Stun Spore", "Shadow Ball", "Extrasensory", "Swift", "Dazzling Gleam", "Spikes", "Toxic Spikes" ],
+          "move4": [ "Sleep Powder", "Stun Spore", "Shadow Ball", "Extrasensory", "Swift", "Dazzling Gleam", "Spikes", "Toxic Spikes" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:poison_barb", "pixelmon:poison_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Roselia",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Leaf Storm", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Sleep Powder", "Stun Spore", "Shadow Ball", "Extrasensory", "Hidden Power Fighting", "Hidden Power Fire", "Hidden Power Ground", "Dazzling Gleam", "Spikes", "Toxic Spikes" ],
+          "move4": [ "Sleep Powder", "Stun Spore", "Shadow Ball", "Extrasensory", "Hidden Power Fighting", "Hidden Power Fire", "Hidden Power Ground", "Dazzling Gleam", "Spikes", "Toxic Spikes" ],
+          "heldItem": [ "pixelmon:eviolite", "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Sleep Powder", "Stun Spore", "Spikes", "Toxic Spikes", "Aromatherapy", "Leech Seed" ],
+          "move4": [ "Synthesis", "Rest" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Roserade",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Leaf Storm", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Sleep Powder", "Attract", "Shadow Ball", "Extrasensory", "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Ice", "Dazzling Gleam", "Spikes", "Toxic Spikes", "Hyper Beam" ],
+          "move4": [ "Sleep Powder", "Attract", "Shadow Ball", "Extrasensory", "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Ice", "Dazzling Gleam", "Spikes", "Toxic Spikes", "Hyper Beam" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:black_sludge", "pixelmon:occa_berry", "pixelmon:white_herb", "pixelmon:expert_belt" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Leaf Storm", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Sleep Powder", "Attract", "Shadow Ball", "Extrasensory", "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Ice", "Dazzling Gleam", "Spikes", "Toxic Spikes", "Hyper Beam" ],
+          "move4": [ "Natural Gift" ],
+          "heldItem": [ "pixelmon:occa_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Sludge Bomb", "Sleep Powder", "Attract", "Spikes", "Toxic Spikes", "Aromatherapy", "Leech Seed", "Toxic", "Protect" ],
+          "move3": [ "Sludge Bomb", "Sleep Powder", "Attract", "Spikes", "Toxic Spikes", "Aromatherapy", "Leech Seed", "Toxic", "Protect" ],
+          "move4": [ "Synthesis", "Rest" ],
+          "heldItem": [ "pixelmon:black_sludge" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Leaf Storm", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Shadow Ball", "Extrasensory", "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Ice", "Dazzling Gleam", "Hyper Beam" ],
+          "move4": [ "Shadow Ball", "Extrasensory", "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Ice", "Dazzling Gleam", "Hyper Beam" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:black_sludge", "pixelmon:occa_berry", "pixelmon:white_herb", "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:expert_belt", "pixelmon:assault_vest" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Cacnea",
+      "maxLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Needle Arm" ],
+          "move2": [ "Low Kick", "Feint Attack", "Fury Cutter", "Poison Sting" ],
+          "move3": [ "Low Kick", "Feint Attack", "Fury Cutter", "Poison Sting" ],
+          "move4": [ "Growth", "Spikes", "Grass Whistle", "Synthesis" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Adamant", "Impish", "Careful" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Cacturne",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Dark Pulse" ],
+          "move3": [ "Thunder Punch", "Poison Jab", "Focus Blast", "Spikes", "Substitute" ],
+          "move4": [ "Sucker Punch" ],
+          "ability": [ "Water Absorb" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:leftovers" ],
+          "nature": [ "Mild", "Rash", "Hasty", "Naive" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Dark Pulse" ],
+          "move3": [ "Focus Blast", "Substitute" ],
+          "move4": [ "Nasty Plot" ],
+          "ability": [ "Water Absorb" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:leftovers" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Seed Bomb" ],
+          "move2": [ "Sucker Punch", "Payback" ],
+          "move3": [ "Thunder Punch", "Poison Jab", "Drain Punch", "Superpower", "Low Kick", "Substitute" ],
+          "move4": [ "Swords Dance" ],
+          "ability": [ "Water Absorb" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:leftovers" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Seed Bomb", "Bullet Seed" ],
+          "move2": [ "Sucker Punch", "Payback" ],
+          "move3": [ "Sandstorm", "Ingrain", "Destiny Bond" ],
+          "move4": [ "Spikes" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Lileep",
+      "maxLevel": 39,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Recover" ],
+          "move3": [ "Mega Drain", "Grass Knot" ],
+          "move4": [ "Ancient Power" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Cradily",
+      "minLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Recover" ],
+          "move3": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move4": [ "Rock Slide", "Stone Edge", "Toxic", "Earth Power", "Earthquake", "Mirror Coat", "Ancient Power", "Rock Tomb", "Stockpile", "Confuse Ray", "Sandstorm", "Ingrain" ],
+          "ability": [ "Storm Drain" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rocky_helmet", "pixelmon:weakness_policy" ],
+          "nature": [ "Sassy", "Relaxed" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Seed Bomb" ],
+          "move2": [ "Rock Slide", "Stone Edge" ],
+          "move3": [ "Earthquake", "Swords Dance", "Rock Polish" ],
+          "move4": [ "Swords Dance", "Rock Polish" ],
+          "ability": [ "Storm Drain" ],
+          "heldItem": [ "pixelmon:weakness_policy", "pixelmon:tanga_berry", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Seed Bomb" ],
+          "move2": [ "Rock Slide", "Stone Edge" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Swords Dance", "Curse" ],
+          "ability": [ "Storm Drain" ],
+          "heldItem": [ "pixelmon:weakness_policy", "pixelmon:tanga_berry", "pixelmon:quick_claw" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Tropius",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Leech Seed" ],
+          "move2": [ "Giga Drain" ],
+          "move3": [ "Protect", "Toxic", "Roost", "Air Slash", "Substitute" ],
+          "move4": [ "Protect", "Toxic", "Roost", "Air Slash", "Substitute" ],
+          "ability": [ "Harvest" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Swords Dance", "Dragon Dance" ],
+          "move2": [ "Aerial Ace", "Fly" ],
+          "move3": [ "Leaf Blade" ],
+          "move4": [ "Outrage", "Earthquake", "Steel Wing" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:lum_berry", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Slash" ],
+          "move2": [ "Energy Ball", "Solar Beam", "Giga Drain" ],
+          "move3": [ "Hidden Power Fire", "Dragon Pulse", "Silver Wind", "Synthesis" ],
+          "move4": [ "Sunny Day" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:lum_berry", "pixelmon:life_orb", "pixelmon:heat_rock" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Turtwig",
+      "maxLevel": 17,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Synthesis" ],
+          "move3": [ "Razor Leaf" ],
+          "move4": [ "Bite", "Rock Smash", "Cut", "Leech Seed", "Toxic" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Careful", "Impish" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Grotle",
+      "minLevel": 18,
+      "maxLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Synthesis" ],
+          "move3": [ "Razor Leaf" ],
+          "move4": [ "Bite", "Rock Smash", "Secret Power", "Leech Seed", "Toxic" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Careful", "Impish" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Torterra",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Iron Tail", "Stone Edge", "Rock Slide", "Iron Head", "Outrage", "Swords Dance", "Substitute" ],
+          "move4": [ "Rock Polish" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:soft_sand", "pixelmon:leftovers", "pixelmon:yache_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Synthesis" ],
+          "move4": [ "Stealth Rock" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVDefence": 252,
+          "EVHP": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Stone Edge", "Iron Head", "Outrage", "Seed Bomb", "Superpower" ],
+          "move4": [ "Crunch", "Stone Edge", "Iron Head", "Outrage", "Seed Bomb", "Superpower" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:soft_sand", "pixelmon:yache_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Iron Tail", "Stone Edge", "Rock Slide", "Iron Head", "Outrage", "Synthesis" ],
+          "move4": [ "Swords Dance" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:soft_sand", "pixelmon:leftovers", "pixelmon:yache_berry" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Iron Tail", "Stone Edge", "Rock Slide", "Iron Head", "Outrage" ],
+          "move4": [ "Curse", "Stockpile" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:soft_sand", "pixelmon:leftovers", "pixelmon:yache_berry" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Wormadam",
+      "minLevel": 23,
+      "maxLevel": 46,
+      "sets": [
+        {
+          "move1": [ "Struggle Bug", "Signal Beam" ],
+          "move2": [ "Giga Drain", "Grass Knot" ],
+          "move3": [ "Electroweb", "Confusion", "Round" ],
+          "move4": [ "Electroweb", "Confusion", "Round" ],
+          "heldItem": [ "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:wise_glasses", "pixelmon:expert_belt" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4,
+          "form": 0
+        }
+      ]
+    },
+    {
+      "name": "Wormadam",
+      "minLevel": 47,
+      "sets": [
+        {
+          "move1": [ "Signal Beam" ],
+          "move2": [ "Leaf Storm", "Giga Drain" ],
+          "move3": [ "Giga Drain", "Psychic", "Hidden Power Rock", "Shadow Ball", "Venoshock" ],
+          "move4": [ "Giga Drain", "Psychic", "Hidden Power Rock", "Shadow Ball", "Venoshock" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:life_orb" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4,
+          "form": 0
+        },
+        {
+          "move1": [ "Signal Beam", "Skill Swap" ],
+          "move2": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move3": [ "Synthesis" ],
+          "move4": [ "Toxic" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4,
+          "form": 0
+        }
+      ]
+    },
+    {
+      "name": "Snover",
+      "maxLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Razor Leaf", "Grass Knot", "Bullet Seed", "Magical Leaf" ],
+          "move2": [ "Icy Wind", "Powder Snow" ],
+          "move3": [ "Mud-Slap", "Round", "Water Pulse" ],
+          "move4": [ "Mud-Slap", "Round", "Water Pulse" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:ice_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Hasty", "Naive" ],
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252,
+          "EVAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Snover",
+      "minLevel": 26,
+      "maxLevel": 39,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Grass Knot", "Seed Bomb" ],
+          "move2": [ "Avalanche", "Ice Punch" ],
+          "move3": [ "Ice Shard" ],
+          "move4": [ "Water Pulse", "Shadow Ball" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:ice_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Hasty", "Naive" ],
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252,
+          "EVAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Abomasnow",
+      "minLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Wood Hammer", "Seed Bomb", "Grass Knot" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Earthquake", "Iron Tail", "Focus Blast", "Shadow Ball", "Rock Slide", "Water Pulse", "Outrage" ],
+          "move4": [ "Ice Shard" ],
+          "ability": [ "Snow Warning" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_scarf", "pixelmon:miracle_seed", "pixelmon:focus_sash" ],
+          "nature": [ "Hasty", "Naive", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Grass Knot" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Focus Blast", "Shadow Ball", "Water Pulse" ],
+          "move4": [ "Focus Blast", "Shadow Ball", "Water Pulse" ],
+          "ability": [ "Snow Warning" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_scarf", "pixelmon:choice_specs", "pixelmon:miracle_seed", "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Earthquake", "Iron Tail", "Brick Break", "Shadow Ball", "Rock Slide", "Outrage", "Ice Punch", "Avalanche" ],
+          "move4": [ "Ice Shard" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Seed Bomb", "Grass Knot" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Earthquake", "Iron Tail", "Focus Blast", "Shadow Ball", "Rock Slide", "Water Pulse", "Leech Seed", "Ice Shard", "Double Team" ],
+          "move4": [ "Substitute", "Double Team" ],
+          "ability": [ "Snow Warning" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:occa_berry", "pixelmon:miracle_seed" ],
+          "nature": [ "Quiet" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Wood Hammer", "Seed Bomb", "Grass Knot" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Earthquake", "Iron Tail", "Focus Blast", "Shadow Ball", "Rock Slide", "Water Pulse", "Outrage" ],
+          "move4": [ "Growth" ],
+          "ability": [ "Snow Warning" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:focus_sash" ],
+          "nature": [ "Hasty", "Naive", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Leafeon",
+      "minLevel": 25,
+      "maxLevel": 45,
+      "sets": [
+        {
+          "move1": [ "Razor Leaf" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Knock Off", "Dig", "Aerial Ace", "Secret Power", "X-Scissor", "Rock Smash", "Bullet Seed", "Quick Attack" ],
+          "move4": [ "Knock Off", "Dig", "Aerial Ace", "Secret Power", "X-Scissor", "Rock Smash", "Bullet Seed", "Quick Attack" ],
+          "heldItem": [ "pixelmon:yache_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Leafeon",
+      "minLevel": 46,
+      "sets": [
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Knock Off", "Dig", "Aerial Ace", "Return", "X-Scissor", "Iron Tail", "Bullet Seed", "Quick Attack", "Rock Smash", "Baton Pass" ],
+          "move4": [ "Knock Off", "Dig", "Aerial Ace", "Return", "X-Scissor", "Iron Tail", "Bullet Seed", "Quick Attack", "Rock Smash", "Baton Pass" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:occa_berry", "pixelmon:liechi_berry", "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "Knock Off", "Dig", "Aerial Ace", "Double-Edge", "X-Scissor", "Iron Tail", "Bullet Seed", "Quick Attack", "Rock Smash", "Substitute" ],
+          "move3": [ "Knock Off", "Dig", "Aerial Ace", "Double-Edge", "X-Scissor", "Iron Tail", "Bullet Seed", "Quick Attack", "Rock Smash", "Substitute" ],
+          "move4": [ "Knock Off", "Dig", "Aerial Ace", "Double-Edge", "X-Scissor", "Iron Tail", "Bullet Seed", "Quick Attack", "Rock Smash", "Substitute" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:occa_berry", "pixelmon:liechi_berry", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:leftovers", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "Sunny Day" ],
+          "move3": [ "Knock Off", "Dig", "Aerial Ace", "Return", "X-Scissor", "Iron Tail", "Bullet Seed", "Quick Attack", "Rock Smash", "Synthesis" ],
+          "move4": [ "Knock Off", "Dig", "Aerial Ace", "Return", "X-Scissor", "Iron Tail", "Bullet Seed", "Quick Attack", "Rock Smash", "Synthesis" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:occa_berry", "pixelmon:liechi_berry", "pixelmon:heat_rock", "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Natural Gift" ],
+          "move4": [ "Knock Off", "Dig", "Aerial Ace", "Return", "X-Scissor", "Iron Tail", "Bullet Seed", "Quick Attack", "Rock Smash", "Baton Pass" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:occa_berry", "pixelmon:charti_berry", "pixelmon:liechi_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "Toxic" ],
+          "move3": [ "Synthesis", "Substitute", "Protect" ],
+          "move4": [ "Yawn", "Grass Whistle", "Knock Off" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Snivy",
+      "maxLevel": 16,
+      "sets": [
+        {
+          "move1": [ "Leaf Tornado", "Mega Drain", "Grass Knot", "Magical Leaf" ],
+          "move2": [ "Aerial Ace", "Pursuit", "Round" ],
+          "move3": [ "Substitute", "Synthesis" ],
+          "move4": [ "Leech Seed", "Glare", "Taunt" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Naive", "Hasty", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Servine",
+      "minLevel": 17,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Leaf Tornado", "Giga Drain", "Grass Knot", "Magical Leaf" ],
+          "move2": [ "Aerial Ace", "Knock Off", "Round" ],
+          "move3": [ "Substitute", "Synthesis" ],
+          "move4": [ "Leech Seed", "Glare", "Taunt" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Naive", "Hasty", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Serperior",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Fighting", "Dragon Pulse" ],
+          "move3": [ "Substitute", "Glare", "Synthesis", "Attract" ],
+          "move4": [ "Leech Seed", "Toxic" ],
+          "ability": [ "Contrary" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:coba_berry", "pixelmon:lum_berry", "pixelmon:sitrus_berry", "pixelmon:bright_powder" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Fighting", "Dragon Pulse" ],
+          "move3": [ "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Fighting", "Dragon Pulse" ],
+          "move4": [ "Glare", "Taunt", "Giga Drain", "Synthesis", "Attract", "Toxic" ],
+          "ability": [ "Contrary" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:coba_berry", "pixelmon:lum_berry", "pixelmon:sitrus_berry", "pixelmon:bright_powder" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Hidden Power Fire", "Hidden Power Ground", "Hidden Power Rock", "Hidden Power Fighting" ],
+          "move3": [ "Dragon Pulse" ],
+          "move4": [ "Hyper Beam", "Nature Power" ],
+          "ability": [ "Contrary" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:coba_berry", "pixelmon:lum_berry", "pixelmon:sitrus_berry", "pixelmon:bright_powder", "pixelmon:choice_specs", "pixelmon:choice_scarf" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Leaf Storm" ],
+          "move2": [ "Substitute", "Glare", "Synthesis", "Attract", "Mirror Coat", "Dragon Tail", "Giga Drain" ],
+          "move3": [ "Substitute", "Glare", "Synthesis", "Attract", "Mirror Coat", "Dragon Tail", "Giga Drain" ],
+          "move4": [ "Leech Seed", "Toxic" ],
+          "ability": [ "Contrary" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:sitrus_berry", "pixelmon:bright_powder" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Sewaddle",
+      "maxLevel": 19,
+      "sets": [
+        {
+          "move1": [ "Grass Knot" ],
+          "move2": [ "Sticky Web" ],
+          "move3": [ "Struggle Bug", "Silver Wind" ],
+          "move4": [ "Electroweb", "Round" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Swadloon",
+      "minLevel": 20,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Grass Knot", "Giga Drain" ],
+          "move2": [ "Sticky Web" ],
+          "move3": [ "Struggle Bug", "Silver Wind", "Signal Beam" ],
+          "move4": [ "Electroweb" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Leavanny",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Leaf Storm", "Leaf Blade", "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Sticky Web" ],
+          "move3": [ "Knock Off", "Air Slash", "Electroweb", "Bug Buzz", "Poison Jab", "Steel Wing", "Magic Coat", "Toxic", "Flail", "Heal Bell" ],
+          "move4": [ "Knock Off", "Air Slash", "Electroweb", "Bug Buzz", "Poison Jab", "Steel Wing", "Magic Coat", "Toxic", "Flail", "Heal Bell" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
+          "nature": [ "Hasty", "Naive", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Leaf Blade" ],
+          "move2": [ "Swords Dance", "Agility" ],
+          "move3": [ "Knock Off", "X-Scissor", "Aerial Ace", "Poison Jab", "Steel Wing", "Baton Pass", "Iron Defense" ],
+          "move4": [ "Knock Off", "X-Scissor", "Aerial Ace", "Poison Jab", "Steel Wing", "Baton Pass", "Iron Defense" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Energy Ball", "Giga Drain", "Grass Knot" ],
+          "move2": [ "Baton Pass" ],
+          "move3": [ "Calm Mind", "Agility" ],
+          "move4": [ "Bug Buzz", "Air Slash", "Electroweb", "Iron Defense" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:life_orb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Cottonee",
+      "maxLevel": 27,
+      "sets": [
+        {
+          "move1": [ "Absorb", "Mega Drain", "Grass Knot" ],
+          "move2": [ "Fairy Wind" ],
+          "move3": [ "Stun Spore", "Grass Whistle", "Poison Powder" ],
+          "move4": [ "Encore", "Taunt", "Leech Seed", "Tailwind", "Tickle", "Fake Tears", "Cotton Spore", "Substitute", "Protect" ],
+          "heldItem": [ "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:pixie_plate", "pixelmon:fairy_gem", "pixelmon:sitrus_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Whimsicott",
+      "minLevel": 28,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Dazzling Gleam" ],
+          "move3": [ "Encore", "U-turn", "Tailwind", "Stun Spore", "Endeavor", "Memento", "Knock Off", "Cotton Spore", "Leech Seed" ],
+          "move4": [ "Encore", "U-turn", "Tailwind", "Stun Spore", "Endeavor", "Memento", "Knock Off", "Cotton Spore", "Leech Seed" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:miracle_seed", "pixelmon:coba_berry", "pixelmon:sitrus_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Whimsicott",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Moonblast" ],
+          "move3": [ "Encore", "U-turn", "Tailwind", "Stun Spore", "Endeavor", "Memento", "Knock Off", "Cotton Spore", "Leech Seed", "Substitute", "Grass Whistle" ],
+          "move4": [ "Encore", "U-turn", "Tailwind", "Stun Spore", "Endeavor", "Memento", "Knock Off", "Cotton Spore", "Leech Seed", "Substitute", "Grass Whistle" ],
+          "ability": [ "Prankster" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:pixie_plate", "pixelmon:coba_berry", "pixelmon:sitrus_berry", "pixelmon:life_orb", "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Moonblast", "Encore", "U-turn", "Tailwind", "Stun Spore", "Endeavor", "Memento", "Knock Off", "Cotton Spore", "Leech Seed", "Substitute", "Grass Whistle", "Cotton Guard" ],
+          "move3": [ "Moonblast", "Encore", "U-turn", "Tailwind", "Stun Spore", "Endeavor", "Memento", "Knock Off", "Cotton Spore", "Leech Seed", "Substitute", "Grass Whistle", "Cotton Guard" ],
+          "move4": [ "Moonblast", "Encore", "U-turn", "Tailwind", "Stun Spore", "Endeavor", "Memento", "Knock Off", "Cotton Spore", "Leech Seed", "Substitute", "Grass Whistle", "Cotton Guard" ],
+          "ability": [ "Prankster" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:coba_berry", "pixelmon:sitrus_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Energy Ball", "Grass Knot" ],
+          "move2": [ "Moonblast" ],
+          "move3": [ "Psychic", "Hurricane", "U-turn", "Shadow Ball", "Switcheroo" ],
+          "move4": [ "Psychic", "Hurricane", "U-turn", "Shadow Ball", "Switcheroo" ],
+          "ability": [ "Infiltrator" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:lagging_tail" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Solar Beam" ],
+          "move2": [ "Moonblast" ],
+          "move3": [ "Psychic", "Hurricane", "Shadow Ball" ],
+          "move4": [ "Sunny Day" ],
+          "ability": [ "Prankster" ],
+          "heldItem": [ "pixelmon:pixie_plate", "pixelmon:coba_berry", "pixelmon:sitrus_berry", "pixelmon:life_orb", "pixelmon:heat_rock", "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Chespin",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Vine Whip" ],
+          "move2": [ "Synthesis" ],
+          "move3": [ "Spikes", "Power-Up Punch", "Rock Tomb", "Aerial Ace", "Bulldoze", "Cut", "Bite", "Roar" ],
+          "move4": [ "Spikes", "Power-Up Punch", "Rock Tomb", "Aerial Ace", "Bulldoze", "Cut", "Bite", "Roar" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Quilladin",
+      "minLevel": 16,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Vine Whip" ],
+          "move2": [ "Spikes" ],
+          "move3": [ "Taunt", "Drain Punch", "Rock Slide", "Aerial Ace", "Bulldoze", "Secret Power", "Bite", "Pin Missile", "Shadow Claw", "Gyro Ball", "Thunder Punch", "Endeavor", "Toxic" ],
+          "move4": [ "Taunt", "Drain Punch", "Rock Slide", "Aerial Ace", "Bulldoze", "Secret Power", "Bite", "Pin Missile", "Shadow Claw", "Gyro Ball", "Thunder Punch", "Endeavor", "Toxic" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Chesnaught",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Spikes" ],
+          "move2": [ "Leech Seed", "Synthesis" ],
+          "move3": [ "Spiky Shield", "Roar", "Taunt", "Toxic", "Substitute", "Stone Edge", "Earthquake", "Super Fang", "Iron Head", "Dragon Claw", "Zen Headbutt", "Aerial Ace", "Shadow Claw", "Payback", "Poison Jab", "Thunder Punch", "Iron Tail", "Rock Slide" ],
+          "move4": [ "Wood Hammer", "Drain Punch", "Hammer Arm", "Seed Bomb", "Low Kick" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rocky_helmet" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Drain Punch", "Hammer Arm" ],
+          "move3": [ "Substitute", "Stone Edge", "Earthquake", "Iron Head", "Dragon Claw", "Zen Headbutt", "Aerial Ace", "Shadow Claw", "Payback", "Poison Jab", "Thunder Punch", "Iron Tail", "Rock Slide", "Feint" ],
+          "move4": [ "Swords Dance", "Bulk Up", "Belly Drum" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:salac_berry", "pixelmon:expert_belt" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Energy Ball", "Giga Drain", "Frenzy Plant", "Grass Knot" ],
+          "move2": [ "Focus Blast" ],
+          "move3": [ "Sludge Bomb" ],
+          "move4": [ "Mud Shot", "Nature Power" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:salac_berry", "pixelmon:expert_belt" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    }
+  ]
+}

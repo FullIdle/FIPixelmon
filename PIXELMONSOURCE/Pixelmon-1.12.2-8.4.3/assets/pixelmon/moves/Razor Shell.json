@@ -1,0 +1,47 @@
+{
+  "attackIndex": 533,
+  "attackName": "Razor Shell",
+  "attackType": "Water",
+  "attackCategory": "PHYSICAL",
+  "basePower": 75,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 95,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Defence",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 50.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

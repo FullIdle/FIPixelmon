@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "psychicleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "奧爾多"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "你不需要自我介紹，我知道你是誰，而且我知道你將會輸給我！",
+      "win": "你輸給我這件事情一點都不需要感到意外...",
+      "lose": "我...我輸了？我的預感錯誤？我從來沒有失敗過！"
+    }
+  ]
+}

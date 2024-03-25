@@ -1,0 +1,14 @@
+{
+  "cardCode": "JUNG18",
+  "attackNumber": 1,
+  "name": "attack.JUNG18.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

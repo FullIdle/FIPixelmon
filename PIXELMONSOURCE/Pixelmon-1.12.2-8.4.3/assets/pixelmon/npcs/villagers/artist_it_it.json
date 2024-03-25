@@ -1,0 +1,66 @@
+{
+    "skins": [
+        {
+            "filename": "artist.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Leonardo"
+        },
+        {
+            "name": "Raphael"
+        },
+        {
+            "name": "Vincent"
+        },
+        {
+            "name": "René"
+        },
+        {
+            "name": "Andy"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ah, questa città è così stimolante."
+                },
+                {
+                    "text": "Se solo avessi il mio cavalletto con me; la mia mente è piena di pensieri artistici!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Solo perché sono parziale rispetto ai metodi di pittura tradizionali non significa che non mi piaccia Porygon."
+                },
+                {
+                    "text": "I suoi spigoli mi ricordano le opere cubiste."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sono felice che i Pokémon siano di ogni colore immaginabile."
+                },
+                {
+                    "text": "Vivido o desaturato, scuro o chiaro, è come un'esplosione di sfumature."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ho sentito parlare di questa rivalità tra Team Idro e Team Magma..."
+                },
+                {
+                    "text": "...e penso che tutto questo manchi il giallo. Ci dovrebbe essere una squadra gialla."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "skins": [
+        {
+            "filename": "rocketgruntfemale1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Rocket Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Team Rocket, das mit Lichtgeschwindigkeit losstartet!"
+                },
+                {
+                    "text": "Ja, die Lichtgeschwindigkeit ... Hinterfrage es nicht."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wir verleugnen diese beiden Clowns und das Mauzi."
+                },
+                {
+                    "text": "Sie sind eher eine Regenbogenrakete."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Gib mir dein Pokémon, sonst muss ich mein Zubat der Stufe 12 verwenden!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Glaubst du, andere Teams machen sich über uns lustig?"
+                },
+                {
+                    "text": "Zumindest sind wir besser als Team Skull, richtig?"
+                }
+            ]
+        }
+    ]
+}

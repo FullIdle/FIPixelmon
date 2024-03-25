@@ -1,0 +1,79 @@
+{
+    "skins": [
+        { 
+            "filename": "pkmn_breeder_f.png"
+        },
+        { 
+            "filename": "breedergreen_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Corinne"
+        },
+        {
+            "name": "Elyse"
+        },
+        {
+            "name": "Zoey"
+        },
+        {
+            "name": "Gabriella"
+        },
+        {
+            "name": "\"Mamma Teddiursa\""
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Il Pokédex parla della madre morta di Cubone... è assurdo!"
+                },
+                {
+                    "text": "Ho allevato un Cubone. Sua madre sta bene!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Trascorro tutto il giorno occupandomi di piccoli e simpatici Pokémon per bambini ..."
+                },
+                {
+                    "text": "È il lavoro dei miei sogni!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ditto! Sei tu?"
+                },
+                {
+                    "text": "Oh! Scusa... il mio Ditto si diverte a trasformarsi ogni tanto."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mio marito utilizza i miei allevamenti per fare ricerche sui Pokémon \"Cromatici\"."
+                },
+                {
+                    "text": "Sono sicuro che è molto affascinante, ma a volte va avanti..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La mia bambina voleva sapere perché la sua Pietra Foglia non funzionava su Eevee..."
+                },
+                {
+                    "text": "Non ci avevo mai pensato prima, ma non sono sicuro neanche io!?"
+                }
+            ]
+        }
+    ]
+}

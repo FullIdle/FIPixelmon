@@ -1,0 +1,17 @@
+{
+  "cardCode": "TERO48",
+  "attackNumber": 1,
+  "name": "attack.TERO48.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.TERO48.1.text",
+  "effectsString": "CHANGE_WEAKNESS:OPP",
+  "effects": [
+    {
+      "onMe": false
+    }
+  ]
+}

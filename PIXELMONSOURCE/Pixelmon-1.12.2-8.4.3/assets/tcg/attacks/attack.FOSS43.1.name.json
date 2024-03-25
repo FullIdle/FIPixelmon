@@ -1,0 +1,21 @@
+{
+  "cardCode": "FOSS43",
+  "attackNumber": 1,
+  "name": "attack.FOSS43.1.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.FOSS43.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:PARALYZED",
+  "effects": [
+    {
+      "condition": "PARALYZED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

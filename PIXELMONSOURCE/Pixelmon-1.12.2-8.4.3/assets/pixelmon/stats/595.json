@@ -1,0 +1,267 @@
+{
+  "pixelmonName": "Joltik",
+  "pokemon": "Joltik",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 47,
+    "Defence": 50,
+    "Speed": 65,
+    "SpecialAttack": 57,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 25,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 0.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.6,
+  "bounding_box": {
+    "width": 0.45,
+    "height": 0.3,
+    "eye_height": 0.17
+  },
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Galvantula"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Sticky Web"
+      ]
+    }
+  ],
+  "abilities": [
+    "CompoundEyes",
+    "Unnerve",
+    "Swarm"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Fury Cutter"
+    ],
+    "4": [
+      "Electroweb"
+    ],
+    "8": [
+      "Bug Bite"
+    ],
+    "12": [
+      "String Shot"
+    ],
+    "16": [
+      "Thunder Wave"
+    ],
+    "20": [
+      "Electro Ball"
+    ],
+    "24": [
+      "Agility"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "32": [
+      "Slash"
+    ],
+    "37": [
+      "Discharge"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "44": [
+      "Gastro Acid"
+    ],
+    "48": [
+      "Bug Buzz"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Double Team",
+    "Infestation",
+    "Lunge",
+    "Poison Sting",
+    "Struggle Bug"
+  ],
+  "transferMoves": [
+    "Camouflage",
+    "Charge Beam",
+    "Confide",
+    "Cut",
+    "Disable",
+    "Feint Attack",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Magnet Rise",
+    "Pursuit",
+    "Return",
+    "Rock Climb",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Spider Web",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Agility",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Poison Jab",
+    "X-Scissor",
+    "Bug Buzz",
+    "Energy Ball",
+    "Electro Ball",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Thunder Wave",
+    "Screech",
+    "Light Screen",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Swift",
+    "Bounce",
+    "Speed Swap",
+    "Cross Poison",
+    "Round",
+    "Volt Switch",
+    "Electroweb"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Volt Switch",
+    "Thunder Wave",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Struggle Bug",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Wild Charge"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,61 @@
+{
+  "id": "Yanma Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Yanma"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "jungles"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Yanmega"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 34,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

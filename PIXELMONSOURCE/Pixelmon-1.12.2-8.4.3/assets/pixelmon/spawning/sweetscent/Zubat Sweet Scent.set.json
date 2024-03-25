@@ -1,0 +1,30 @@
+{
+  "id": "Zubat Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zubat"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 2,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringbiomes": [
+          "all forests",
+          "swamps",
+          "mountainous",
+          "plains",
+          "flowery",
+          "jungles"
+        ]
+      },
+      "rarity": 160.0
+    }
+  ]
+}

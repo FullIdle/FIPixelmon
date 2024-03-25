@@ -1,0 +1,41 @@
+{
+  "id": "Electabuzz",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Electabuzz"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:electirizer",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "STORM"
+            ]
+          }
+        }
+      ],
+      "rarity": 30.0
+    }
+  ]
+}

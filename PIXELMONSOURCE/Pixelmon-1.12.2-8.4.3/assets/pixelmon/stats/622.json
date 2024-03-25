@@ -1,0 +1,293 @@
+{
+  "pixelmonName": "Golett",
+  "pokemon": "Golett",
+  "form": 0,
+  "stats": {
+    "HP": 59,
+    "Attack": 74,
+    "Defence": 50,
+    "Speed": 35,
+    "SpecialAttack": 35,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": -1,
+  "spawnLevel": 10,
+  "spawnLevelRange": 33,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Ghost"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 92.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 0.8,
+    "eye_height": 0.7
+  },
+  "evolutions": [
+    {
+      "level": 43,
+      "to": {
+        "name": "Golurk"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "IronFist",
+    "Klutz",
+    "NoGuard"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Mud-Slap"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "8": [
+      "Pound"
+    ],
+    "12": [
+      "Shadow Punch"
+    ],
+    "16": [
+      "Curse"
+    ],
+    "20": [
+      "Night Shade"
+    ],
+    "24": [
+      "Stomping Tantrum"
+    ],
+    "28": [
+      "Iron Defense"
+    ],
+    "32": [
+      "Mega Punch"
+    ],
+    "36": [
+      "Shadow Ball"
+    ],
+    "40": [
+      "Heavy Slam"
+    ],
+    "44": [
+      "Phantom Force"
+    ],
+    "48": [
+      "Hammer Arm"
+    ],
+    "52": [
+      "Earthquake"
+    ],
+    "56": [
+      "Dynamic Punch"
+    ]
+  },
+  "tutorMoves": [
+    "Poltergeist",
+    "Scorching Sands"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Block",
+    "Confide",
+    "Double Team",
+    "Flash",
+    "Focus Punch",
+    "Frustration",
+    "Gravity",
+    "Hidden Power",
+    "Magic Coat",
+    "Magnitude",
+    "Power-Up Punch",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Strength",
+    "Swagger",
+    "Telekinesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Ice Beam",
+    "Low Kick",
+    "Earthquake",
+    "Psychic",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Superpower",
+    "Iron Defense",
+    "Gyro Ball",
+    "Focus Blast",
+    "Earth Power",
+    "Stealth Rock",
+    "Grass Knot",
+    "Heavy Slam",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Dig",
+    "Safeguard",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Rain Dance",
+    "Facade",
+    "Helping Hand",
+    "Brick Break",
+    "Imprison",
+    "Rock Tomb",
+    "Fling",
+    "Drain Punch",
+    "Low Sweep",
+    "Round",
+    "Bulldoze",
+    "Phantom Force",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Rock Polish",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Rock Polish",
+    "Flash",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Rock Polish",
+    "Flash",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

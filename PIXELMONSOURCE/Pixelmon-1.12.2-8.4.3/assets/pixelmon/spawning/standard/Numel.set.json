@@ -1,0 +1,36 @@
+{
+  "id": "Numel",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Numel"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesa"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:deadbush"
+            ]
+          }
+        }
+      ],
+      "rarity": 170.0
+    }
+  ]
+}

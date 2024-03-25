@@ -1,0 +1,128 @@
+{
+  "id": "Abra Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Abra"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Abra"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Kadabra"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Kadabra"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Alakazam"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

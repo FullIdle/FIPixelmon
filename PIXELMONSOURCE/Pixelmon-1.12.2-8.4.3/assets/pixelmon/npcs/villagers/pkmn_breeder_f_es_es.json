@@ -1,0 +1,82 @@
+{
+    "skins": [
+        { 
+            "filename": "pkmn_breeder_f.png"
+        },
+        { 
+            "filename": "pkmn_breeder_f2.png"
+        },
+        { 
+            "filename": "breedergreen_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Corina"
+        },
+        {
+            "name": "Elisa"
+        },
+        {
+            "name": "Zoey"
+        },
+        {
+            "name": "Gabriela"
+        },
+        {
+            "name": "\"Mamá Teddiursa\""
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mi Pokédex menciona a la fallecida madre de Cubone... ¡eso es absurdo!"
+                },
+                {
+                    "text": "He criado a mi Cubone. ¡Y te aseguro que su madre está muy bien!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Me encanta pasar el día cuidando de los pequeños y preciosos bebé Pokémon..."
+                },
+                {
+                    "text": "¡Es el trabajo de mis sueños!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Ditto! ¿Estás ahí?"
+                },
+                {
+                    "text": "¡Oh! Perdón... A mi Ditto le gusta jugar a veces al escondite."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mi marido aprovecha que me gusta criar para investigar, quiere criar a un Pokémon \"Shiny\"."
+                },
+                {
+                    "text": "Estoy segura de que es muy fascinante, pero a veces se pasa..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mi hija pequeña quiere saber porque su Piedra Hoja no funcionaba con Eevee..."
+                },
+                {
+                    "text": "Nunca lo llegué a pensar antes, ¿¡y ahora yo tampoco sé el porqué!?"
+                }
+            ]
+        }
+    ]
+}

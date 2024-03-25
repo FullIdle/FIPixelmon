@@ -1,0 +1,62 @@
+{
+  "id": "Magcargo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Magcargo"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Magcargo"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Magcargo"
+      },
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 8.0
+    }
+  ]
+}

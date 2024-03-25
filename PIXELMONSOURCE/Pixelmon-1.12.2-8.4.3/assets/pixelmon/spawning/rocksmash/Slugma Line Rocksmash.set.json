@@ -1,0 +1,41 @@
+{
+  "id": "Slugma Line Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Slugma"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Magcargo"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 18,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

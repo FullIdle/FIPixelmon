@@ -1,0 +1,68 @@
+{
+  "id": "Foongus Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Foongus"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "mushroom_island"
+        ]
+      },
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Amoonguss",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "mushroom_island"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

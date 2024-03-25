@@ -1,0 +1,31 @@
+{
+  "id": "Crabominable",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Crabominable"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cheri_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "cold_beach"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

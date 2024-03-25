@@ -1,0 +1,45 @@
+{
+  "id": "Noibat Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Noibat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Noivern"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

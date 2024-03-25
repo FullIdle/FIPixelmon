@@ -1,0 +1,57 @@
+{
+  "id": "Petilil Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Petilil"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Lilligant"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

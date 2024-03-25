@@ -1,0 +1,111 @@
+{
+  "id": "Clamperl Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Clamperl"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:pearl",
+          "percentChance": 50
+        },
+        {
+          "itemID": "pixelmon:big_pearl",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Clamperl"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:pearl",
+          "percentChance": 10
+        },
+        {
+          "itemID": "pixelmon:big_pearl",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Huntail"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 30,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 7.0
+    },
+    {
+      "spec": {
+        "name": "Gorebyss"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 30,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 7.0
+    }
+  ]
+}

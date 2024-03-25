@@ -1,0 +1,29 @@
+{
+  "id": "TapuKoko",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "TapuKoko",
+        "level": 60
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "jungle",
+          "tropical_rainforest"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

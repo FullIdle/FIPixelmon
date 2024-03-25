@@ -1,0 +1,332 @@
+{
+  "pixelmonName": "Shellder",
+  "pokemon": "Shellder",
+  "form": 0,
+  "stats": {
+    "HP": 30,
+    "Attack": 65,
+    "Defence": 100,
+    "Speed": 40,
+    "SpecialAttack": 45,
+    "SpecialDefence": 25
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 97,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 4.0,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 0.8,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:water_stone"
+      },
+      "to": {
+        "name": "Cloyster"
+      },
+      "conditions": [],
+      "evoType": "interact",
+      "moves": [
+        "Icicle Spear"
+      ]
+    }
+  ],
+  "abilities": [
+    "ShellArmour",
+    "SkillLink",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Water Gun"
+    ],
+    "4": [
+      "Withdraw"
+    ],
+    "8": [
+      "Ice Shard"
+    ],
+    "12": [
+      "Leer"
+    ],
+    "16": [
+      "Whirlpool"
+    ],
+    "20": [
+      "Supersonic"
+    ],
+    "24": [
+      "Aurora Beam"
+    ],
+    "28": [
+      "Protect"
+    ],
+    "32": [
+      "Razor Shell"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Ice Beam"
+    ],
+    "44": [
+      "Shell Smash"
+    ],
+    "48": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Aqua Ring",
+    "Bubble Beam",
+    "Life Dew",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "Barrier",
+    "Bide",
+    "Captivate",
+    "Clamp",
+    "Confide",
+    "Curse",
+    "Double Team",
+    "Double-Edge",
+    "Explosion",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Mimic",
+    "Natural Gift",
+    "Rage",
+    "Rapid Spin",
+    "Reflect",
+    "Refresh",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Take Down",
+    "Teleport",
+    "Toxic",
+    "Twineedle"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Tri Attack",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Screech",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Dive",
+    "Icicle Spear",
+    "Mud Shot",
+    "Rock Blast",
+    "Brine",
+    "Payback",
+    "Avalanche",
+    "Round",
+    "Razor Shell"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Brine",
+    "Endure",
+    "Explosion",
+    "Payback",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Snore",
+    "Blizzard",
+    "Icy Wind",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Water Gun",
+    "Ice Beam",
+    "Blizzard",
+    "Rage",
+    "Teleport",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Self-Destruct",
+    "Swift",
+    "Rest",
+    "Explosion",
+    "Tri Attack",
+    "Substitute"
+  ],
+  "forms": {}
+}

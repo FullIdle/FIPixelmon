@@ -1,0 +1,276 @@
+{
+  "pixelmonName": "Nincada",
+  "pokemon": "Nincada",
+  "form": 0,
+  "stats": {
+    "HP": 31,
+    "Attack": 45,
+    "Defence": 90,
+    "Speed": 40,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 13,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Ground"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 5.5,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.2,
+    "eye_height": 0.1
+  },
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Ninjask"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Double Team",
+        "Screech",
+        "Fury Cutter"
+      ]
+    }
+  ],
+  "abilities": [
+    "CompoundEyes",
+    null,
+    "RunAway"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Sand Attack",
+      "Scratch"
+    ],
+    "5": [
+      "Harden"
+    ],
+    "10": [
+      "False Swipe"
+    ],
+    "15": [
+      "Mud-Slap"
+    ],
+    "21": [
+      "Absorb"
+    ],
+    "25": [
+      "Metal Claw"
+    ],
+    "30": [
+      "Fury Swipes"
+    ],
+    "35": [
+      "Mind Reader"
+    ],
+    "40": [
+      "Dig"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Final Gambit",
+    "Flail",
+    "Gust",
+    "Night Slash"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Bide",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Double-Edge",
+    "Feint Attack",
+    "Flash",
+    "Frustration",
+    "Fury Cutter",
+    "Hidden Power",
+    "Hone Claws",
+    "Mimic",
+    "Natural Gift",
+    "Return",
+    "Secret Power",
+    "Silver Wind",
+    "Spite",
+    "String Shot",
+    "Struggle Bug",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "X-Scissor",
+    "Bug Buzz"
+  ],
+  "tmMoves8": [
+    "Solar Beam",
+    "Dig",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Round",
+    "False Swipe"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Leech Life",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "False Swipe",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "False Swipe",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "False Swipe",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "False Swipe",
+    "Endure",
+    "Flash",
+    "X-Scissor",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest"
+  ],
+  "forms": {}
+}

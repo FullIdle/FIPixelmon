@@ -1,0 +1,59 @@
+{
+  "attackIndex": 122,
+  "attackName": "Thunderbolt",
+  "attackType": "Electric",
+  "attackCategory": "SPECIAL",
+  "basePower": 90,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Paralysis",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "electrium_z",
+      "attackName": "Gigavolt Havoc",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    },
+	{
+      "crystal": "pikashunium_z",
+      "attackName": "10,000,000 Volt Thunderbolt",
+      "basePower": 195,
+      "effects": [],
+      "allowedPokemon": ["Pikachu"]
+    },
+	{
+      "crystal": "aloraichium_z",
+      "attackName": "Stoked Sparksurfer",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": ["Raichu"]
+    }
+  ]
+}

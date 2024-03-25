@@ -1,0 +1,76 @@
+{
+  "id": "Cherubi Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cherubi"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 80.0
+    },
+    {
+      "spec": {
+        "name": "Cherrim",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "weathers": [
+          "RAIN",
+          "STORM"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Cherrim",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

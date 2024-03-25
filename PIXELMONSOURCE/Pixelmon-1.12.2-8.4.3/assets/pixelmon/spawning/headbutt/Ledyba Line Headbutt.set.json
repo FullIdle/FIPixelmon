@@ -1,0 +1,129 @@
+{
+  "id": "Ledyba Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ledyba",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 18,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "birch",
+          "oak"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Ledyba"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 18,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "birch",
+          "oak"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Ledian",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 21,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "birch",
+          "oak"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Ledian"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 21,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "birch",
+          "oak"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

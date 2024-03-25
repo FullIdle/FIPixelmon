@@ -1,0 +1,26 @@
+{
+  "id": "Obstagoon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Obstagoon"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

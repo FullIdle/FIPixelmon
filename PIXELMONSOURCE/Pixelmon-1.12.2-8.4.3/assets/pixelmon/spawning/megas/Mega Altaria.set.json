@@ -1,0 +1,22 @@
+{
+  "id": "Mega Altaria",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Altaria"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "Vanillite Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vanillite"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_ice_flats",
+          "freezing mountains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Vanillish"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mutated_ice_flats",
+          "freezing mountains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Vanilluxe"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 48,
+      "maxLevel": 59,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_ice_flats",
+          "freezing mountains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

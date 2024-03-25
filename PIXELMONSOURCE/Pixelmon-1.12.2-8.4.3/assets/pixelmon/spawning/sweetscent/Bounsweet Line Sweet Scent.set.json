@@ -1,0 +1,83 @@
+{
+  "id": "Bounsweet Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bounsweet"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "birches"
+        ]
+      },
+      "rarity": 200.0
+    },
+    {
+      "spec": {
+        "name": "Steenee"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 18,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:grassy_seed",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery"
+        ]
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Tsareena"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:grassy_seed",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

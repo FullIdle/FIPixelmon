@@ -1,0 +1,51 @@
+{
+  "attackIndex": 504,
+  "attackName": "After You",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AfterYou"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-After You",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "Speed",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

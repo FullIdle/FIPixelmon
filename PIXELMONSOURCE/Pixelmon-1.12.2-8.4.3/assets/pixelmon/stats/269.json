@@ -1,0 +1,292 @@
+{
+  "pixelmonName": "Dustox",
+  "pokemon": "Dustox",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 70,
+    "Speed": 65,
+    "SpecialAttack": 50,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 1.2,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wurmple",
+    "Cascoon"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "weight": 31.6,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.0,
+    "eye_height": 0.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "ShieldDust",
+    null,
+    "CompoundEyes"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Gust"
+    ],
+    "12": [
+      "Confusion"
+    ],
+    "15": [
+      "Poison Powder"
+    ],
+    "17": [
+      "Moonlight"
+    ],
+    "20": [
+      "Venoshock"
+    ],
+    "22": [
+      "Psybeam"
+    ],
+    "25": [
+      "Silver Wind"
+    ],
+    "27": [
+      "Light Screen"
+    ],
+    "30": [
+      "Whirlwind"
+    ],
+    "32": [
+      "Toxic"
+    ],
+    "35": [
+      "Bug Buzz"
+    ],
+    "37": [
+      "Protect"
+    ],
+    "40": [
+      "Quiver Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Electroweb",
+    "Giga Drain",
+    "Laser Focus",
+    "Signal Beam",
+    "Snore",
+    "Tailwind"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Air Cutter",
+    "Captivate",
+    "Double-Edge",
+    "Endure",
+    "Flash",
+    "Mimic",
+    "Natural Gift",
+    "Ominous Wind",
+    "Secret Power",
+    "Struggle Bug",
+    "Swift",
+    "Twister"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Roost",
+    "Energy Ball",
+    "Endure",
+    "Silver Wind",
+    "Giga Impact",
+    "Flash",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "forms": {}
+}

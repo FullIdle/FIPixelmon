@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "professorras.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Professor Ras"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Read the rules, or else."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich bin kein richtiger Professor, ich spiele nur einen auf Youtube."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Du hast Bisasam als Starter gewählt? Wirklich?"
+                },
+                {
+                    "text": "Endivie ist auf jeden Fall der beste Starter!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Du hast keine Ahnung, womit ich mich beschäftigen muss."
+                },
+                {
+                    "text": "Einer meiner Assistenten brachte eine riesige TNT-Kugel hervor."
+                }
+            ]
+        }
+    ]
+}

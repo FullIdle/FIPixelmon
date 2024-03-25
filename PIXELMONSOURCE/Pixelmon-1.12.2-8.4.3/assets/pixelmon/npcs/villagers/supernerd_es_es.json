@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "supernerd.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sheldon"
+        },
+        {
+            "name": "Steve"
+        },
+        {
+            "name": "Bernard"
+        },
+        {
+            "name": "Bill"
+        },
+        {
+            "name": "Gabe"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¡Debo seguir trabajando en mis proyectos! ¿Por qué debo de tener \"contacto social\"?"
+                },
+                {
+                    "text": "Un día inventaré un doble robótico que sea igual que yo, para que intente hacer amigos."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Oye! Sabes que si enganchas un Voltorb en un transpondedor asíncrono, puedes alterar..."
+                },
+                {
+                    "text": "...¿Me estás escuchando?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Cuando era niño, accidentalmente pasé un virus al Porygon2 de mis padres."
+                },
+                {
+                    "text": "¡Yo sólo quería mejorarlo aún más! ¡Se enfadaron mucho!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "He modificado mi PC. ¡Ahora puedo organizar mis Pokémon en 3D!"
+                },
+                {
+                    "text": "Creo que se les ve mejor. Y creo que a mis Pokémon les gusta."
+                }
+            ]
+        }
+    ]
+}

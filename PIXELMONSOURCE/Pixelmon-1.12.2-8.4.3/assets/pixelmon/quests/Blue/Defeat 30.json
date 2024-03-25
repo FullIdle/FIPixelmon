@@ -1,0 +1,58 @@
+{
+	"radiant": true,
+	"weight": 0,
+	"abandonable": true,
+	"repeatable": true,
+	"color": {
+		"r": 15,
+		"g": 131,
+		"b": 255
+	},
+	"activeStage": 10,
+	"stages": [
+		{
+			"stage": 0,
+			"nextStage": 10,
+			"icon": "SPEECH_BUBBLE",
+			"objectives": [
+				"TYPE_VALUES_SPEC_INSERTER SPEC any any any",
+				"NPC_TIMED_INSERTER NPC 0.05 100 0 12000",
+				"DIALOGUE ?NPC? npcName start startYes startNo - - - - - -",
+				"NPC_RESPOND ?NPC? 0",
+				"NPC_RESPOND ?NPC? 1",
+				"NAME_INSERTER NAME -1"
+			],
+			"actions": [
+				"3 DIALOGUE npcName accepted goodbye - - - - - - -",
+				"3 SET_STAGE 10 -",
+				"4 DIALOGUE npcName rejected goodbye - - - - - - -"
+			]
+		},
+		{
+			"stage": 10,
+			"nextStage": 20,
+			"icon": "POKEBALL",
+			"objectives": [
+				"POKEMON_DEFEAT ?SPEC? 30"
+			],
+			"actions": []
+		},
+		{
+			"stage": 20,
+			"nextStage": -1,
+			"objectives": [
+				"DIALOGUE ?NPC? npcName end goodbye - - - - - - -",
+				"NPC_TALK ?NPC?",
+        "STRING_INSERTER GEM pixelmon:bug_gem;pixelmon:ice_gem;pixelmon:fire_gem;pixelmon:water_gem;pixelmon:electric_gem;pixelmon:grass_gem;pixelmon:fighting_gem;pixelmon:poison_gem;pixelmon:ground_gem;pixelmon:flying_gem;pixelmon:psychic_gem;pixelmon:rock_gem;pixelmon:ghost_gem;pixelmon:dragon_gem;pixelmon:dark_gem;pixelmon:steel_gem;pixelmon:normal_gem;pixelmon:fairy_gem",
+        "INTEGER_INSERTER AMOUNT 3-6"
+			],
+			"actions": [
+				"1 ITEM_GIVE ?GEM? ?AMOUNT?",
+				"1 XP_GIVE - 50",
+				"1 END_DIALOGUE",
+				"1 COMPLETE_QUEST"
+			]
+		}
+	],
+	"strings": {}
+}

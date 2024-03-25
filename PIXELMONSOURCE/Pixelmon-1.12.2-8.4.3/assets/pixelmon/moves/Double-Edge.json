@@ -1,0 +1,42 @@
+{
+  "attackIndex": 12,
+  "attackName": "Double-Edge",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 120,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "percentRecoil": 33,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+  ],
+  "animations": [
+      {
+          "id": "run"
+      }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "Togetic Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Togetic"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Togekiss"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "magical"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

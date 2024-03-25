@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littlegirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Colette"
+        },
+        {
+            "name": "Amélie"
+        },
+        {
+            "name": "Claudette"
+        },
+        {
+            "name": "Marie-Louise"
+        },
+        {
+            "name": "Suzette"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Je veux pas te parler ! T'es un inconnu !"
+                },
+                {
+                    "text": "Ca fait quoi d'être un inconnu ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pfff ! J'ai des Pokémon plus cool dans mon placard ! Même que j'ai un Sulfura, d'abord !"
+                },
+                {
+                    "text": "Oui, c'est un jouet, et alors ? Toi, t'as pas de Sulfura du tout !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "T'es venu pour capturer des Pokémon ? Des qui font peur ?"
+                },
+                {
+                    "text": "Chuis sûre que je pourrais capturer un Pokémon qui fait peur, si j'avais une Pokéball Mega-Super Magique!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "T'as peur des Pokémons ? Moi, pas du tout ! Enfin... pas trop..."
+                },
+                {
+                    "text": "Y'en a, ils me font UN PEU peur. Les seuls que j'aime, c'est ceux qui sont tout doux."
+                }
+            ]
+        }
+    ]
+}

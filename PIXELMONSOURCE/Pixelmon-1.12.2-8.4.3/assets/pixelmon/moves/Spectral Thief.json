@@ -1,0 +1,51 @@
+{
+  "attackIndex": 661,
+  "attackName": "Spectral Thief",
+  "attackType": "Ghost",
+  "attackCategory": "PHYSICAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "SpectralThief"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Never-Ending Nightmare",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    },
+    {
+      "crystal": "marshadium_z",
+      "attackName": "Soul-Stealing 7-Star Strike",
+      "basePower": 195,
+      "effects": [],
+      "allowedPokemon": [
+        "Marshadow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "Sentret Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sentret"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Furret"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "cardCode": "GYMC54",
+  "attackNumber": 2,
+  "name": "attack.GYMC54.2.name",
+  "energy": [
+    "LIGHTNING",
+    "LIGHTNING",
+    "LIGHTNING"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.GYMC54.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

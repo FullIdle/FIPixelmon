@@ -1,0 +1,41 @@
+{
+  "attackIndex": 163,
+  "attackName": "Spike Cannon",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 20,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "minHits": 2,
+      "maxHits": 5,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MultipleHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "attackIndex": -1,
+  "attackName": "Devastating Drake",
+  "attackType": "Dragon",
+  "basePower": -1,
+  "ppBase": 1,
+  "ppMax": 1,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

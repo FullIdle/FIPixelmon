@@ -1,0 +1,46 @@
+{
+  "id": 414,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "FIRE",
+  "energy2": null,
+  "pokemonId": 77,
+  "code": "GYMH93",
+  "name": "card.GYMH93.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH93",
+      "attackNumber": 1,
+      "name": "attack.GYMH93.1.name",
+      "energy": [
+        "FIRE",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH93.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "WATER",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,102 @@
+{
+  "id": "Gastly Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gastly"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "evil"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Gastly"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Haunter"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "evil"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Haunter"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Gengar"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

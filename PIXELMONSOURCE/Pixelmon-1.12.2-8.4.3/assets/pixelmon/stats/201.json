@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Unown",
+  "pokemon": "Unown",
+  "form": 0,
+  "stats": {
+    "HP": 48,
+    "Attack": 72,
+    "Defence": 48,
+    "Speed": 48,
+    "SpecialAttack": 72,
+    "SpecialDefence": 48
+  },
+  "catchRate": 225,
+  "malePercent": -1,
+  "spawnLevel": 5,
+  "spawnLevelRange": 45,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "weight": 5.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.5,
+    "eye_height": 0.425
+  },
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Hidden Power"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Hidden Power"
+  ],
+  "tmMoves6": [
+    "Hidden Power"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    },
+    "2": {
+      "form": 2
+    },
+    "3": {
+      "form": 3
+    },
+    "4": {
+      "form": 4
+    },
+    "5": {
+      "form": 5
+    },
+    "6": {
+      "form": 6
+    },
+    "7": {
+      "form": 7
+    },
+    "8": {
+      "form": 8
+    },
+    "9": {
+      "form": 9
+    },
+    "10": {
+      "form": 10
+    },
+    "11": {
+      "form": 11
+    },
+    "12": {
+      "form": 12
+    },
+    "13": {
+      "form": 13
+    },
+    "14": {
+      "form": 14
+    },
+    "15": {
+      "form": 15
+    },
+    "16": {
+      "form": 16
+    },
+    "17": {
+      "form": 17
+    },
+    "18": {
+      "form": 18
+    },
+    "19": {
+      "form": 19
+    },
+    "20": {
+      "form": 20
+    },
+    "21": {
+      "form": 21
+    },
+    "22": {
+      "form": 22
+    },
+    "23": {
+      "form": 23
+    },
+    "24": {
+      "form": 24
+    },
+    "25": {
+      "form": 25
+    },
+    "26": {
+      "form": 26
+    },
+    "27": {
+      "form": 27
+    }
+  }
+}

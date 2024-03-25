@@ -1,0 +1,26 @@
+{
+  "id": "Cursola",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cursola"
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

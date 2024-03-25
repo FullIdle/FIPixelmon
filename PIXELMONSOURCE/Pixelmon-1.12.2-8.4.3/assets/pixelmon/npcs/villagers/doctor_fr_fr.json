@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "doctor.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Le Docteur"
+    },
+    {
+      "name": "Dr. Pilule"
+    },
+    {
+      "name": "Dr. Smith"
+    },
+    {
+      "name": "Dr. Holiday"
+    },
+    {
+      "name": "Dr. Frappadingue"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Tirez la langue et dites aaaah."
+        },
+        {
+          "text": "Vous avez l'air un peu pâle. Besoin d'un remontant ?"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Houlala, vous devriez prendre le soleil plus souvent. C'est bon pour les os, vous savez."
+        },
+        {
+          "text": "Vous êtes mon prochain patient ? Il y a tellement de monde aujourd'hui, pfff..."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Je n'utilise que les médicaments les plus savoureux. Je les prépare moi-même !"
+        },
+        {
+          "text": "J'aurais dû étudier pour devenir médecin pour Pokémon. Tellement plus intéressant."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "N'oubliez pas de prendre votre fortifiant deux foix par jour. Peut-être trois fois. Ou quatre..."
+        },
+        {
+          "text": "Le meilleur fortifiant, c'est le rire ! Vous connaissez de bonnes blagues ?"
+        }
+      ]
+    }
+  ]
+}

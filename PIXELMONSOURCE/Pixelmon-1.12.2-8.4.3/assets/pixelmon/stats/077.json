@@ -1,0 +1,452 @@
+{
+  "pixelmonName": "Ponyta",
+  "pokemon": "Ponyta",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 85,
+    "Defence": 55,
+    "Speed": 90,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 30,
+  "baseExp": 152,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.25
+    },
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.25
+    }
+  },
+  "weight": 30.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.4,
+    "eye_height": 1.1
+  },
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Rapidash"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Smart Strike"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "FlashFire",
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "10": [
+      "Ember"
+    ],
+    "15": [
+      "Flame Charge"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "25": [
+      "Flame Wheel"
+    ],
+    "30": [
+      "Stomp"
+    ],
+    "35": [
+      "Fire Spin"
+    ],
+    "41": [
+      "Take Down"
+    ],
+    "45": [
+      "Inferno"
+    ],
+    "50": [
+      "Fire Blast"
+    ],
+    "55": [
+      "Flare Blitz"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Double Kick",
+    "Double-Edge",
+    "Horn Drill",
+    "Hypnosis",
+    "Morning Sun",
+    "Thrash"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Captivate",
+    "Confide",
+    "Curse",
+    "Double Team",
+    "Echoed Voice",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Incinerate",
+    "Mimic",
+    "Natural Gift",
+    "Quick Attack",
+    "Rage",
+    "Reflect",
+    "Return",
+    "Secret Power",
+    "Skull Bash",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Low Kick",
+    "Agility",
+    "Fire Blast",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Heat Wave",
+    "Overheat",
+    "Flare Blitz",
+    "Ally Switch",
+    "Wild Charge",
+    "Play Rough",
+    "High Horsepower"
+  ],
+  "tmMoves8": [
+    "Solar Beam",
+    "Solar Blade",
+    "Fire Spin",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "Bounce",
+    "Round",
+    "Mystical Fire"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Will-O-Wisp",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Swagger",
+    "Substitute",
+    "Wild Charge"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat",
+    "Endure",
+    "Will-O-Wisp",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Fire Blast",
+    "Swift",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Fire Blast",
+    "Swift",
+    "Skull Bash",
+    "Rest",
+    "Substitute"
+  ],
+  "forms": {
+    "2": {
+      "form": 2,
+      "types": [
+        "Psychic"
+      ],
+      "isRideable": false,
+      "canFly": false,
+      "canSurf": false,
+      "weight": 24.0,
+      "bounding_box": {
+        "width": 1.0,
+        "height": 1.0,
+        "eye_height": 0.7
+      },
+      "evolutions": [
+        {
+          "level": 40,
+          "to": {
+            "name": "Rapidash",
+            "form": 2
+          },
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Psycho Cut"
+          ]
+        }
+      ],
+      "abilities": [
+        "RunAway",
+        "PastelVeil",
+        "Anticipation"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Tackle",
+          "Growl"
+        ],
+        "5": [
+          "Tail Whip"
+        ],
+        "10": [
+          "Confusion"
+        ],
+        "15": [
+          "Fairy Wind"
+        ],
+        "20": [
+          "Agility"
+        ],
+        "25": [
+          "Psybeam"
+        ],
+        "30": [
+          "Stomp"
+        ],
+        "35": [
+          "Heal Pulse"
+        ],
+        "41": [
+          "Take Down"
+        ],
+        "45": [
+          "Dazzling Gleam"
+        ],
+        "50": [
+          "Psychic"
+        ],
+        "55": [
+          "Healing Wish"
+        ]
+      },
+      "tutorMoves": [
+        "Expanding Force"
+      ],
+      "trMoves": [
+        "Body Slam",
+        "Low Kick",
+        "Psychic",
+        "Agility",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Iron Tail",
+        "Future Sight",
+        "Calm Mind",
+        "Zen Headbutt",
+        "Stored Power",
+        "Ally Switch",
+        "Wild Charge",
+        "Play Rough",
+        "Dazzling Gleam",
+        "High Horsepower"
+      ],
+      "tmMoves8": [
+        "Rest",
+        "Snore",
+        "Protect",
+        "Charm",
+        "Attract",
+        "Facade",
+        "Swift",
+        "Imprison",
+        "Bounce",
+        "Round",
+        "Mystical Fire"
+      ]
+    }
+  }
+}

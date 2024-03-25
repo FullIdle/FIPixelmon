@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:repeat_ball"
+        },
+        "title": {
+            "translate": "advancements.repeat_ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.repeat_ball_capture.description"
+        },
+        "hidden": true
+    },
+    "parent": "pixelmon:balls/ball_capture_trigger",
+    "criteria": {
+        "repeat_ball_capture": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "repeat_ball"
+            }
+        }
+    }
+}

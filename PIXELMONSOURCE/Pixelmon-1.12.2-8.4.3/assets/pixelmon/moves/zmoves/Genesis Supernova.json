@@ -1,0 +1,33 @@
+{
+  "attackIndex": -1,
+  "attackName": "Genesis Supernova",
+  "attackType": "Psychic",
+  "attackCategory": "SPECIAL",
+  "basePower": 185,
+  "ppBase": 1,
+  "ppMax": 1,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "langStart": "pixelmon.status.psychicterrain",
+      "langEnd": "pixelmon.status.psychicterrainend",
+      "type": "PsychicTerrain",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PsychicTerrain"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

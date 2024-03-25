@@ -1,0 +1,47 @@
+{
+  "id": "Ducklett Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ducklett"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Swanna"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

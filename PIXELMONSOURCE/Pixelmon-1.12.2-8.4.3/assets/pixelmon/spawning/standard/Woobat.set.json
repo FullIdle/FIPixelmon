@@ -1,0 +1,44 @@
+{
+  "id": "Woobat",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Woobat"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest",
+          "taigas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Woobat"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 130.0
+    }
+  ]
+}

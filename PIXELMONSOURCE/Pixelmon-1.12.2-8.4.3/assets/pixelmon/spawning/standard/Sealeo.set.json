@@ -1,0 +1,29 @@
+{
+  "id": "Sealeo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sealeo"
+      },
+      "stringLocationTypes": [
+        "Water",
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river",
+          "cold_beach"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

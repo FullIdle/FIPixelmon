@@ -1,0 +1,46 @@
+{
+  "id": 268,
+  "setId": 4,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 45,
+  "code": "TERO30",
+  "name": "card.TERO30.name",
+  "description": "",
+  "previousPokemonId": 44,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO30",
+      "attackNumber": 1,
+      "name": "attack.TERO30.1.name",
+      "energy": [
+        "GRASS",
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 30,
+      "modifier": "Multiply",
+      "text": "attack.TERO30.1.text",
+      "effects": [
+        "FLIPS_MULTIPLY_EXTRA:3:2:SELF:CONFUSED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "HayFever"
+}

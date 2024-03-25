@@ -1,0 +1,51 @@
+{
+    "skins": [
+        {
+            "filename": "rocketgruntfemale1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Recluta Team Rocket"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Team Rocket, pronto a partire alla velocità della luce!"
+                },
+                {
+                    "text": "Sì, velocità della luce. Non chiederci come."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Noi rinneghiamo quei due pagliacci e il loro Meowth."
+                },
+                {
+                    "text": "Sono più da Rainbow Rocket."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Dammi i tuoi Pokemon, altrimenti dovrò usare il mio Zubat di livello 12!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pensi che gli altri Team ci prendano in giro?"
+                },
+                {
+                    "text": "Almeno siamo meglio del Team Skull, giusto?"
+                }
+            ]
+        }
+    ]
+}

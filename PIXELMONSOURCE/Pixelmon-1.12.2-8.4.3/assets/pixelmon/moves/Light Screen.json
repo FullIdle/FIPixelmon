@@ -1,0 +1,53 @@
+{
+  "attackIndex": 20,
+  "attackName": "Light Screen",
+  "attackType": "Psychic",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 30,
+  "ppMax": 40,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "stat": "SpecialDefence",
+      "langStart": "pixelmon.effect.uplightscreen",
+      "langFail": "pixelmon.effect.alreadylightscreen",
+      "langEnd": "pixelmon.status.lightscreenoff",
+      "type": "LightScreen",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "LightScreen"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Light Screen",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialDefence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

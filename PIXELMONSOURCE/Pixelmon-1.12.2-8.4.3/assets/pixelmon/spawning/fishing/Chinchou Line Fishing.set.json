@@ -1,0 +1,97 @@
+{
+  "id": "Chinchou Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chinchou"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "deep_ocean"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Chinchou"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 10,
+      "maxLevel": 28,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "deep_ocean"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Lanturn"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 30,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "deep_ocean"
+        ]
+      },
+      "rarity": 7.0
+    },
+    {
+      "spec": {
+        "name": "Lanturn"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 35,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "deep_ocean"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

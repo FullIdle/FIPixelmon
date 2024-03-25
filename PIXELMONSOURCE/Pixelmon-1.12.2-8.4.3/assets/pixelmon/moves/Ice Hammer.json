@@ -1,0 +1,42 @@
+{
+  "attackIndex": 639,
+  "attackName": "Ice Hammer",
+  "attackType": "Ice",
+  "attackCategory": "PHYSICAL",
+  "basePower": 100,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Speed",
+      "amount": -1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "attackIndex": 101,
+  "attackName": "Mist",
+  "attackType": "Ice",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Mist",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Mist"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Z-Mist",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "increment": 100,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "Recover"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

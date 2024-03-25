@@ -1,0 +1,55 @@
+{
+  "id": "Komala Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Komala",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "eucalyptus_forest"
+        ]
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Komala"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "eucalyptus_forest"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

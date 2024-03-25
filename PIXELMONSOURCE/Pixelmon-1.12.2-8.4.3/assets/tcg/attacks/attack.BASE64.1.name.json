@@ -1,0 +1,26 @@
+{
+  "cardCode": "BASE64",
+  "attackNumber": 1,
+  "name": "attack.BASE64.1.name",
+  "energy": [
+    "WATER",
+    "WATER"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.BASE64.1.text",
+  "effectsString": "SELF_DISCARD:WATER:1 SELF_HEAL:DAMAGE",
+  "effects": [
+    {
+      "onMe": true,
+      "energy": "WATER",
+      "count": 1,
+      "needCoinSide": null
+    },
+    {
+      "onMe": true,
+      "type": "Damage",
+      "needCoinSide": null
+    }
+  ]
+}

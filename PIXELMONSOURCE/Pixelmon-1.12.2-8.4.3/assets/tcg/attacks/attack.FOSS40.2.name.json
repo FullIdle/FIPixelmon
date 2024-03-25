@@ -1,0 +1,20 @@
+{
+  "cardCode": "FOSS40",
+  "attackNumber": 2,
+  "name": "attack.FOSS40.2.name",
+  "energy": [
+    "WATER",
+    "WATER"
+  ],
+  "damage": 30,
+  "modifier": "Multiply",
+  "text": "attack.FOSS40.2.text",
+  "effectsString": "FLIPS_MULTIPLY:2",
+  "effects": [
+    {
+      "flipCount": 2,
+      "type": "Exact",
+      "counter": 0
+    }
+  ]
+}

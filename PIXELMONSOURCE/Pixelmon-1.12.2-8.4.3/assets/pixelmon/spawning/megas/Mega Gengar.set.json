@@ -1,0 +1,22 @@
+{
+  "id": "Mega Gengar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gengar"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "times": [
+          "NIGHT"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

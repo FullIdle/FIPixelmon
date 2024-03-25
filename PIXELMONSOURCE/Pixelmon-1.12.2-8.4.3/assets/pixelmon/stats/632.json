@@ -1,0 +1,264 @@
+{
+  "pixelmonName": "Durant",
+  "pokemon": "Durant",
+  "form": 0,
+  "stats": {
+    "HP": 58,
+    "Attack": 109,
+    "Defence": 112,
+    "Speed": 109,
+    "SpecialAttack": 48,
+    "SpecialDefence": 48
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 12,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 33.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.5,
+    "eye_height": 0.25
+  },
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Hustle",
+    "Truant"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fury Cutter",
+      "Sand Attack"
+    ],
+    "4": [
+      "Vise Grip"
+    ],
+    "8": [
+      "Metal Claw"
+    ],
+    "12": [
+      "Beat Up"
+    ],
+    "16": [
+      "Bug Bite"
+    ],
+    "20": [
+      "Bite"
+    ],
+    "24": [
+      "Agility"
+    ],
+    "28": [
+      "Dig"
+    ],
+    "32": [
+      "X-Scissor"
+    ],
+    "36": [
+      "Crunch"
+    ],
+    "40": [
+      "Metal Sound"
+    ],
+    "44": [
+      "Iron Head"
+    ],
+    "48": [
+      "Entrainment"
+    ],
+    "52": [
+      "Iron Defense"
+    ],
+    "56": [
+      "Guillotine"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack",
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "First Impression",
+    "Flail",
+    "Infestation",
+    "Metal Burst",
+    "Struggle Bug"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Endeavor",
+    "Feint Attack",
+    "Frustration",
+    "Hidden Power",
+    "Hone Claws",
+    "Return",
+    "Rock Climb",
+    "Rock Polish",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Crunch",
+    "Superpower",
+    "Iron Defense",
+    "X-Scissor",
+    "Energy Ball",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge"
+  ],
+  "tmMoves8": [
+    "Giga Impact",
+    "Thunder Wave",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Beat Up",
+    "Facade",
+    "Helping Hand",
+    "Rock Tomb",
+    "Shadow Claw",
+    "Thunder Fang",
+    "Round",
+    "Retaliate",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Shadow Claw",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Struggle Bug",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Struggle Bug",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

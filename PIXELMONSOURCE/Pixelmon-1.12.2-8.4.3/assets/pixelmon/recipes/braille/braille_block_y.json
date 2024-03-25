@@ -1,0 +1,24 @@
+{
+  "type": "forge:ore_shaped",
+  "mirrored": false,
+  "group": "blockBraille",
+  "pattern": [
+    "SS ",
+    " SB",
+    "SS "
+  ],
+  "key": {
+    "B": {
+      "type": "forge:ore_dict",
+      "ore": "blockBraille"
+    },
+    "S": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "pixelmon:braille_block2",
+    "data": 8,
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:slime"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 14
+    }
+  ],
+  "result": {
+    "item": "pixelmon:orange_water_float",
+    "count": 1
+  }
+}

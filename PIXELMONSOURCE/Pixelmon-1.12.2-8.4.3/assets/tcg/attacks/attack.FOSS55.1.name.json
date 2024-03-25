@@ -1,0 +1,19 @@
+{
+  "cardCode": "FOSS55",
+  "attackNumber": 1,
+  "name": "attack.FOSS55.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS55.1.text",
+  "effectsString": "HEAD-SELF_HEAL:10",
+  "effects": [
+    {
+      "onMe": true,
+      "type": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

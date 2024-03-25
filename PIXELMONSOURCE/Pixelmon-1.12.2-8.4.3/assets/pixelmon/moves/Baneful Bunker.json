@@ -1,0 +1,55 @@
+{
+  "attackIndex": 625,
+  "attackName": "Baneful Bunker",
+  "attackType": "Poison",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "priority": 4,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "type": "BanefulBunker",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "BanefulBunker"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Z-Baneful Bunker",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Defence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

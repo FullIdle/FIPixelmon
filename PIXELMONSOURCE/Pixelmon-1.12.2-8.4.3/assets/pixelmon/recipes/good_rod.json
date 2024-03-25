@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  B",
+        " BT",
+        "B P"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:blaze_rod"
+        },
+        "T": {
+            "item": "minecraft:string"
+        },
+        "P": {
+            "item": "pixelmon:ultra_ball"
+        }
+    },
+    "result": {
+        "item": "pixelmon:good_rod",
+        "count": 1
+    }
+}

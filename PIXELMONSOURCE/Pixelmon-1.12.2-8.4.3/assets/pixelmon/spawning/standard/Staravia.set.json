@@ -1,0 +1,28 @@
+{
+  "id": "Staravia",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Staravia"
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "savannas"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

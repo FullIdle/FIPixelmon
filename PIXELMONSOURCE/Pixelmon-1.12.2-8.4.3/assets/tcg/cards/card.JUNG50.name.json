@@ -1,0 +1,59 @@
+{
+  "id": 152,
+  "setId": 2,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 104,
+  "code": "JUNG50",
+  "name": "card.JUNG50.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG50",
+      "attackNumber": 1,
+      "name": "attack.JUNG50.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.JUNG50.1.text",
+      "effects": [
+        "DAMAGE_REDUCE:20"
+      ]
+    },
+    {
+      "cardCode": "JUNG50",
+      "attackNumber": 2,
+      "name": "attack.JUNG50.2.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING"
+      ],
+      "damage": 10,
+      "modifier": "Plus",
+      "text": "attack.JUNG50.2.text",
+      "effects": [
+        "DAMAGE_BONUS:SELF:PER_DAMAGE:10"
+      ]
+    }
+  ],
+  "energyResistance": "LIGHTNING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

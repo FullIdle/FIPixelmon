@@ -1,0 +1,21 @@
+{
+  "type": "forge:ore_shaped",
+  "mirrored": false,
+  "group": "trade_holder",
+  "pattern": [
+    "AAB",
+    " AA"
+  ],
+  "key": {
+    "A": {
+      "item": "pixelmon:aluminium_plate"
+    },
+    "B": {
+      "item": "pixelmon:poke_ball"
+    }
+  },
+  "result": {
+    "item": "pixelmon:trade_holder_left",
+    "count": 1
+  }
+}

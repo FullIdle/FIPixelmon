@@ -1,0 +1,45 @@
+{
+  "attackIndex": 364,
+  "attackName": "Needle Arm",
+  "attackType": "Grass",
+  "attackCategory": "PHYSICAL",
+  "basePower": 60,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

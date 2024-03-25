@@ -1,0 +1,39 @@
+{
+  "attackIndex": 2,
+  "attackName": "Tackle",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 40,
+  "ppBase": 35,
+  "ppMax": 56,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [],
+  "animations": [
+      {
+          "id": "run",
+          "acceleration": 1,
+          "initialVelocity": 0,
+          "maxUserVelocity": 3,
+          "knockback": true
+      }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

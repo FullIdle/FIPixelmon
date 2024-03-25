@@ -1,0 +1,49 @@
+{
+  "attackIndex": 146,
+  "attackName": "Haze",
+  "attackType": "Ice",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Haze"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Z-Haze",
+      "basePower": 0,
+      "effects": [
+        {
+          "increment": 100,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Recover"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

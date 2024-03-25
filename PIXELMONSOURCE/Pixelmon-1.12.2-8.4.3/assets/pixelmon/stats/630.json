@@ -1,0 +1,299 @@
+{
+  "pixelmonName": "Mandibuzz",
+  "pokemon": "Mandibuzz",
+  "form": 0,
+  "stats": {
+    "HP": 110,
+    "Attack": 65,
+    "Defence": 105,
+    "Speed": 80,
+    "SpecialAttack": 55,
+    "SpecialDefence": 95
+  },
+  "catchRate": 60,
+  "malePercent": 0,
+  "spawnLevel": 55,
+  "spawnLevelRange": 8,
+  "baseExp": 179,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Flying"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Vullaby"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 25,
+    "flySpeedModifier": 1.4,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.1
+    }
+  },
+  "weight": 39.5,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.4,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "BigPecks",
+    "Overcoat",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bone Rush",
+      "Flatter",
+      "Gust",
+      "Leer",
+      "Pluck",
+      "Sky Attack",
+      "Toxic"
+    ],
+    "18": [
+      "Tailwind"
+    ],
+    "24": [
+      "Knock Off"
+    ],
+    "30": [
+      "Iron Defense"
+    ],
+    "36": [
+      "Whirlwind"
+    ],
+    "42": [
+      "Air Slash"
+    ],
+    "48": [
+      "Dark Pulse"
+    ],
+    "57": [
+      "Nasty Plot"
+    ],
+    "64": [
+      "Defog"
+    ],
+    "72": [
+      "Attract"
+    ],
+    "80": [
+      "Brave Bird"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Lash Out"
+  ],
+  "eggMoves": [
+    "Mean Look",
+    "Roost",
+    "Toxic"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Block",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Embargo",
+    "Feint Attack",
+    "Frustration",
+    "Fury Attack",
+    "Hidden Power",
+    "Incinerate",
+    "Mirror Move",
+    "Psych Up",
+    "Punishment",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Snatch",
+    "Swagger",
+    "Torment"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Heat Wave",
+    "Taunt",
+    "Iron Defense",
+    "Dark Pulse",
+    "Brave Bird",
+    "Nasty Plot",
+    "Foul Play"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Steel Wing",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Fake Tears",
+    "Rock Tomb",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Round",
+    "Retaliate",
+    "Snarl",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Fly",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Psych Up",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute",
+    "Rock Smash",
+    "Snarl"
+  ],
+  "forms": {}
+}

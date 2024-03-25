@@ -1,0 +1,62 @@
+{
+  "id": 258,
+  "setId": 4,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 9,
+  "code": "TERO20",
+  "name": "card.TERO20.name",
+  "description": "",
+  "previousPokemonId": 8,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO20",
+      "attackNumber": 1,
+      "name": "attack.TERO20.1.name",
+      "energy": [
+        "WATER",
+        "WATER"
+      ],
+      "damage": 30,
+      "modifier": "Plus",
+      "text": "attack.TERO20.1.text",
+      "effects": [
+        "DAMAGE_BONUS:SELF:WATER:20:40"
+      ]
+    },
+    {
+      "cardCode": "TERO20",
+      "attackNumber": 2,
+      "name": "attack.TERO20.2.name",
+      "energy": [
+        "WATER",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.TERO20.2.text",
+      "effects": [
+        "SELF_DAMAGE:10",
+        "HEAD-SELF_IMMUNE:DAMAGE"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

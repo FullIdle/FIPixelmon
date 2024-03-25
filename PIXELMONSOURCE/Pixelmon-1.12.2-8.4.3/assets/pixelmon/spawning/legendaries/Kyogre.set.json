@@ -1,0 +1,40 @@
+{
+  "id": "Kyogre",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kyogre",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN",
+          "STORM"
+        ],
+        "stringBiomes": [
+          "deep_ocean"
+        ],
+        "maxY": 45
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "STORM"
+            ]
+          }
+        }
+      ],
+      "rarity": 2.0
+    }
+  ]
+}

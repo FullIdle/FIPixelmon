@@ -1,0 +1,47 @@
+{
+  "id": "Pansear Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pansear"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "eucalyptus"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Simisear"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "eucalyptus"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

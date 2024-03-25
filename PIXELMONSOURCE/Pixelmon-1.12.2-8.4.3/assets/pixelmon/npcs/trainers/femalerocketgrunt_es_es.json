@@ -1,0 +1,130 @@
+{
+    "data": {
+        "trainerType": "FemaleRocketGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 60
+    },
+    "models":[
+        {
+            "name": "FemaleRocketGrunt"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Ekans"
+        },
+        {
+            "name": "Arbok"
+        },
+        {
+            "name": "Lickitung"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Wobbuffet"
+        },
+        {
+            "name": "Meowth"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jessie"
+        },
+        {
+            "name": "Cassidy"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "Oakley"
+        },
+        {
+            "name": "Gideon"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¡Oye chaval, trae aquí esos Pokémon!",
+            "win": "He ganado. Ahora dame tus Pokémon.",
+            "lose": "¡Urgh, cómo me has derrotado!"
+	    },        
+        {
+            "opening": "¡No puedes pasar sin derrotarme!",
+            "win": "¡No te permitiré pasar!",
+            "lose": "Continua con tu camino, si te atreves."
+        },
+        {
+            "opening": "¡¿Qué estás haciendo aquí?!",
+            "win": "Fuera de aquí.",
+            "lose": "¡Oh no! ¡He perdido!"
+        },
+        {
+            "opening": "Esta es una operación importante. ¡No queremos que estés husmeando por aquí!",
+            "win": "¡Fuera de mi vista ahora mismo!",
+            "lose": "¡Imposible!"
+        },
+        {
+            "opening": "¡El Team Rocket es mejor equipo!",
+            "win": "¡Te advertí de que somos los mejores!",
+            "lose": "Debí unirme al Equipo Magma."
+        },
+        {
+            "opening": "¡Prepárate para los problemas!",
+            "win": "Y me puedo hacer un doble.",
+            "lose": "¡Los Pokémon son una porquería!"
+        },
+        {
+            "opening": "Los Pokémon son como objetos. ¿Cómo alguien los podría tratar bien?",
+            "win": "¿Ves? Son inútiles.",
+            "lose": "¡Inútiles!"
+        },
+        {
+            "opening": "¡Somos el Team Rocket!",
+            "win": "¿Tú quién eres?",
+            "lose": "¿Por qué estás aquí?"
+        },
+        {
+            "opening": "¿Qué crees que estás haciendo aquí?",
+            "win": "¡Largo, ya!",
+            "lose": "¡Largo antes de que hable con el jefe!"
+        },
+        {
+            "opening": "¡Apártate de mi camino!",
+            "win": "¡He dicho que te muevas!",
+            "lose": "¡No es posible!"
+        },
+        {
+            "opening": "¡Tienes valor si piensas que puedes derrotarme!",
+            "win": "Nunca me vencerás.",
+            "lose": "¡¿Me has ganado!? ¡Noooooo!"
+	    },       
+        {
+            "opening": "No puedes derrotarme. ¡Estoy en el puesto 27 de los soldados más fuertes!",
+            "win": "¡Sí, ahora segúramente seré el número 26 de los más fuertes!",
+            "lose": "¡Oh no, ahora seré el 28 de los más fuertes!"
+        },
+        {
+            "opening": "¡Tus Pokémon se venderán muy baratos en el mercado negro!",
+            "win": "¡Tus Pokémon no valen la pena!",
+            "lose": "¡Puede que merezcan más la pena de lo que pensaba!"
+	    },       
+        {
+            "opening": "No hay nada que ver aquí. ¡Muévete!",
+            "win": "¡No tienes ni idea de con quien estás tratando chaval!",
+            "lose": "El jefe no va a estar contento contigo."
+        }
+    ]
+}

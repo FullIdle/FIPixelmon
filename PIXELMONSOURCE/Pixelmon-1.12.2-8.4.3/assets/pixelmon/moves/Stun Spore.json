@@ -1,0 +1,63 @@
+{
+  "attackIndex": 119,
+  "attackName": "Stun Spore",
+  "attackType": "Grass",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": 75,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Paralysis",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    }
+  ],
+  "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "RAIN",
+          "texture": "ORB",
+          "scale": 0.1,
+          "durationTicks": 25,
+          "power": 50,
+          "heightAboveTarget": 1,
+          "speed": 0.12,
+          "rgb": [255, 230, 0]
+        }
+      }
+    }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Z-Stun Spore",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialDefence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "pixelmon:infusion",
+  
+  "input1": {
+    "item": "pixelmon:chesto_berry"
+  },
+  "input2": {
+    "item": "pixelmon:dusk_ball"
+  },
+  "result": {
+    "item": "pixelmon:dream_ball"
+  }
+}

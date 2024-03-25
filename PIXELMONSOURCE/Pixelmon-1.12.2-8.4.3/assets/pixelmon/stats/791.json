@@ -1,0 +1,245 @@
+{
+  "pixelmonName": "Solgaleo",
+  "pokemon": "Solgaleo",
+  "form": 0,
+  "stats": {
+    "HP": 137,
+    "Attack": 137,
+    "Defence": 107,
+    "Speed": 97,
+    "SpecialAttack": 113,
+    "SpecialDefence": 89
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 55,
+  "spawnLevelRange": 0,
+  "baseExp": 136,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Steel"
+  ],
+  "height": 3.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cosmog",
+    "Cosmoem"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -1.0
+    }
+  },
+  "weight": 230.0,
+  "bounding_box": {
+    "width": 3.2,
+    "height": 3.2,
+    "eye_height": 2.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "FullMetalBody",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Cosmic Power",
+      "Metal Claw",
+      "Noble Roar",
+      "Sunsteel Strike",
+      "Teleport"
+    ],
+    "7": [
+      "Iron Head"
+    ],
+    "14": [
+      "Metal Sound"
+    ],
+    "21": [
+      "Zen Headbutt"
+    ],
+    "28": [
+      "Flash Cannon"
+    ],
+    "35": [
+      "Morning Sun"
+    ],
+    "42": [
+      "Crunch"
+    ],
+    "49": [
+      "Metal Burst"
+    ],
+    "56": [
+      "Wild Charge"
+    ],
+    "63": [
+      "Solar Beam"
+    ],
+    "70": [
+      "Flare Blitz"
+    ],
+    "77": [
+      "Wide Guard"
+    ],
+    "84": [
+      "Giga Impact"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force",
+    "Meteor Beam",
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Endeavor",
+    "Flame Charge",
+    "Frustration",
+    "Hidden Power",
+    "Knock Off",
+    "Last Resort",
+    "Psych Up",
+    "Return",
+    "Roar",
+    "Shock Wave",
+    "Swagger",
+    "Toxic",
+    "Wake-Up Slap"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Flamethrower",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Psychic",
+    "Agility",
+    "Fire Blast",
+    "Substitute",
+    "Outrage",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Future Sight",
+    "Superpower",
+    "Hyper Voice",
+    "Cosmic Power",
+    "Iron Defense",
+    "Calm Mind",
+    "Gyro Ball",
+    "Close Combat",
+    "Flare Blitz",
+    "Focus Blast",
+    "Zen Headbutt",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Heavy Slam",
+    "Work Up",
+    "Wild Charge",
+    "Heat Crash",
+    "Psychic Fangs"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Fire Spin",
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Rock Tomb",
+    "Trick Room",
+    "Round",
+    "Bulldoze",
+    "Snarl",
+    "Mystical Fire"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Wild Charge",
+    "Snarl",
+    "Confide"
+  ],
+  "forms": {}
+}

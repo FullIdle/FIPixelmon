@@ -1,0 +1,41 @@
+{
+  "attackIndex": 79,
+  "attackName": "Double Kick",
+  "attackType": "Fighting",
+  "attackCategory": "PHYSICAL",
+  "basePower": 30,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "minHits": 2,
+      "maxHits": 0,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MultipleHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fightinium_z",
+      "attackName": "All-Out Pummeling",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

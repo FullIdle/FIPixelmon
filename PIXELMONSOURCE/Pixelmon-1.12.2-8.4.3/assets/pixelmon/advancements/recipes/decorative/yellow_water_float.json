@@ -1,0 +1,31 @@
+{
+    "rewards": {
+        "recipes": [
+            "pixelmon:yellow_water_float"
+        ]
+    },
+    "criteria": {
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "pixelmon:yellow_water_float"
+            }
+        },
+        "has_slime": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:slime"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_slime"
+        ]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "cardCode": "FOSS56",
+  "attackNumber": 1,
+  "name": "attack.FOSS56.1.name",
+  "energy": [
+    "WATER"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

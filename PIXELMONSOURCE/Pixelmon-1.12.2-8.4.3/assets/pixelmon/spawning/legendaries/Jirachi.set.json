@@ -1,0 +1,36 @@
+{
+  "id": "Jirachi",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Jirachi",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mutated_extreme_hills_with_trees"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

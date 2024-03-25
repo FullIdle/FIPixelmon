@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Regidrago",
+  "pokemon": "Regidrago",
+  "form": 0,
+  "stats": {
+    "HP": 200,
+    "Attack": 100,
+    "Defence": 50,
+    "SpecialAttack": 100,
+    "SpecialDefence": 50,
+    "Speed": 80
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 0,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.6,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "aggressive": 0,
+    "passive": 100,
+    "timid": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.8,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.8,
+      "z": -0.1
+    }
+  },
+  "weight": 200.0,
+  "bounding_box": {
+    "width": 1.6,
+    "height": 3.0,
+    "eye_height": 2.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "DragonsMaw",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Twister",
+      "Vise Grip"
+    ],
+    "6": [
+      "Bite"
+    ],
+    "12": [
+      "Ancient Power"
+    ],
+    "18": [
+      "Dragon Breath"
+    ],
+    "24": [
+      "Focus Energy"
+    ],
+    "30": [
+      "Crunch"
+    ],
+    "36": [
+      "Dragon Claw"
+    ],
+    "42": [
+      "Hammer Arm"
+    ],
+    "48": [
+      "Dragon Dance"
+    ],
+    "54": [
+      "Thrash"
+    ],
+    "60": [
+      "Laser Focus"
+    ],
+    "66": [
+      "Dragon Energy"
+    ],
+    "72": [
+      "Hyper Beam"
+    ],
+    "78": [
+      "Explosion"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Scale Shot"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Light Screen",
+    "Reflect",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Facade",
+    "Thunder Fang",
+    "Fire Fang",
+    "Round",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [],
+  "tmMoves6": [],
+  "tmMoves5": [],
+  "tmMoves4": [],
+  "tmMoves3": [],
+  "tmMoves2": [],
+  "tmMoves1": []
+}

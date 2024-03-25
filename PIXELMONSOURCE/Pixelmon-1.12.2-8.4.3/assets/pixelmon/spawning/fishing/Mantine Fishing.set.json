@@ -1,0 +1,45 @@
+{
+  "id": "Mantine Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mantine"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 7.0
+    },
+    {
+      "spec": {
+        "name": "Mantine"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

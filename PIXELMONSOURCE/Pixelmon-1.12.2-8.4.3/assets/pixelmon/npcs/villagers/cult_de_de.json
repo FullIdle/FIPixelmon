@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "cult.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Cult Member"
+        },
+        {
+            "name": "Cult Member"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Alles Gute, unser Herr und Heiland, Bidiza ... ich meine, Arceus!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Die Schlacht zwischen Land und Meer wird unsere Welt bald zerstören, sofern der Himmel nicht eingreift."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Magst du unserem Kult beitreten?"
+                },
+                {
+                    "text": "Wir haben jeden Freitag Treffen und es gibt immer Snacks!"
+                }
+            ]
+        }
+    ]
+}

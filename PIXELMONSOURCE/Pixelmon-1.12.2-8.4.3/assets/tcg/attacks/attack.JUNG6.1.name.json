@@ -1,0 +1,24 @@
+{
+  "cardCode": "JUNG6",
+  "attackNumber": 1,
+  "name": "attack.JUNG6.1.name",
+  "energy": [
+    "COLORLESS",
+    "PSYCHIC"
+  ],
+  "damage": 10,
+  "modifier": "Plus",
+  "text": "attack.JUNG6.1.text",
+  "effectsString": "DAMAGE_BONUS:OPP:PER_DAMAGE:10",
+  "effects": [
+    {
+      "conditionOnMe": false,
+      "type": "PerDamage",
+      "energy": null,
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": null,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

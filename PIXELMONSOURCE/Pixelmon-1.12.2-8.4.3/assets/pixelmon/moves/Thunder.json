@@ -1,0 +1,51 @@
+{
+  "attackIndex": 124,
+  "attackName": "Thunder",
+  "attackType": "Electric",
+  "attackCategory": "SPECIAL",
+  "basePower": 110,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 70,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Paralysis",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    },
+    {
+      "weather": "Rainy",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "electrium_z",
+      "attackName": "Gigavolt Havoc",
+      "basePower": 185,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

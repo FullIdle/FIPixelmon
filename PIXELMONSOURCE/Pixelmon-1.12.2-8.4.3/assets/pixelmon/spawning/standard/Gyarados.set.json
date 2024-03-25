@@ -1,0 +1,51 @@
+{
+  "id": "Gyarados",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gyarados",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "deep_ocean"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "STORM"
+            ]
+          }
+        }
+      ],
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Gyarados",
+        "form": 102
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:infinite_ocean"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

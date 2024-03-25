@@ -1,0 +1,74 @@
+{
+  "id": "Mudkip Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mudkip"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Marshtomp"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Swampert"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

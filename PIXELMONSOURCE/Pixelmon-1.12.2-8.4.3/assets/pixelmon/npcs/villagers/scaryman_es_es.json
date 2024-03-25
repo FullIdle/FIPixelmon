@@ -1,0 +1,69 @@
+{
+    "skins": [
+        { 
+            "filename": "cueball.png"
+        },
+		{ 
+            "filename": "streetthug.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "La navaja"
+        },
+        {
+            "name": "Gouger"
+        },
+        {
+            "name": "Sr. Puñaladas"
+        },
+        {
+            "name": "Ojo-Loco"
+        },
+        {
+            "name": "Gutmaul"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Este es mi espacio. Mantente alejado."
+                },
+                {
+                    "text": "¿Qué te he dicho?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mi pandilla llegará en cualquier momento."
+                },
+                {
+                    "text": "Seh, somos los tíos más peligrosos de la región."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Me encantan los Pokémon bonitos. Un chico se burló de mí una vez por eso."
+                },
+                {
+                    "text": "Sólo fue una vez. Le rompí la cara. Te lo juro."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Si ves a algún poli por aquí, dimelo, ¿VALE?"
+                },
+                {
+                    "text": "¿Por qué? Porque soy alergico a los polis y a la gente entrometida."
+                }
+            ]
+        }
+    ]
+}

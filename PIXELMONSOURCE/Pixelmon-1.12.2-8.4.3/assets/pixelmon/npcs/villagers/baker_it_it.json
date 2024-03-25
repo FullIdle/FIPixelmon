@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "baker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sig. Donut"
+        },
+        {
+            "name": "Sig. Puff"
+        },
+        {
+            "name": "Bob Baker"
+        },
+        {
+            "name": "Pieman Pete"
+        },
+        {
+            "name": "Sig. Bakelight"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Se hai bisogno di pane, vieni nel mio panificio."
+                },
+                {
+                    "text": "Io uso sempre e solo la farina di prima qualità."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ciao, stiamo vendendo pane fresco e croccante a metà prezzo questo pomeriggio."
+                },
+                {
+                    "text": "Possono interessarti una dozzina dei migliori?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ogni volta che vedo una torta che non lievita, inizio a sentirmi male."
+                },
+                {
+                    "text": "La pasticceria è un'arte esigente! Non per i deboli di cuore!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Devi ingrassare un po'! Vieni a comprare delle deliziose torte nel mio panificio."
+                },
+                {
+                    "text": "Non ti piacciono le torte? Le mangio io, allora!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I wish I could stop eating so much of the bread I bake."
+                },
+                {
+                    "text": "Do you think I should go on a diet?"
+                }
+            ]
+        }
+    ]
+}

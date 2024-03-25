@@ -1,0 +1,52 @@
+{
+  "id": "Hydreigon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hydreigon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous forests",
+          "ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Hydreigon",
+        "form": 113
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDDAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mountainous forests",
+          "ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "cardCode": "TERO1",
+  "attackNumber": 1,
+  "name": "attack.TERO1.1.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.TERO1.1.text",
+  "effectsString": "OPTIONAL-SELF_SWITCH:BY_SELF",
+  "effects": [
+    {
+      "myAction": true,
+      "myPokemons": true,
+      "isOptional": true,
+      "needCoinSide": null
+    }
+  ]
+}

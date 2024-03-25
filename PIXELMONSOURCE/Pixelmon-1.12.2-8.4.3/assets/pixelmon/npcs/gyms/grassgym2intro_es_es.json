@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "schoolgirl.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Madison"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Bienvenido al Gimnasio Prado."
+        },
+        {
+          "text": "¡A nuesto Lider le encantan las praderas verdes hasta donde el ojo no alcanza!"
+        },
+        {
+          "text": "Ten cuidado si vas por el prado; A los entrenadores les gusta esconderse en la hierba..."
+        }
+      ]
+    }
+  ]
+}

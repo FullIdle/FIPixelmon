@@ -1,0 +1,41 @@
+{
+  "id": "Ludicolo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ludicolo"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:waterlily"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

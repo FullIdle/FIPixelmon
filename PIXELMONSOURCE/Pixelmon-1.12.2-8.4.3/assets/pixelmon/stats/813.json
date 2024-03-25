@@ -1,0 +1,148 @@
+{
+  "pixelmonName": "Scorbunny",
+  "pokemon": "Scorbunny",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 71,
+    "Defence": 40,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40,
+    "Speed": 69
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 6,
+  "baseExp": 62,
+  "baseFriendship": 50,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.5,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.6,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Raboot"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "Libero"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "6": [
+      "Ember"
+    ],
+    "8": [
+      "Quick Attack"
+    ],
+    "12": [
+      "Double Kick"
+    ],
+    "17": [
+      "Flame Charge"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "28": [
+      "Counter"
+    ],
+    "32": [
+      "Bounce"
+    ],
+    "36": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Fire Pledge"
+  ],
+  "eggMoves": [
+    "High Jump Kick",
+    "Sand Attack",
+    "Sucker Punch",
+    "Super Fang"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Flamethrower",
+    "Low Kick",
+    "Agility",
+    "Focus Energy",
+    "Fire Blast",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Heat Wave",
+    "Taunt",
+    "Blaze Kick",
+    "Overheat",
+    "Gunk Shot",
+    "Electro Ball",
+    "Ally Switch",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Kick",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Bounce",
+    "Mud Shot",
+    "U-turn",
+    "Assurance",
+    "Fire Fang",
+    "Low Sweep",
+    "Round",
+    "Acrobatics"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,342 @@
+{
+  "pixelmonName": "Skitty",
+  "pokemon": "Skitty",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 45,
+    "Defence": 45,
+    "Speed": 50,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 255,
+  "malePercent": 25,
+  "spawnLevel": 2,
+  "spawnLevelRange": 28,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 11.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.6,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:moon_stone"
+      },
+      "to": {
+        "name": "Delcatty"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "Normalize",
+    "WonderSkin"
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out",
+      "Growl",
+      "Tackle",
+      "Tail Whip"
+    ],
+    "4": [
+      "Foresight"
+    ],
+    "7": [
+      "Sing"
+    ],
+    "10": [
+      "Attract"
+    ],
+    "13": [
+      "Disarming Voice"
+    ],
+    "16": [
+      "Double Slap"
+    ],
+    "19": [
+      "Copycat"
+    ],
+    "22": [
+      "Feint Attack"
+    ],
+    "25": [
+      "Charm"
+    ],
+    "28": [
+      "Wake-Up Slap"
+    ],
+    "31": [
+      "Assist"
+    ],
+    "34": [
+      "Covet"
+    ],
+    "37": [
+      "Heal Bell"
+    ],
+    "40": [
+      "Double-Edge"
+    ],
+    "43": [
+      "Captivate"
+    ],
+    "46": [
+      "Play Rough"
+    ]
+  },
+  "tutorMoves": [
+    "Covet",
+    "Heal Bell",
+    "Helping Hand",
+    "Hyper Voice",
+    "Icy Wind",
+    "Iron Tail",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Uproar",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Captivate",
+    "Cosmic Power",
+    "Fake Out",
+    "Fake Tears",
+    "Helping Hand",
+    "Last Resort",
+    "Mud Bomb",
+    "Simple Beam",
+    "Sucker Punch",
+    "Tickle",
+    "Uproar",
+    "Wish",
+    "Zen Headbutt"
+  ],
+  "transferMoves": [
+    "Body Slam",
+    "Defense Curl",
+    "Dig",
+    "Endure",
+    "Flash",
+    "Headbutt",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Pay Day",
+    "Retaliate",
+    "Rollout",
+    "Secret Power",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Payback",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Payback",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Payback",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Charge Beam",
+    "Endure",
+    "Payback",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,55 @@
+{
+  "attackIndex": 366,
+  "attackName": "Hyper Voice",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "beam",
+          "texture": "NORMAL",
+          "rgb": [
+            255,
+            255,
+            153
+          ],
+          "scale": 0.6,
+          "segments": 1,
+          "power": 40,
+          "speed": 0.6,
+          "variation": 0.5
+        }
+      }
+    }
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Blitzle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Blitzle"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

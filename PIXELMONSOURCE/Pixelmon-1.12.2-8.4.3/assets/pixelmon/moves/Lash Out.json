@@ -1,0 +1,30 @@
+{
+  "attackIndex": 713,
+  "attackName": "Lash Out",
+  "attackType": "Dark",
+  "attackCategory": "PHYSICAL",
+  "basePower": 75,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "LashOut"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

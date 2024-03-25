@@ -1,0 +1,43 @@
+{
+  "attackIndex": 437,
+  "attackName": "Dragon Pulse",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 85,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"scale": 0.3,
+				"variation": 0.1
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "dragonium_z",
+      "attackName": "Devastating Drake",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

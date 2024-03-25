@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/130-drowned\"}"
+		},
+		"title": {
+			"translate": "advancements.drowned.title"
+		},
+		"description": {
+			"translate": "advancements.drowned.description"
+		},
+		"hidden": true
+	},
+    "parent" : "pixelmon:specs/spec_trigger",
+	"criteria": {
+		"drowned_spec_trigger": {
+			"trigger": "pixelmon:spec_trigger",
+			"conditions" : {
+				"spec" : "f:102"
+			}
+		}
+	}
+}

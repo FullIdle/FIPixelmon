@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "LPR"
+  ],
+  "key": {
+    "M": {
+      "item": "pixelmon:trade_monitor"
+    },
+    "L": {
+      "item": "pixelmon:trade_holder_left"
+    },
+    "P": {
+      "item": "pixelmon:trade_panel"
+    },
+    "R": {
+      "item": "pixelmon:trade_holder_right"
+    }
+  },
+  "result": {
+    "item": "pixelmon:trade_machine",
+    "count": 1
+  }
+}

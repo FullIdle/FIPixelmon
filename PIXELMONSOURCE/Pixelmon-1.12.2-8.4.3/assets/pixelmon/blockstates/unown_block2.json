@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:unown/QuestionMark" },
+    "inventory": { "model": "pixelmon:unown/QuestionMark" },
+    "index=0": { "model": "pixelmon:unown/Q" },
+    "index=1": { "model": "pixelmon:unown/R" },
+    "index=2": { "model": "pixelmon:unown/S" },
+    "index=3": { "model": "pixelmon:unown/T" },
+    "index=4": { "model": "pixelmon:unown/U" },
+    "index=5": { "model": "pixelmon:unown/V" },
+    "index=6": { "model": "pixelmon:unown/W" },
+    "index=7": { "model": "pixelmon:unown/X" },
+    "index=8": { "model": "pixelmon:unown/Y" },
+    "index=9": { "model": "pixelmon:unown/Z" },
+    "index=10": { "model": "pixelmon:unown/ExclamationPoint" },
+    "index=11": { "model": "pixelmon:unown/QuestionMark" },
+    "index=12": { "model": "pixelmon:unown/Blank" },
+    "index=13": { "model": "pixelmon:unown/QuestionMark" },
+    "index=14": { "model": "pixelmon:unown/QuestionMark" },
+    "index=15": { "model": "pixelmon:unown/QuestionMark" }
+  }
+}

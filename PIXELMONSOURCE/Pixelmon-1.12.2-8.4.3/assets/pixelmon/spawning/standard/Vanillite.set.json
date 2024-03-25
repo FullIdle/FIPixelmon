@@ -1,0 +1,29 @@
+{
+  "id": "Vanillite",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vanillite"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

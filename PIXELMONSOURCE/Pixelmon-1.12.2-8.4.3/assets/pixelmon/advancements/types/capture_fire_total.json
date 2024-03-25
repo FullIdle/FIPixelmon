@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lead"
+		},
+		"title": {
+			"translate": "advancements.capture_fire_total.title"
+		},
+		"description": {
+			"translate": "advancements.capture_fire_total.description"
+		},
+		"background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+		"hidden": true
+	},
+	"parent": "pixelmon:types/capture_fire_25",
+	"criteria": {
+		"capture_fire_total": {
+			"trigger": "pixelmon:capture_type_trigger",
+			"conditions" : {
+				"type" : "Fire",
+				"count" : 70
+			}
+		}
+	}
+}

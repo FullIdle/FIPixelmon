@@ -1,0 +1,62 @@
+{
+  "id": 501,
+  "setId": 7,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 51,
+  "code": "GYMC48",
+  "name": "card.GYMC48.name",
+  "description": "",
+  "previousPokemonId": 50,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC48",
+      "attackNumber": 1,
+      "name": "attack.GYMC48.1.name",
+      "energy": [
+        "FIGHTING"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMC48.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC48",
+      "attackNumber": 2,
+      "name": "attack.GYMC48.2.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING",
+        "COLORLESS"
+      ],
+      "damage": 60,
+      "modifier": null,
+      "text": "attack.GYMC48.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": "LIGHTNING",
+  "resistanceValue": "30",
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

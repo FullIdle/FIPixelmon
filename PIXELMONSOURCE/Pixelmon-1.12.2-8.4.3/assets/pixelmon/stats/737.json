@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Charjabug",
+  "pokemon": "Charjabug",
+  "form": -1,
+  "stats": {
+    "HP": 57,
+    "Attack": 82,
+    "Defence": 95,
+    "Speed": 36,
+    "SpecialAttack": 55,
+    "SpecialDefence": 75
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 15,
+  "baseExp": 140,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Electric"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Grubbin"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 10.5,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.55,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Vikavolt"
+      },
+      "item": {
+        "itemID": "pixelmon:thunder_stone"
+      },
+      "conditions": [],
+      "evoType": "interact",
+      "moves": [
+        "Thunderbolt"
+      ]
+    }
+  ],
+  "abilities": [
+    "Battery",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Bug Bite",
+      "Charge",
+      "Mud-Slap",
+      "String Shot",
+      "Vise Grip"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "23": [
+      "Spark"
+    ],
+    "29": [
+      "Sticky Web"
+    ],
+    "36": [
+      "X-Scissor"
+    ],
+    "43": [
+      "Crunch"
+    ],
+    "50": [
+      "Dig"
+    ],
+    "57": [
+      "Iron Defense"
+    ],
+    "64": [
+      "Discharge"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Discharge",
+    "Harden"
+  ],
+  "transferMoves": [
+    "Charge Beam",
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Magnet Rise",
+    "Return",
+    "Shock Wave",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Iron Defense",
+    "Poison Jab",
+    "X-Scissor",
+    "Electro Ball",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Dig",
+    "Screech",
+    "Light Screen",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Mud Shot",
+    "Round",
+    "Acrobatics",
+    "Volt Switch",
+    "Electroweb",
+    "Eerie Impulse"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Charge Beam",
+    "Acrobatics",
+    "Volt Switch",
+    "Thunder Wave",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "forms": {}
+}

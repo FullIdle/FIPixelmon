@@ -1,0 +1,357 @@
+{
+  "pixelmonName": "Torkoal",
+  "pokemon": "Torkoal",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 140,
+    "Speed": 20,
+    "SpecialAttack": 85,
+    "SpecialDefence": 70
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.3
+    }
+  },
+  "weight": 80.4,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 0.5,
+    "eye_height": 0.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "WhiteSmoke",
+    "Drought",
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Smog"
+    ],
+    "4": [
+      "Withdraw"
+    ],
+    "8": [
+      "Rapid Spin"
+    ],
+    "12": [
+      "Smokescreen"
+    ],
+    "16": [
+      "Clear Smog"
+    ],
+    "20": [
+      "Flame Wheel"
+    ],
+    "24": [
+      "Protect"
+    ],
+    "28": [
+      "Lava Plume"
+    ],
+    "32": [
+      "Body Slam"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Flamethrower"
+    ],
+    "44": [
+      "Curse"
+    ],
+    "48": [
+      "Heat Wave"
+    ],
+    "52": [
+      "Amnesia"
+    ],
+    "56": [
+      "Inferno"
+    ],
+    "60": [
+      "Shell Smash"
+    ],
+    "64": [
+      "Eruption"
+    ]
+  },
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Scorching Sands"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Fissure",
+    "Flail",
+    "Skull Bash",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "After You",
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Double-Edge",
+    "Explosion",
+    "Flame Burst",
+    "Flame Charge",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Incinerate",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Nature Power",
+    "Return",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Earthquake",
+    "Fire Blast",
+    "Amnesia",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Heat Wave",
+    "Superpower",
+    "Overheat",
+    "Iron Defense",
+    "Gyro Ball",
+    "Earth Power",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heat Crash",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Fire Spin",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Weather Ball",
+    "Rock Tomb",
+    "Round",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Will-O-Wisp",
+    "Explosion",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat",
+    "Endure",
+    "Will-O-Wisp",
+    "Explosion",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat"
+  ],
+  "forms": {}
+}

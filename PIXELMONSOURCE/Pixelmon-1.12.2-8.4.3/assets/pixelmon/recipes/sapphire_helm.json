@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "type": "forge:ore_dict",
+      "ore": "gemSapphire"
+    }
+  },
+  "result": {
+    "item": "pixelmon:sapphire_helm",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "Drifblim",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Drifblim"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Drifblim"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

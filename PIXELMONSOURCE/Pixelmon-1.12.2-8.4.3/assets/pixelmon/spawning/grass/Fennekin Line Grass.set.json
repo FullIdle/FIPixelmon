@@ -1,0 +1,95 @@
+{
+  "id": "Fennekin Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Fennekin"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:dead_bush"
+            ]
+          }
+        }
+      ],
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Braixen"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:dead_bush"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Delphox"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:dead_bush"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

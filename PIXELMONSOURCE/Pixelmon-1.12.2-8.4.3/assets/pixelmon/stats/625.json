@@ -1,0 +1,331 @@
+{
+  "pixelmonName": "Bisharp",
+  "pokemon": "Bisharp",
+  "form": 0,
+  "stats": {
+    "HP": 65,
+    "Attack": 125,
+    "Defence": 100,
+    "Speed": 70,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 52,
+  "spawnLevelRange": 8,
+  "baseExp": 172,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Steel"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pawniard"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.45,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.45,
+      "z": -0.2
+    }
+  },
+  "weight": 70.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 2.0,
+    "eye_height": 1.7
+  },
+  "evolutions": [],
+  "abilities": [
+    "Defiant",
+    "InnerFocus",
+    "Pressure"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fury Cutter",
+      "Leer",
+      "Metal Burst",
+      "Metal Claw",
+      "Scratch"
+    ],
+    "15": [
+      "Torment"
+    ],
+    "20": [
+      "Scary Face"
+    ],
+    "25": [
+      "Assurance"
+    ],
+    "30": [
+      "Metal Sound"
+    ],
+    "35": [
+      "Slash"
+    ],
+    "40": [
+      "Night Slash"
+    ],
+    "45": [
+      "Iron Defense"
+    ],
+    "50": [
+      "Laser Focus"
+    ],
+    "57": [
+      "Iron Head"
+    ],
+    "64": [
+      "Swords Dance"
+    ],
+    "71": [
+      "Guillotine"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out",
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Headbutt",
+    "Mean Look",
+    "Quick Guard",
+    "Sucker Punch"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Dual Chop",
+    "Embargo",
+    "Feint Attack",
+    "Frustration",
+    "Hidden Power",
+    "Hone Claws",
+    "Knock Off",
+    "Magnet Rise",
+    "Power-Up Punch",
+    "Pursuit",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Role Play",
+    "Secret Power",
+    "Snatch",
+    "Spite",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Low Kick",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Iron Defense",
+    "Poison Jab",
+    "Dark Pulse",
+    "X-Scissor",
+    "Focus Blast",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Grass Knot",
+    "Foul Play",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Beat Up",
+    "Facade",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Shadow Claw",
+    "Psycho Cut",
+    "Low Sweep",
+    "Round",
+    "Retaliate",
+    "Snarl",
+    "False Swipe",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "X-Scissor",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "X-Scissor",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "X-Scissor",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl"
+  ],
+  "forms": {}
+}

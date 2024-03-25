@@ -1,0 +1,45 @@
+{
+  "id": "Sunkern Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sunkern"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 1,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Sunflora"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 22,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

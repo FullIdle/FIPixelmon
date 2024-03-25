@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "inventory": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=0": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=1": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=2": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=3": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=4": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=5": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=6": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=7": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=8": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=9": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=10": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=11": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=12": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=13": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=14": { "model": "pixelmon:Hidden_Pressure_Plate" },
+    "power=15": { "model": "pixelmon:Hidden_Pressure_Plate" }
+  }
+}

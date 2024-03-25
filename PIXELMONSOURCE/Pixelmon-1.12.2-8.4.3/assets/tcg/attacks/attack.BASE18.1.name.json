@@ -1,0 +1,21 @@
+{
+  "cardCode": "BASE18",
+  "attackNumber": 1,
+  "name": "attack.BASE18.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": "Multiply",
+  "text": "attack.BASE18.1.text",
+  "effectsString": "FLIPS_MULTIPLY:2",
+  "effects": [
+    {
+      "flipCount": 2,
+      "type": "Exact",
+      "counter": 0
+    }
+  ]
+}

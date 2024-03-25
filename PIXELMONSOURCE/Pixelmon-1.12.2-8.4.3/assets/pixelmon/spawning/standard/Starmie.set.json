@@ -1,0 +1,65 @@
+{
+  "id": "Starmie",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Starmie",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 2.0
+    },
+    {
+      "spec": {
+        "name": "Starmie",
+        "form": 102
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:infinite_ocean"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

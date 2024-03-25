@@ -1,0 +1,47 @@
+{
+  "attackIndex": 370,
+  "attackName": "Meteor Mash",
+  "attackType": "Steel",
+  "attackCategory": "PHYSICAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Attack",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Corkscrew Crash",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

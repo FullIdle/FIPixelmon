@@ -1,0 +1,69 @@
+{
+    "data": {
+        "trainerType": "Mountaineer",
+        "minLevel": 10,
+        "maxLevel": 18,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 6,
+        "winnings": 54
+    },
+    "pokemon": [
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Onix"
+        },
+        {
+            "name": "Rhyhorn"
+        },
+        {
+            "name": "Cubone"
+        }
+    ],
+    "names": [
+        {
+            "name": "Gerald"
+        },
+        {
+            "name": "Oliver"
+        },
+        {
+            "name": "Martin"
+        },
+        {
+            "name": "Rupert"
+        },
+        {
+            "name": "Victor"
+        },
+        {
+            "name": "Travis"
+        },
+        {
+            "name": "Brian"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Meine Pokemon und ich haben ein Rennen.",
+            "win": "Du solltest versuchen zu Rennen, es hilft deinen Pokemon.",
+            "lose": "Ich möchte jetzt nicht mehr Rennen."
+        },
+        {
+            "opening": "Diese Berge sind voller Pokemon!",
+            "win": "Und schau wie stark sie sind.",
+            "lose": "Und sie brauchen ein ordentliches Training."
+        },
+        {
+            "opening": "Kannst du Klettern und Kämpfen?",
+            "win": "Hab keine Angst vor der Höhe.",
+            "lose": "Ich bin fast gefallen!"
+        },
+        {
+            "opening": "Nichts geht über den König der Bergschlacht",
+            "win": "Ich bin der neue König des Berges.",
+            "lose": "Du bist der neue König der Berge!"
+        }
+    ]
+}

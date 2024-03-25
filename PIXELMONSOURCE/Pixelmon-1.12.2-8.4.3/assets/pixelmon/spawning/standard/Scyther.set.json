@@ -1,0 +1,29 @@
+{
+  "id": "Scyther",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Scyther"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "savannas"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

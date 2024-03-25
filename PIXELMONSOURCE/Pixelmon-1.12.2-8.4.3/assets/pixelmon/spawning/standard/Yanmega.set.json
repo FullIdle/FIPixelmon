@@ -1,0 +1,33 @@
+{
+  "id": "Yanmega",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Yanmega"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

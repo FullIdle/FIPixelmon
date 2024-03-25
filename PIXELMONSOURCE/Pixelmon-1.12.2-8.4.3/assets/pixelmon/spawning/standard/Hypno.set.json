@@ -1,0 +1,26 @@
+{
+  "id": "Hypno",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hypno"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 26,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "swamps"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

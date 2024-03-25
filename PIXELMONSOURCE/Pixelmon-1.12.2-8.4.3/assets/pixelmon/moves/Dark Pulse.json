@@ -1,0 +1,76 @@
+{
+  "attackIndex": 269,
+  "attackName": "Dark Pulse",
+  "attackType": "Dark",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"15": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"20": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"conical": false,
+				"rgb": [178, 102, 255],
+				"scale": 0.25
+			},
+			"30": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"45": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "darkinium_z",
+      "attackName": "Black Hole Eclipse",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "Corphish Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Corphish"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Crawdaunt"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

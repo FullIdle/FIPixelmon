@@ -1,0 +1,38 @@
+{
+  "id": "Infernape",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Infernape"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mountainous forests",
+          "mutated_taiga_cold",
+          "taiga_cold_hills"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

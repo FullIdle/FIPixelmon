@@ -1,0 +1,49 @@
+{
+  "attackIndex": 215,
+  "attackName": "Iron Defense",
+  "attackType": "Steel",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Defence",
+      "amount": 2,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Z-Iron Defense",
+      "basePower": 0,
+      "effects": [
+	    {
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Haze",
+		  "onlyLowered": true
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

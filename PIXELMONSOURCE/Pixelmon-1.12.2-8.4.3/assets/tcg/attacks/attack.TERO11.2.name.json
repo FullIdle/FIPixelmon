@@ -1,0 +1,14 @@
+{
+  "cardCode": "TERO11",
+  "attackNumber": 2,
+  "name": "attack.TERO11.2.name",
+  "energy": [
+    "LIGHTNING",
+    "LIGHTNING"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.TERO11.2.text",
+  "effectsString": "MOVEATTACHTOBENCH:OPP:1",
+  "effects": []
+}

@@ -1,0 +1,124 @@
+{
+    "data": {
+        "trainerType": "PreschoolerGirl",
+        "minLevel": 5,
+        "maxLevel": 20,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 4,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Riolu"
+        },
+        {
+            "name": "Dratini"
+        },
+        {
+            "name": "Beldum"
+        },
+        {
+            "name": "Bagon"
+        },
+        {
+            "name": "Litwick"
+        },
+        {
+            "name": "Spheal"
+        },
+        {
+            "name": "Ralts"
+        },
+        {
+            "name": "Golett"
+        },
+        {
+            "name": "Drifloon"
+        },
+        {
+            "name": "Dedenne"
+        },
+        {
+            "name": "Stufful"
+        },
+        {
+            "name": "Cutiefly"
+        },
+        {
+            "name": "Yungoos"
+        },
+        {
+            "name": "Azurill"
+        },
+        {
+            "name": "Pichu"
+        },
+        {
+            "name": "Cleffa"
+        },
+        {
+            "name": "Darumaka"
+        },
+        {
+            "name": "Paras"
+        },
+        {
+            "name": "Pineco"
+        },
+        {
+            "name": "Poliwag"
+        },
+        {
+            "name": "Tympole"
+        },
+        {
+            "name": "Tynamo"
+        },
+        {
+            "name": "Ledyba"
+        },
+        {
+            "name": "Budew"
+        },
+        {
+            "name": "Jigglypuff"
+        },
+        {
+            "name": "Mimikyu"
+        }
+    ],
+    "names": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Renee"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "\"Twinkle Toes\""
+        },
+        {
+            "name": "Jenni Jr."
+        }
+    ],
+	"chat": [
+        {
+            "opening": "I'm gonna make my Mommy and Daddy proud!",
+            "win": "Yeah! I can't wait to tell them I won!",
+            "lose": "Good game! They'd be proud I was a good sport!"
+        },
+        {
+            "opening": "I'm a big girl! I'm gonna beat you!",
+            "win": "Don't cry just 'cuz you lost!",
+            "lose": "Big girls... don't cry... big girls... (sniffle)"
+        },
+        {
+            "opening": "I've never lost at Pokémon battling!",
+            "win": "Yay! I'm one for one!",
+            "lose": "This was my first battle..."
+        }
+    ]
+}

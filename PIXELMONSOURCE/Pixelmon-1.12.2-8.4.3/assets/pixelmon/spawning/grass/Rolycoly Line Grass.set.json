@@ -1,0 +1,121 @@
+{
+  "id": "Rolycoly Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rolycoly"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_savanna",
+          "mutated_savanna_rock",
+          "mesas",
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:coal_ore"
+            ]
+          }
+        }
+      ],
+      "rarity": 150.0
+    },
+    {
+      "spec": {
+        "name": "Carkol"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 18,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:charcoal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_savanna",
+          "mutated_savanna_rock",
+          "mesas",
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:coal_ore"
+            ]
+          }
+        }
+      ],
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Coalossal"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 50
+        },
+        {
+          "itemID": "pixelmon:charcoal",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_savanna",
+          "mutated_savanna_rock",
+          "mesas",
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:coal_ore"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

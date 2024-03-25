@@ -1,0 +1,68 @@
+{
+  "id": "Nidoranfemale Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Nidoranfemale"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 3,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Nidorina"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Nidoqueen"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

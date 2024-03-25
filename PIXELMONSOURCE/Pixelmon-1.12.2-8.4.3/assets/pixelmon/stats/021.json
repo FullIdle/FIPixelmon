@@ -1,0 +1,312 @@
+{
+  "pixelmonName": "Spearow",
+  "pokemon": "Spearow",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 60,
+    "Defence": 30,
+    "Speed": 70,
+    "SpecialAttack": 31,
+    "SpecialDefence": 31
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 2.0,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.4,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Fearow"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    null,
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Peck"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "8": [
+      "Pursuit"
+    ],
+    "11": [
+      "Fury Attack"
+    ],
+    "15": [
+      "Aerial Ace"
+    ],
+    "18": [
+      "Mirror Move"
+    ],
+    "22": [
+      "Assurance"
+    ],
+    "25": [
+      "Agility"
+    ],
+    "29": [
+      "Focus Energy"
+    ],
+    "32": [
+      "Roost"
+    ],
+    "36": [
+      "Drill Peck"
+    ]
+  },
+  "tutorMoves": [
+    "Defog",
+    "Drill Run",
+    "Heat Wave",
+    "Sky Attack",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Feather Dance",
+    "Feint Attack",
+    "Quick Attack",
+    "Razor Wind",
+    "Scary Face",
+    "Sky Attack",
+    "Steel Wing",
+    "Tri Attack",
+    "Uproar",
+    "Whirlwind"
+  ],
+  "transferMoves": [
+    "Air Cutter",
+    "Baton Pass",
+    "Bide",
+    "Captivate",
+    "Curse",
+    "Detect",
+    "Double-Edge",
+    "Endure",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Ominous Wind",
+    "Pluck",
+    "Rage",
+    "Secret Power",
+    "Swift",
+    "Take Down",
+    "Twister"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "False Swipe",
+    "Fly",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "False Swipe",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "False Swipe",
+    "Work Up",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing",
+    "Roost",
+    "Endure",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing"
+  ],
+  "tmMoves1": [
+    "Razor Wind",
+    "Whirlwind",
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Double Team",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Rest",
+    "Substitute"
+  ],
+  "forms": {}
+}

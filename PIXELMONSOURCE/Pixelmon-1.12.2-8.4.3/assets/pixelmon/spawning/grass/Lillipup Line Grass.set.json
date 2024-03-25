@@ -1,0 +1,66 @@
+{
+  "id": "Lillipup Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lillipup"
+      },
+      "stringLocationTypes": [
+        "Grass",
+        "Sweet Scent"
+      ],
+      "minLevel": 4,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Herdier"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 17,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Stoutland"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "attackIndex": 705,
+  "attackName": "Overdrive",
+  "attackType": "Electric",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+  ],
+  "animations": [
+    "stationary"
+  ],
+  "flags": {
+    "sound": true
+  },
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

@@ -1,0 +1,69 @@
+{
+    "skins": [
+        { 
+            "filename": "cueball.png"
+        },
+		{ 
+            "filename": "streetthug.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "The Switchblade"
+        },
+        {
+            "name": "Gouger"
+        },
+        {
+            "name": "Mr. Stabs"
+        },
+        {
+            "name": "Mad-Eye"
+        },
+        {
+            "name": "Gutmaul"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "這裡是我的地盤，給我滾。"
+                },
+                {
+                    "text": "不要讓我重複同一句話。"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "我的幫派現在應該在這裡。"
+                },
+                {
+                    "text": "是的，我們是該地區最危險的人。"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "我喜歡可愛的寶可夢，一個傢伙嘲笑我，頭一次。"
+                },
+                {
+                    "text": "那也是最後一次，我給了他一頓飽拳，我發誓。"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "如果你看到一個警察，告訴我，好嗎？"
+                },
+                {
+                    "text": "為什麼？因為我對警察和愛管閒事的人過敏。"
+                }
+            ]
+        }
+    ]
+}

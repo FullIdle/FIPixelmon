@@ -1,0 +1,41 @@
+{
+  "id": "Gengar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gengar",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Gengar",
+        "form": 113
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

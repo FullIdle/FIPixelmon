@@ -1,0 +1,20 @@
+{
+  "cardCode": "FOSS46",
+  "attackNumber": 1,
+  "name": "attack.FOSS46.1.name",
+  "energy": [
+    "GRASS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS46.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:POISONED",
+  "effects": [
+    {
+      "condition": "POISONED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

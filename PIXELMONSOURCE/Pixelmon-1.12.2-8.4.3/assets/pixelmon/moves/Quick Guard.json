@@ -1,0 +1,55 @@
+{
+  "attackIndex": 509,
+  "attackName": "Quick Guard",
+  "attackType": "Fighting",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "priority": 3,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "type": "QuickGuard",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "QuickGuard"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "fightinium_z",
+      "attackName": "Z-Quick Guard",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Defence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

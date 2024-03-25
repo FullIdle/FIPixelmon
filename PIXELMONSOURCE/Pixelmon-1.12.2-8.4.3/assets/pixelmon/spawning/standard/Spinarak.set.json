@@ -1,0 +1,27 @@
+{
+  "id": "Spinarak",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Spinarak"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

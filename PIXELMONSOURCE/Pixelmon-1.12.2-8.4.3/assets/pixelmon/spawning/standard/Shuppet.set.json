@@ -1,0 +1,42 @@
+{
+  "id": "Shuppet",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shuppet"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains",
+          "evil"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:grass_path"
+            ]
+          }
+        }
+      ],
+      "rarity": 90.0
+    }
+  ]
+}

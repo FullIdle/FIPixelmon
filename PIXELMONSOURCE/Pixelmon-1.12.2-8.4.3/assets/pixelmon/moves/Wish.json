@@ -1,0 +1,50 @@
+{
+  "attackIndex": 339,
+  "attackName": "Wish",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Wish",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Wish"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Wish",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialDefence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Mega Pidgeot",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pidgeot"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

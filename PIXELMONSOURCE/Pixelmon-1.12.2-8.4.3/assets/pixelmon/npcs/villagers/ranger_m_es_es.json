@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "ranger_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Woody"
+        },
+        {
+            "name": "Cody"
+        },
+        {
+            "name": "Smith"
+        },
+        {
+            "name": "Rubeus"
+        },
+        {
+            "name": "Ursaring Grylls"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Yo solía patrullar por los bosques, pero hoy en día, patrullo más por los pueblos."
+                },
+                {
+                    "text": "¡La selva urbana! Es como la selva, pero urbana."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Puedo reconocer cualquier especie de planta y animal regional."
+                },
+                {
+                    "text": "¡Vamos, pregúntame!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Puede que no lo sepas, pero los pueblos también necesitan Rangers."
+                },
+                {
+                    "text": "Un jardinero descuidado, y ¡boom! ¡Tienes toda clase de cosas recorriendo por el vecindario!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Sólo TÚ puedes evitar incendios forestales!"
+                },
+                {
+                    "text": "Se responsable con tus Pokémon de tipo Fuego, y no uses Ascuas en las malezas."
+                }
+            ]
+        }
+    ]
+}

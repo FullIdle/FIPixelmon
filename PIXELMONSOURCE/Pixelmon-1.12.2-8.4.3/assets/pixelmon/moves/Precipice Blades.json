@@ -1,0 +1,33 @@
+{
+  "attackIndex": 611,
+  "attackName": "Precipice Blades",
+  "attackType": "Ground",
+  "attackCategory": "PHYSICAL",
+  "basePower": 120,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "groundium_z",
+      "attackName": "Tectonic Rage",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

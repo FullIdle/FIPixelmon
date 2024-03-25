@@ -1,0 +1,29 @@
+{
+  "id": "Dewgong",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dewgong"
+      },
+      "stringLocationTypes": [
+        "Water",
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river",
+          "cold_beach"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

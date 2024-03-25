@@ -1,0 +1,31 @@
+{
+  "attackIndex": 714,
+  "attackName": "Corrosive Gas",
+  "attackType": "Poison",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 40,
+  "ppMax": 64,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "CorrosiveGas",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CorrosiveGas"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

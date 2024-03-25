@@ -1,0 +1,303 @@
+{
+  "pixelmonName": "Emboar",
+  "pokemon": "Emboar",
+  "form": 0,
+  "stats": {
+    "HP": 110,
+    "Attack": 123,
+    "Defence": 65,
+    "Speed": 65,
+    "SpecialAttack": 100,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 19,
+  "baseExp": 238,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Fighting"
+  ],
+  "height": 1.6,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Pignite",
+    "Tepig"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0,
+      "y": 0.7,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0,
+      "y": 0.7,
+      "z": -0.3
+    }
+  },
+  "weight": 150.0,
+  "bounding_box": {
+    "width": 1.6,
+    "height": 2.8,
+    "eye_height": 2.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "Blaze",
+    null,
+    "Reckless"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Arm Thrust",
+      "Ember",
+      "Hammer Arm",
+      "Odor Sleuth",
+      "Tackle",
+      "Tail Whip"
+    ],
+    "3": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "9": [
+      "Odor Sleuth"
+    ],
+    "13": [
+      "Defense Curl"
+    ],
+    "15": [
+      "Flame Charge"
+    ],
+    "20": [
+      "Smog"
+    ],
+    "23": [
+      "Rollout"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "31": [
+      "Heat Crash"
+    ],
+    "38": [
+      "Assurance"
+    ],
+    "43": [
+      "Flamethrower"
+    ],
+    "50": [
+      "Head Smash"
+    ],
+    "55": [
+      "Roar"
+    ],
+    "62": [
+      "Flare Blitz"
+    ]
+  },
+  "tutorMoves": [
+    "Blast Burn",
+    "Block",
+    "Covet",
+    "Endeavor",
+    "Fire Pledge",
+    "Fire Punch",
+    "Focus Punch",
+    "Heat Wave",
+    "Helping Hand",
+    "Iron Head",
+    "Iron Tail",
+    "Low Kick",
+    "Snore",
+    "Stomping Tantrum",
+    "Superpower",
+    "Thunder Punch",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Body Slam",
+    "Burn Up",
+    "Covet",
+    "Curse",
+    "Endeavor",
+    "Heavy Slam",
+    "Magnitude",
+    "Sleep Talk",
+    "Sucker Punch",
+    "Superpower",
+    "Thrash",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Hold Back",
+    "Incinerate",
+    "Power-Up Punch",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Scald",
+    "Fling",
+    "Will-O-Wisp",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Scald",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Scald",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

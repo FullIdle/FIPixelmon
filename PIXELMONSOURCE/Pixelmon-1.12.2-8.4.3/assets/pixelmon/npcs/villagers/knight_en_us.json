@@ -1,0 +1,57 @@
+{
+    "skins": [
+        {
+            "filename": "knight.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sir Bors de Ganis"
+        },
+		 {
+            "name": "Hamlet"
+        },
+        {
+            "name": "Sir Larion"
+        },
+        {
+            "name": "Sir Escavalier"
+        },
+        {
+            "name": "Francis"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "These mobs just keep coming!"
+                },
+                {
+                    "text": "Wave after wave...how many lives need to be lost for this battle to end?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'd rather fight Pokemon over waves of skeletons and zombies!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Fight for what you believe in, otherwise you're fighting for nothing."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Though this be madness, yet there is method in't."
+                }
+            ]
+        }
+    ]
+}

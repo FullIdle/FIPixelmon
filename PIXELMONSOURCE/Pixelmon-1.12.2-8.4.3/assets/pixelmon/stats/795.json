@@ -1,0 +1,210 @@
+{
+  "pixelmonName": "Pheromosa",
+  "pokemon": "Pheromosa",
+  "form": -1,
+  "stats": {
+    "HP": 71,
+    "Attack": 137,
+    "Defence": 37,
+    "Speed": 151,
+    "SpecialAttack": 137,
+    "SpecialDefence": 37
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "height": 3.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.3
+    }
+  },
+  "weight": 25.0,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 3.0,
+    "eye_height": 2.5
+  },
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Feint",
+      "Rapid Spin"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "10": [
+      "Quick Guard"
+    ],
+    "15": [
+      "Bug Bite"
+    ],
+    "20": [
+      "Low Kick"
+    ],
+    "25": [
+      "Double Kick"
+    ],
+    "30": [
+      "Triple Kick"
+    ],
+    "35": [
+      "Stomp"
+    ],
+    "40": [
+      "Agility"
+    ],
+    "45": [
+      "Lunge"
+    ],
+    "50": [
+      "Bounce"
+    ],
+    "55": [
+      "Speed Swap"
+    ],
+    "60": [
+      "Bug Buzz"
+    ],
+    "65": [
+      "Quiver Dance"
+    ],
+    "70": [
+      "High Jump Kick"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching",
+    "Skitter Smack",
+    "Triple Axel"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Block",
+    "Confide",
+    "Double Team",
+    "Echoed Voice",
+    "Frustration",
+    "Hidden Power",
+    "Jump Kick",
+    "Laser Focus",
+    "Me First",
+    "Return",
+    "Roost",
+    "Shock Wave",
+    "Signal Beam",
+    "Silver Wind",
+    "Snatch",
+    "Swagger",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Low Kick",
+    "Agility",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Close Combat",
+    "Poison Jab",
+    "Bug Buzz",
+    "Focus Blast",
+    "Foul Play",
+    "Drill Run",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Facade",
+    "Swift",
+    "Brick Break",
+    "Bounce",
+    "U-turn",
+    "Assurance",
+    "Fling",
+    "Speed Swap",
+    "Low Sweep",
+    "Round",
+    "Electroweb",
+    "False Swipe"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Giga Impact",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

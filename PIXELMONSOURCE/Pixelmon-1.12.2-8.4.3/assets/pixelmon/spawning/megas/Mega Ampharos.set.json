@@ -1,0 +1,23 @@
+{
+  "id": "Mega Ampharos",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ampharos"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "freezing",
+          "plains"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

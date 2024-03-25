@@ -1,0 +1,32 @@
+{
+  "id": "Mareanie",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mareanie"
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 15,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "ocean",
+          "coral_reef"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

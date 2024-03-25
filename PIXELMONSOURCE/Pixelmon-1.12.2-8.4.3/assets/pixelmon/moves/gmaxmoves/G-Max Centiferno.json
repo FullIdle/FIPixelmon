@@ -1,0 +1,30 @@
+{
+  "attackIndex": 11025,
+  "attackName": "G-Max Centiferno",
+  "attackType": "Fire",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 10,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

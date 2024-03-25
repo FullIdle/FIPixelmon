@@ -1,0 +1,117 @@
+{
+  "id": "Blipbug Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Blipbug",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 2,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 150.0
+    },
+    {
+      "spec": {
+        "name": "Blipbug"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 2,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 150.0
+    },
+    {
+      "spec": {
+        "name": "Dottler",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:psychic_seed",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Dottler"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:psychic_seed",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "cardCode": "JUNG47",
+  "attackNumber": 2,
+  "name": "attack.JUNG47.2.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": "Plus",
+  "text": "attack.JUNG47.2.text",
+  "effectsString": "DAMAGE_BONUS:SELF:PER_DAMAGE:10 TAIL-SELF_CONDITION:CONFUSED",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerDamage",
+      "energy": null,
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": null,
+      "ignoreBaseDamage": false
+    },
+    {
+      "condition": "CONFUSED",
+      "onMe": true,
+      "modifier": null,
+      "needCoinSide": "Tail"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "pixelmonName": "Poochyena",
+  "pokemon": "Poochyena",
+  "form": 0,
+  "stats": {
+    "HP": 35,
+    "Attack": 55,
+    "Defence": 35,
+    "Speed": 35,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 12,
+  "baseExp": 55,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 13.6,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.55,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Mightyena"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Snarl"
+      ]
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "QuickFeet",
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "4": [
+      "Howl"
+    ],
+    "7": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Bite"
+    ],
+    "13": [
+      "Odor Sleuth"
+    ],
+    "16": [
+      "Roar"
+    ],
+    "19": [
+      "Swagger"
+    ],
+    "22": [
+      "Assurance"
+    ],
+    "25": [
+      "Scary Face"
+    ],
+    "28": [
+      "Embargo"
+    ],
+    "31": [
+      "Taunt"
+    ],
+    "34": [
+      "Crunch"
+    ],
+    "37": [
+      "Yawn"
+    ],
+    "40": [
+      "Take Down"
+    ],
+    "43": [
+      "Sucker Punch"
+    ],
+    "46": [
+      "Play Rough"
+    ]
+  },
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Hyper Voice",
+    "Iron Tail",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Super Fang",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Covet",
+    "Fire Fang",
+    "Ice Fang",
+    "Leer",
+    "Me First",
+    "Play Rough",
+    "Poison Fang",
+    "Sleep Talk",
+    "Snatch",
+    "Sucker Punch",
+    "Thunder Fang",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Body Slam",
+    "Captivate",
+    "Counter",
+    "Dig",
+    "Double-Edge",
+    "Endure",
+    "Headbutt",
+    "Heal Bell",
+    "Incinerate",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Psych Up",
+    "Retaliate",
+    "Rock Smash",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Embargo",
+    "Payback",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Swagger",
+    "Substitute",
+    "Rock Smash",
+    "Snarl"
+  ],
+  "tmMoves4": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Snatch",
+    "Endure",
+    "Embargo",
+    "Payback",
+    "Captivate",
+    "Dark Pulse",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Snatch"
+  ],
+  "forms": {}
+}

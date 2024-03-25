@@ -1,0 +1,168 @@
+{
+    "data": {
+        "trainerType": "Gentleman",
+        "minLevel": 15,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 2,
+        "winnings": 200
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Pikachu"
+        },
+        {
+            "name": "Ponyta"
+        },
+        {
+            "name": "Grimer"
+        },
+        {
+            "name": "Meowth"
+        },
+        {
+            "name": "Persian"
+        },
+        {
+            "name": "Sandshrew"
+        },
+        {
+            "name": "Eevee"
+        },
+        {
+            "name": "Vulpix"
+        },
+        {
+            "name": "Chatot"
+        },
+        {
+            "name": "Hoothoot"
+        },
+        {
+            "name": "Noctowl"
+        },
+        {
+            "name": "Snubbull"
+        },
+        {
+            "name": "Granbull"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        },
+        {
+            "name": "Farfetchd"
+        },
+        {
+            "name": "Skitty"
+        },
+        {
+            "name": "Delcatty"
+        },
+        {
+            "name": "Electrike"
+        },
+        {
+            "name": "Manectric"
+        },
+        {
+            "name": "Lillipup"
+        },
+        {
+            "name": "Herdier"
+        },
+        {
+            "name": "Stoutland"
+        },
+        {
+            "name": "Sableye"
+        },
+        {
+            "name": "Trumbeak"
+        },
+        {
+            "name": "Toucannon"
+        },
+        {
+            "name": "Falinks"
+        },
+        {
+            "name": "Doublade"
+        },
+        {
+            "name": "Sinistea"
+        },
+        {
+            "name": "Polteageist"
+        }
+    ],
+    "names": [
+        {
+            "name": "Winston"
+        },
+        {
+            "name": "Robert"
+        },        
+        {
+            "name": "Rupert"
+        },        
+        {
+            "name": "Hienrich"
+        },        
+        {
+            "name": "Bertram"
+        },        
+        {
+            "name": "Montague"
+        },        
+        {
+            "name": "Kenneth"
+        },        
+        {
+            "name": "Wallice"
+        },        
+        {
+            "name": "Randolph"
+        },        
+        {
+            "name": "Wilfred"
+        },
+        {
+            "name": "William"
+        },
+        {
+            "name": "Kingsley"
+        },
+        {
+            "name": "Lincoln"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "I own a mansion.",
+            "win": "That was a gentleman's game.",
+            "lose": "How rude of you."
+        },        
+        {
+            "opening": "Good day to you.",
+            "win": "It seems it is a finer day for me.",
+            "lose": "How rude of you not to reply."
+        },        
+        {
+            "opening": "Fancy a gentlemanly duel?",
+            "win": "It seems that I have bested you.",
+            "lose": "How brutish of you."
+        },
+        {
+            "opening": "Making money isn't my only skill.",
+            "win": "There's plenty more where that came from.",
+            "lose": "Perhaps I need more practice."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "cardCode": "JUNG62",
+  "attackNumber": 2,
+  "name": "attack.JUNG62.2.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG62.2.text",
+  "effectsString": "MIRRORMOVE",
+  "effects": [
+    {}
+  ]
+}

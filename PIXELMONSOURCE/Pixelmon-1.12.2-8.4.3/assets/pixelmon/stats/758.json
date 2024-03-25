@@ -1,0 +1,222 @@
+{
+  "pixelmonName": "Salazzle",
+  "pokemon": "Salazzle",
+  "form": -1,
+  "stats": {
+    "HP": 68,
+    "Attack": 64,
+    "Defence": 60,
+    "Speed": 117,
+    "SpecialAttack": 111,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 35,
+  "spawnLevelRange": 50,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Fire"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Salandit"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.0
+    }
+  },
+  "weight": 22.2,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 0.8,
+    "eye_height": 0.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "Corrosion",
+    null,
+    "Oblivious"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Disable",
+      "Ember",
+      "Encore",
+      "Endeavor",
+      "Fire Lash",
+      "Knock Off",
+      "Poison Gas",
+      "Pound",
+      "Scratch",
+      "Smog",
+      "Swagger",
+      "Torment"
+    ],
+    "15": [
+      "Poison Fang"
+    ],
+    "20": [
+      "Sweet Scent"
+    ],
+    "25": [
+      "Nasty Plot"
+    ],
+    "30": [
+      "Incinerate"
+    ],
+    "37": [
+      "Venoshock"
+    ],
+    "44": [
+      "Dragon Pulse"
+    ],
+    "51": [
+      "Venom Drench"
+    ],
+    "58": [
+      "Flamethrower"
+    ],
+    "65": [
+      "Toxic"
+    ]
+  },
+  "tutorMoves": [
+    "Corrosive Gas",
+    "Scale Shot",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Fake Out",
+    "Mud-Slap",
+    "Sand Attack"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Covet",
+    "Double Slap",
+    "Double Team",
+    "Dragon Rage",
+    "Dragon Tail",
+    "Flame Burst",
+    "Flame Charge",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Return",
+    "Snatch"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Flamethrower",
+    "Fire Blast",
+    "Leech Life",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Iron Tail",
+    "Heat Wave",
+    "Taunt",
+    "Overheat",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Flare Blitz",
+    "Poison Jab",
+    "Dragon Pulse",
+    "Nasty Plot",
+    "Gunk Shot",
+    "Sludge Wave",
+    "Foul Play",
+    "Venom Drench"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Beat Up",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Fake Tears",
+    "Payback",
+    "Fling",
+    "Shadow Claw",
+    "Cross Poison",
+    "Venoshock",
+    "Round",
+    "Acrobatics",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [
+    "Dragon Claw",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Dragon Tail",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

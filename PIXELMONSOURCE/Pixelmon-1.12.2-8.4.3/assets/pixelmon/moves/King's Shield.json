@@ -1,0 +1,53 @@
+{
+  "attackIndex": 591,
+  "attackName": "King\u0027s Shield",
+  "attackType": "Steel",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "KingsShield",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "KingsShield"
+    },
+    {
+      "priority": 4,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Z-King's Shield",
+      "basePower": 0,
+      "effects": [
+	    {
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Haze",
+		  "onlyLowered": true
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

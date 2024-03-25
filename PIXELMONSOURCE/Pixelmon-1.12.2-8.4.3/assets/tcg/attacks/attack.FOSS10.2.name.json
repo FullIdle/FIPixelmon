@@ -1,0 +1,21 @@
+{
+  "cardCode": "FOSS10",
+  "attackNumber": 2,
+  "name": "attack.FOSS10.2.name",
+  "energy": [
+    "WATER",
+    "WATER"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.FOSS10.2.text",
+  "effectsString": "HEAD-OPP_CONDITION:CONFUSED",
+  "effects": [
+    {
+      "condition": "CONFUSED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

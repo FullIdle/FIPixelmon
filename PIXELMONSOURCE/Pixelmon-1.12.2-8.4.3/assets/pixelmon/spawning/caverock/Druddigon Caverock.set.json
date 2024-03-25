@@ -1,0 +1,29 @@
+{
+  "id": "Druddigon Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Druddigon"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 70
+      },
+      "rarity": 0.5
+    }
+  ]
+}

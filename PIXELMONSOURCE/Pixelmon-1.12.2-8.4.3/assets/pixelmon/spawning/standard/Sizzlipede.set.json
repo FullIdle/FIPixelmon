@@ -1,0 +1,46 @@
+{
+  "id": "Sizzlipede",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sizzlipede"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 9,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Sizzlipede"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "attackIndex": 524,
+  "attackName": "Volt Switch",
+  "attackType": "Electric",
+  "attackCategory": "SPECIAL",
+  "basePower": 70,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "SwitchOut"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "electrium_z",
+      "attackName": "Gigavolt Havoc",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "attackIndex": 626,
+  "attackName": "Beak Blast",
+  "attackType": "Flying",
+  "attackCategory": "PHYSICAL",
+  "basePower": 100,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "BeakBlast"
+    },
+    {
+      "priority": -3,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Supersonic Skystrike",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

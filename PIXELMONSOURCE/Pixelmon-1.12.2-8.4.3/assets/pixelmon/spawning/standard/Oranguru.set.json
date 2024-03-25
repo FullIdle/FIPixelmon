@@ -1,0 +1,27 @@
+{
+  "id": "Oranguru",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Oranguru"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungle_hills",
+          "mutated_jungle"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

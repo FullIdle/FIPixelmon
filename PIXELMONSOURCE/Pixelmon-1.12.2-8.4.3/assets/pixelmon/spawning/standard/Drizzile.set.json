@@ -1,0 +1,35 @@
+{
+  "id": "Drizzile",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Drizzile"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

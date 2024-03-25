@@ -1,0 +1,25 @@
+{
+  "cardCode": "BASE34",
+  "attackNumber": 1,
+  "name": "attack.BASE34.1.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING",
+    "COLORLESS"
+  ],
+  "damage": 50,
+  "modifier": "Minus",
+  "text": "attack.BASE34.1.text",
+  "effectsString": "DAMAGE_BONUS:SELF:PER_DAMAGE:-10",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerDamage",
+      "energy": null,
+      "pokedexNumber": 0,
+      "value": -10,
+      "maximumBonus": null,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

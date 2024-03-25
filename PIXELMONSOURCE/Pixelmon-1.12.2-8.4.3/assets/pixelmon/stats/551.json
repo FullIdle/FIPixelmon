@@ -1,0 +1,290 @@
+{
+  "pixelmonName": "Sandile",
+  "pokemon": "Sandile",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 72,
+    "Defence": 35,
+    "Speed": 65,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 58,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Dark"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 15.2,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.5,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 29,
+      "to": {
+        "name": "Krokorok"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Intimidate",
+    "Moxie",
+    "AngerPoint"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Power Trip"
+    ],
+    "3": [
+      "Sand Attack"
+    ],
+    "6": [
+      "Hone Claws"
+    ],
+    "9": [
+      "Sand Tomb"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "18": [
+      "Torment"
+    ],
+    "21": [
+      "Dig"
+    ],
+    "24": [
+      "Swagger"
+    ],
+    "27": [
+      "Crunch"
+    ],
+    "30": [
+      "Sandstorm"
+    ],
+    "33": [
+      "Foul Play"
+    ],
+    "36": [
+      "Earthquake"
+    ],
+    "39": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out",
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Counter",
+    "Double-Edge",
+    "Spite"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Embargo",
+    "Frustration",
+    "Hidden Power",
+    "Incinerate",
+    "Me First",
+    "Mean Look",
+    "Mud-Slap",
+    "Pursuit",
+    "Rage",
+    "Return",
+    "Roar",
+    "Rock Climb",
+    "Secret Power",
+    "Snatch",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Focus Energy",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Uproar",
+    "Taunt",
+    "Dark Pulse",
+    "Earth Power",
+    "Stone Edge",
+    "Stealth Rock",
+    "Foul Play"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Sandstorm",
+    "Beat Up",
+    "Facade",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Payback",
+    "Assurance",
+    "Thunder Fang",
+    "Fire Fang",
+    "Round",
+    "Retaliate",
+    "Bulldoze",
+    "Snarl"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Embargo",
+    "Payback",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Retaliate",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Snarl"
+  ],
+  "forms": {
+    "1": {
+      "bounding_box": {
+        "width": 0.7,
+        "height": 0.3,
+        "eye_height": 0.15
+      }
+    }
+  }
+}

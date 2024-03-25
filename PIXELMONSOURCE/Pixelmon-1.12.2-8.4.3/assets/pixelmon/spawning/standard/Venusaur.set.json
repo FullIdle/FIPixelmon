@@ -1,0 +1,27 @@
+{
+  "id": "Venusaur",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Venusaur"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "rw_emperor_ridge"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

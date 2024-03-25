@@ -1,0 +1,287 @@
+{
+  "pixelmonName": "Bonsly",
+  "pokemon": "Bonsly",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 80,
+    "Defence": 95,
+    "Speed": 10,
+    "SpecialAttack": 10,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 15.0,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.5,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Sudowoodo"
+      },
+      "conditions": [
+        {
+          "attackIndex": 137,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Slam"
+      ]
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "RockHead",
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Copycat",
+      "Fake Tears"
+    ],
+    "4": [
+      "Flail"
+    ],
+    "8": [
+      "Rock Throw"
+    ],
+    "12": [
+      "Block"
+    ],
+    "16": [
+      "Mimic"
+    ],
+    "20": [
+      "Rock Tomb"
+    ],
+    "24": [
+      "Tearful Look"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "32": [
+      "Rock Slide"
+    ],
+    "36": [
+      "Low Kick"
+    ],
+    "40": [
+      "Counter"
+    ],
+    "44": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Curse",
+    "Defense Curl",
+    "Harden",
+    "Headbutt",
+    "Rock Polish",
+    "Rollout"
+  ],
+  "transferMoves": [
+    "After You",
+    "Captivate",
+    "Confide",
+    "Covet",
+    "Double Team",
+    "Explosion",
+    "Feint Attack",
+    "Frustration",
+    "Hidden Power",
+    "Natural Gift",
+    "Nature Power",
+    "Psych Up",
+    "Return",
+    "Role Play",
+    "Secret Power",
+    "Slam",
+    "Smack Down",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Low Kick",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Uproar",
+    "Calm Mind",
+    "Earth Power",
+    "Stealth Rock",
+    "Foul Play"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Brick Break",
+    "Fake Tears",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Round",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Endure",
+    "Explosion",
+    "Rock Polish",
+    "Stealth Rock",
+    "Psych Up",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

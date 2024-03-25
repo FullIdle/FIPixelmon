@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "engineer.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Gustave"
+        },
+        {
+            "name": "Graham"
+        },
+        {
+            "name": "Seymour"
+        },
+        {
+            "name": "Thomas"
+        },
+        {
+            "name": "Kees"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Con la mia attrezzatura, sono protetto dalle scosse elettriche!"
+                },
+                {
+                    "text": "Ciò significa che posso dare da mangiare ai Pikachu selvatici senza paura."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Dovevo riparare un palo di servizio, ma non riesco a trovarlo da nessuna parte."
+                },
+                {
+                    "text": "Mi sa che sono diventato cieco."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ci sarà un'interruzione di corrente domani."
+                },
+                {
+                    "text": "Non preoccuparti; è solo manutenzione."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No, I'm not angry at you. I always make that face."
+                },
+                {
+                    "text": "That's my normal face! My neutral face. You got a problem with that?"
+                }
+            ]
+        }
+    ]
+}

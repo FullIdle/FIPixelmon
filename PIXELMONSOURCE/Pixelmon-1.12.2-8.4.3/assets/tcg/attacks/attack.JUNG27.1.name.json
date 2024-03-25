@@ -1,0 +1,23 @@
+{
+  "cardCode": "JUNG27",
+  "attackNumber": 1,
+  "name": "attack.JUNG27.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.JUNG27.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:PARALYZED",
+  "effects": [
+    {
+      "condition": "PARALYZED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

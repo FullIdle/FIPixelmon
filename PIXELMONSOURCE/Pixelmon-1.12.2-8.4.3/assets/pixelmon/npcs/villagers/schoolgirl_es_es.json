@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "schoolgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Madison"
+        },
+        {
+            "name": "Kayl"
+        },
+        {
+            "name": "Audrey"
+        },
+        {
+            "name": "Grace"
+        },
+        {
+            "name": "Lili"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Estamos aprendiendo muchas cosas interesantes en el colegio, pero no puedo esperar a ser Entrenador."
+                },
+                {
+                    "text": "¡Lo segundo mejor son las actividades de verano con los Rangers!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Tengo que volver a casa, me voy a perder \"My Little Ponyta\"!"
+                },
+                {
+                    "text": "Sinó mis amigas me lo contarán todo antes de que pueda ver la repetición..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Si tengo 2000 PokéDollares y las Poké Balls cuestan 200 PokéDollares cada una, ¿cuántas Poké Balls tengo?"
+                },
+                {
+                    "text": "¡Once! ¡Era una pregunta trampa, porque también conseguí una Honor Ball gratis!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hoy Cody en el colegio recuperó la Poké Ball que le quitó el profesor."
+                },
+                {
+                    "text": "Continuó jugando con ella y molestando a todo el mundo."
+                }
+            ]
+        }
+    ]
+}

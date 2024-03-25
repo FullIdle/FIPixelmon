@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "pixelmon:ruby",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "pixelmon:ruby_legs",
+    "count": 1
+  }
+}

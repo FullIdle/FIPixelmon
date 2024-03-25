@@ -1,0 +1,164 @@
+{
+  "pixelmonName": "Duraludon",
+  "pokemon": "Duraludon",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 95,
+    "Defence": 115,
+    "SpecialAttack": 120,
+    "SpecialDefence": 50,
+    "Speed": 85
+  },
+  "catchRate": 45,
+  "malePercent": 50.0,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 187,
+  "baseFriendship": 50,
+  "types": [
+    "Steel",
+    "Dragon"
+  ],
+  "height": 1.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.4
+    },
+    "standing": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.4
+    }
+  },
+  "weight": 40.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.4,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "LightMetal",
+    "HeavyMetal",
+    "Stalwart"
+  ],
+  "eggGroups": [
+    "Mineral",
+    "Dragon"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Metal Claw"
+    ],
+    "6": [
+      "Rock Smash"
+    ],
+    "12": [
+      "Hone Claws"
+    ],
+    "18": [
+      "Metal Sound"
+    ],
+    "24": [
+      "Breaking Swipe"
+    ],
+    "30": [
+      "Dragon Tail"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "42": [
+      "Laser Focus"
+    ],
+    "48": [
+      "Dragon Claw"
+    ],
+    "54": [
+      "Flash Cannon"
+    ],
+    "60": [
+      "Metal Burst"
+    ],
+    "66": [
+      "Hyper Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [
+    "Mirror Coat",
+    "Night Slash",
+    "Slash"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Dragon Claw",
+    "Gyro Ball",
+    "Dark Pulse",
+    "Dragon Pulse",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heavy Slam",
+    "Foul Play",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Thunder Wave",
+    "Screech",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Round",
+    "Snarl",
+    "Stomping Tantrum",
+    "Breaking Swipe"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "cardCode": "BASE10",
+  "attackNumber": 1,
+  "name": "attack.BASE10.1.name",
+  "energy": [
+    "PSYCHIC",
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": "Plus",
+  "text": "attack.BASE10.1.text",
+  "effectsString": "DAMAGE_BONUS:OPP:*:10",
+  "effects": [
+    {
+      "conditionOnMe": false,
+      "type": "PerEnergy",
+      "energy": null,
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": null,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

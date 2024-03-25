@@ -1,0 +1,380 @@
+{
+  "pixelmonName": "Hydreigon",
+  "pokemon": "Hydreigon",
+  "form": 0,
+  "stats": {
+    "HP": 92,
+    "Attack": 105,
+    "Defence": 90,
+    "Speed": 98,
+    "SpecialAttack": 125,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 65,
+  "spawnLevelRange": 6,
+  "baseExp": 270,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 1.8,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Zweilous",
+    "Deino"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.2
+    }
+  },
+  "weight": 160.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.8,
+    "eye_height": 1.53
+  },
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Double Hit",
+      "Dragon Breath",
+      "Focus Energy",
+      "Tackle",
+      "Tri Attack"
+    ],
+    "12": [
+      "Roar"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Work Up"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Scary Face"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "44": [
+      "Body Slam"
+    ],
+    "48": [
+      "Hyper Voice"
+    ],
+    "54": [
+      "Dragon Rush"
+    ],
+    "60": [
+      "Nasty Plot"
+    ],
+    "68": [
+      "Outrage"
+    ],
+    "76": [
+      "Hyper Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dual Wingbeat",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Belch",
+    "Double Hit",
+    "Head Smash"
+  ],
+  "transferMoves": [
+    "Aqua Tail",
+    "Charge Beam",
+    "Confide",
+    "Defog",
+    "Double Team",
+    "Dragon Rage",
+    "Dragon Tail",
+    "Echoed Voice",
+    "Frustration",
+    "Hidden Power",
+    "Incinerate",
+    "Psych Up",
+    "Return",
+    "Rock Smash",
+    "Roost",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Spite",
+    "Strength",
+    "Swagger",
+    "Tailwind",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Hydro Pump",
+    "Surf",
+    "Earthquake",
+    "Focus Energy",
+    "Fire Blast",
+    "Tri Attack",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Uproar",
+    "Heat Wave",
+    "Taunt",
+    "Superpower",
+    "Hyper Voice",
+    "Dragon Dance",
+    "Dark Pulse",
+    "Dragon Pulse",
+    "Focus Blast",
+    "Earth Power",
+    "Nasty Plot",
+    "Zen Headbutt",
+    "Flash Cannon",
+    "Stone Edge",
+    "Work Up",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Fire Spin",
+    "Thunder Wave",
+    "Screech",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Steel Wing",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Beat Up",
+    "Facade",
+    "Helping Hand",
+    "Rock Tomb",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Thunder Fang",
+    "Ice Fang",
+    "Fire Fang",
+    "Round",
+    "Acrobatics",
+    "Bulldoze",
+    "Snarl",
+    "Brutal Swing",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Focus Blast",
+    "Charge Beam",
+    "Brutal Swing",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Fly",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Focus Blast",
+    "Charge Beam",
+    "Incinerate",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "Charge Beam",
+    "Incinerate",
+    "Acrobatics",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Work Up",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

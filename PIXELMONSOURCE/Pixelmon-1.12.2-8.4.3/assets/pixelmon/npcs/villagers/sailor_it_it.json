@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "sailor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "James"
+        },
+        {
+            "name": "Stanley"
+        },
+        {
+            "name": "Agostino"
+        },
+        {
+            "name": "Lionel"
+        },
+        {
+            "name": "Donald"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ho sfidato un Machamp a una partita di wrestling con tre amici."
+                },
+                {
+                    "text": "Ci ha battuti tutti senza sudare neanche un po'. Come ha fatto?!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sorpreso di vedere un marinaio qui? Sono a terra!"
+                },
+                {
+                    "text": "Quindi stasera, mangio con la famiglia. Spero che non cucinino gli spinaci. Odio gli spinaci ..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il mio capitano dice che un Wailmer Cromatico gli ha mangiato la gamba e ora cerca vendetta."
+                },
+                {
+                    "text": "Gli ho detto che i Wailmer non fanno merenda con le gambe della gente, ma non mi ascolta. Oh bene."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sono stato in tutto il mondo, lo sai?"
+                },
+                {
+                    "text": "E ti posso assicurare che i Pokémon delle altre regioni... sono strani."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "attackIndex": 157,
+  "attackName": "Bone Club",
+  "attackType": "Ground",
+  "attackCategory": "PHYSICAL",
+  "basePower": 65,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 85,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "groundium_z",
+      "attackName": "Tectonic Rage",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

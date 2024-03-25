@@ -1,0 +1,49 @@
+{
+  "id": "Blitzle Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Blitzle"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Zebstrika"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 28,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

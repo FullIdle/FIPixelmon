@@ -1,0 +1,87 @@
+{
+  "pixelmonName": "Metapod",
+  "pokemon": "Metapod",
+  "form": -1,
+  "stats": {
+    "HP": 50,
+    "Attack": 20,
+    "Defence": 55,
+    "Speed": 30,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 7,
+  "spawnLevelRange": 3,
+  "baseExp": 72,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Caterpie"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 9.9,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 10,
+      "to": {
+        "name": "Butterfree"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Gust"
+      ]
+    }
+  ],
+  "abilities": [
+    "ShedSkin",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Harden"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [],
+  "transferMoves": [
+    "Snore"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Iron Defense"
+  ],
+  "tmMoves8": [
+    "Electroweb"
+  ],
+  "forms": {}
+}

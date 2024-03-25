@@ -1,0 +1,26 @@
+{
+  "id": "Espurr",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Espurr"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

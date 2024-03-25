@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Tetsuo"
+        },
+        {
+            "name": "Neo"
+        },
+        {
+            "name": "Luke"
+        },
+        {
+            "name": "Raz"
+        },
+        {
+            "name": "Nate"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "No, non ti darò una dimostrazione."
+                },
+                {
+                    "text": "I poteri psichici sono un dono meglio utilizzato responsabilmente, non un trucco da festa."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La tua mente è piena di... wow."
+                },
+                {
+                    "text": "No, non importa, ti lascio solo, addio."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Aspetta... Non dire nulla!"
+                },
+                {
+                    "text": "Vedo che ti stai divertendo nel tuo gioco preferito!"
+                }
+            ]
+        }
+    ]
+}

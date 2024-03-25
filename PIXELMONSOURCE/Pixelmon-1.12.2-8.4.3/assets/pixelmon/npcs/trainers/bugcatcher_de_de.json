@@ -1,0 +1,254 @@
+{
+  "data": {
+    "trainerType": "BugCatcher",
+    "minLevel": 8,
+    "maxLevel": 16,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 6,
+    "winnings": 16
+  },
+  "pokemon": [
+    {
+      "name": "Caterpie"
+    },
+    {
+      "name": "Metapod"
+    },
+    {
+      "name": "Butterfree"
+    },
+    {
+      "name": "Pidgey"
+    },
+    {
+      "name": "Oddish"
+    },
+    {
+      "name": "Weedle"
+    },
+    {
+      "name": "Kakuna"
+    },
+    {
+      "name": "Beedrill"
+    },
+    {
+      "name": "Venonat"
+    },
+    {
+      "name": "Venomoth"
+    },
+    {
+      "name": "Paras"
+    },
+    {
+      "name": "Scyther"
+    }
+  ],
+  "names": [
+    {
+      "name": "Al"
+    },
+    {
+      "name": "Anthony"
+    },
+    {
+      "name": "Arnie"
+    },
+    {
+      "name": "Benny"
+    },
+    {
+      "name": "Brandon"
+    },
+    {
+      "name": "Brent"
+    },
+    {
+      "name": "Cale"
+    },
+    {
+      "name": "Charlie"
+    },
+    {
+      "name": "Colton"
+    },
+    {
+      "name": "Connor"
+    },
+    {
+      "name": "Davis"
+    },
+    {
+      "name": "Don"
+    },
+    {
+      "name": "Donald"
+    },
+    {
+      "name": "Doug"
+    },
+    {
+      "name": "Ed"
+    },
+    {
+      "name": "Elijah"
+    },
+    {
+      "name": "Garret"
+    },
+    {
+      "name": "Greg"
+    },
+    {
+      "name": "Jack"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Jonah"
+    },
+    {
+      "name": "Jose"
+    },
+    {
+      "name": "Josh"
+    },
+    {
+      "name": "Keigo"
+    },
+    {
+      "name": "Ken"
+    },
+    {
+      "name": "Kent"
+    },
+    {
+      "name": "Lyle"
+    },
+    {
+      "name": "Phillip"
+    },
+    {
+      "name": "Rick"
+    },
+    {
+      "name": "Rob"
+    },
+    {
+      "name": "Robby"
+    },
+    {
+      "name": "Sammy"
+    },
+    {
+      "name": "Vance"
+    },
+    {
+      "name": "Wade"
+    },
+    {
+      "name": "Wayne"
+    },
+    {
+      "name": "Tai"
+    },
+    {
+      "name": "Matt"
+    },
+    {
+      "name": "Izzy"
+    },
+    {
+      "name": "Joe"
+    },
+    {
+      "name": "Borris"
+    },
+    {
+      "name": "Bret"
+    },
+    {
+      "name": "Bryan"
+    },
+    {
+      "name": "Dennis"
+    },
+    {
+      "name": "Theo"
+    },
+    {
+      "name": "Vance"
+    },
+    {
+      "name": "Tobby"
+    },
+    {
+      "name": "Wilton"
+    },
+    {
+      "name": "Darryl"
+    },
+    {
+      "name": "Bobby"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Ich liebe Käfer!",
+      "win": "Ich sagte dir doch, Käfer-Pokémon sind die Besten!",
+      "lose": "Käfer sind trotzdem toll!"
+    },
+    {
+      "opening": "Hast du schon mal ein Pudox gesehen? Ich liebe sie.",
+      "win": "Ich glaube ich seh eins. Danke für den Kampf.",
+      "lose": "Ach ja. Wenn du eins siehst, lass es mich wissen."
+    },
+    {
+      "opening": "Käfer-Pokémon sind so Wundervoll. Ich würde gerne sehen wie du versuchst meine zu besiegen!",
+      "win": "Siehst du die Schönheit meiner Käfer?",
+      "lose": "Du magst mich besiegt haben, aber meine Käfer-Pokémon waren ziemlich cool."
+    },
+    {
+      "opening": "Lass uns kämpfen. Meine Käfer-Pokémon müssen stärker werden!",
+      "win": "Meine Käfer-Pokémon sind stärker als ich dachte!",
+      "lose": "Meine Käfer sind wieder nicht stärker geworden."
+    },
+    {
+      "opening": "Mit viel Geduld hab ich mein Team trainiert... Los Gehts!",
+      "win": "Das harte Training hat sich endlich ausgezahlt.",
+      "lose": "Wie konnte ich nur nach so viel Training verlieren?"
+    },
+    {
+      "opening": "Pokémon Kämpfe werden immer so ernst genommen. Lass uns nur zum Spaß kämpfen!",
+      "win": "Das hat Spaß gemacht. Lass uns eines Tages nochmal kämpfen.",
+      "lose": "Das war lustig. Danke für den Kampf."
+    },
+    {
+      "opening": "Sollte ich gewinnen, so musst du mir deine Käfer-Pokémon geben!",
+      "win": "Hehe, gib sie her!",
+      "lose": "Glaub ja nicht du bekommst nun meine!"
+    },
+    {
+      "opening": "KÄFER!",
+      "win": "KÄFER dominieren!",
+      "lose": "Warum sind Käfer-Pokémon nur Müll?"
+    },
+    {
+      "opening": "Es gibt keine guten Käfer-Pokémon! Sollte ich verlieren so werfe ich meine in die Mülltone und starte von vorn!",
+      "win": "Ich muss mich geirrt haben! Alle Käfer-Pokémon sind Klasse! Ich brauch kein neues Team! Dieses ist fantastisch!",
+      "lose": "Das wars! Die Mülltonne wartet!"
+    },
+    {
+      "opening": "Grüss dich junger Bursche!",
+      "win": "Ich schlug dich! Ha ha!",
+      "lose": "Unmöglich, ich hatte dich doch schon fast besiegt..."
+    },
+    {
+      "opening": "Wurm ich dich?",
+      "win": "Käfer sind die besten.",
+      "lose": "Nun fängst du an mich zu wurmen..."
+    }
+  ]
+}

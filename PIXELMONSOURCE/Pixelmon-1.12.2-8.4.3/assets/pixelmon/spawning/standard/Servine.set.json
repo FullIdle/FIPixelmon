@@ -1,0 +1,25 @@
+{
+  "id": "Servine",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Servine"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 17,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

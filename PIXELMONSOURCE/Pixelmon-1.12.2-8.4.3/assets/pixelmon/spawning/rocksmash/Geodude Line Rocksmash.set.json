@@ -1,0 +1,81 @@
+{
+  "id": "Geodude Line Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Geodude",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Geodude",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Graveler",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 18,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Graveler",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 18,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

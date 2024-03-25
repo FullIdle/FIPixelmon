@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "fireleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Kasai"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Hey, Kind! Ich bin der Trainingsleiter in dieser Gegend. Du denkst, du kannst dieses Feuer löschen? Wir werden sehen!",
+      "win": "Entschuldigung für deinen Plan, mich in Flammen aufgehen zu lassen!",
+      "lose": "Auf keinen Fall! Ich glaube, ich war nicht intelligent genug..."
+    }
+  ]
+}

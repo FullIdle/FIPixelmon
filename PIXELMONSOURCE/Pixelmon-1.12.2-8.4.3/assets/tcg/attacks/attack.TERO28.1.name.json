@@ -1,0 +1,20 @@
+{
+  "cardCode": "TERO28",
+  "attackNumber": 1,
+  "name": "attack.TERO28.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.TERO28.1.text",
+  "effectsString": "IGNORESTATS",
+  "effects": [
+    {
+      "applyOn": null,
+      "weakness": null,
+      "resistance": null
+    }
+  ]
+}

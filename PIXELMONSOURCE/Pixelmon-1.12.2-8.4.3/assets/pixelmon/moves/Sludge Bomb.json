@@ -1,0 +1,61 @@
+{
+  "attackIndex": 27,
+  "attackName": "Sludge Bomb",
+  "attackType": "Poison",
+  "attackCategory": "SPECIAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Poison",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Poison"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL"
+			},
+			"13": {
+				"id": "explosion",
+				"texture": "NORMAL",
+				"atTarget": true,
+				"lifetimeTicks": 20,
+				"scale": 0.6,
+				"speed": 0.6
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Acid Downpour",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

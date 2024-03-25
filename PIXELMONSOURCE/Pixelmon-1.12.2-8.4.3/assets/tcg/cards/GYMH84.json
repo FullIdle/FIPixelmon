@@ -1,0 +1,61 @@
+{
+  "id": 405,
+  "setId": 6,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 119,
+  "code": "GYMH84",
+  "name": "card.GYMH84.name",
+  "description": "",
+  "previousPokemonId": 118,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH84",
+      "attackNumber": 1,
+      "name": "attack.GYMH84.1.name",
+      "energy": [
+        "WATER"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMH84.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH84",
+      "attackNumber": 2,
+      "name": "attack.GYMH84.2.name",
+      "energy": [
+        "WATER",
+        "WATER"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.GYMH84.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,95 @@
+{
+  "id": "Whismur Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Whismur"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:gravel"
+            ]
+          }
+        }
+      ],
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Loudred"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "Day"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:gravel"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Exploud"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:gravel"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

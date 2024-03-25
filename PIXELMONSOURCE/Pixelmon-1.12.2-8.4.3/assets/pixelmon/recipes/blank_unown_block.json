@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "pixelmon:temple_block"
+    }
+  },
+  "result": {
+    "item": "pixelmon:unown_block2",
+    "data": 12,
+    "count": 9
+  }
+}

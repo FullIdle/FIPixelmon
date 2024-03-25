@@ -1,0 +1,64 @@
+{
+    "skins": [
+        {
+            "filename": "blacksmith.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bazza"
+        },
+        {
+            "name": "Garth"
+        },
+        {
+            "name": "Rusty"
+        },
+        {
+            "name": "Atsushi"
+        },
+        {
+            "name": "Rarth"
+        },
+        {
+            "name": "Tibo"
+        },
+        {
+            "name": "Henry"
+        },
+        {
+            "name": "Bart"
+        },
+        {
+            "name": "Mikio"
+        },
+        {
+            "name": "Bartholomew"
+        },
+        {
+            "name": "Gunther"
+        },
+        {
+            "name": "Lars"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "È difficile lavorare qui tutto il giorno con questo caldo!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il lavoro di un fabbro non diventa mai noioso."
+                },
+                {
+                    "text": "Non sai mai cosa tirerà fuori ogni giorno!"
+                }
+            ]
+        }
+    ]
+}

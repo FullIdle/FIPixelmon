@@ -1,0 +1,47 @@
+{
+  "id": 243,
+  "setId": 4,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 149,
+  "code": "TERO5",
+  "name": "card.TERO5.name",
+  "description": "",
+  "previousPokemonId": 148,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO5",
+      "attackNumber": 1,
+      "name": "attack.TERO5.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 70,
+      "modifier": null,
+      "text": "attack.TERO5.1.text",
+      "effects": [
+        "TAIL-SELF_MISSED"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 2,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "SummonMinions"
+}

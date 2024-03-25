@@ -1,0 +1,372 @@
+{
+  "pixelmonName": "Abomasnow",
+  "pokemon": "Abomasnow",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 92,
+    "Defence": 75,
+    "Speed": 60,
+    "SpecialAttack": 92,
+    "SpecialDefence": 85
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 5,
+  "baseExp": 214,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Ice"
+  ],
+  "height": 2.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Snover"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.1
+    }
+  },
+  "weight": 135.5,
+  "bounding_box": {
+    "width": 1.7,
+    "height": 2.3,
+    "eye_height": 1.9
+  },
+  "evolutions": [],
+  "abilities": [
+    "SnowWarning",
+    null,
+    "Soundproof"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Aurora Veil",
+      "Ice Punch",
+      "Leafage",
+      "Leer",
+      "Mist",
+      "Powder Snow"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Razor Leaf"
+    ],
+    "25": [
+      "Icy Wind"
+    ],
+    "30": [
+      "Swagger"
+    ],
+    "35": [
+      "Ingrain"
+    ],
+    "43": [
+      "Wood Hammer"
+    ],
+    "49": [
+      "Blizzard"
+    ],
+    "56": [
+      "Sheer Cold"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Growth",
+    "Leech Seed",
+    "Skull Bash",
+    "Stomp"
+  ],
+  "transferMoves": [
+    "Block",
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Flash",
+    "Focus Punch",
+    "Frost Breath",
+    "Frustration",
+    "Grass Whistle",
+    "Headbutt",
+    "Hidden Power",
+    "Mud-Slap",
+    "Natural Gift",
+    "Return",
+    "Rock Smash",
+    "Role Play",
+    "Secret Power",
+    "Strength",
+    "Synthesis",
+    "Toxic",
+    "Water Pulse",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Ice Beam",
+    "Blizzard",
+    "Earthquake",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Seed Bomb",
+    "Focus Blast",
+    "Energy Ball",
+    "Earth Power",
+    "Leaf Storm",
+    "Grass Knot"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Ice Punch",
+    "Hyper Beam",
+    "Giga Impact",
+    "Magical Leaf",
+    "Solar Beam",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Brick Break",
+    "Weather Ball",
+    "Rock Tomb",
+    "Bullet Seed",
+    "Icicle Spear",
+    "Fling",
+    "Avalanche",
+    "Round",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Bullet Seed",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Endure",
+    "Giga Impact",
+    "Flash",
+    "Avalanche",
+    "Swords Dance",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 90,
+        "Attack": 132,
+        "Defence": 105,
+        "Speed": 30,
+        "SpecialAttack": 132,
+        "SpecialDefence": 105
+      },
+      "height": 2.7,
+      "weight": 185.0,
+      "bounding_box": {
+        "width": 2.5,
+        "height": 3.0,
+        "eye_height": 1.7
+      },
+      "abilities": [
+        "SnowWarning",
+        null,
+        null
+      ]
+    }
+  }
+}

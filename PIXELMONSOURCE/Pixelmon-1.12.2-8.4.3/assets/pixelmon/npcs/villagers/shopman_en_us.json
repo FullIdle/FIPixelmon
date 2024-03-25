@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shopman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mr. Spuds"
+        },
+        {
+            "name": "Gill the Grocer"
+        },
+        {
+            "name": "Mr. Penny"
+        },
+        {
+            "name": "Storeman Bert"
+        },
+        {
+            "name": "Mr. Green"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Hello there, would you like to buy fresh broccoli?"
+                },
+                {
+                    "text": "You don't like broccoli? Well, I've never heard that before!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Welcome to the market. Can I help you find what you are looking for?"
+                },
+                {
+                    "text": "Pokémon? No, this is a food market. I don't think you eat those, do you?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Nice day, isn't it? Would you like to buy some bananas?"
+                },
+                {
+                    "text": "I'll have you know, bananas are brain food! That's why I'm so smart!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hurry, hurry! Bargains galore at our store today!"
+                },
+                {
+                    "text": "Too expensive? Hah! It's a bargain compared to yesterday's price!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hello, we have some lovely sweet apples just in today."
+                },
+                {
+                    "text": "No, you can't taste-test them first!"
+                }
+            ]
+        }
+    ]
+}

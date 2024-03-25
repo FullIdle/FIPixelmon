@@ -1,0 +1,51 @@
+{
+  "attackIndex": 291,
+  "attackName": "Perish Song",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Perish",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Perish"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Perish Song",
+      "basePower": 0,
+      "effects": [
+        {
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Haze",
+          "onlyLowered": true
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

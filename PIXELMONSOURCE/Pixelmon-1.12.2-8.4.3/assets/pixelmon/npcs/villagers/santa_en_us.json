@@ -1,0 +1,54 @@
+{
+    "skins": [
+        {
+            "filename": "santa.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Santa Claus"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "You know Dasher and Dancer, Prancer and Vixen. Coment and Cupid, Donner and Blitzen."
+                },
+                {
+                    "text": "Who's Rudolph?"
+				},
+				{
+					"text": "He had a red nose? That doesn't sounds healthy."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I don't have a toy factory, but I do have a command block."
+                },
+                {
+                    "text": "What do you want for Christmas? I might be able to spawn it in."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Merry Christmas!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I think Mrs. Claus changed my chocolate chip cookies to raisin."
+                },
+                {
+                    "text": "I'm putting her on the naughty list."
+                }
+            ]
+        }
+    ]
+}

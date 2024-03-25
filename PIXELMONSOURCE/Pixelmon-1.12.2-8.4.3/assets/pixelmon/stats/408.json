@@ -1,0 +1,304 @@
+{
+  "pixelmonName": "Cranidos",
+  "pokemon": "Cranidos",
+  "form": 0,
+  "stats": {
+    "HP": 67,
+    "Attack": 125,
+    "Defence": 40,
+    "Speed": 58,
+    "SpecialAttack": 30,
+    "SpecialDefence": 30
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 99,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 31.5,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.2,
+    "eye_height": 0.765
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Rampardos"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Endeavor"
+      ]
+    }
+  ],
+  "abilities": [
+    "MoldBreaker",
+    null,
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Headbutt",
+      "Leer"
+    ],
+    "6": [
+      "Focus Energy"
+    ],
+    "10": [
+      "Pursuit"
+    ],
+    "15": [
+      "Take Down"
+    ],
+    "19": [
+      "Scary Face"
+    ],
+    "24": [
+      "Assurance"
+    ],
+    "28": [
+      "Chip Away"
+    ],
+    "33": [
+      "Ancient Power"
+    ],
+    "37": [
+      "Zen Headbutt"
+    ],
+    "42": [
+      "Screech"
+    ],
+    "46": [
+      "Head Smash"
+    ]
+  },
+  "tutorMoves": [
+    "Dragon Pulse",
+    "Earth Power",
+    "Endeavor",
+    "Fire Punch",
+    "Iron Head",
+    "Iron Tail",
+    "Shock Wave",
+    "Snore",
+    "Spite",
+    "Stealth Rock",
+    "Superpower",
+    "Thunder Punch",
+    "Uproar",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Crunch",
+    "Curse",
+    "Double-Edge",
+    "Hammer Arm",
+    "Iron Head",
+    "Iron Tail",
+    "Leer",
+    "Slam",
+    "Stomp",
+    "Thrash",
+    "Whirlwind"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Dig",
+    "Endure",
+    "Incinerate",
+    "Mud-Slap",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Payback",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Payback",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Payback",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fling",
+    "Endure",
+    "Dragon Pulse",
+    "Payback",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

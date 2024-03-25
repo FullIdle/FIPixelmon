@@ -1,0 +1,52 @@
+{
+  "attackIndex": 228,
+  "attackName": "Torment",
+  "attackType": "Dark",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Torment",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Torment"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "darkinium_z",
+      "attackName": "Z-Torment",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "Defence",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

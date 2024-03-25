@@ -1,0 +1,31 @@
+{
+  "id": "Seviper Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Seviper"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

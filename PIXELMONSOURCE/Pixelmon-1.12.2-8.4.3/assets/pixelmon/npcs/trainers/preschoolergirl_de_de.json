@@ -1,0 +1,70 @@
+{
+    "data": {
+        "trainerType": "PreschoolerGirl",
+        "minLevel": 5,
+        "maxLevel": 25,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 4,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Riolu"
+        },
+        {
+            "name": "Dratini"
+        },
+        {
+            "name": "Beldum"
+        },
+        {
+            "name": "Bagon"
+        },
+        {
+            "name": "Litwick"
+        },
+        {
+            "name": "Spheal"
+        },
+        {
+            "name": "Ralts"
+        },
+        {
+            "name": "Golett"
+        }
+    ],
+    "names": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Renee"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "\"Twinkle Toes\""
+        },
+        {
+            "name": "Jenni Jr."
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Ich werde meine Mama und meinen Papa stolz machen!",
+            "win": "Ja! Ich kann es kaum erwarten, ihnen zu sagen, dass ich gewonnen habe!",
+            "lose": "Gute Partie! Sie wären stolz darauf, dass ich ein guter Sport war!"
+        },
+        {
+            "opening": "Ich bin ein großes Mädchen! Ich werde dich schlagen!",
+            "win": "Weine nicht, nur weil du verloren hast!",
+            "lose": "Große Mädchen ... weinen nicht ... Große Mädchen ... (schnief)"
+        },
+        {
+            "opening": "Ich habe noch nie bei Pokémon-Kämpfen verloren!",
+            "win": "Yay! Ich bin eins für eins!",
+            "lose": "Das war mein erster Kampf..."
+        }
+    ]
+}

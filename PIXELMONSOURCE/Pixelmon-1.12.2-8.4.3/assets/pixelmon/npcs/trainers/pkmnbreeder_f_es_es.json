@@ -1,0 +1,103 @@
+{
+    "data": {
+        "trainerType": "PkmnBreederWoman",
+        "minLevel": 10,
+        "maxLevel": 35,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Eevee"
+        },
+        {
+            "name": "Flareon"
+        },
+        {
+            "name": "Jolteon"
+        },
+        {
+            "name": "Vaporeon"
+        },
+        {
+            "name": "Espeon"
+        },
+        {
+            "name": "Umbreon"
+        },
+        {
+            "name": "Leafeon"
+        },
+        {
+            "name": "Glaceon"
+        },
+        {
+            "name": "Pichu"
+        },
+        {
+            "name": "Elekid"
+        },
+        {
+            "name": "Magby"
+        },
+        {
+            "name": "Cleffa"
+        },
+        {
+            "name": "Igglybuff"
+        },
+        {
+            "name": "Smoochum"
+        },
+        {
+            "name": "Tyrogue"
+        },
+        {
+            "name": "Cubone"
+        },
+        {
+            "name": "Kangaskhan"
+        },
+        {
+            "name": "Togepi"
+        },
+        {
+            "name": "Ditto"
+        }
+    ],
+    "names": [
+        {
+            "name": "Corina"
+        },
+        {
+            "name": "Elyse"
+        },
+        {
+            "name": "Zoey"
+        },
+        {
+            "name": "Gabriela"
+        },
+        {
+            "name": "\"Mamá Teddiursa\""
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¡He entrenado a mis Pokémon desde que salieron del huevo! ¡Nadie tan unido como nosotros!",
+            "win": "¡Bueno trabajo chicos! ¡Sabía que podíais conseguirlo!",
+            "lose": "Supongo que no estamos tan cerca de ganar..."
+        },
+        {
+            "opening": "¿Quieres combatir? ¡Supongo que mis pequeños pueden jugar!",
+            "win": "¿Fue divertido mis pequeños maravillosos Pokémon?",
+            "lose": "Bueno... Sin duda yo ganaría en un concurso de belleza."
+        },
+        {
+            "opening": "¡He criado un equipo muy fuerte! ¡No estás a su nivel!",
+            "win": "¡Criados a la perfección!",
+            "lose": "¡Pero he seguido todo lo que ponía en los foros para tener los Pokémon perfectos!"
+        }
+    ]
+}

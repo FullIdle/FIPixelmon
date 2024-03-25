@@ -1,0 +1,44 @@
+{
+  "id": "Wormadam",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wormadam"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 6.0
+    }
+  ]
+}

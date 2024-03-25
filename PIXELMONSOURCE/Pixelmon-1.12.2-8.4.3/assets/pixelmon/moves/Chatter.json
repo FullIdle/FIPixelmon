@@ -1,0 +1,108 @@
+{
+  "attackIndex": 467,
+  "attackName": "Chatter",
+  "attackType": "Flying",
+  "attackCategory": "SPECIAL",
+  "basePower": 65,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Confusion",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Confusion"
+    }
+  ],
+  "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "ball",
+          "texture": "NORMAL",
+          "rgb": [
+            255,
+            255,
+            102
+          ],
+          "power": 1,
+          "scale": 0.5
+        },
+        "4": {
+          "id": "ball",
+          "texture": "NORMAL",
+          "rgb": [
+            153,
+            255,
+            255
+          ],
+          "power": 1,
+          "scale": 0.5
+        },
+        "7": {
+          "id": "ball",
+          "texture": "NORMAL",
+          "rgb": [
+            255,
+            51,
+            255
+          ],
+          "power": 1,
+          "scale": 0.5
+        },
+        "16": {
+          "id": "ball",
+          "texture": "NORMAL",
+          "rgb": [
+            153,
+            255,
+            255
+          ],
+          "power": 1,
+          "scale": 0.5
+        },
+        "19": {
+          "id": "ball",
+          "texture": "NORMAL",
+          "rgb": [
+            153,
+            255,
+            255
+          ],
+          "power": 1,
+          "scale": 0.5
+        }
+      }
+    }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Supersonic Skystrike",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

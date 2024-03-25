@@ -1,0 +1,279 @@
+{
+  "pixelmonName": "Purrloin",
+  "pokemon": "Purrloin",
+  "form": 0,
+  "stats": {
+    "HP": 41,
+    "Attack": 50,
+    "Defence": 37,
+    "Speed": 66,
+    "SpecialAttack": 50,
+    "SpecialDefence": 37
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 9,
+  "spawnLevelRange": 10,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Dark"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.1,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 1.0,
+    "eye_height": 0.6
+  },
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Liepard"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Limber",
+    "Unburden",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Scratch"
+    ],
+    "4": [
+      "Sand Attack"
+    ],
+    "5": [
+      "Fake Out"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Torment"
+    ],
+    "21": [
+      "Assurance"
+    ],
+    "24": [
+      "Hone Claws"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "32": [
+      "Nasty Plot"
+    ],
+    "36": [
+      "Night Slash"
+    ],
+    "40": [
+      "Play Rough"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out"
+  ],
+  "eggMoves": [
+    "Copycat",
+    "Covet",
+    "Double Team",
+    "Quick Attack",
+    "Slash",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Assist",
+    "Captivate",
+    "Confide",
+    "Cut",
+    "Dream Eater",
+    "Echoed Voice",
+    "Embargo",
+    "Feint Attack",
+    "Frustration",
+    "Hidden Power",
+    "Knock Off",
+    "Psych Up",
+    "Pursuit",
+    "Return",
+    "Role Play",
+    "Secret Power",
+    "Snatch",
+    "Spite",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Encore",
+    "Iron Tail",
+    "Shadow Ball",
+    "Taunt",
+    "Trick",
+    "Hyper Voice",
+    "Dark Pulse",
+    "Seed Bomb",
+    "Nasty Plot",
+    "Gunk Shot",
+    "Grass Knot",
+    "Foul Play",
+    "Play Rough"
+  ],
+  "tmMoves8": [
+    "Pay Day",
+    "Thunder Wave",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Fake Tears",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Shadow Claw",
+    "Round",
+    "Snarl"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Snarl"
+  ],
+  "forms": {}
+}

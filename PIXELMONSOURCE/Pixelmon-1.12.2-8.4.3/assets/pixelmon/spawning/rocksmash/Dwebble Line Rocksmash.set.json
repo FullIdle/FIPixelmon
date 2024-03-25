@@ -1,0 +1,39 @@
+{
+  "id": "Dwebble Line Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dwebble"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 18,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Crustle"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 19,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

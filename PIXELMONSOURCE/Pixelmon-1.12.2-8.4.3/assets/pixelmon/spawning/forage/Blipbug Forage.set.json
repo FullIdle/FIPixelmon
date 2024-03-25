@@ -1,0 +1,22 @@
+{
+  "id": "Blipbug Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Blipbug"
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

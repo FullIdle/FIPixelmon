@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shoplady.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sig.ra. Green"
+        },
+        {
+            "name": "Margaret"
+        },
+        {
+            "name": "Miss Filigree"
+        },
+        {
+            "name": "Signorina. Thrift"
+        },
+        {
+            "name": "Sig.ra. White"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Buona giornata, posso aiutarti?"
+                },
+                {
+                    "text": "Tesoro, no, non vendiamo nulla del genere! Buona giornata!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Benvenuti nel negozio. C'è qualcosa di speciale che ti serve?"
+                },
+                {
+                    "text": "Bene, non sono sicuro di poterti aiutare. Buona giornata."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Posso essere di servizio?"
+                },
+                {
+                    "text": "Fammi sapere quando sei pronto per prendere una decisione. Sono piuttosto occupato."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Si si? Sei tu il prossimo? Sbrigati ora, gli altri stanno aspettando!"
+                },
+                {
+                    "text": "Troppo caro? Beh, temo che tu sia venuto nel negozio sbagliato."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ciao, hai intenzione di comprarlo?"
+                },
+                {
+                    "text": "Bene, rimettilo a posto allora. Non sei autorizzato a danneggiare la merce."
+                }
+            ]
+        }
+    ]
+}

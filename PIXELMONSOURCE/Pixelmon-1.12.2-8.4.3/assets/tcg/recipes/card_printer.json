@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    "AMA"
+  ],
+  "key": {
+    "A": {
+      "item": "pixelmon:aluminium_plate"
+    },
+    "D": {
+      "item": "minecraft:dye",
+	  "data": 0
+    },
+	"M": {
+      "item": "minecraft:dropper"
+    }
+  },
+  "result": {
+    "item": "tcg:card_printer",
+    "count": 1
+  }
+}

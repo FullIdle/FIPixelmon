@@ -1,0 +1,98 @@
+{
+  "id": "Litten Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Litten"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungle_hills",
+          "mutated_jungle"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Torracat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungle_hills",
+          "mutated_jungle"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Incineroar"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungle_hills",
+          "mutated_jungle"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

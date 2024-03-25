@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pixelmon:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "pixelmon:ruby",
+    "data": 0,
+    "count": 9
+  }
+}

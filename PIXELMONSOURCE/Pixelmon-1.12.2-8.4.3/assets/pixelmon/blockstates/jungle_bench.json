@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:Jungle_Bench" },
+    "facing=south": { "model": "pixelmon:Jungle_Bench" },
+    "facing=north": {
+      "model": "pixelmon:Jungle_Bench",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "pixelmon:Jungle_Bench",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "pixelmon:Jungle_Bench",
+      "y": 90
+    }
+  }
+}

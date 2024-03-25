@@ -1,0 +1,33 @@
+{
+  "id": "Dragonair",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dragonair"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "deep_ocean"
+        ],
+        "maxY": 35
+      },
+      "rarity": 1.0
+    }
+  ]
+}

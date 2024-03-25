@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "richboy.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "訓練家男孩"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "有這些強大的電屬性寶可夢，我沒有理由輸！",
+      "win": "當你再次回來挑戰的時候可以給我些讓我刮目相看的東西。",
+      "lose": "不可能！"
+    }
+  ]
+}

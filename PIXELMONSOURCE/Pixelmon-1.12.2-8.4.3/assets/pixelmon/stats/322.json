@@ -1,0 +1,306 @@
+{
+  "pixelmonName": "Numel",
+  "pokemon": "Numel",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 40,
+    "Speed": 35,
+    "SpecialAttack": 65,
+    "SpecialDefence": 45
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 28,
+  "baseExp": 88,
+  "baseFriendship": 70,
+  "types": [
+    "Fire",
+    "Ground"
+  ],
+  "height": 0.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.94,
+      "z": -0.225
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.94,
+      "z": -0.225
+    }
+  },
+  "weight": 24.0,
+  "bounding_box": {
+    "width": 1.1,
+    "height": 1.1,
+    "eye_height": 0.8
+  },
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Camerupt"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Rock Slide"
+      ]
+    }
+  ],
+  "abilities": [
+    "Oblivious",
+    "Simple",
+    "OwnTempo"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "8": [
+      "Focus Energy"
+    ],
+    "12": [
+      "Magnitude"
+    ],
+    "15": [
+      "Flame Burst"
+    ],
+    "19": [
+      "Amnesia"
+    ],
+    "22": [
+      "Lava Plume"
+    ],
+    "26": [
+      "Earth Power"
+    ],
+    "29": [
+      "Curse"
+    ],
+    "31": [
+      "Take Down"
+    ],
+    "36": [
+      "Yawn"
+    ],
+    "40": [
+      "Earthquake"
+    ],
+    "43": [
+      "Flamethrower"
+    ],
+    "47": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "After You",
+    "Earth Power",
+    "Heat Wave",
+    "Iron Head",
+    "Snore",
+    "Stealth Rock"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Body Slam",
+    "Defense Curl",
+    "Endure",
+    "Growth",
+    "Heat Wave",
+    "Heavy Slam",
+    "Howl",
+    "Iron Head",
+    "Mud Bomb",
+    "Rollout",
+    "Scary Face",
+    "Spit Up",
+    "Stockpile",
+    "Stomp",
+    "Swallow",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Charm",
+    "Dig",
+    "Headbutt",
+    "Incinerate",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Will-O-Wisp",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat",
+    "Endure",
+    "Will-O-Wisp",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat"
+  ],
+  "forms": {}
+}

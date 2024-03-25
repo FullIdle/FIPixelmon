@@ -1,0 +1,49 @@
+{
+  "attackIndex": 685,
+  "attackName": "Clangorous Soul",
+  "attackType": "Dragon",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ClangorousSoul"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "dragonium_z",
+      "attackName": "Z-Clangorous Soul",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "increment": 100,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "Recover"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

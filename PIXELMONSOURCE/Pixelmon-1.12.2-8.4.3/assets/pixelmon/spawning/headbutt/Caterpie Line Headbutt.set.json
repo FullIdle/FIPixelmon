@@ -1,0 +1,215 @@
+{
+  "id": "Caterpie Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Caterpie",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "birch",
+          "ebony",
+          "ethereal",
+          "willow",
+          "palm"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Caterpie"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "birch",
+          "ebony",
+          "ethereal",
+          "willow",
+          "palm"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Metapod",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 9,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "birch",
+          "ebony",
+          "ethereal",
+          "willow",
+          "palm"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Metapod"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 9,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "birch",
+          "ebony",
+          "ethereal",
+          "willow",
+          "palm"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Butterfree",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "birch",
+          "ebony",
+          "ethereal",
+          "willow",
+          "palm"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Butterfree"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "birch",
+          "ebony",
+          "ethereal",
+          "willow",
+          "palm"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

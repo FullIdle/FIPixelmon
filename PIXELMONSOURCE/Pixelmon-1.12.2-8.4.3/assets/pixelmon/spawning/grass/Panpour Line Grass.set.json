@@ -1,0 +1,45 @@
+{
+  "id": "Panpour Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Panpour"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 11,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Simipour"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

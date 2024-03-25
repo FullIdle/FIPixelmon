@@ -1,0 +1,255 @@
+{
+  "pixelmonName": "Pansage",
+  "pokemon": "Pansage",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 53,
+    "Defence": 48,
+    "Speed": 64,
+    "SpecialAttack": 53,
+    "SpecialDefence": 48
+  },
+  "catchRate": 190,
+  "malePercent": 87,
+  "spawnLevel": 11,
+  "spawnLevelRange": 12,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.5,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.9,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:leaf_stone"
+      },
+      "to": {
+        "name": "Simisage"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "Gluttony",
+    null,
+    "Overgrow"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Play Nice",
+      "Scratch"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "7": [
+      "Lick"
+    ],
+    "10": [
+      "Vine Whip"
+    ],
+    "13": [
+      "Fury Swipes"
+    ],
+    "16": [
+      "Leech Seed"
+    ],
+    "19": [
+      "Bite"
+    ],
+    "22": [
+      "Seed Bomb"
+    ],
+    "25": [
+      "Torment"
+    ],
+    "28": [
+      "Fling"
+    ],
+    "31": [
+      "Acrobatics"
+    ],
+    "34": [
+      "Grass Knot"
+    ],
+    "37": [
+      "Recycle"
+    ],
+    "40": [
+      "Natural Gift"
+    ],
+    "43": [
+      "Crunch"
+    ]
+  },
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Focus Punch",
+    "Gastro Acid",
+    "Giga Drain",
+    "Grass Pledge",
+    "Gunk Shot",
+    "Helping Hand",
+    "Iron Tail",
+    "Knock Off",
+    "Low Kick",
+    "Recycle",
+    "Role Play",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Uproar",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Bullet Seed",
+    "Covet",
+    "Disarming Voice",
+    "Grass Whistle",
+    "Leaf Storm",
+    "Low Kick",
+    "Magical Leaf",
+    "Nasty Plot",
+    "Role Play",
+    "Spiky Shield",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Dig",
+    "Flash",
+    "Hone Claws",
+    "Rock Smash",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Flash",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Flash",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

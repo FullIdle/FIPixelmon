@@ -1,0 +1,63 @@
+{
+    "skins": [
+        {
+            "filename": "mailman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "George"
+        },
+        {
+            "name": "Mailman Abraham"
+        },
+        {
+            "name": "Mailman"
+        },
+        {
+            "name": "Postworker Pete"
+        },
+        {
+            "name": "Craig"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "We always deliver the mail, rain or shine, blizzard or sandstorm!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Delivering mail is hard without Pokemon."
+                },
+                {
+                    "text": "Especially if people live in the sky or underwater."
+				},
+				{	
+					"text": "The hardest deliveries are at Team Magma and Team Aqua's base."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sorry trainer, I don't have any mail for you today."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Carrier pidoves are the best!"
+                },
+                {
+                    "text": "Except if they run into higher leveled Pokemon..."
+                }
+            ]
+        }
+    ]
+}

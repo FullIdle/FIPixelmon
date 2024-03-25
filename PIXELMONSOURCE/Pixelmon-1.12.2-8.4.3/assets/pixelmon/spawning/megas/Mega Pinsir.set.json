@@ -1,0 +1,23 @@
+{
+  "id": "Mega Pinsir",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pinsir"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "jungles",
+          "flowery"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "Lopunny",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lopunny"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Lopunny",
+        "form": 109
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "cold_beach"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

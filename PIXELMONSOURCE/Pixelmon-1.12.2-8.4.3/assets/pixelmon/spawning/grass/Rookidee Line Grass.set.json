@@ -1,0 +1,71 @@
+{
+  "id": "Rookidee Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rookidee"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Corvisquire"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Corviknight"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

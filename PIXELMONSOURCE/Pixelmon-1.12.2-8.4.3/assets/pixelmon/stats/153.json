@@ -1,0 +1,330 @@
+{
+  "pixelmonName": "Bayleef",
+  "pokemon": "Bayleef",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 62,
+    "Defence": 80,
+    "Speed": 60,
+    "SpecialAttack": 63,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 16,
+  "baseExp": 141,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Chikorita"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "ridingOffsets": {
+    "moving": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": -0.25
+    },
+    "standing": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": -0.25
+    }
+  },
+  "weight": 15.8,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.2,
+    "eye_height": 0.8
+  },
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Meganium"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Petal Dance"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Poison Powder",
+      "Razor Leaf",
+      "Tackle"
+    ],
+    "6": [
+      "Razor Leaf"
+    ],
+    "9": [
+      "Poison Powder"
+    ],
+    "12": [
+      "Synthesis"
+    ],
+    "18": [
+      "Reflect"
+    ],
+    "22": [
+      "Magical Leaf"
+    ],
+    "26": [
+      "Natural Gift"
+    ],
+    "32": [
+      "Sweet Scent"
+    ],
+    "36": [
+      "Light Screen"
+    ],
+    "40": [
+      "Body Slam"
+    ],
+    "46": [
+      "Safeguard"
+    ],
+    "50": [
+      "Aromatherapy"
+    ],
+    "54": [
+      "Solar Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Giga Drain",
+    "Grass Pledge",
+    "Iron Tail",
+    "Laser Focus",
+    "Magic Coat",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Aromatherapy",
+    "Body Slam",
+    "Counter",
+    "Flail",
+    "Grass Whistle",
+    "Grassy Terrain",
+    "Heal Pulse",
+    "Ingrain",
+    "Leaf Storm",
+    "Leech Seed",
+    "Nature Power",
+    "Refresh",
+    "Vine Whip",
+    "Wring Out"
+  ],
+  "transferMoves": [
+    "Bullet Seed",
+    "Captivate",
+    "Curse",
+    "Cut",
+    "Detect",
+    "Double-Edge",
+    "Endure",
+    "Flash",
+    "Frenzy Plant",
+    "Fury Cutter",
+    "Headbutt",
+    "Mimic",
+    "Mud-Slap",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Energy Ball",
+    "Endure",
+    "Flash",
+    "Swords Dance",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Rock Smash",
+    "Hidden Power",
+    "Sunny Day",
+    "Sweet Scent",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Endure",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Fury Cutter"
+  ],
+  "forms": {}
+}

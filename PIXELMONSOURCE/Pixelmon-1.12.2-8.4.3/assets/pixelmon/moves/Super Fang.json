@@ -1,0 +1,40 @@
+{
+  "attackIndex": 192,
+  "attackName": "Super Fang",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "damage": 0,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "DoSetDamage"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

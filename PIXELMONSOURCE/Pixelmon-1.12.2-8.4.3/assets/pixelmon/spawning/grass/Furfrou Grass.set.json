@@ -1,0 +1,26 @@
+{
+  "id": "Furfrou Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Furfrou"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 42,
+      "maxLevel": 56,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "plains"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

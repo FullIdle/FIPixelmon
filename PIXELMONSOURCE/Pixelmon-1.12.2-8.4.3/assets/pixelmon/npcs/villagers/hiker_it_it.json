@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hiker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Hermann"
+        },
+        {
+            "name": "Zsolt"
+        },
+        {
+            "name": "Gaston"
+        },
+        {
+            "name": "Willi"
+        },
+        {
+            "name": "Marek"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Sto solo rimanendo in questa città per un po'."
+                },
+                {
+                    "text": "Ho bisogno di riposare e fare rifornimento, poi riprenderò la mia escursione!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Buone calzature sono di primaria importanza in alpinismo."
+                },
+                {
+                    "text": "Para Alpinismo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Se mangi verdura e porti con te un grande zaino, puoi diventare grande e forte come me!"
+                },
+                {
+                    "text": "O combatti qualche Ursaring in montagna, aiuta anche quello."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Settimane fa, uno dei miei Pokémon utilizzò Frana mentre stavo salendo un pendio."
+                },
+                {
+                    "text": "L'ho scambiato."
+                }
+            ]
+        }
+    ]
+}

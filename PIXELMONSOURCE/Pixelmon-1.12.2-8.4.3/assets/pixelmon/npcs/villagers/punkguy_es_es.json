@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "punkguy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sven"
+        },
+        {
+            "name": "Eugenio"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Donny"
+        },
+        {
+            "name": "Spike"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Fui a un concierto la semana pasada. ¡Allí podías bailar de manera frenética!"
+                },
+                {
+                    "text": "Los Pokémon de tipo Lucha no deberían de poder bailar de manera tan frenética."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Te gusta mi chaqueta? Está hecha de piel de verdad."
+                },
+                {
+                    "text": "¡Del tipo Normal al tipo punk! Eso es modernizar, tío."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No soy un mal tío. Mira, me gusta mucho mi Grimer."
+                },
+                {
+                    "text": "A veces le dejo subir a mi cabeza. Huele mal, pero queda guay."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Quiero juntar a algunos de mis amigos que no les van las reglas..."
+                },
+                {
+                    "text": "Y hacer una buena batalla Pokémon todos contra todos."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+  "pixelmonName": "Alomomola",
+  "pokemon": "Alomomola",
+  "form": 0,
+  "stats": {
+    "HP": 165,
+    "Attack": 75,
+    "Defence": 80,
+    "Speed": 65,
+    "SpecialAttack": 40,
+    "SpecialDefence": 45
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 17,
+  "baseExp": 165,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 31.6,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.2,
+    "eye_height": 0.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    "Hydration",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Healing Wish",
+      "Helping Hand",
+      "Hydro Pump",
+      "Play Nice",
+      "Pound",
+      "Water Sport",
+      "Wide Guard"
+    ],
+    "5": [
+      "Aqua Ring"
+    ],
+    "9": [
+      "Aqua Jet"
+    ],
+    "13": [
+      "Double Slap"
+    ],
+    "17": [
+      "Heal Pulse"
+    ],
+    "21": [
+      "Protect"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "29": [
+      "Wake-Up Slap"
+    ],
+    "33": [
+      "Soak"
+    ],
+    "37": [
+      "Wish"
+    ],
+    "41": [
+      "Brine"
+    ],
+    "45": [
+      "Safeguard"
+    ],
+    "49": [
+      "Whirlpool"
+    ],
+    "53": [
+      "Helping Hand"
+    ],
+    "57": [
+      "Healing Wish"
+    ],
+    "61": [
+      "Wide Guard"
+    ],
+    "65": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Bounce",
+    "Helping Hand",
+    "Icy Wind",
+    "Knock Off",
+    "Liquidation",
+    "Magic Coat",
+    "Pain Split",
+    "Snore",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Endure",
+    "Mirror Coat",
+    "Mist",
+    "Pain Split",
+    "Refresh",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Dive",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Psych Up",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

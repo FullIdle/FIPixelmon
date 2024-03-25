@@ -1,0 +1,360 @@
+{
+  "pixelmonName": "Mantine",
+  "pokemon": "Mantine",
+  "form": 0,
+  "stats": {
+    "HP": 85,
+    "Attack": 40,
+    "Defence": 70,
+    "Speed": 70,
+    "SpecialAttack": 80,
+    "SpecialDefence": 140
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 40,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Flying"
+  ],
+  "height": 2.1,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Mantyke"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 10,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.43,
+      "z": -0.47
+    }
+  },
+  "weight": 220.0,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.2,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    "WaterAbsorb",
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Bullet Seed",
+      "Psybeam",
+      "Roost",
+      "Supersonic",
+      "Tackle",
+      "Water Gun",
+      "Wing Attack"
+    ],
+    "12": [
+      "Water Pulse"
+    ],
+    "16": [
+      "Wide Guard"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "24": [
+      "Bubble Beam"
+    ],
+    "28": [
+      "Headbutt"
+    ],
+    "32": [
+      "Air Slash"
+    ],
+    "36": [
+      "Aqua Ring"
+    ],
+    "40": [
+      "Bounce"
+    ],
+    "44": [
+      "Take Down"
+    ],
+    "48": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Confuse Ray",
+    "Haze",
+    "Mirror Coat",
+    "Slam",
+    "Splash",
+    "Tailwind",
+    "Twister"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Air Cutter",
+    "Aqua Tail",
+    "Bubble",
+    "Captivate",
+    "Confide",
+    "Curse",
+    "Defog",
+    "Double Team",
+    "Double-Edge",
+    "Frustration",
+    "Hidden Power",
+    "Mimic",
+    "Mud Sport",
+    "Mud-Slap",
+    "Natural Gift",
+    "Return",
+    "Secret Power",
+    "Signal Beam",
+    "String Shot",
+    "Swagger",
+    "Toxic",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Earthquake",
+    "Agility",
+    "Waterfall",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Seed Bomb",
+    "Gunk Shot",
+    "Iron Head",
+    "Scald",
+    "Hurricane",
+    "Liquidation",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Dive",
+    "Rock Tomb",
+    "Bullet Seed",
+    "Bounce",
+    "Rock Blast",
+    "Brine",
+    "Assurance",
+    "Round",
+    "Acrobatics",
+    "Bulldoze",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Acrobatics",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Acrobatics",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Acrobatics",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Bullet Seed",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Brine",
+    "Endure",
+    "Giga Impact",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Snore",
+    "Blizzard",
+    "Icy Wind",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

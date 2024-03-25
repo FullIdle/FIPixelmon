@@ -1,0 +1,28 @@
+{
+  "cardCode": "TERO35",
+  "attackNumber": 2,
+  "name": "attack.TERO35.2.name",
+  "energy": [
+    "FIRE",
+    "FIRE"
+  ],
+  "damage": 30,
+  "modifier": "Plus",
+  "text": "attack.TERO35.2.text",
+  "effectsString": "HEAD-SELF_DISCARD:FIRE:1 HEAD-OPP_DAMAGE:20",
+  "effects": [
+    {
+      "onMe": true,
+      "energy": "FIRE",
+      "count": 1,
+      "needCoinSide": "Head"
+    },
+    {
+      "onMe": false,
+      "location": "Active",
+      "count": -1,
+      "amount": 20,
+      "needCoinSide": "Head"
+    }
+  ]
+}

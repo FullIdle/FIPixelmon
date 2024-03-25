@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "tcg:disenchanter" },
+    "inventory": { "model": "tcg:disenchanter" }
+  }
+}

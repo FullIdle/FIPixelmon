@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "firebreather3.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mangiafuoco"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Ti stai divertendo qui?",
+      "win": "Il fuoco vince sempre!",
+      "lose": "Imbroglione!"
+    }
+  ]
+}

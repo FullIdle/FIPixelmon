@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "preschooler_f1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Renee"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "\"Twinkle Toes\""
+        },
+        {
+            "name": "Jenni Jr."
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ho sentito che matematica e italiano sono stra noiosi. Io voglio solo imparare ad essere un Allenatrice Pokémon."
+                },
+                {
+                    "text": "Non vedo l'ora di finire a scuola quando avrò 10 anni!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Uno dei ragazzi della mia classe continua a chiedere se mi piacciono i Mudkip."
+                },
+                {
+                    "text": "NO! Sono brutti!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Amia mamma piace Cubone e mio padre ama Charmander."
+                },
+                {
+                    "text": "Penso che sembrino praticamente uguali..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mia mammina mi ha preso un Eevee per il mio compleanno!"
+                },
+                {
+                    "text": "Quando tornerò a casa userò una delle Pietrefoglia di mio papà."
+                }
+            ]
+        }
+    ]
+}

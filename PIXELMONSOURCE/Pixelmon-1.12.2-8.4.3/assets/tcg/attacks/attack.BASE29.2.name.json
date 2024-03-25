@@ -1,0 +1,16 @@
+{
+  "cardCode": "BASE29",
+  "attackNumber": 2,
+  "name": "attack.BASE29.2.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC"
+  ],
+  "damage": 50,
+  "modifier": null,
+  "text": "attack.BASE29.2.text",
+  "effectsString": "DREAMEATER",
+  "effects": [
+    {}
+  ]
+}

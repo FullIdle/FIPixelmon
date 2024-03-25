@@ -1,0 +1,45 @@
+{
+  "attackIndex": 413,
+  "attackName": "Acupressure",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Acupressure"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Acupressure",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "FocusEnergy"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

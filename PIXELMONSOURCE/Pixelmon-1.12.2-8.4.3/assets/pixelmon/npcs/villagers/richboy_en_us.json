@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "richboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Alistair"
+        },
+        {
+            "name": "Randolph"
+        },
+        {
+            "name": "Milton"
+        },
+        {
+            "name": "Fulbright"
+        },
+        {
+            "name": "Thurston"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "My Pokémon deserve the best. If one of them gets a scratch, I give it a Full Restore."
+                },
+                {
+                    "text": "I do not care for anything less."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My Pokémon have to be the most powerful, with all the money I've spent on their Poké Balls."
+                },
+                {
+                    "text": "Invest money, get a return on investment. Prove me wrong."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Suppose I do not bother with Pokémon hunting, and buy a full Pokédex from a poorer kid."
+                },
+                {
+                    "text": "Would I, then, be an accomplished Trainer with no effort?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Father sent me out in the world to become a seasoned Trainer."
+                },
+                {
+                    "text": "I have lost all my battles so far but I am still richer than you. Hm!"
+                }
+            ]
+        }
+    ]
+}

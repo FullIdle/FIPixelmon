@@ -1,0 +1,227 @@
+{
+  "pixelmonName": "Goomy",
+  "pokemon": "Goomy",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 50,
+    "Defence": 35,
+    "Speed": 40,
+    "SpecialAttack": 55,
+    "SpecialDefence": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 17,
+  "baseExp": 60,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 2.8,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.5,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Sliggoo"
+      },
+      "conditions": [
+        {
+          "condition": {
+            "weather": "STORM",
+            "evoConditionType": "weather"
+          },
+          "evoConditionType": "invert"
+        },
+        {
+          "weather": "RAIN",
+          "evoConditionType": "weather"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Acid Spray"
+      ]
+    },
+    {
+      "level": 40,
+      "to": {
+        "name": "Sliggoo",
+        "form": 3
+      },
+      "conditions": [
+        {
+          "weather": "STORM",
+          "evoConditionType": "weather"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SapSipper",
+    "Hydration",
+    "Gooey"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Tackle"
+    ],
+    "5": [
+      "Water Gun"
+    ],
+    "10": [
+      "Dragon Breath"
+    ],
+    "15": [
+      "Protect"
+    ],
+    "20": [
+      "Flail"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "30": [
+      "Rain Dance"
+    ],
+    "35": [
+      "Dragon Pulse"
+    ],
+    "41": [
+      "Curse"
+    ],
+    "45": [
+      "Body Slam"
+    ],
+    "50": [
+      "Muddy Water"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Life Dew"
+  ],
+  "transferMoves": [
+    "Acid Armor",
+    "Bide",
+    "Bubble",
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Infestation",
+    "Poison Tail",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Thunderbolt",
+    "Substitute",
+    "Sludge Bomb",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Muddy Water",
+    "Dragon Pulse",
+    "Sludge Wave"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Mud Shot",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Makuhita",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Makuhita"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

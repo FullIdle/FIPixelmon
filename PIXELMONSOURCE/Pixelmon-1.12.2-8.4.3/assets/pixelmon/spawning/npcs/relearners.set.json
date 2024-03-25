@@ -1,0 +1,30 @@
+{
+  "id": "Relearners",
+  "spawnInfos": [
+    {
+      "name": "Relearner",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "ice_flats",
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.5,
+          "condition": {
+            "stringBiomes": [
+              "ice_flats"
+            ]
+          }
+        }
+      ],
+      "typeID": "npc",
+      "rarity": 0.5
+    }
+  ]
+}

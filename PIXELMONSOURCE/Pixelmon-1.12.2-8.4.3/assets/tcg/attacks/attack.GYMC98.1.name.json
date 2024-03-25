@@ -1,0 +1,15 @@
+{
+  "cardCode": "GYMC98",
+  "attackNumber": 1,
+  "name": "attack.GYMC98.1.name",
+  "energy": [
+    "FIGHTING"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.GYMC98.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

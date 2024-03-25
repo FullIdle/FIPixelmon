@@ -1,0 +1,62 @@
+{
+  "id": 239,
+  "setId": 4,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 65,
+  "code": "TERO1",
+  "name": "card.TERO1.name",
+  "description": "",
+  "previousPokemonId": 64,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO1",
+      "attackNumber": 1,
+      "name": "attack.TERO1.1.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.TERO1.1.text",
+      "effects": [
+        "OPTIONAL-SELF_SWITCH:BY_SELF"
+      ]
+    },
+    {
+      "cardCode": "TERO1",
+      "attackNumber": 2,
+      "name": "attack.TERO1.2.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.TERO1.2.text",
+      "effects": [
+        "IGNORESTATS"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

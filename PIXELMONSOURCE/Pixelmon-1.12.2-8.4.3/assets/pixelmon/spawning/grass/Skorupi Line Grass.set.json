@@ -1,0 +1,61 @@
+{
+  "id": "Skorupi Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Skorupi"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "swamps"
+        ]
+      },
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Drapion"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "swamps",
+          "mesas"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

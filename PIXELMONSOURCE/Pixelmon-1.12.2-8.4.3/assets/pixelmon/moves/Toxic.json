@@ -1,0 +1,54 @@
+{
+  "attackIndex": 16,
+  "attackName": "Toxic",
+  "attackType": "Poison",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "PoisonBadly",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PoisonBadly"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Toxic"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Z-Toxic",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Defence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

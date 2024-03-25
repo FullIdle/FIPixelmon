@@ -1,0 +1,31 @@
+{
+	"rewards": {
+		"recipes": [
+			"pixelmon:green_clock"
+		]
+	},
+	"criteria": {
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "pixelmon:green_clock"
+			}
+		},
+		"has_clock": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+                        "item": "minecraft:clock"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_the_recipe",
+			"has_clock"
+		]
+	]
+}

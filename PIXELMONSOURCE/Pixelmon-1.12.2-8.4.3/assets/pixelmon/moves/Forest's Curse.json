@@ -1,0 +1,45 @@
+{
+  "attackIndex": 580,
+  "attackName": "Forest\u0027s Curse",
+  "attackType": "Grass",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Grass",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ForestCurse"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Z-Forest's Curse",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "persists": false,
+		  "effectTypeID": "RaiseStats"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

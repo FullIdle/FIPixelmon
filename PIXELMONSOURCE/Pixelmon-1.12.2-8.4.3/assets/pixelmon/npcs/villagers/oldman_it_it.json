@@ -1,0 +1,37 @@
+{
+    "skins": [
+        { 
+            "filename": "npcchat1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Vecchietto Tom"
+        },
+        {
+            "name": "Fred il bibliotecario"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ciao, giovane allenatore!"
+                },
+                {
+                    "text": "Quando avevo la tua età, avevo un bel piccolo Bulbasaur."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pensi davvero che dovresti essere in giro con Pokémon?"
+                },
+                {
+                    "text": "Penso che siano spaventosi."
+                }
+            ]
+        }
+    ]
+}

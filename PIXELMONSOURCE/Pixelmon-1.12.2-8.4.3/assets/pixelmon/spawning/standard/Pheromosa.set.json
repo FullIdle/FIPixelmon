@@ -1,0 +1,25 @@
+{
+  "id": "Pheromosa",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pheromosa"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "ultra_desert"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

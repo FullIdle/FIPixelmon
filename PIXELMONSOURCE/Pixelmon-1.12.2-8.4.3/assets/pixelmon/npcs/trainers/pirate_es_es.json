@@ -1,0 +1,80 @@
+{
+    "data": {
+        "trainerType": "Pirate",
+        "minLevel": 25,
+        "maxLevel": 45,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Carvanha"
+        },
+        {
+            "name": "Sharpedo"
+        },
+        {
+            "name": "Wingull"
+        },
+        {
+            "name": "Pelipper"
+        },
+        {
+            "name": "Tentacool"
+        },
+        {
+            "name": "Tentacruel"
+        },
+        {
+            "name": "Wailmer"
+        },
+		{
+			"name": "Wailord"
+		}
+    ],
+    "names": [
+        {
+            "name": "Capitán Barbabloque"
+        },
+        {
+            "name": "Capitán Crook"
+        },
+        {
+            "name": "Capitán Crawdaunt"
+        },
+        {
+            "name": "Capitán Morgan"
+        },
+        {
+            "name": "John Silver el largo"
+        },
+		{
+            "name": "Pirata recluta"
+        },
+        {
+            "name": "Pete Pata de Palo"
+        },
+        {
+            "name": "Bola de cañón"
+        },
+        {
+            "name": "Calico Jack"
+        },
+        {
+            "name": "Scuz"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "¡¡Arrgghh!!",
+            "win": "¡Hora de andar por la tabla!",
+            "lose": "Parece que me toca limpiar la cubierta."
+        },
+        {
+            "opening": "Es hora de luchar por el tesoro.",
+            "win": "¡Parece que es mío el tesoro!",
+            "lose": "Argh, me derrotaste y te llevaste mi tesoro."
+        }
+    ]
+}

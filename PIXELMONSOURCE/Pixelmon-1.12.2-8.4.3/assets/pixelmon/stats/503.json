@@ -1,0 +1,342 @@
+{
+  "pixelmonName": "Samurott",
+  "pokemon": "Samurott",
+  "form": 0,
+  "stats": {
+    "HP": 95,
+    "Attack": 100,
+    "Defence": 85,
+    "Speed": 70,
+    "SpecialAttack": 108,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 238,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Dewott",
+    "Oshawott"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.5,
+      "z": -0.4
+    }
+  },
+  "weight": 94.6,
+  "bounding_box": {
+    "width": 1.6,
+    "height": 1.8,
+    "eye_height": 1.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "Torrent",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Megahorn",
+      "Slash",
+      "Tackle",
+      "Tail Whip",
+      "Water Gun",
+      "Water Sport"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "11": [
+      "Water Sport"
+    ],
+    "13": [
+      "Focus Energy"
+    ],
+    "18": [
+      "Razor Shell"
+    ],
+    "21": [
+      "Fury Cutter"
+    ],
+    "25": [
+      "Water Pulse"
+    ],
+    "29": [
+      "Revenge"
+    ],
+    "34": [
+      "Aqua Jet"
+    ],
+    "39": [
+      "Encore"
+    ],
+    "46": [
+      "Aqua Tail"
+    ],
+    "51": [
+      "Retaliate"
+    ],
+    "58": [
+      "Swords Dance"
+    ],
+    "63": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Aqua Tail",
+    "Block",
+    "Covet",
+    "Helping Hand",
+    "Hydro Cannon",
+    "Icy Wind",
+    "Iron Tail",
+    "Knock Off",
+    "Liquidation",
+    "Snore",
+    "Superpower",
+    "Water Pledge",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Air Slash",
+    "Assurance",
+    "Brine",
+    "Copycat",
+    "Detect",
+    "Night Slash",
+    "Sacred Sword",
+    "Screech",
+    "Trump Card"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Dig",
+    "Dive",
+    "Hold Back",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Smart Strike",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {
+    "3": {
+      "form": 3,
+      "stats": {
+        "HP": 90,
+        "Attack": 108,
+        "Defence": 80,
+        "SpecialAttack": 100,
+        "SpecialDefence": 65,
+        "Speed": 85
+      },
+      "spawnLevel": 25,
+      "spawnLevelRange": 25,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "height": 2.0,
+      "weight": 58.2,
+      "levelUpMoves": {
+        "1": [
+          "Tackle",
+		  "Night Slash"
+        ],
+        "6": [
+          "Aqua Jet"
+        ],
+        "11": [
+          "Swords Dance"
+        ],
+        "18": [
+          "Water Pulse"
+        ],
+        "21": [
+          "Ceaseless Edge"
+        ],
+        "25": [
+          "Slash"
+        ],
+        "34": [
+          "Aqua Tail"
+        ],
+        "40": [
+          "Dark Pulse"
+        ],
+		"43": [
+          "Hydro Pump"
+		]
+      },
+      "tutorMoves": [
+        "Aerial Ace",
+		"Aqua Tail",
+		"Dark Pulse",
+		"False Swipe",
+		"Focus Energy",
+		"Giga Impact",
+		"Hyper Beam",
+		"Ice Beam",
+		"Icy Wind",
+		"Iron Tail",
+		"Megahorn",
+		"Poison Jab",
+		"Psycho Cut",
+		"Rest",
+		"Rock Smash",
+		"Water Pulse",
+		"X-Scissor"
+      ],
+      "eggMoves": [],
+      "transferMoves": [],
+      "hmMoves": [],
+      "trMoves": [],
+      "tmMoves8": [],
+      "tmMoves7": [],
+      "tmMoves6": [],
+      "tmMoves5": [],
+      "tmMoves4": [],
+      "tmMoves3": [],
+      "tmMoves2": [],
+      "tmMoves1": []
+    }
+  }
+}

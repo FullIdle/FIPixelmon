@@ -1,0 +1,43 @@
+{
+  "id": "Cacnea",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cacnea"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesa"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:cactus"
+            ]
+          }
+        }
+      ],
+      "rarity": 130.0
+    }
+  ]
+}

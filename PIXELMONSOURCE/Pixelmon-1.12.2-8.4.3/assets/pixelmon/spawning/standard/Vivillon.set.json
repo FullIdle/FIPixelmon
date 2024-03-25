@@ -1,0 +1,437 @@
+{
+  "id": "Vivillon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mushroom"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 4
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 5
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 6
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 7
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 8
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mutated_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 9
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 10
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 11
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ocean",
+          "deep_ocean"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 12
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river",
+          "biomesoplenty:glacier",
+          "traverse:glacier"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 13
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 14
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 15
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 16
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mutated_plains"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 17
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ice_flats",
+          "mutated_ice_flats",
+          "tundra",
+          "snowy_tundra"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 18
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 112
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "STORM"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

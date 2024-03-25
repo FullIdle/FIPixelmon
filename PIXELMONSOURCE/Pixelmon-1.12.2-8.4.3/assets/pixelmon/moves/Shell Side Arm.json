@@ -1,0 +1,42 @@
+{
+  "attackIndex": 726,
+  "attackName": "Shell Side Arm",
+  "attackType": "Poison",
+  "attackCategory": "PHYSICAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": true,
+  "ignoreAbility": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ShellSideArm"
+    },
+    {
+      "type": "Poison",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Poison"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

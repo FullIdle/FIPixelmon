@@ -1,0 +1,57 @@
+{
+  "id": "Torkoal Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Torkoal"
+      },
+      "stringLocationTypes": [
+        "Good Rod Lava"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:charcoal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "savannas",
+          "mesas",
+          "mountainous"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Torkoal"
+      },
+      "stringLocationTypes": [
+        "Super Rod Lava"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:charcoal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "savannas",
+          "mesas",
+          "mountainous"
+        ]
+      },
+      "rarity": 80.0
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "Rockruff Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rockruff"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "hills",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Lycanroc",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Lycanroc",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "hills",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Lycanroc",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "hills",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

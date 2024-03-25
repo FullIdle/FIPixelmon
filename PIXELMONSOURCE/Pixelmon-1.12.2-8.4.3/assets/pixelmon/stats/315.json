@@ -1,0 +1,324 @@
+{
+  "pixelmonName": "Roselia",
+  "pokemon": "Roselia",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 60,
+    "Defence": 45,
+    "Speed": 65,
+    "SpecialAttack": 100,
+    "SpecialDefence": 80
+  },
+  "catchRate": 150,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 13,
+  "baseExp": 152,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Budew"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 2.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.5,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:shiny_stone"
+      },
+      "to": {
+        "name": "Roserade"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "NaturalCure",
+    "PoisonPoint",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Growth",
+      "Poison Sting",
+      "Stun Spore",
+      "Worry Seed"
+    ],
+    "5": [
+      "Mega Drain"
+    ],
+    "10": [
+      "Leech Seed"
+    ],
+    "15": [
+      "Magical Leaf"
+    ],
+    "20": [
+      "Toxic Spikes"
+    ],
+    "25": [
+      "Sweet Scent"
+    ],
+    "30": [
+      "Giga Drain"
+    ],
+    "35": [
+      "Synthesis"
+    ],
+    "40": [
+      "Toxic"
+    ],
+    "45": [
+      "Petal Blizzard"
+    ],
+    "50": [
+      "Aromatherapy"
+    ],
+    "55": [
+      "Ingrain"
+    ],
+    "60": [
+      "Petal Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Cotton Spore",
+    "Extrasensory",
+    "Life Dew",
+    "Razor Leaf",
+    "Sleep Powder"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Covet",
+    "Cut",
+    "Double Team",
+    "Double-Edge",
+    "Flash",
+    "Frustration",
+    "Fury Cutter",
+    "Grass Whistle",
+    "Hidden Power",
+    "Mimic",
+    "Mind Reader",
+    "Mud-Slap",
+    "Natural Gift",
+    "Nature Power",
+    "Nightmare",
+    "Psych Up",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Sweet Kiss",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Substitute",
+    "Sludge Bomb",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Uproar",
+    "Toxic Spikes",
+    "Poison Jab",
+    "Seed Bomb",
+    "Energy Ball",
+    "Leaf Storm",
+    "Power Whip",
+    "Grass Knot",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Magical Leaf",
+    "Solar Beam",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Weather Ball",
+    "Bullet Seed",
+    "Venoshock",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Swords Dance",
+    "Psych Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Energy Ball",
+    "Endure",
+    "Flash",
+    "Swords Dance",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

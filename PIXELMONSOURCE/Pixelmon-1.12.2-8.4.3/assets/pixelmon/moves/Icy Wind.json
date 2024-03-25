@@ -1,0 +1,60 @@
+{
+  "attackIndex": 292,
+  "attackName": "Icy Wind",
+  "attackType": "Ice",
+  "attackCategory": "SPECIAL",
+  "basePower": 55,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 95,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Speed",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"scale": 0.15,
+				"segments": 10,
+				"power": 20,
+				"speed": 0.4,
+				"variation": 1.3
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

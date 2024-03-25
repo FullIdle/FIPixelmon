@@ -1,0 +1,158 @@
+{
+  "pixelmonName": "Spectrier",
+  "pokemon": "Spectrier",
+  "form": 0,
+  "stats": {
+    "HP": 100,
+    "Attack": 65,
+    "Defence": 60,
+    "SpecialAttack": 145,
+    "SpecialDefence": 80,
+    "Speed": 130
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 75,
+  "spawnLevelRange": 0,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.6,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "aggressive": 0,
+    "passive": 0,
+    "timid": 100
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.15
+    },
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.15
+    }
+  },
+  "weight": 44.5,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.6,
+    "eye_height": 1.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "GrimNeigh",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip"
+    ],
+    "6": [
+      "Double Kick"
+    ],
+    "12": [
+      "Hex"
+    ],
+    "18": [
+      "Stomp"
+    ],
+    "24": [
+      "Confuse Ray"
+    ],
+    "30": [
+      "Haze"
+    ],
+    "36": [
+      "Shadow Ball"
+    ],
+    "42": [
+      "Take Down"
+    ],
+    "48": [
+      "Agility"
+    ],
+    "54": [
+      "Thrash"
+    ],
+    "60": [
+      "Disable"
+    ],
+    "66": [
+      "Double-Edge"
+    ],
+    "72": [
+      "Nasty Plot"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Shadow Ball",
+    "Uproar",
+    "Taunt",
+    "Calm Mind",
+    "Dark Pulse",
+    "Nasty Plot",
+    "Foul Play"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "Mud Shot",
+    "Payback",
+    "Assurance",
+    "Psycho Cut",
+    "Round",
+    "Hex",
+    "Bulldoze",
+    "Snarl",
+    "Phantom Force",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [],
+  "tmMoves6": [],
+  "tmMoves5": [],
+  "tmMoves4": [],
+  "tmMoves3": [],
+  "tmMoves2": [],
+  "tmMoves1": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "Golett Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Golett"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "desert_hills"
+        ]
+      },
+      "rarity": 110.0
+    },
+    {
+      "spec": {
+        "name": "Golurk"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "desert_hills"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

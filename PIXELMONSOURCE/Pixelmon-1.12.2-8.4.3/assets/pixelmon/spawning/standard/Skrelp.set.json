@@ -1,0 +1,27 @@
+{
+  "id": "Skrelp",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Skrelp"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 33,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "deep_ocean",
+          "kelp_forest"
+        ],
+        "maxY": 40
+      },
+      "rarity": 90.0
+    }
+  ]
+}

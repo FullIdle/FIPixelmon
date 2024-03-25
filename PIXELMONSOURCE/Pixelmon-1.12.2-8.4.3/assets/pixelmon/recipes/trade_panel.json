@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "RRR",
+    "ARA"
+  ],
+  "key": {
+    "A": {
+      "item": "pixelmon:aluminium_plate"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pixelmon:trade_panel",
+    "count": 1
+  }
+}

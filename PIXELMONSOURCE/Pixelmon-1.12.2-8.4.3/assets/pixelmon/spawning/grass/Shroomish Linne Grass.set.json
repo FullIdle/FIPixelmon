@@ -1,0 +1,91 @@
+{
+	"id": "Shroomish Linne Grass",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Shroomish"
+			},
+			"stringLocationTypes": [
+				"Grass"
+			],
+			"minLevel": 2,
+			"maxLevel": 22,
+			"typeID": "pokemon",
+			"heldItems": [
+                {
+                    "itemID": "pixelmon:big_mushroom",
+                    "percentChance": 5
+                },
+				{
+					"itemID": "pixelmon:tiny_mushroom",
+					"percentChance": 50
+				}
+            ],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mushroom_island",
+					"roofed_forest",
+					"mutated_roofed_forest",
+					"rw_bur_oak_forest"
+				]
+			},
+			"rarityMultipliers": [
+                {
+                    "multiplier": 2,
+                    "condition": {
+                        "neededNearbyBlocks": [
+                            "minecraft:mushroom_stem"
+                        ]
+                    }
+                }
+            ],
+			"rarity": 100.0
+		},
+		{
+			"spec": {
+				"name": "Breloom"
+			},
+			"stringLocationTypes": [
+				"Grass"
+			],
+			"minLevel": 23,
+			"maxLevel": 65,
+			"typeID": "pokemon",
+			"heldItems": [
+                {
+                    "itemID": "pixelmon:big_mushroom",
+                    "percentChance": 5
+                },
+				{
+					"itemID": "pixelmon:tiny_mushroom",
+					"percentChance": 50
+				}
+            ],
+			"condition": {
+				"times": [
+					"DAY"
+				],
+				"stringBiomes": [
+					"mushroom_island",
+					"roofed_forest",
+					"mutated_roofed_forest",
+					"rw_bur_oak_forest"
+				]
+			},
+			"rarityMultipliers": [
+                {
+                    "multiplier": 2,
+                    "condition": {
+                        "neededNearbyBlocks": [
+                            "minecraft:mushroom_stem"
+                        ]
+                    }
+                }
+            ],
+			"rarity": 15.0
+		}
+	]
+}

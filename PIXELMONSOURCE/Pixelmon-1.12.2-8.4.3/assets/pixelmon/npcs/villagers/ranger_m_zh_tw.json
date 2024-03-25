@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "ranger_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "伍迪"
+        },
+        {
+            "name": "科迪"
+        },
+        {
+            "name": "史密斯"
+        },
+        {
+            "name": "魯貝斯"
+        },
+        {
+            "name": "圈圈熊 格里爾斯"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "我以前的工作是巡邏森林，但是現在我的主要工作是圍繞城鎮。"
+                },
+                {
+                    "text": "都市叢林！像叢林的都市！"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "我可以識別每一個當地的植物和動物物種。"
+                },
+                {
+                    "text": "來，盡管問我問題！"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "你可能不知道，但城鎮也需要保育家。"
+                },
+                {
+                    "text": "One neglectful gardener, and boom! You have all sorts of things roaming in the neighborhood!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "只有你可以防止森林火災！"
+                },
+                {
+                    "text": "管好你的火屬性寶可夢，不要在草叢中使用火花招式。"
+                }
+            ]
+        }
+    ]
+}

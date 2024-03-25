@@ -1,0 +1,61 @@
+{
+  "id": 198,
+  "setId": 3,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 91,
+  "code": "FOSS32",
+  "name": "card.FOSS32.name",
+  "description": "",
+  "previousPokemonId": 90,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS32",
+      "attackNumber": 1,
+      "name": "attack.FOSS32.1.name",
+      "energy": [
+        "WATER",
+        "WATER"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.FOSS32.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED",
+        "TAIL-SELF_MISSED"
+      ]
+    },
+    {
+      "cardCode": "FOSS32",
+      "attackNumber": 2,
+      "name": "attack.FOSS32.2.name",
+      "energy": [
+        "WATER",
+        "WATER"
+      ],
+      "damage": 30,
+      "modifier": "Multiply",
+      "text": "attack.FOSS32.2.text",
+      "effects": [
+        "FLIPS_MULTIPLY:2"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,109 @@
+{
+  "pixelmonName": "Ursaluna",
+  "pokemon": "Ursaluna",
+  "form": 0,
+  "stats": {
+    "HP": 130,
+    "Attack": 140,
+    "Defence": 105,
+    "SpecialAttack": 45,
+    "SpecialDefence": 80,
+    "Speed": 50
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 40,
+  "baseExp": 189,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Normal"
+  ],
+  "height": 2.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Ursaring"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 290.0,
+  "bounding_box": {
+    "width": 2.0,
+    "height": 2.0,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Guts",
+    "Bulletproof",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "1": [
+      "Tackle"
+    ],
+    "6": [
+      "Baby-Doll Eyes"
+    ],
+    "11": [
+      "Bulldoze"
+    ],
+    "18": [
+      "Slash"
+    ],
+    "25": [
+      "Play Rough"
+    ],
+    "34": [
+      "High Horsepower"
+    ],
+    "43": [
+      "Double-Edge",
+      "Headlong Rush"
+    ]
+  },
+  "tutorMoves": [
+    "Rock Smash",
+    "Bulldoze",
+    "Aerial Ace",
+    "Swift",
+    "Focus Energy",
+    "Bulk Up",
+    "Rest",
+    "Baby-Doll Eyes",
+    "Fire Punch",
+    "Thunder Punch",
+    "Ice Punch",
+    "Rock Slide",
+    "Shadow Claw",
+    "Earth Power",
+    "Giga Impact",
+    "High Horsepower",
+    "Stone Edge",
+    "Play Rough",
+    "Hyper Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [],
+  "tmMoves8": [],
+  "forms": {}
+}

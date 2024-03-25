@@ -1,0 +1,33 @@
+{
+  "id": "Kricketune",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kricketune"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metronome",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "bamboo_forest"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

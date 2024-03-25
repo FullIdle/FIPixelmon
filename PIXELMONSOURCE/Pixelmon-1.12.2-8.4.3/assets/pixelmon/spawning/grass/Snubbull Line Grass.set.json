@@ -1,0 +1,45 @@
+{
+  "id": "Snubbull Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Snubbull"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Granbull"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 23,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

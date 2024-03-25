@@ -1,0 +1,22 @@
+{
+  "cardCode": "TERO45",
+  "attackNumber": 2,
+  "name": "attack.TERO45.2.name",
+  "energy": [
+    "WATER",
+    "WATER",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.TERO45.2.text",
+  "effectsString": "OPP_DISCARD:*:1",
+  "effects": [
+    {
+      "onMe": false,
+      "energy": null,
+      "count": 1,
+      "needCoinSide": null
+    }
+  ]
+}

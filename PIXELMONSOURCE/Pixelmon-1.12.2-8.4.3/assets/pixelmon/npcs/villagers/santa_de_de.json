@@ -1,0 +1,54 @@
+{
+    "skins": [
+        {
+            "filename": "santa.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Santa Claus"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Du kennst Dasher und Dancer, Prancer und Vixen. Comet und Cupid, Donner und Blitz."
+                },
+                {
+                    "text": "Wo ist Rudolph?"
+				},
+				{
+					"text": "Er hatte eine rote Nase? Das hört sich nicht gesund an."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich habe keine Spielzeugfabrik, aber einen Befehlsblock."
+                },
+                {
+                    "text": "Was willst du zu Weihnachten? Ich könnte es vielleicht erschaffen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Merry Christmas!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich glaube, Mrs. Claus hat meine Schokoladenkekse mit Rosinen getauscht."
+                },
+                {
+                    "text": "Ich setze sie auf die schwarze Liste."
+                }
+            ]
+        }
+    ]
+}

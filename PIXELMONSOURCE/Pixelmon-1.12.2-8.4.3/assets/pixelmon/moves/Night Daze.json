@@ -1,0 +1,60 @@
+{
+  "attackIndex": 538,
+  "attackName": "Night Daze",
+  "attackType": "Dark",
+  "attackCategory": "SPECIAL",
+  "basePower": 85,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 95,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Accuracy",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 40.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"scale": 0.6,
+				"radius": 2.5,
+				"totalPoints": 50,
+				"lifetimeTicks": 15,
+				"speed": 0.8
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "darkinium_z",
+      "attackName": "Black Hole Eclipse",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

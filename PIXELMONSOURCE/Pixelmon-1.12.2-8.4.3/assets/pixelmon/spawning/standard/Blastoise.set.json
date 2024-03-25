@@ -1,0 +1,38 @@
+{
+  "id": "Blastoise",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Blastoise"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:beaches",
+          "gravel_beach",
+          "white_beach",
+          "rw_bombona_beach"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

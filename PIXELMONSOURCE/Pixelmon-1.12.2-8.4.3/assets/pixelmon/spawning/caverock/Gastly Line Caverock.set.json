@@ -1,0 +1,55 @@
+{
+  "id": "Gastly Line Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gastly"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Haunter"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 7.0
+    }
+  ]
+}

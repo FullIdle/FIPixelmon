@@ -1,0 +1,65 @@
+{
+  "id": "Treecko Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Treecko"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Grovyle"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 17,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Sceptile"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

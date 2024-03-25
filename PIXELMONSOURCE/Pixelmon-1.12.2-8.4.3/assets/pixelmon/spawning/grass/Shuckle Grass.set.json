@@ -1,0 +1,29 @@
+{
+  "id": "Shuckle Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shuckle"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "mesas"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

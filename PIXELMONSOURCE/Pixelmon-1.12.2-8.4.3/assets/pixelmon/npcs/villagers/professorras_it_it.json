@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "professorras.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Professore Ras"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Leggi le regole, altrimenti."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non sono un vero professore. Mi piace stare su YouTube."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hai scelto Bulbasaur come starter, veramente?"
+                },
+                {
+                    "text": "Chikorita è il migliore sotto ogni aspetto!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non hai idea di cosa ho a che fare."
+                },
+                {
+                    "text": "Uno dei miei assistenti ha generato una gigantesca sfera di esplosivo."
+                }
+            ]
+        }
+    ]
+}

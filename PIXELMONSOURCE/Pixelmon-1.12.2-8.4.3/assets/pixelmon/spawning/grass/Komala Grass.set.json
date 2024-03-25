@@ -1,0 +1,28 @@
+{
+  "id": "Komala Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Komala"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savanna_rock",
+          "outback",
+          "rw_spiny_forest",
+          "arid_highland"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

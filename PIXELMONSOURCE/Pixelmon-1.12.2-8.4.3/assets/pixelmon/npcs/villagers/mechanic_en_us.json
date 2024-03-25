@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "mechanic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Grease Jockey Joe"
+        },
+        {
+            "name": "Mac the Wrench"
+        },
+        {
+            "name": "Bob Driver"
+        },
+        {
+            "name": "Angus"
+        },
+        {
+            "name": "Pit Stop Pete"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "You got a squeaky wheel on a vehicle?"
+                },
+                {
+                    "text": "Y'oughta bring that vehicle into my workshop for an overhaul."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "What you want to go chasin' Pokémon for? Got some real nice cars to fix in here."
+                },
+                {
+                    "text": "There's nothin' more satisfyin' than a day under the bonnet of a broke-down car!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I need me a holiday. Crawlin' under cars all day gets a bit tiresome."
+                },
+                {
+                    "text": "How about you take over my workshop for a spell? I need a rest."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I just love the smell of axle grease in the mornin'!"
+                },
+                {
+                    "text": "Come back some time with a vehicle of yours. I'll have her hummin' sweetly!"
+                }
+            ]
+        }
+    ]
+}

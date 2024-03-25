@@ -1,0 +1,324 @@
+{
+  "pixelmonName": "Spiritomb",
+  "pokemon": "Spiritomb",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 92,
+    "Defence": 108,
+    "Speed": 35,
+    "SpecialAttack": 92,
+    "SpecialDefence": 108
+  },
+  "catchRate": 100,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Dark"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 108.0,
+  "bounding_box": {
+    "width": 1.1,
+    "height": 1.1,
+    "eye_height": 0.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Infiltrator"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Confuse Ray",
+      "Night Shade"
+    ],
+    "5": [
+      "Shadow Sneak"
+    ],
+    "10": [
+      "Spite"
+    ],
+    "15": [
+      "Payback"
+    ],
+    "20": [
+      "Nasty Plot"
+    ],
+    "25": [
+      "Hex"
+    ],
+    "30": [
+      "Memento"
+    ],
+    "35": [
+      "Sucker Punch"
+    ],
+    "40": [
+      "Curse"
+    ],
+    "45": [
+      "Shadow Ball"
+    ],
+    "50": [
+      "Dark Pulse"
+    ],
+    "55": [
+      "Hypnosis"
+    ],
+    "60": [
+      "Dream Eater"
+    ]
+  },
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Lash Out",
+    "Poltergeist"
+  ],
+  "eggMoves": [
+    "Destiny Bond",
+    "Disable",
+    "Grudge",
+    "Pain Split",
+    "Smokescreen"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Embargo",
+    "Feint Attack",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Infestation",
+    "Natural Gift",
+    "Nightmare",
+    "Ominous Wind",
+    "Psych Up",
+    "Pursuit",
+    "Quash",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Silver Wind",
+    "Snatch",
+    "Swagger",
+    "Telekinesis",
+    "Torment",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Uproar",
+    "Taunt",
+    "Trick",
+    "Calm Mind",
+    "Dark Pulse",
+    "Nasty Plot",
+    "Foul Play",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Imprison",
+    "Rock Tomb",
+    "Payback",
+    "Wonder Room",
+    "Round",
+    "Hex",
+    "Retaliate",
+    "Snarl",
+    "Phantom Force"
+  ],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Quash",
+    "Will-O-Wisp",
+    "Embargo",
+    "Giga Impact",
+    "Psych Up",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Quash",
+    "Will-O-Wisp",
+    "Embargo",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Quash",
+    "Will-O-Wisp",
+    "Embargo",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Snarl"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Snatch",
+    "Endure",
+    "Will-O-Wisp",
+    "Silver Wind",
+    "Embargo",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Captivate",
+    "Dark Pulse",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

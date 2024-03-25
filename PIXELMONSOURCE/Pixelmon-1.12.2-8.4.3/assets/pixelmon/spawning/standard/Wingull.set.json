@@ -1,0 +1,34 @@
+{
+  "id": "Wingull",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wingull"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:pretty_feather",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

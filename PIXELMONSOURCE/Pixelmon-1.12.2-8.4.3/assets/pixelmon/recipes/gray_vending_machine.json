@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "WSL",
+    "IDR"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "D": {
+      "item": "minecraft:dye",
+      "data": 8
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "pixelmon:fresh_water"
+    },
+    "S": {
+      "item": "pixelmon:soda_pop"
+    },
+    "L": {
+      "item": "pixelmon:lemonade"
+    }
+  },
+  "result": {
+    "item": "pixelmon:gray_vending_machine",
+    "count": 1
+  }
+}

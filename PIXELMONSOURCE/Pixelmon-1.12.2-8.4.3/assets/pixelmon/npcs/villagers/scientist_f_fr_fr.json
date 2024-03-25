@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "scientist_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Marie"
+        },
+        {
+            "name": "Ada"
+        },
+        {
+            "name": "Irène"
+        },
+        {
+            "name": "Harriet"
+        },
+        {
+            "name": "Sofia"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Les fossiles sont fascinants."
+                },
+                {
+                    "text": "Est-ce que tu savais qu'on les trouve au fond des grottes, au milieu du gravier ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai entendu dire que les fossiles, ça ne se ressuscite pas, et que les choses ne marchent pas comme ça."
+                },
+                {
+                    "text": "Qu'est-ce qu'ils en savent ? Un jour, je leur montrerai."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je commence à me demander si c'était une bonne idée, cette jupe."
+                },
+                {
+                    "text": "Et si je renverse de l'acide sur mes jambes ? Je ferais bien de tourner mes éprouvettes vers ma blouse."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "L'anatomie de Nucléos m'épate."
+                },
+                {
+                    "text": "Il a l'air unicellulaire et pourtant, il a des yeux et c'est franchement... franchement... argh !"
+                }
+            ]
+        }
+    ]
+}

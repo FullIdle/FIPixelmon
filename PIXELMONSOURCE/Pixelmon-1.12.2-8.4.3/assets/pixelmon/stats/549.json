@@ -1,0 +1,315 @@
+{
+  "pixelmonName": "Lilligant",
+  "pokemon": "Lilligant",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 60,
+    "Defence": 75,
+    "Speed": 90,
+    "SpecialAttack": 110,
+    "SpecialDefence": 75
+  },
+  "catchRate": 75,
+  "malePercent": 0,
+  "spawnLevel": 28,
+  "spawnLevelRange": 13,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Petilil"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 16.3,
+  "bounding_box": {
+    "width": 0.9,
+    "height": 1.7,
+    "eye_height": 1.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "Chlorophyll",
+    "OwnTempo",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "After You",
+      "Aromatherapy",
+      "Energy Ball",
+      "Entrainment",
+      "Giga Drain",
+      "Growth",
+      "Helping Hand",
+      "Leaf Storm",
+      "Leech Seed",
+      "Magical Leaf",
+      "Mega Drain",
+      "Petal Blizzard",
+      "Petal Dance",
+      "Quiver Dance",
+      "Sleep Powder",
+      "Stun Spore",
+      "Sunny Day",
+      "Synthesis",
+      "Teeter Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Healing Wish",
+    "Ingrain",
+    "Sweet Scent",
+    "Worry Seed"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Confide",
+    "Covet",
+    "Cut",
+    "Double Team",
+    "Dream Eater",
+    "Flash",
+    "Frustration",
+    "Grass Whistle",
+    "Heal Bell",
+    "Hidden Power",
+    "Laser Focus",
+    "Natural Gift",
+    "Nature Power",
+    "Return",
+    "Role Play",
+    "Secret Power",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Leaf Blade",
+    "Seed Bomb",
+    "Energy Ball",
+    "Leaf Storm",
+    "Grass Knot",
+    "Pollen Puff"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Magical Leaf",
+    "Solar Beam",
+    "Solar Blade",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Charm",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Round",
+    "Grassy Terrain"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Swords Dance",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {
+    "3": {
+      "form": 3,
+      "stats": {
+        "HP": 70,
+        "Attack": 105,
+        "Defence": 75,
+        "SpecialAttack": 50,
+        "SpecialDefence": 75,
+        "Speed": 105
+      },
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "height": 1.2,
+      "weight": 19.2,
+      "bounding_box": {
+        "width": 0.9,
+        "height": 1.7,
+        "eye_height": 1.1
+      },
+      "abilities": [
+        "Chlorophyll",
+        "Hustle",
+        "LeafGuard"
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Absorb"
+        ],
+        "5": [
+          "Leafage"
+        ],
+        "9": [
+          "Stun Spore"
+        ],
+        "15": [
+          "Poison Powder"
+        ],
+        "21": [
+          "Energy Ball"
+        ],
+        "29": [
+          "Sleep Powder"
+        ],
+        "34": [
+          "Drain Punch"
+        ],
+        "37": [
+          "Recover",
+          "Leaf Blade"
+        ],
+        "42": [
+          "Victory Dance"
+        ],
+        "47": [
+          "Leaf Storm"
+        ],
+        "53": [
+          "Petal Dance"
+        ],
+        "57": [
+          "Close Combat"
+        ]
+      },
+      "tutorMoves": [
+        "Rock Smash",
+        "Aerial Ace",
+        "Magical Leaf",
+        "Focus Energy",
+        "Rest",
+        "Baby-Doll Eyes",
+        "Drain Punch",
+        "Poison Jab",
+        "Energy Ball",
+        "Giga Impact",
+        "Hyper Beam"
+      ],
+      "eggMoves": [],
+      "transferMoves": [],
+      "hmMoves": [],
+      "trMoves": [],
+      "tmMoves8": [],
+      "tmMoves7": [],
+      "tmMoves6": [],
+      "tmMoves5": []
+    }
+  }
+}

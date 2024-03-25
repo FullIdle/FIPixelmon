@@ -1,0 +1,47 @@
+{
+  "id": "Spinarak Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Spinarak"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Ariados"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

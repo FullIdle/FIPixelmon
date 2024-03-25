@@ -1,0 +1,21 @@
+{
+  "cardCode": "TERO1",
+  "attackNumber": 2,
+  "name": "attack.TERO1.2.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC",
+    "PSYCHIC"
+  ],
+  "damage": 40,
+  "modifier": null,
+  "text": "attack.TERO1.2.text",
+  "effectsString": "IGNORESTATS",
+  "effects": [
+    {
+      "applyOn": null,
+      "weakness": null,
+      "resistance": null
+    }
+  ]
+}

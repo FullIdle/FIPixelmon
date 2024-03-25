@@ -1,0 +1,54 @@
+{
+  "attackIndex": 488,
+  "attackName": "Power Split",
+  "attackType": "Psychic",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "stat1": "Attack",
+      "stat2": "SpecialAttack",
+      "statValue1": 0,
+      "statValue2": 0,
+      "langString": "pixelmon.status.powersplit",
+      "type": "PowerSplit",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PowerSplit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Power Split",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Speed",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

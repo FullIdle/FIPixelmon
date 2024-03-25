@@ -1,0 +1,54 @@
+{
+  "attackIndex": 53,
+  "attackName": "Inferno",
+  "attackType": "Fire",
+  "attackCategory": "SPECIAL",
+  "basePower": 100,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 50,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Burn",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Burn"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"scale": 1.2
+				}
+			}
+		}
+	],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "firium_z",
+      "attackName": "Inferno Overdrive",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

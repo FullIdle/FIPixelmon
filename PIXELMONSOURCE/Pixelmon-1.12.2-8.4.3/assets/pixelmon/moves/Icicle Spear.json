@@ -1,0 +1,41 @@
+{
+  "attackIndex": 388,
+  "attackName": "Icicle Spear",
+  "attackType": "Ice",
+  "attackCategory": "PHYSICAL",
+  "basePower": 25,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "minHits": 2,
+      "maxHits": 5,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MultipleHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "Chimecho Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chimecho"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 28,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

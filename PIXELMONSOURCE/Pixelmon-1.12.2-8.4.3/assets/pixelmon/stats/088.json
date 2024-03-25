@@ -1,0 +1,558 @@
+{
+  "pixelmonName": "Grimer",
+  "pokemon": "Grimer",
+  "form": 0,
+  "stats": {
+    "HP": 80,
+    "Attack": 80,
+    "Defence": 50,
+    "Speed": 25,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 28,
+  "baseExp": 90,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 30.0,
+  "bounding_box": {
+    "width": 1.1,
+    "height": 1.0,
+    "eye_height": 0.75
+  },
+  "evolutions": [
+    {
+      "level": 38,
+      "to": {
+        "name": "Muk",
+        "form": 0
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Venom Drench"
+      ]
+    }
+  ],
+  "abilities": [
+    "Stench",
+    "StickyHold",
+    "PoisonTouch"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Poison Gas",
+      "Pound"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "7": [
+      "Mud-Slap"
+    ],
+    "12": [
+      "Disable"
+    ],
+    "15": [
+      "Sludge"
+    ],
+    "18": [
+      "Mud Bomb"
+    ],
+    "21": [
+      "Minimize"
+    ],
+    "26": [
+      "Fling"
+    ],
+    "29": [
+      "Sludge Bomb"
+    ],
+    "32": [
+      "Sludge Wave"
+    ],
+    "37": [
+      "Screech"
+    ],
+    "40": [
+      "Gunk Shot"
+    ],
+    "43": [
+      "Acid Armor"
+    ],
+    "46": [
+      "Belch"
+    ],
+    "48": [
+      "Memento"
+    ]
+  },
+  "tutorMoves": [
+    "Fire Punch",
+    "Giga Drain",
+    "Gunk Shot",
+    "Ice Punch",
+    "Pain Split",
+    "Shock Wave",
+    "Snore",
+    "Thunder Punch"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Curse",
+    "Haze",
+    "Imprison",
+    "Lick",
+    "Mean Look",
+    "Power-Up Punch",
+    "Scary Face",
+    "Shadow Punch",
+    "Shadow Sneak",
+    "Spit Up",
+    "Stockpile",
+    "Swallow"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Body Slam",
+    "Captivate",
+    "Dynamic Punch",
+    "Endure",
+    "Helping Hand",
+    "Incinerate",
+    "Mimic",
+    "Natural Gift",
+    "Rage",
+    "Secret Power",
+    "Strength",
+    "Zap Cannon"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Explosion",
+    "Payback",
+    "Rock Slide",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Explosion",
+    "Payback",
+    "Rock Slide",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Explosion",
+    "Payback",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fling",
+    "Endure",
+    "Explosion",
+    "Payback",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "tmMoves2": [
+    "Dynamic Punch",
+    "Curse",
+    "Toxic",
+    "Zap Cannon",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Endure",
+    "Frustration",
+    "Thunder",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Ice Punch",
+    "Swagger",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Thunder Punch",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fire Punch"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Body Slam",
+    "Rage",
+    "Mega Drain",
+    "Thunderbolt",
+    "Thunder",
+    "Mimic",
+    "Double Team",
+    "Bide",
+    "Self-Destruct",
+    "Fire Blast",
+    "Rest",
+    "Explosion",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "evolutions": [
+        {
+          "level": 38,
+          "to": {
+            "name": "Muk",
+            "form": 1
+          },
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Venom Drench"
+          ]
+        }
+      ],
+      "abilities": [
+        "PoisonTouch",
+        "Gluttony",
+        "PowerOfAlchemy"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Poison Gas",
+          "Pound"
+        ],
+        "4": [
+          "Harden"
+        ],
+        "7": [
+          "Bite"
+        ],
+        "12": [
+          "Disable"
+        ],
+        "15": [
+          "Acid Spray"
+        ],
+        "18": [
+          "Poison Fang"
+        ],
+        "21": [
+          "Minimize"
+        ],
+        "26": [
+          "Fling"
+        ],
+        "29": [
+          "Knock Off"
+        ],
+        "32": [
+          "Crunch"
+        ],
+        "37": [
+          "Screech"
+        ],
+        "40": [
+          "Gunk Shot"
+        ],
+        "43": [
+          "Acid Armor"
+        ],
+        "46": [
+          "Belch"
+        ],
+        "48": [
+          "Memento"
+        ]
+      },
+      "tmMoves": [
+        "Toxic",
+        "Venoshock",
+        "Hidden Power",
+        "Sunny Day",
+        "Taunt",
+        "Protect",
+        "Rain Dance",
+        "Frustration",
+        "Return",
+        "Shadow Ball",
+        "Double Team",
+        "Sludge Wave",
+        "Flamethrower",
+        "Sludge Bomb",
+        "Fire Blast",
+        "Rock Tomb",
+        "Torment",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Fling",
+        "Brutal Swing",
+        "Quash",
+        "Embargo",
+        "Explosion",
+        "Payback",
+        "Rock Polish",
+        "Stone Edge",
+        "Rock Slide",
+        "Infestation",
+        "Poison Jab",
+        "Swagger",
+        "Substitute",
+        "Snarl",
+        "Confide"
+      ],
+      "tutorMoves": [
+        "Fire Punch",
+        "Gastro Acid",
+        "Giga Drain",
+        "Gunk Shot",
+        "Ice Punch",
+        "Knock Off",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Thunder Punch"
+      ],
+      "eggMoves": [
+        "Assurance",
+        "Clear Smog",
+        "Curse",
+        "Imprison",
+        "Mean Look",
+        "Power-Up Punch",
+        "Pursuit",
+        "Scary Face",
+        "Shadow Sneak",
+        "Spit Up",
+        "Spite",
+        "Stockpile",
+        "Swallow"
+      ],
+      "tmMoves7": [
+        "Toxic",
+        "Venoshock",
+        "Hidden Power",
+        "Sunny Day",
+        "Taunt",
+        "Protect",
+        "Rain Dance",
+        "Frustration",
+        "Return",
+        "Shadow Ball",
+        "Double Team",
+        "Sludge Wave",
+        "Flamethrower",
+        "Sludge Bomb",
+        "Fire Blast",
+        "Rock Tomb",
+        "Torment",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Fling",
+        "Brutal Swing",
+        "Quash",
+        "Embargo",
+        "Explosion",
+        "Payback",
+        "Rock Polish",
+        "Stone Edge",
+        "Rock Slide",
+        "Infestation",
+        "Poison Jab",
+        "Swagger",
+        "Sleep Talk",
+        "Substitute",
+        "Snarl",
+        "Confide"
+      ]
+    }
+  }
+}

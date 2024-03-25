@@ -1,0 +1,61 @@
+{
+  "id": 146,
+  "setId": 2,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "FIRE",
+  "energy2": null,
+  "pokemonId": 78,
+  "code": "JUNG44",
+  "name": "card.JUNG44.name",
+  "description": "",
+  "previousPokemonId": 77,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG44",
+      "attackNumber": 1,
+      "name": "attack.JUNG44.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": "Plus",
+      "text": "attack.JUNG44.1.text",
+      "effects": [
+        "HEAD-OPP_DAMAGE:10"
+      ]
+    },
+    {
+      "cardCode": "JUNG44",
+      "attackNumber": 2,
+      "name": "attack.JUNG44.2.name",
+      "energy": [
+        "FIRE",
+        "FIRE",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.JUNG44.2.text",
+      "effects": [
+        "HEAD-SELF_IMMUNE:*"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "WATER",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

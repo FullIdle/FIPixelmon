@@ -1,0 +1,229 @@
+{
+  "pixelmonName": "Tympole",
+  "pokemon": "Tympole",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 64,
+    "SpecialAttack": 50,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.5,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.45,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Palpitoad"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    "Hydration",
+    "WaterAbsorb"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Echoed Voice",
+      "Growl"
+    ],
+    "4": [
+      "Acid"
+    ],
+    "8": [
+      "Supersonic"
+    ],
+    "12": [
+      "Mud Shot"
+    ],
+    "16": [
+      "Round"
+    ],
+    "20": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "28": [
+      "Uproar"
+    ],
+    "32": [
+      "Aqua Ring"
+    ],
+    "36": [
+      "Hyper Voice"
+    ],
+    "40": [
+      "Muddy Water"
+    ],
+    "44": [
+      "Rain Dance"
+    ],
+    "48": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Mist",
+    "Mud-Slap",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "After You",
+    "Bubble",
+    "Confide",
+    "Double Team",
+    "Endeavor",
+    "Frustration",
+    "Hidden Power",
+    "Infestation",
+    "Mud Bomb",
+    "Mud Sport",
+    "Refresh",
+    "Return",
+    "Secret Power",
+    "Swagger"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Uproar",
+    "Hyper Voice",
+    "Muddy Water",
+    "Earth Power",
+    "Sludge Wave",
+    "Scald",
+    "Venom Drench"
+  ],
+  "tmMoves8": [
+    "Screech",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Weather Ball",
+    "Bounce",
+    "Mud Shot",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "Teddiursa Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Teddiursa"
+      },
+      "stringLocationTypes": [
+        "Grass",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Ursaring"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

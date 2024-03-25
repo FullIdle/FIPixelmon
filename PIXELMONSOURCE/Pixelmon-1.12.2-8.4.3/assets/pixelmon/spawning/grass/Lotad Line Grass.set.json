@@ -1,0 +1,113 @@
+{
+  "id": "Lotad Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lotad"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 3,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:waterlily"
+            ]
+          }
+        }
+      ],
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Lombre"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:waterlily"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Ludicolo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:waterlily"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

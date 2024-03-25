@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "madame.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Lilian"
+        },
+        {
+            "name": "Cristia"
+        },
+        {
+            "name": "Abigail"
+        },
+        {
+            "name": "Jacquelín"
+        },
+        {
+            "name": "Charlein"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Que pueblo tan pintoresco. Mira a esos trabajadores, paseando por sus vidas."
+                },
+                {
+                    "text": "Ahora, tengo cosas más importantes que hacer. Me voy a comprar un diamante."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Me pregunto donde estará mi chofer. Se fue con el coche hace MINUTOS."
+                },
+                {
+                    "text": "No puedo esperar mucho más con estos zapatos."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Super Balls? Oh, hijo, eres muy fácil de satisfacer. Mis Poké Balls están hechas de Oro sólido."
+                },
+                {
+                    "text": "Pero se abollan muy fácilmente, así que tengo que remplazarlas frecuentemente. ¡Estupendo!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Envié a mi nieto a ver el mundo con poca cosa. Sólamente tiene un Rattata."
+                },
+                {
+                    "text": "Y su traje de gala azul. Y unos cinco millones de PokéDollares en dinero. Espero que sobreviva. Oh..."
+                }
+            ]
+        }
+    ]
+}

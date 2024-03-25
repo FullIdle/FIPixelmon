@@ -1,0 +1,390 @@
+{
+  "pixelmonName": "Meowstic",
+  "pokemon": "Meowstic",
+  "form": 0,
+  "stats": {
+    "HP": 74,
+    "Attack": 48,
+    "Defence": 76,
+    "Speed": 104,
+    "SpecialAttack": 83,
+    "SpecialDefence": 81
+  },
+  "catchRate": 75,
+  "malePercent": 100,
+  "spawnLevel": 26,
+  "spawnLevelRange": 12,
+  "baseExp": 163,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Espurr"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 8.5,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.6,
+    "eye_height": 0.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "Infiltrator",
+    "Prankster"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Mean Look",
+      "Scratch",
+      "Leer",
+      "Fake Out",
+      "Disarming Voice"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "12": [
+      "Helping Hand"
+    ],
+    "15": [
+      "Charm"
+    ],
+    "18": [
+      "Covet"
+    ],
+    "21": [
+      "Psybeam"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "29": [
+      "Role Play"
+    ],
+    "34": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "39": [
+      "Psyshock"
+    ],
+    "44": [
+      "Imprison"
+    ],
+    "49": [
+      "Quick Guard"
+    ],
+    "54": [
+      "Psychic"
+    ],
+    "59": [
+      "Misty Terrain"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force"
+  ],
+  "eggMoves": [
+    "Tickle",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Assist",
+    "Barrier",
+    "Charge Beam",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Dream Eater",
+    "Echoed Voice",
+    "Flash",
+    "Frustration",
+    "Gravity",
+    "Heal Bell",
+    "Hidden Power",
+    "Magic Coat",
+    "Miracle Eye",
+    "Power-Up Punch",
+    "Psych Up",
+    "Recycle",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Snatch",
+    "Swagger",
+    "Telekinesis",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Psychic",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Trick",
+    "Skill Swap",
+    "Calm Mind",
+    "Dark Pulse",
+    "Energy Ball",
+    "Nasty Plot",
+    "Zen Headbutt",
+    "Ally Switch",
+    "Work Up",
+    "Play Rough"
+  ],
+  "tmMoves8": [
+    "Pay Day",
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Dig",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Imprison",
+    "Fake Tears",
+    "Payback",
+    "Trick Room",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Tail Slap",
+    "Misty Terrain",
+    "Psychic Terrain"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "malePercent": 0,
+      "abilities": [
+        "KeenEye",
+        "Infiltrator",
+        "Competitive"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Disarming Voice",
+          "Fake Out",
+          "Leer",
+          "Magical Leaf",
+          "Scratch"
+        ],
+        "9": [
+          "Confusion"
+        ],
+        "12": [
+          "Stored Power"
+        ],
+        "15": [
+          "Charge Beam"
+        ],
+        "18": [
+          "Covet"
+        ],
+        "21": [
+          "Psybeam"
+        ],
+        "24": [
+          "Sucker Punch"
+        ],
+        "29": [
+          "Role Play"
+        ],
+        "34": [
+          "Light Screen",
+          "Reflect"
+        ],
+        "39": [
+          "Psyshock"
+        ],
+        "44": [
+          "Extrasensory"
+        ],
+        "49": [
+          "Shadow Ball"
+        ],
+        "54": [
+          "Psychic"
+        ],
+        "59": [
+          "Future Sight"
+        ]
+      },
+      "trMoves": [
+        "Thunderbolt",
+        "Psychic",
+        "Substitute",
+        "Psyshock",
+        "Endure",
+        "Sleep Talk",
+        "Iron Tail",
+        "Shadow Ball",
+        "Future Sight",
+        "Trick",
+        "Skill Swap",
+        "Calm Mind",
+        "Dark Pulse",
+        "Energy Ball",
+        "Nasty Plot",
+        "Zen Headbutt",
+        "Stored Power",
+        "Ally Switch",
+        "Work Up",
+        "Play Rough"
+      ],
+      "tmMoves8": [
+        "Pay Day",
+        "Hyper Beam",
+        "Giga Impact",
+        "Magical Leaf",
+        "Thunder Wave",
+        "Dig",
+        "Light Screen",
+        "Reflect",
+        "Safeguard",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Charm",
+        "Attract",
+        "Rain Dance",
+        "Sunny Day",
+        "Facade",
+        "Swift",
+        "Helping Hand",
+        "Fake Tears",
+        "Payback",
+        "Trick Room",
+        "Wonder Room",
+        "Magic Room",
+        "Round",
+        "Tail Slap",
+        "Psychic Terrain"
+      ],
+      "bounding_box": {
+        "width": 0.5,
+        "height": 0.7,
+        "eye_height": 0.3
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "Spectrier",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Spectrier",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swampland"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

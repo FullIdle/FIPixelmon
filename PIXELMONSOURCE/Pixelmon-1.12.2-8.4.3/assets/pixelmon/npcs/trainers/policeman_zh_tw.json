@@ -1,0 +1,64 @@
+{
+    "data": {
+        "trainerType": "Policeman",
+        "minLevel": 10,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Arcanine"
+        },
+        {
+            "name": "Snubbull"
+        },
+        {
+            "name": "Granbull"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        }
+    ],
+    "names": [
+        {
+            "name": "¶¤ªø ¯Z¥§"
+        },
+        {
+            "name": "ÀË¬d­û ªÖ¥§"
+        },
+        {
+            "name": "°Æ¤â µÜ¥§"
+        },
+        {
+            "name": "¤U¤h ·Å¥§"
+        },
+        {
+            "name": "¤¤±L Ã¹¥§"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "§A²{¦b¬O¦b¬DÆ]§Ú¶Ü¡A¦º¦Ñ¦Ê©m¡H",
+            "win": "³Ó§Q¯¸¦bªk«ß³oÃä¡I",
+            "lose": "§A³Ì¦n¤£­nµ¹§Ú¶]¡I"
+        },
+        {
+            "opening": "°Ú¡A¨Ó¤F¡I§Ú¥¿¦b³B²z¤@­Ó®×¥ó¡I",
+            "win": "§Úªº¤â¾R¦b­þ¸Ì¡H",
+            "lose": "°µ±o¦n¡A«Ä¤l¡C§Ú·|½à§A¤@­Ó²¢²¢°é¡C"
+        },
+        {
+            "opening": "«u³é¡I¼K¡I²{¦b¡I§A­n¯d¤U®×©³¤F¡I",
+            "win": "³o¬Oµ¹§Aªº±Ð°V¡C",
+            "lose": "§Ú»Ý­n¤ä´©¡AÅ¥¨ì½Ð¦^µª¡C"
+        }
+    ]
+}

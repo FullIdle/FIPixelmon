@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:braille/A" },
+    "index=0": { "model": "pixelmon:braille/A" },
+    "index=1": { "model": "pixelmon:braille/B" },
+    "index=2": { "model": "pixelmon:braille/C" },
+    "index=3": { "model": "pixelmon:braille/D" },
+    "index=4": { "model": "pixelmon:braille/E" },
+    "index=5": { "model": "pixelmon:braille/F" },
+    "index=6": { "model": "pixelmon:braille/G" },
+    "index=7": { "model": "pixelmon:braille/H" },
+    "index=8": { "model": "pixelmon:braille/I" },
+    "index=9": { "model": "pixelmon:braille/J" },
+    "index=10": { "model": "pixelmon:braille/K" },
+    "index=11": { "model": "pixelmon:braille/L" },
+    "index=12": { "model": "pixelmon:braille/M" },
+    "index=13": { "model": "pixelmon:braille/N" },
+    "index=14": { "model": "pixelmon:braille/O" },
+    "index=15": { "model": "pixelmon:braille/P" }
+  }
+}

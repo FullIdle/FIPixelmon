@@ -1,0 +1,14 @@
+{
+  "type": "pixelmon:infusion",
+  
+  "input1": {
+      "item": "minecraft:dye",
+      "data": 3
+  },
+  "input2": {
+    "item": "pixelmon:moomoo_milk"
+  },
+  "result": {
+    "item": "pixelmon:tapu_cocoa"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Kangaskhan",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kangaskhan"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

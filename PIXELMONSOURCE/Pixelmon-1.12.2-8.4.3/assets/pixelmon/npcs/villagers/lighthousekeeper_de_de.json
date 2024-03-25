@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "lighthousekeeper.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Lighthouse Keeper"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Du kennst das Sprichwort starre nicht in die Sonne?"
+                },
+                {
+                    "text": "Gleiches gilt für Leuchtturmleuchten..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wer braucht ein Nachtlicht, wenn Sie eine Laterne haben!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Und ich wäre auch damit durchgekommen, wenn es nicht diese einmischenden Kinder gäbe!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Die Luft ist heute sicher salzig..."
+                },
+                {
+                    "text": "Jemand muss einen Kampf im Gym verloren haben."
+                }
+            ]
+        }
+    ]
+}

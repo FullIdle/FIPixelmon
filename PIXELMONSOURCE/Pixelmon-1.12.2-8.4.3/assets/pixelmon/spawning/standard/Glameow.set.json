@@ -1,0 +1,35 @@
+{
+  "id": "Glameow",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Glameow"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:grass_path"
+            ]
+          }
+        }
+      ],
+      "rarity": 170.0
+    }
+  ]
+}

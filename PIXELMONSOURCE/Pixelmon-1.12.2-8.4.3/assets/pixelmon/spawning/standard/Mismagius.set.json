@@ -1,0 +1,61 @@
+{
+  "id": "Mismagius",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mismagius"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 31,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest",
+          "evil"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Mismagius",
+        "form": 108
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 31,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

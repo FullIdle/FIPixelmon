@@ -1,0 +1,53 @@
+{
+  "id": "Rhyhorn Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rhyhorn"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mesa",
+          "savannas"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Rhydon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 42,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:protector",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mesa",
+          "savannas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

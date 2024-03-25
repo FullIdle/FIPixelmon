@@ -1,0 +1,47 @@
+{
+  "id": "Gossifleur Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gossifleur"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mutated_plains"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Eldegoss"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mutated_plains"
+        ]
+      },
+      "rarity": 7.0
+    }
+  ]
+}

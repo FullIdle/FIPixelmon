@@ -1,0 +1,119 @@
+{
+    "data": {
+        "trainerType": "Pirate",
+        "minLevel": 25,
+        "maxLevel": 45,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Carvanha"
+        },
+        {
+            "name": "Sharpedo"
+        },
+        {
+            "name": "Wingull"
+        },
+        {
+            "name": "Pelipper"
+        },
+        {
+            "name": "Tentacool"
+        },
+        {
+            "name": "Tentacruel"
+        },
+        {
+            "name": "Wailmer"
+        },
+        {
+            "name": "Wailord"
+        },
+        {
+			"name": "Chatot"
+		},
+        {
+			"name": "Cramorant"
+		},
+        {
+			"name": "Krabby"
+		},
+        {
+			"name": "Kingler"
+		},
+        {
+			"name": "Huntail"
+		},
+        {
+			"name": "Aipom"
+		},
+        {
+			"name": "Ambipom"
+		},
+        {
+			"name": "Basculin"
+		},
+        {
+			"name": "Popplio"
+		},
+        {
+			"name": "Brionne"
+		},
+        {
+			"name": "Primarina"
+		},
+        {
+			"name": "Arrokuda"
+		},
+        {
+			"name": "Barraskewda"
+		}
+    ],
+    "names": [
+        {
+            "name": "Captain BlockBeard"
+        },
+        {
+            "name": "Captain Crook"
+        },
+        {
+            "name": "Captain Crawdaunt"
+        },
+        {
+            "name": "Captain Morgan"
+        },
+        {
+            "name": "Long John Silver"
+        },
+		{
+            "name": "Pirate grunt"
+        },
+        {
+            "name": "Pegleg Pete"
+        },
+        {
+            "name": "Cannonball"
+        },
+        {
+            "name": "Calico Jack"
+        },
+        {
+            "name": "Scuz"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Arrgghh!!",
+            "win": "Time for you to walk the plank!",
+            "lose": "Looks like I will be swabbing the deck."
+        },
+        {
+            "opening": "Time to fight for the treasure.",
+            "win": "Looks like the trasure is mine!",
+            "lose": "Argh, you beaat me and got my treasure"
+        }
+    ]
+}

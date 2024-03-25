@@ -1,0 +1,25 @@
+{
+  "id": "Thwackey",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Thwackey"
+      },
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

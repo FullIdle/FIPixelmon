@@ -1,0 +1,41 @@
+{
+  "id": "Larvitar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Larvitar"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mesas"
+        ]
+      },
+      "rarity": 70.0
+    },
+    {
+      "spec": {
+        "name": "Larvitar"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 55
+      },
+      "rarity": 7.0
+    }
+  ]
+}

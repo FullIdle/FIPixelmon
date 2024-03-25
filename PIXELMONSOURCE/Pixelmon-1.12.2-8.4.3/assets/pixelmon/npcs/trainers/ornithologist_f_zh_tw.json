@@ -1,0 +1,80 @@
+{
+    "data": {
+        "trainerType": "Ornithologist",
+        "minLevel": 15,
+        "maxLevel": 45,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 45
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Fearow"
+        },
+        {
+            "name": "Charizard"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Farfetchd"
+        }
+    ],
+    "names": [
+        {
+            "name": "伯德女士"
+        },
+        {
+            "name": "露西"
+        },
+        {
+            "name": "艾蜜莉雅"
+        },
+        {
+            "name": "安妮特"
+        },
+        {
+            "name": "卡西"
+        },
+        {
+            "name": "珍"
+        },
+        {
+            "name": "葛洛莉雅"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "飛行寶可夢是可愛的，不是嗎？",
+            "win": "啊哈！你看！這是我的飛行寶可夢努力的成果！",
+            "lose": "噢，我可愛的飛行寶可夢！沒關係！"
+        },
+        {
+            "opening": "你有收服各種寶可夢嗎？",
+            "win": "繼續努力，下一次會更好！",
+            "lose": "嗯，我打不贏全部，這是有可能的嗎？"
+        }
+    ]
+}

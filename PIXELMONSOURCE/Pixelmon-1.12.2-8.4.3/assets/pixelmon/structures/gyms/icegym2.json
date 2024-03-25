@@ -1,0 +1,959 @@
+{
+  "type":["Ice"],
+  "npcs": [
+    {
+      "name": "icegym2intro",
+      "type": "chat",
+      "x": 24,
+      "y": 3,
+      "z": 4
+    },
+    {
+      "name": "icegym2base",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 270,
+      "x": 12,
+      "y": 3,
+      "z": 16
+    },
+    {
+      "name": "icegym2base",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 225,
+      "x": 5,
+      "y": 3,
+      "z": 23
+    },
+    {
+      "name": "icegym2base",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 12,
+      "y": 3,
+      "z": 24
+    },
+    {
+      "name": "icegym2base",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 29,
+      "y": 3,
+      "z": 23
+    },
+    {
+      "name": "icegym2leader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 0,
+      "x": 44,
+      "y": 3,
+      "z": 15,
+      "drops": [ "Galar: Ice Punch", "Galar: Ice Beam", "Galar: Blizzard", "Galar: Avalanche", "Galar: Ice Fang", "Galar: Icy Wind", "Galar: Hail", "Galar: Icicle Spear" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Dewgong",
+      "minLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Toxic" ],
+          "move2": [ "Protect" ],
+          "move3": [ "Ice Beam", "Frost Breath", "Avalanche", "Blizzard" ],
+          "move4": [ "Perish Song", "Encore", "Surf", "Fake Out", "Aqua Jet", "Ice Shard", "Drill Run", "Thief", "Iron Tail", "Waterfall", "Dive", "Aqua Tail", "Substitute", "Disable", "Signal Beam" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Toxic" ],
+          "move2": [ "Ice Beam", "Frost Breath", "Blizzard" ],
+          "move3": [ "Sleep Talk" ],
+          "move4": [ "Rest" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:chesto_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Toxic" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Rest", "Protect" ],
+          "move4": [ "Hail" ],
+          "ability": [ "Ice Body" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:icy_rock" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Surf" ],
+          "move2": [ "Ice Beam", "Frost Breath", "Blizzard", "Stockpile" ],
+          "move3": [ "Rest" ],
+          "move4": [ "Rain Dance" ],
+          "ability": [ "Hydration" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:damp_rock" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Surf" ],
+          "move2": [ "Ice Beam", "Frost Breath", "Blizzard" ],
+          "move3": [ "Fake Out", "Aqua Jet", "Ice Shard" ],
+          "move4": [ "Signal Beam", "Drill Run", "Thief", "Iron Tail", "Encore", "Perish Song", "Substitute", "Disable" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:quick_claw", "pixelmon:salac_berry" ],
+          "nature": [ "Rash", "Mild", "Hasty", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Cloyster",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Shell Smash" ],
+          "move2": [ "Icicle Spear" ],
+          "move3": [ "Rock Blast", "Explosion", "Ice Shard", "Hydro Pump", "Poison Jab", "Signal Beam", "Hidden Power Fire" ],
+          "move4": [ "Rock Blast", "Explosion", "Ice Shard", "Hydro Pump", "Poison Jab", "Signal Beam", "Hidden Power Fire" ],
+          "ability": [ "Skill Link" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:life_orb", "pixelmon:white_herb", "pixelmon:kings_rock", "pixelmon:lum_berry" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Icicle Spear" ],
+          "move2": [ "Rock Blast", "Explosion", "Hydro Pump", "Poison Jab", "Signal Beam", "Hidden Power Fire" ],
+          "move3": [ "Rock Blast", "Explosion", "Hydro Pump", "Poison Jab", "Signal Beam", "Hidden Power Fire" ],
+          "move4": [ "Rock Blast", "Explosion", "Hydro Pump", "Poison Jab", "Signal Beam", "Hidden Power Fire" ],
+          "ability": [ "Skill Link" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:life_orb", "pixelmon:choice_scarf", "pixelmon:kings_rock", "pixelmon:lum_berry" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Icicle Spear" ],
+          "move2": [ "Spikes", "Toxic Spikes" ],
+          "move3": [ "Shell Smash", "Explosion", "Razor Shell" ],
+          "move4": [ "Rapid Spin" ],
+          "ability": [ "Skill Link" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:life_orb", "pixelmon:white_herb", "pixelmon:kings_rock", "pixelmon:lum_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Smoochum",
+      "maxLevel": 29,
+      "sets": [
+        {
+          "move1": [ "Icy Wind", "Powder Snow" ],
+          "move2": [ "Confusion" ],
+          "move3": [ "Round", "Grass Knot", "Mud-Slap", "Water Pulse", "Substitute", "Heal Bell" ],
+          "move4": [ "Round", "Grass Knot", "Mud-Slap", "Water Pulse", "Substitute", "Heal Bell" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:ice_gem", "pixelmon:twisted_spoon", "pixelmon:psychic_gem" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Jynx",
+      "minLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Psyshock", "Psychic" ],
+          "move3": [ "Lovely Kiss", "Attract" ],
+          "move4": [ "Focus Blast", "Energy Ball", "Bubble Beam", "Shadow Ball", "Signal Beam", "Nasty Plot", "Calm Mind", "Counter", "Hidden Power Fire", "Fake Out" ],
+          "ability": [ "Dry Skin" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:life_orb", "pixelmon:expert_belt" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Substitute" ],
+          "move3": [ "Lovely Kiss", "Attract" ],
+          "move4": [ "Nasty Plot", "Calm Mind" ],
+          "ability": [ "Dry Skin" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:sitrus_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Psyshock", "Psychic" ],
+          "move3": [ "Focus Blast", "Energy Ball", "Bubble Beam", "Shadow Ball", "Signal Beam", "Trick", "Hidden Power Fire" ],
+          "move4": [ "Focus Blast", "Energy Ball", "Bubble Beam", "Shadow Ball", "Signal Beam", "Trick", "Hidden Power Fire" ],
+          "ability": [ "Dry Skin" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:expert_belt" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Mean Look" ],
+          "move3": [ "Perish Song" ],
+          "move4": [ "Lovely Kiss", "Substitute", "Attract" ],
+          "ability": [ "Dry Skin" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:sitrus_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Taunt", "Lovely Kiss", "Fake Out", "Attract" ],
+          "move3": [ "Reflect" ],
+          "move4": [ "Light Screen" ],
+          "ability": [ "Dry Skin" ],
+          "heldItem": [ "pixelmon:light_clay" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Ice Punch" ],
+          "move2": [ "Zen Headbutt" ],
+          "move3": [ "Fake Out", "Drain Punch", "Thief", "Lovely Kiss", "Taunt" ],
+          "move4": [ "Fake Out", "Drain Punch", "Thief", "Lovely Kiss", "Taunt" ],
+          "ability": [ "Dry Skin" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:life_orb", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Lapras",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Hydro Pump", "Surf" ],
+          "move3": [ "Freeze-Dry", "Thunderbolt", "Psychic", "Dragon Pulse", "Solar Beam", "Ancient Power", "Signal Beam", "Surf", "Hidden Power Fire" ],
+          "move4": [ "Freeze-Dry", "Thunderbolt", "Psychic", "Dragon Pulse", "Solar Beam", "Ancient Power", "Signal Beam", "Surf", "Hidden Power Fire" ],
+          "ability": [ "Water Absorb" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:assault_vest", "pixelmon:leftovers", "pixelmon:mystic_water", "pixelmon:never_melt_ice", "pixelmon:bright_powder" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath", "Freeze-Dry" ],
+          "move2": [ "Hydro Pump", "Surf" ],
+          "move3": [ "Substitute", "Substitute", "Heal Bell", "Confuse Ray" ],
+          "move4": [ "Toxic" ],
+          "ability": [ "Water Absorb" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Avalanche", "Ice Shard" ],
+          "move2": [ "Waterfall", "Aqua Tail" ],
+          "move3": [ "Dragon Dance" ],
+          "move4": [ "Drill Run", "Iron Tail", "Ice Shard", "Outrage", "Iron Head", "Zen Headbutt" ],
+          "ability": [ "Water Absorb" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:mystic_water", "pixelmon:never_melt_ice", "pixelmon:bright_powder" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Avalanche", "Ice Shard" ],
+          "move2": [ "Block" ],
+          "move3": [ "Dragon Dance", "Perish Song" ],
+          "move4": [ "Rest" ],
+          "ability": [ "Water Absorb" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:never_melt_ice", "pixelmon:chesto_berry", "pixelmon:bright_powder" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Hydro Pump", "Surf" ],
+          "move3": [ "Freeze-Dry", "Thunder", "Psychic", "Dragon Pulse", "Ancient Power", "Signal Beam", "Surf", "Confuse Ray" ],
+          "move4": [ "Rain Dance" ],
+          "ability": [ "Hydration" ],
+          "heldItem": [ "pixelmon:damp_rock", "pixelmon:leftovers", "pixelmon:mystic_water", "pixelmon:never_melt_ice", "pixelmon:bright_powder" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Hydro Pump", "Surf" ],
+          "move3": [ "Sleep Talk" ],
+          "move4": [ "Rest" ],
+          "ability": [ "Water Absorb" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:mystic_water", "pixelmon:never_melt_ice", "pixelmon:chesto_berry", "pixelmon:bright_powder" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sneasel",
+      "minLevel": 25,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Knock Off" ],
+          "move2": [ "Ice Punch" ],
+          "move3": [ "Pursuit", "Ice Shard", "Low Kick", "Aerial Ace", "Dig", "Fury Cutter", "Swords Dance", "Toxic" ],
+          "move4": [ "Pursuit", "Ice Shard", "Low Kick", "Aerial Ace", "Dig", "Fury Cutter", "Swords Dance", "Toxic" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:ice_gem", "pixelmon:black_glasses", "pixelmon:dark_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Weavile",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Knock Off", "Night Slash" ],
+          "move2": [ "Ice Punch", "Icicle Crash" ],
+          "move3": [ "Pursuit", "Ice Shard", "Low Kick", "Aerial Ace", "Dig", "X-Scissor", "Poison Jab", "Swords Dance", "Iron Tail", "Return", "Taunt", "Fake Out", "Torment" ],
+          "move4": [ "Pursuit", "Ice Shard", "Low Kick", "Aerial Ace", "Dig", "X-Scissor", "Poison Jab", "Swords Dance", "Iron Tail", "Return", "Taunt", "Fake Out", "Torment" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:never_melt_ice", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Swinub",
+      "maxLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Bulldoze" ],
+          "move4": [ "Endeavor" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:ice_gem", "pixelmon:soft_sand", "pixelmon:ground_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Piloswine",
+      "minLevel": 33,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Bulldoze" ],
+          "move3": [ "Ice Shard", "Toxic", "Roar" ],
+          "move4": [ "Icicle Spear", "Ice Fang" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpeed": 4
+        }
+      ]
+    },
+    {
+      "name": "Piloswine",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Ice Shard", "Toxic", "Roar", "Endeavor", "Fissure" ],
+          "move4": [ "Icicle Spear", "Icicle Crash", "Avalanche", "Freeze-Dry" ],
+          "ability": [ "Oblivious", "Thick Fat" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Brave" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Curse" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Ice Shard", "Icicle Spear", "Icicle Crash", "Avalanche" ],
+          "move4": [ "Stone Edge", "Superpower", "Bite", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Hail" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Blizzard" ],
+          "move4": [ "Stone Edge", "Superpower", "Bite", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:eviolite", "pixelmon:icy_rock" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVSpecialAttack": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Mamoswine",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Icicle Crash", "Icicle Spear" ],
+          "move4": [ "Stone Edge", "Rock Slide", "Superpower", "Iron Head", "Knock Off", "Stealth Rock", "Endeavor", "Freeze-Dry", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty", "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Stone Edge", "Rock Slide", "Superpower", "Iron Head", "Knock Off", "Icicle Crash", "Icicle Spear", "Endeavor", "Freeze-Dry", "Fissure" ],
+          "ability": [ "Oblivious", "Thick Fat" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty", "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Icicle Crash", "Icicle Spear" ],
+          "move3": [ "Stone Edge", "Superpower", "Iron Head", "Knock Off", "Ice Shard", "Fissure" ],
+          "move4": [ "Stone Edge", "Superpower", "Iron Head", "Knock Off", "Ice Shard", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Icicle Crash", "Icicle Spear" ],
+          "move4": [ "Stone Edge", "Superpower", "Iron Head", "Knock Off", "Ice Shard", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_band", "pixelmon:assault_vest", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Stealth Rock", "Knock Off", "Toxic", "Icicle Spear", "Fissure", "Rock Tomb" ],
+          "move4": [ "Stealth Rock", "Knock Off", "Toxic", "Icicle Spear", "Fissure", "Rock Tomb" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rocky_helmet", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVDefence": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Stone Edge", "Superpower", "Iron Head", "Knock Off", "Ice Shard", "Fissure" ],
+          "move4": [ "Hail" ],
+          "ability": [ "Snow Cloak" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Delibird",
+      "minLevel": 25,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Fly", "Bounce" ],
+          "move2": [ "Ice Ball", "Ice Shard", "Icy Wind", "Aurora Beam" ],
+          "move3": [ "Rapid Spin", "Destiny Bond" ],
+          "move4": [ "Spikes" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Naive", "Hasty" ],
+          "EVAttack": 252,
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Delibird",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Fly", "Bounce", "Sky Attack" ],
+          "move2": [ "Ice Punch", "Ice Shard", "Icy Wind", "Freeze-Dry", "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move3": [ "Rapid Spin", "Destiny Bond" ],
+          "move4": [ "Spikes" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpecialAttack": 4,
+          "EVSpeed": 252
+        },
+        {
+          "move1": [ "Aerial Ace", "Fly", "Bounce", "Sky Attack" ],
+          "move2": [ "Ice Punch", "Ice Shard" ],
+          "move3": [ "Brick Break", "Gunk Shot", "Seed Bomb" ],
+          "move4": [ "Brick Break", "Gunk Shot", "Seed Bomb" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpecialAttack": 4,
+          "EVSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Castform",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Hail" ],
+          "move2": [ "Weather Ball", "Blizzard" ],
+          "move3": [ "Fire Blast", "Thunderbolt", "Shadow Ball", "Hurricane", "Hydro Pump", "Energy Ball" ],
+          "move4": [ "Fire Blast", "Thunderbolt", "Shadow Ball", "Hurricane", "Hydro Pump", "Energy Ball" ],
+          "heldItem": [ "pixelmon:icy_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Snorunt",
+      "maxLevel": 41,
+      "sets": [
+        {
+          "move1": [ "Spikes" ],
+          "move2": [ "Icy Wind", "Powder Snow" ],
+          "move3": [ "Rollout", "Bite", "Ice Shard", "Round", "Water Pulse", "Toxic" ],
+          "move4": [ "Rollout", "Bite", "Ice Shard", "Round", "Water Pulse", "Toxic" ],
+          "heldItem": [ "pixelmon:focus_band", "pixelmon:never_melt_ice", "pixelmon:ice_gem" ],
+          "nature": [ "Hasty", "Naive", "Rash", "Mild" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Glalie",
+      "minLevel": 42,
+      "sets": [
+        {
+          "move1": [ "Spikes" ],
+          "move2": [ "Taunt", "Super Fang", "Earthquake", "Crunch", "Iron Head" ],
+          "move3": [ "Explosion" ],
+          "move4": [ "Freeze-Dry", "Ice Beam", "Blizzard", "Frost Breath", "Ice Fang", "Ice Shard" ],
+          "ability": [ "Moody" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Froslass",
+      "minLevel": 42,
+      "sets": [
+        {
+          "move1": [ "Spikes" ],
+          "move2": [ "Destiny Bond" ],
+          "move3": [ "Taunt", "Thunderbolt", "Thunder Wave", "Hidden Power Fire", "Shadow Ball", "Psychic", "Water Pulse", "Signal Beam", "Ice Shard" ],
+          "move4": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Hail" ],
+          "move2": [ "Shadow Ball" ],
+          "move3": [ "Thunderbolt", "Hidden Power Fire", "Psychic", "Water Pulse", "Signal Beam" ],
+          "move4": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "ability": [ "Snow Cloak" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:kasib_berry", "pixelmon:focus_sash", "pixelmon:icy_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Shadow Ball", "Hex" ],
+          "move3": [ "Thunderbolt", "Hidden Power Fire", "Psychic", "Water Pulse", "Signal Beam", "Thunder Wave", "Ice Shard", "Taunt", "Destiny Bond" ],
+          "move4": [ "Thunderbolt", "Hidden Power Fire", "Psychic", "Water Pulse", "Signal Beam", "Thunder Wave", "Ice Shard", "Taunt", "Destiny Bond"  ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:kasib_berry", "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Spheal",
+      "maxLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Icy Wind", "Powder Snow", "Ice Ball" ],
+          "move2": [ "Water Gun", "Whirlpool", "Water Pulse" ],
+          "move3": [ "Substitute", "Protect", "Yawn", "Encore", "Double Team", "Defense Curl", "Hail", "Bulldoze", "Rock Tomb", "Rock Smash", "Rollout", "Round", "Mud-Slap" ],
+          "move4": [ "Substitute", "Protect", "Yawn", "Encore", "Double Team", "Defense Curl", "Hail", "Bulldoze", "Rock Tomb", "Rock Smash", "Rollout", "Round", "Mud-Slap" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:sitrus_berry" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sealeo",
+      "minLevel": 32,
+      "maxLevel": 43,
+      "sets": [
+        {
+          "move1": [ "Ice Beam" ],
+          "move2": [ "Surf" ],
+          "move3": [ "Substitute", "Protect", "Yawn", "Toxic", "Super Fang" ],
+          "move4": [ "Substitute", "Protect", "Yawn", "Toxic", "Super Fang" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Walrein",
+      "minLevel": 44,
+      "sets": [
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Toxic" ],
+          "move3": [ "Surf", "Roar", "Protect", "Super Fang", "Encore", "Sheer Cold" ],
+          "move4": [ "Surf", "Roar", "Protect", "Super Fang", "Encore", "Sheer Cold" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:lax_incense" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Avalanche", "Ice Fang" ],
+          "move2": [ "Waterfall", "Aqua Tail" ],
+          "move3": [ "Iron Head", "Crunch", "Earthquake", "Rock Slide", "Iron Tail" ],
+          "move4": [ "Belly Drum", "Curse" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers", "pixelmon:lax_incense" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Avalanche", "Ice Fang" ],
+          "move2": [ "Sleep Talk" ],
+          "move3": [ "Rest" ],
+          "move4": [ "Belly Drum", "Curse", "Stockpile" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers", "pixelmon:chesto_berry", "pixelmon:lax_incense" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Surf" ],
+          "move3": [ "Signal Beam" ],
+          "move4": [ "Hyper Beam" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:choice_specs", "pixelmon:assault_vest", "pixelmon:lax_incense" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Surf" ],
+          "move3": [ "Signal Beam" ],
+          "move4": [ "Hail" ],
+          "ability": [ "Ice Body" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:icy_rock", "pixelmon:lax_incense" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Sheer Cold" ],
+          "move2": [ "Fissure" ],
+          "move3": [ "Sleep Talk" ],
+          "move4": [ "Rest" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:lax_incense", "pixelmon:chesto_berry" ],
+          "nature": [ "Bold", "Calm", "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Snover",
+      "maxLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Razor Leaf", "Grass Knot", "Bullet Seed", "Magical Leaf" ],
+          "move2": [ "Icy Wind", "Powder Snow" ],
+          "move3": [ "Mud-Slap", "Round", "Water Pulse" ],
+          "move4": [ "Mud-Slap", "Round", "Water Pulse" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:ice_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Hasty", "Naive" ],
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252,
+          "EVAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Snover",
+      "minLevel": 26,
+      "maxLevel": 39,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Grass Knot", "Seed Bomb" ],
+          "move2": [ "Avalanche", "Ice Punch" ],
+          "move3": [ "Ice Shard" ],
+          "move4": [ "Water Pulse", "Shadow Ball" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:ice_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Hasty", "Naive" ],
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252,
+          "EVAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Abomasnow",
+      "minLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Giga Drain", "Wood Hammer", "Seed Bomb", "Grass Knot" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Earthquake", "Iron Tail", "Focus Blast", "Shadow Ball", "Rock Slide", "Water Pulse", "Outrage" ],
+          "move4": [ "Ice Shard" ],
+          "ability": [ "Snow Warning" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_scarf", "pixelmon:miracle_seed", "pixelmon:focus_sash" ],
+          "nature": [ "Hasty", "Naive" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Earthquake", "Iron Tail", "Brick Break", "Shadow Ball", "Rock Slide", "Outrage", "Ice Punch", "Avalanche" ],
+          "move4": [ "Ice Shard" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Seed Bomb", "Grass Knot" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Earthquake", "Iron Tail", "Focus Blast", "Shadow Ball", "Rock Slide", "Water Pulse", "Leech Seed", "Ice Shard", "Double Team" ],
+          "move4": [ "Substitute", "Double Team" ],
+          "ability": [ "Snow Warning" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:occa_berry", "pixelmon:miracle_seed" ],
+          "nature": [ "Quiet" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Giga Drain", "Wood Hammer", "Seed Bomb", "Grass Knot" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Earthquake", "Iron Tail", "Focus Blast", "Shadow Ball", "Rock Slide", "Water Pulse", "Outrage" ],
+          "move4": [ "Growth" ],
+          "ability": [ "Snow Warning" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:miracle_seed", "pixelmon:focus_sash" ],
+          "nature": [ "Hasty", "Naive" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Glaceon",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Ice Beam", "Frost Breath", "Blizzard" ],
+          "move2": [ "Hidden Power Fighting", "Hidden Power Ground", "Shadow Ball", "Water Pulse", "Signal Beam", "Hyper Voice" ],
+          "move3": [ "Hidden Power Fighting", "Hidden Power Ground", "Shadow Ball", "Water Pulse", "Signal Beam", "Hyper Voice" ],
+          "move4": [ "Hidden Power Fighting", "Hidden Power Ground", "Shadow Ball", "Water Pulse", "Signal Beam", "Hyper Voice" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:never_melt_ice", "pixelmon:quick_claw", "pixelmon:focus_sash", "pixelmon:bright_powder" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Frost Breath", "Blizzard" ],
+          "move2": [ "Hidden Power Fighting", "Hidden Power Ground", "Shadow Ball", "Water Pulse", "Signal Beam", "Hyper Voice", "Mirror Coat" ],
+          "move3": [ "Hidden Power Fighting", "Hidden Power Ground", "Shadow Ball", "Water Pulse", "Signal Beam", "Hyper Voice", "Mirror Coat" ],
+          "move4": [ "Hail" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:quick_claw", "pixelmon:focus_sash", "pixelmon:bright_powder", "pixelmon:icy_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Frost Breath", "Blizzard" ],
+          "move2": [ "Heal Bell", "Roar", "Protect", "Toxic", "Mirror Coat", "Barrier" ],
+          "move3": [ "Heal Bell", "Roar", "Protect", "Toxic", "Mirror Coat", "Barrier" ],
+          "move4": [ "Wish" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:bright_powder" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Beam", "Frost Breath", "Blizzard" ],
+          "move2": [ "Heal Bell", "Roar", "Protect", "Toxic", "Mirror Coat", "Barrier" ],
+          "move3": [ "Heal Bell", "Roar", "Protect", "Toxic", "Mirror Coat", "Barrier" ],
+          "move4": [ "Rest" ],
+          "heldItem": [ "pixelmon:chesto_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Cryogonal",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Freeze-Dry", "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move2": [ "Rapid Spin" ],
+          "move3": [ "Recover" ],
+          "move4": [ "Freeze-Dry", "Hidden Power Fighting", "Hidden Power Ground", "Flash Cannon", "Solar Beam", "Water Pulse", "Toxic", "Knock Off", "Explosion", "Haze", "Confuse Ray", "Light Screen", "Sheer Cold" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:never_melt_ice", "pixelmon:safety_goggles", "pixelmon:charti_berry", "pixelmon:occa_berry", "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Ice Shard" ],
+          "move2": [ "Knock Off", "Night Slash" ],
+          "move3": [ "Poison Jab" ],
+          "move4": [ "Haze", "Explosion", "Return", "Rapid Spin", "Sheer Cold" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:never_melt_ice", "pixelmon:safety_goggles", "pixelmon:charti_berry", "pixelmon:occa_berry", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Blizzard" ],
+          "move2": [ "Hail" ],
+          "move3": [ "Freeze-Dry", "Hidden Power Fighting", "Hidden Power Ground", "Flash Cannon", "Solar Beam", "Water Pulse", "Toxic", "Knock Off", "Haze", "Confuse Ray", "Sheer Cold", "Recover" ],
+          "move4": [ "Freeze-Dry", "Hidden Power Fighting", "Hidden Power Ground", "Flash Cannon", "Solar Beam", "Water Pulse", "Toxic", "Knock Off", "Haze", "Confuse Ray", "Sheer Cold", "Recover" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:never_melt_ice", "pixelmon:safety_goggles", "pixelmon:charti_berry", "pixelmon:occa_berry", "pixelmon:focus_sash", "pixelmon:icy_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    }
+  ]
+}

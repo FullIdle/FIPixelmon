@@ -1,0 +1,22 @@
+{
+  "id": "Mega Aerodactyl",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Aerodactyl"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Floatzel",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Floatzel"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "river",
+          "stone_beach",
+          "gravel_beach"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littlegirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Betty"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Molly"
+        },
+        {
+            "name": "Tilly"
+        },
+        {
+            "name": "Holly"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I'm not going to talk to you! You're a stranger!"
+                },
+                {
+                    "text": "What's it like to be a stranger?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hmmph! I've got better Pokémon in my closet! I've even got a Moltres!"
+                },
+                {
+                    "text": "So what if my Moltres is a toy one? You haven't got any Moltres!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Are you here to catch some Pokémon? Are they scary ones?"
+                },
+                {
+                    "text": "I bet I could catch a scary Pokémon if I had Mega Super Magic Poké Ball!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Are you scared of Pokémon? I'm not scared at all! Well, not much..."
+                },
+                {
+                    "text": "Some Pokémon are a BIT scary. I only like the fluffy ones."
+                }
+            ]
+        }
+    ]
+}

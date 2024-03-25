@@ -1,0 +1,25 @@
+{
+  "cardCode": "BASE2",
+  "attackNumber": 1,
+  "name": "attack.BASE2.1.name",
+  "energy": [
+    "WATER",
+    "WATER",
+    "WATER"
+  ],
+  "damage": 40,
+  "modifier": "Plus",
+  "text": "attack.BASE2.1.text",
+  "effectsString": "DAMAGE_BONUS:SELF:WATER:10:20",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerEnergy",
+      "energy": "WATER",
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": 20,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

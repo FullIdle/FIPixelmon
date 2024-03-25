@@ -1,0 +1,54 @@
+{
+  "id": "Wimpod Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wimpod"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "stone_beach",
+          "gravel_beach",
+          "minecraft:beaches",
+          "white_beach",
+          "rw_bombona_beach"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Golisopod"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "stone_beach",
+          "gravel_beach",
+          "minecraft:beaches",
+          "white_beach",
+          "rw_bombona_beach"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

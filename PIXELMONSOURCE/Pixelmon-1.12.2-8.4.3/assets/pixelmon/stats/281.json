@@ -1,0 +1,424 @@
+{
+  "pixelmonName": "Kirlia",
+  "pokemon": "Kirlia",
+  "form": 0,
+  "stats": {
+    "HP": 38,
+    "Attack": 35,
+    "Defence": 35,
+    "Speed": 50,
+    "SpecialAttack": 65,
+    "SpecialDefence": 55
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 9,
+  "baseExp": 140,
+  "baseFriendship": 35,
+  "types": [
+    "Psychic",
+    "Fairy"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Ralts"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 20.2,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.8,
+    "eye_height": 0.6
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Gardevoir"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dazzling Gleam"
+      ]
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:dawn_stone"
+      },
+      "to": {
+        "name": "Gallade"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Male"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "interact",
+      "moves": [
+        "Slash"
+      ]
+    }
+  ],
+  "abilities": [
+    "Synchronize",
+    "Trace",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Amorphous",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Confusion",
+      "Disarming Voice",
+      "Double Team",
+      "Growl"
+    ],
+    "9": [
+      "Hypnosis"
+    ],
+    "12": [
+      "Draining Kiss"
+    ],
+    "15": [
+      "Teleport"
+    ],
+    "18": [
+      "Psybeam"
+    ],
+    "23": [
+      "Life Dew"
+    ],
+    "28": [
+      "Charm"
+    ],
+    "33": [
+      "Calm Mind"
+    ],
+    "38": [
+      "Psychic"
+    ],
+    "43": [
+      "Heal Pulse"
+    ],
+    "48": [
+      "Dream Eater"
+    ],
+    "53": [
+      "Future Sight"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force",
+    "Triple Axel"
+  ],
+  "eggMoves": [
+    "Confuse Ray",
+    "Destiny Bond",
+    "Disable",
+    "Grudge",
+    "Knock Off",
+    "Mean Look",
+    "Memento",
+    "Shadow Sneak"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Charge Beam",
+    "Confide",
+    "Defense Curl",
+    "Double-Edge",
+    "Echoed Voice",
+    "Flash",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Lucky Chant",
+    "Magic Coat",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Nightmare",
+    "Pain Split",
+    "Psych Up",
+    "Recycle",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Sing",
+    "Snatch",
+    "Swagger",
+    "Synchronoise",
+    "Telekinesis",
+    "Torment",
+    "Toxic",
+    "Wish"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Thunderbolt",
+    "Psychic",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Shadow Ball",
+    "Future Sight",
+    "Taunt",
+    "Trick",
+    "Skill Swap",
+    "Hyper Voice",
+    "Calm Mind",
+    "Zen Headbutt",
+    "Grass Knot",
+    "Stored Power",
+    "Ally Switch",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Magical Leaf",
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Imprison",
+    "Fling",
+    "Trick Room",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Draining Kiss",
+    "Misty Terrain"
+  ],
+  "tmMoves7": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Ally Switch",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room"
+  ],
+  "tmMoves4": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap",
+    "Snatch",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Recycle",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Trick Room"
+  ],
+  "tmMoves3": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap",
+    "Snatch"
+  ],
+  "forms": {}
+}

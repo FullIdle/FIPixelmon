@@ -1,0 +1,25 @@
+{
+  "id": "Stonjourner",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Stonjourner"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

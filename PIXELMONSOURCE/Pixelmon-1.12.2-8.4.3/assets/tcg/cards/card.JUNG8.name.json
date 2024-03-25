@@ -1,0 +1,60 @@
+{
+  "id": 110,
+  "setId": 2,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 18,
+  "code": "JUNG8",
+  "name": "card.JUNG8.name",
+  "description": "",
+  "previousPokemonId": 17,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG8",
+      "attackNumber": 1,
+      "name": "attack.JUNG8.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    },
+    {
+      "cardCode": "JUNG8",
+      "attackNumber": 2,
+      "name": "attack.JUNG8.2.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.JUNG8.2.text",
+      "effects": [
+        "HURRICANE"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

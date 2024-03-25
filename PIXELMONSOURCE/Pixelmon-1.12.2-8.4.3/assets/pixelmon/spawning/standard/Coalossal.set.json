@@ -1,0 +1,41 @@
+{
+  "id": "Coalossal",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Coalossal"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:charcoal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_savanna",
+          "mutated_savanna_rock",
+          "mesas",
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:coal_ore"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

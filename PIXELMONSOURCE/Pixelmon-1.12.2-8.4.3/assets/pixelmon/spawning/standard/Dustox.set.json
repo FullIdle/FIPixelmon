@@ -1,0 +1,68 @@
+{
+  "id": "Dustox",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dustox",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods",
+          "flowery",
+          "bamboo_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Dustox",
+        "form": 113
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 10,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "redwoods",
+          "flowery",
+          "bamboo_forest"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

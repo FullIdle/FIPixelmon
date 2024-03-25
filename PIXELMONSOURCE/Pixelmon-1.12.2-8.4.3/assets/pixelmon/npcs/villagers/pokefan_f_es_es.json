@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "pokefan_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Fancy"
+        },
+        {
+            "name": "Carys"
+        },
+        {
+            "name": "Ljubica"
+        },
+        {
+            "name": "Noa"
+        },
+        {
+            "name": "Yua"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Adoro TANTO a los Zubat."
+                },
+                {
+                    "text": "¡A veces me adentro en cuevas yo sóla para conseguir cientos de abracitos de los Zubat!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Una vez gané un concurso."
+                },
+                {
+                    "text": "¡Mis Pokémon son oficialmente las dulzuras más bonitas!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Has visto el pin de mi chaqueta? Es de la tienda oficial Club World Pokéfan..."
+                },
+                {
+                    "text": "Intenté hacer uno yo misma pero no era tan bueno."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Soy la presidenta del club de fans local Pokéfan."
+                },
+                {
+                    "text": "Podrías unirte. Parece que quieres mucho a tus Pokémon."
+                }
+            ]
+        }
+    ]
+}

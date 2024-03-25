@@ -1,0 +1,34 @@
+{
+  "id": "Zacian",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zacian",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rusted_sword",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forest"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

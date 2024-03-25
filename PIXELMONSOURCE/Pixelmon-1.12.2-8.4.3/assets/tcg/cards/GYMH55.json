@@ -1,0 +1,47 @@
+{
+  "id": 376,
+  "setId": 6,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 91,
+  "code": "GYMH55",
+  "name": "card.GYMH55.name",
+  "description": "",
+  "previousPokemonId": 90,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH55",
+      "attackNumber": 1,
+      "name": "attack.GYMH55.1.name",
+      "energy": [
+        "WATER",
+        "WATER",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH55.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

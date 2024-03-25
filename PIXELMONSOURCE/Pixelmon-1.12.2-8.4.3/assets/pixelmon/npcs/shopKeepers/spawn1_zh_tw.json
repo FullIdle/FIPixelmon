@@ -1,0 +1,78 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "gnome_trader.png"
+    },
+    {
+      "name": "spawntrader.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "約倫"
+    },
+    {
+      "name": "文森特"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "您在這裡啊！寶可夢訓練家！我這裡有一些珍貴的進化石給您挑選。",
+      "goodbye": "幸運的話您還有機會再次遇到我，寶可夢訓練家。"
+    },
+    {
+      "hello": "您好！我看您是個頂尖的寶可夢訓練家！我有販售一些珍貴的進化石。",
+      "goodbye": "很高興與您做生意。"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:sun_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:fire_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:water_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:moon_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:thunder_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:leaf_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:dawn_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:dusk_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:shiny_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    }
+  ]
+}

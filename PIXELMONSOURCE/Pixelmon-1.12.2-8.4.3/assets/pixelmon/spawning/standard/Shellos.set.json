@@ -1,0 +1,26 @@
+{
+  "id": "Shellos",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shellos"
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

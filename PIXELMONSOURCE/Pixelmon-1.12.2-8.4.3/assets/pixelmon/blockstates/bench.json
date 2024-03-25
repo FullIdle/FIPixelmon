@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:Bench" },
+    "facing=south": { "model": "pixelmon:Bench" },
+    "facing=north": {
+      "model": "pixelmon:Bench",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "pixelmon:Bench",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "pixelmon:Bench",
+      "y": 90
+    }
+  }
+}

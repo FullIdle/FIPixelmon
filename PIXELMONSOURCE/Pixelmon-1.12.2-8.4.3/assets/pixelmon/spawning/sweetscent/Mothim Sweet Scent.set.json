@@ -1,0 +1,26 @@
+{
+  "id": "Mothim Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mothim"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 120.0
+    }
+  ]
+}

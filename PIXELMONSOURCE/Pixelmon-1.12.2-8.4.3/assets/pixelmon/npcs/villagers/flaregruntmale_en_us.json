@@ -1,0 +1,34 @@
+{
+    "skins": [
+        {
+            "filename": "flaregruntmale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Flare Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "We're the fashionable team whose very name makes people tremble in fear!"
+                },
+                {
+                    "text": "We don't care one bit about what happens to other trainers or Pokemon."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Our fire Pokemon are lit!"
+                },
+                {
+                    "text": "Just try and put out the flames of Team Flare!"
+                }
+            ]
+        }
+    ]
+}

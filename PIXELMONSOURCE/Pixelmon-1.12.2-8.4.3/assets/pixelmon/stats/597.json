@@ -1,0 +1,255 @@
+{
+  "pixelmonName": "Ferroseed",
+  "pokemon": "Ferroseed",
+  "form": 0,
+  "stats": {
+    "HP": 44,
+    "Attack": 50,
+    "Defence": 91,
+    "Speed": 10,
+    "SpecialAttack": 24,
+    "SpecialDefence": 86
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 12,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 18.8,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.5,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Ferrothorn"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Power Whip"
+      ]
+    }
+  ],
+  "abilities": [
+    "IronBarbs",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Grass",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Tackle"
+    ],
+    "5": [
+      "Metal Claw"
+    ],
+    "10": [
+      "Pin Missile"
+    ],
+    "15": [
+      "Ingrain"
+    ],
+    "20": [
+      "Flash Cannon"
+    ],
+    "25": [
+      "Iron Head"
+    ],
+    "30": [
+      "Self-Destruct"
+    ],
+    "35": [
+      "Iron Defense"
+    ],
+    "41": [
+      "Curse"
+    ],
+    "45": [
+      "Gyro Ball"
+    ],
+    "50": [
+      "Explosion"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Gravity",
+    "Knock Off",
+    "Leech Seed",
+    "Toxic"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Endeavor",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Hone Claws",
+    "Magnet Rise",
+    "Mirror Shot",
+    "Nature Power",
+    "Return",
+    "Rock Climb",
+    "Rock Polish",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Swagger",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Substitute",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Gyro Ball",
+    "Poison Jab",
+    "Seed Bomb",
+    "Energy Ball",
+    "Flash Cannon",
+    "Iron Head",
+    "Stealth Rock"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Solar Beam",
+    "Thunder Wave",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Revenge",
+    "Bullet Seed",
+    "Payback",
+    "Assurance",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Payback",
+    "Rock Polish",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Payback",
+    "Rock Polish",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Payback",
+    "Rock Polish",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

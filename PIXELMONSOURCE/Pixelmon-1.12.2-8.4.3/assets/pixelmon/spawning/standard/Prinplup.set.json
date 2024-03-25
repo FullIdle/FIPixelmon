@@ -1,0 +1,37 @@
+{
+  "id": "Prinplup",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Prinplup"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "cold_beach",
+          "frozen_river"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

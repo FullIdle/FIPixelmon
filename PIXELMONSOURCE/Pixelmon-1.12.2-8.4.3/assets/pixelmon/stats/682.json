@@ -1,0 +1,250 @@
+{
+  "pixelmonName": "Spritzee",
+  "pokemon": "Spritzee",
+  "form": 0,
+  "stats": {
+    "HP": 78,
+    "Attack": 52,
+    "Defence": 60,
+    "Speed": 23,
+    "SpecialAttack": 63,
+    "SpecialDefence": 65
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 68,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.5,
+  "bounding_box": {
+    "width": 0.3,
+    "height": 0.35,
+    "eye_height": 0.24
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Aromatisse"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:sachet"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Healer",
+    null,
+    "AromaVeil"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fairy Wind",
+      "Sweet Scent"
+    ],
+    "3": [
+      "Sweet Kiss"
+    ],
+    "6": [
+      "Echoed Voice"
+    ],
+    "9": [
+      "Draining Kiss"
+    ],
+    "12": [
+      "Aromatherapy"
+    ],
+    "15": [
+      "Draining Kiss"
+    ],
+    "18": [
+      "Attract"
+    ],
+    "21": [
+      "Flail"
+    ],
+    "24": [
+      "Misty Terrain"
+    ],
+    "27": [
+      "Psychic"
+    ],
+    "30": [
+      "Charm"
+    ],
+    "33": [
+      "Calm Mind"
+    ],
+    "36": [
+      "Moonblast"
+    ],
+    "39": [
+      "Skill Swap"
+    ]
+  },
+  "tutorMoves": [
+    "Misty Explosion"
+  ],
+  "eggMoves": [
+    "After You",
+    "Disable",
+    "Wish"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Charge Beam",
+    "Confide",
+    "Covet",
+    "Double Team",
+    "Dream Eater",
+    "Endeavor",
+    "Flash",
+    "Frustration",
+    "Heal Bell",
+    "Hidden Power",
+    "Magic Coat",
+    "Odor Sleuth",
+    "Psych Up",
+    "Refresh",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Telekinesis",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Psychic",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Skill Swap",
+    "Calm Mind",
+    "Gyro Ball",
+    "Energy Ball",
+    "Nasty Plot",
+    "Flash Cannon",
+    "Ally Switch",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Fake Tears",
+    "Trick Room",
+    "Round",
+    "Draining Kiss",
+    "Misty Terrain"
+  ],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

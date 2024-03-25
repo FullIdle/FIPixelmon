@@ -1,0 +1,57 @@
+{
+    "skins": [
+        {
+            "filename": "knight.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sig. Bors de Ganis"
+        },
+		 {
+            "name": "Hamlet"
+        },
+        {
+            "name": "Sig. Larion"
+        },
+        {
+            "name": "Sig. Escavalier"
+        },
+        {
+            "name": "Francis"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Questi mob continuano ad arrivare!"
+                },
+                {
+                    "text": "Ondata dopo ondata... quante vite devono essere perse perché questa battaglia finisca?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Preferirei combattere Pokémon che ondate di scheletri e zombi!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Combatti per ciò in cui credi, altrimenti non stai combattendo per niente."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Anche se questa è follia, non si sono altri modi per farlo."
+                }
+            ]
+        }
+    ]
+}

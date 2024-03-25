@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "ranger_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Woody"
+        },
+        {
+            "name": "Cody"
+        },
+        {
+            "name": "Smith"
+        },
+        {
+            "name": "Rubeus"
+        },
+        {
+            "name": "Ursaring Grylls"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I used to patrol the forest, but nowadays, I'm mostly around town."
+                },
+                {
+                    "text": "The urban jungle! It's like the jungle, but urban."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I can recognize every local plant and animal species."
+                },
+                {
+                    "text": "Go on, quiz me!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "You may not know it, but towns need Rangers too."
+                },
+                {
+                    "text": "One neglectful gardener, and boom! You have all sorts of things roaming in the neighborhood!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Only YOU can prevent forest fires!"
+                },
+                {
+                    "text": "Be responsible with your Fire-type Pokémon, and don't use Ember in the underbrush."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "cardCode": "FOSS14",
+  "attackNumber": 1,
+  "name": "attack.FOSS14.1.name",
+  "energy": [
+    "LIGHTNING",
+    "LIGHTNING",
+    "LIGHTNING",
+    "LIGHTNING"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.FOSS14.1.text",
+  "effectsString": "OPP_DAMAGE:BENCH:3:10",
+  "effects": [
+    {
+      "onMe": false,
+      "location": "Bench",
+      "count": 3,
+      "amount": 10,
+      "needCoinSide": null
+    }
+  ]
+}

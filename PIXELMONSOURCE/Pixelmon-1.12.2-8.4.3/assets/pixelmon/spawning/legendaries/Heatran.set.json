@@ -1,0 +1,46 @@
+{
+  "id": "Heatran",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Heatran",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Underground Lava"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mesas"
+        ],
+        "maxY": 50
+      },
+      "rarity": 2.0
+    },
+    {
+      "spec": {
+        "name": "Heatran",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Surface Lava"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 2.0
+    }
+  ]
+}

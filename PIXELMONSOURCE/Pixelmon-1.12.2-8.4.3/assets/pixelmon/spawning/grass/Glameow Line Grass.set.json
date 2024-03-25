@@ -1,0 +1,45 @@
+{
+  "id": "Glameow Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Glameow"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Purugly"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 39,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

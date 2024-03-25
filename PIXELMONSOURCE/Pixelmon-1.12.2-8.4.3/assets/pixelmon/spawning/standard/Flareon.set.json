@@ -1,0 +1,50 @@
+{
+  "id": "Flareon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Flareon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Flareon",
+        "form": 114
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ],
+        "dimensions": [
+          "72"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

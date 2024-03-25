@@ -1,0 +1,361 @@
+{
+  "pixelmonName": "Duskull",
+  "pokemon": "Duskull",
+  "form": 0,
+  "stats": {
+    "HP": 20,
+    "Attack": 40,
+    "Defence": 90,
+    "Speed": 25,
+    "SpecialAttack": 30,
+    "SpecialDefence": 90
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 8,
+  "baseExp": 97,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 15.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 1.0,
+    "eye_height": 0.6
+  },
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Dusclops"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Shadow Punch"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Leer"
+    ],
+    "4": [
+      "Disable"
+    ],
+    "8": [
+      "Shadow Sneak"
+    ],
+    "12": [
+      "Confuse Ray"
+    ],
+    "16": [
+      "Night Shade"
+    ],
+    "20": [
+      "Payback"
+    ],
+    "24": [
+      "Will-O-Wisp"
+    ],
+    "28": [
+      "Mean Look"
+    ],
+    "32": [
+      "Hex"
+    ],
+    "36": [
+      "Curse"
+    ],
+    "40": [
+      "Shadow Ball"
+    ],
+    "44": [
+      "Future Sight"
+    ]
+  },
+  "tutorMoves": [
+    "Poltergeist",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Grudge",
+    "Haze",
+    "Memento",
+    "Pain Split"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Charge Beam",
+    "Confide",
+    "Destiny Bond",
+    "Double Team",
+    "Double-Edge",
+    "Dream Eater",
+    "Embargo",
+    "Feint Attack",
+    "Flash",
+    "Foresight",
+    "Frustration",
+    "Gravity",
+    "Headbutt",
+    "Hidden Power",
+    "Infestation",
+    "Mimic",
+    "Natural Gift",
+    "Nightmare",
+    "Ominous Wind",
+    "Psych Up",
+    "Pursuit",
+    "Return",
+    "Secret Power",
+    "Snatch",
+    "Spite",
+    "Sucker Punch",
+    "Swagger",
+    "Telekinesis",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Ice Beam",
+    "Blizzard",
+    "Psychic",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Future Sight",
+    "Taunt",
+    "Trick",
+    "Skill Swap",
+    "Calm Mind",
+    "Dark Pulse",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Helping Hand",
+    "Revenge",
+    "Imprison",
+    "Payback",
+    "Fling",
+    "Trick Room",
+    "Wonder Room",
+    "Round",
+    "Hex"
+  ],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Psych Up",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room"
+  ],
+  "tmMoves4": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap",
+    "Snatch",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Will-O-Wisp",
+    "Embargo",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Captivate",
+    "Dark Pulse",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room"
+  ],
+  "tmMoves3": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap",
+    "Snatch"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,367 @@
+{
+  "pixelmonName": "Magneton",
+  "pokemon": "Magneton",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 60,
+    "Defence": 95,
+    "Speed": 70,
+    "SpecialAttack": 120,
+    "SpecialDefence": 70
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Steel"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Magnemite"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 60.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.2,
+    "eye_height": 0.85
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Magnezone"
+      },
+      "item": {
+        "itemID": "pixelmon:thunder_stone"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "MagnetPull",
+    "Sturdy",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Electric Terrain",
+      "Supersonic",
+      "Tackle",
+      "Thunder Shock",
+      "Thunder Wave",
+      "Tri Attack"
+    ],
+    "12": [
+      "Electro Ball"
+    ],
+    "16": [
+      "Gyro Ball"
+    ],
+    "20": [
+      "Spark"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Magnet Rise"
+    ],
+    "34": [
+      "Flash Cannon"
+    ],
+    "40": [
+      "Discharge"
+    ],
+    "46": [
+      "Metal Sound"
+    ],
+    "52": [
+      "Light Screen"
+    ],
+    "58": [
+      "Lock-On"
+    ],
+    "64": [
+      "Zap Cannon"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage",
+    "Steel Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Bide",
+    "Charge Beam",
+    "Confide",
+    "Curse",
+    "Double Team",
+    "Double-Edge",
+    "Explosion",
+    "Flash",
+    "Frustration",
+    "Gravity",
+    "Headbutt",
+    "Hidden Power",
+    "Magic Coat",
+    "Magnet Bomb",
+    "Mimic",
+    "Mirror Shot",
+    "Natural Gift",
+    "Psych Up",
+    "Rage",
+    "Recycle",
+    "Refresh",
+    "Return",
+    "Rollout",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Sonic Boom",
+    "Swagger",
+    "Take Down",
+    "Teleport",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Tri Attack",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Gyro Ball",
+    "Flash Cannon",
+    "Electro Ball",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Screech",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Round",
+    "Volt Switch",
+    "Electroweb",
+    "Electric Terrain"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Explosion",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Charge Beam",
+    "Endure",
+    "Explosion",
+    "Recycle",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Rollout",
+    "Toxic",
+    "Zap Cannon",
+    "Hidden Power",
+    "Snore",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Rest"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Hyper Beam",
+    "Rage",
+    "Thunderbolt",
+    "Thunder",
+    "Teleport",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Swift",
+    "Rest",
+    "Thunder Wave",
+    "Substitute"
+  ],
+  "forms": {}
+}

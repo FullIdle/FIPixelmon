@@ -1,0 +1,26 @@
+{
+  "id": "Vivillon Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 19
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

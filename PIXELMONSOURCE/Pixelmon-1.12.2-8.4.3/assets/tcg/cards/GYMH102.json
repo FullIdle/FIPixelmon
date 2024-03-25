@@ -1,0 +1,61 @@
+{
+  "id": 423,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 27,
+  "code": "GYMH102",
+  "name": "card.GYMH102.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH102",
+      "attackNumber": 1,
+      "name": "attack.GYMH102.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMH102.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH102",
+      "attackNumber": 2,
+      "name": "attack.GYMH102.2.name",
+      "energy": [
+        "FIGHTING",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH102.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": "LIGHTNING",
+  "resistanceValue": "30",
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

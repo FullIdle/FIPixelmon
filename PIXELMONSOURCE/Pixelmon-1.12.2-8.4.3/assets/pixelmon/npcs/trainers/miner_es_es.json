@@ -1,0 +1,98 @@
+{
+    "data": {
+        "trainerType": "Miner",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Roggenrola"
+        },
+        {
+            "name": "Graveler"
+        },
+        {
+            "name": "Rhyhorn"
+        },
+        {
+            "name": "Dwebble"
+        },
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Cranidos"
+        },
+        {
+            "name": "Aron"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mac"
+        },
+        {
+            "name": "Duggy"
+        },
+        {
+            "name": "Bruce"
+        },
+        {
+            "name": "Rocky"
+        },
+        {
+            "name": "Benjamin Boulder"
+        },
+        {
+            "name": "Gravelly Pete"
+        },
+        {
+            "name": "Jimmy el Excavador"
+        },
+        {
+            "name": "Luís"
+        },
+        {
+            "name": "Juan"
+        },
+        {
+            "name": "Haruto"
+        },
+        {
+            "name": "Rui"
+        },
+        {
+            "name": "Pierre"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¡Mis Pokémon de tipo Roca son súper fuertes!",
+            "win": "¡Te dije que eran fuertes!",
+            "lose": "No son tan fuertes como yo pensaba..."
+        },
+        {
+            "opening": "He entrenado a mis tipo Roca para detener cualquier cosa.",
+            "win": "¡Por supuesto que ellos te superan!",
+            "lose": "¡Tú los superas por un poco más!"
+        },
+        {
+            "opening": "Crees que puedes derrotar a un entrenador de tipo Roca, ¿eh?",
+            "win": "¡Todavía no puedes! Sigue entrenando.",
+            "lose": "Supongo que sí que puedes..."
+        },
+        {
+            "opening": "¡Dame un tipo Roca sobre un tipo Electrico algún día!",
+            "win": "¡Mis rocas son las mejores!",
+            "lose": "Hmm. Bueno, uno no puede ganar a todos..."
+        },
+        {
+            "opening": "Mis Pokémon de tipo Roca no son cobardes, como muchos otros.",
+            "win": "Buen intento, pero te lo advertí.",
+            "lose": "Soy yo el cobarde. ¡Mis pobres Pokémon!"
+        }
+    ]
+}

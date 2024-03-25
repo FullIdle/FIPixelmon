@@ -1,0 +1,50 @@
+{
+    "skins": [
+        {
+            "filename": "galacticgruntfemale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Galactic Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "What makes Palkia part water anyway?"
+                },
+                {
+                    "text": "Like, what part of the distorter of space says water type?"
+                }
+            ]
+        },
+	{
+            "lines": [
+                {
+                    "text": "Dialga and Palkia are pretty intimidating, but have you SEEN Giratina?"
+                },
+		{
+                    "text": "That thing is the ruler of the Distortion World, a literal demon!"
+                },
+                {
+                    "text": "And its Origin Form? The fuel of nightmares!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "We want to...wait, what's our motive again?"
+                },
+		{
+                    "text": "I think it's something to do with space...maybe Pluto?"
+                },
+                {
+                    "text": "Yeah, that's it! We want Pluto to be a planet again!"
+                }
+            ]
+        }
+    ]
+}

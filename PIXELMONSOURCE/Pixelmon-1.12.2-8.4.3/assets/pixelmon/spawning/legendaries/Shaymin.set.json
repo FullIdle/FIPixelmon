@@ -1,0 +1,37 @@
+{
+  "id": "Shaymin",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shaymin",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mutated_forest",
+          "lavender_fields",
+          "flower_island"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

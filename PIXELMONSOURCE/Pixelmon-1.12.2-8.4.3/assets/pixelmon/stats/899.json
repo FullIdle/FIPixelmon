@@ -1,0 +1,115 @@
+{
+  "pixelmonName": "Wyrdeer",
+  "pokemon": "Wyrdeer",
+  "form": 0,
+  "stats": {
+    "HP": 103,
+    "Attack": 105,
+    "Defence": 72,
+    "SpecialAttack": 105,
+    "SpecialDefence": 75,
+    "Speed": 65
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 15,
+  "baseExp": 163,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Psychic"
+  ],
+  "height": 1.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Stantler"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.3
+    }
+  },
+  "weight": 95.1,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.6,
+    "eye_height": 1.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "Frisk",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "1": [
+      "Tackle"
+    ],
+    "5": [
+      "Confusion"
+    ],
+    "9": [
+      "Hypnosis"
+    ],
+    "15": [
+      "Calm Mind"
+    ],
+    "21": [
+      "Psyshield Bash"
+    ],
+    "29": [
+      "Extrasensory"
+    ],
+    "37": [
+      "Zen Headbutt"
+    ],
+    "47": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Bulldoze",
+    "Swift",
+    "Calm Mind",
+    "Rest",
+    "Zen Headbutt",
+    "Iron Tail",
+    "Charge Beam",
+    "Energy Ball",
+    "Shadow Ball",
+    "Giga Impact",
+    "Wild Charge",
+    "High Horsepower",
+    "Megahorn",
+    "Hyper Beam",
+    "Thunderbolt",
+    "Psychic"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [],
+  "tmMoves8": [],
+  "forms": {}
+}

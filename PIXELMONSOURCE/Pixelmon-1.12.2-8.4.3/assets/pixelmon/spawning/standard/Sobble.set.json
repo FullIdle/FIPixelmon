@@ -1,0 +1,35 @@
+{
+  "id": "Sobble",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sobble"
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 10.0
+    }
+  ]
+}

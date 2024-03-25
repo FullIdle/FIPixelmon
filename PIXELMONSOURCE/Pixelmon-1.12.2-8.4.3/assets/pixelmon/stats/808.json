@@ -1,0 +1,125 @@
+{
+  "pixelmonName": "Meltan",
+  "pokemon": "Meltan",
+  "form": -1,
+  "stats": {
+    "HP": 46,
+    "Attack": 65,
+    "Defence": 65,
+    "Speed": 34,
+    "SpecialAttack": 55,
+    "SpecialDefence": 35
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 5,
+  "spawnLevelRange": 0,
+  "baseExp": 135,
+  "baseFriendship": 0,
+  "types": [
+    "Steel"
+  ],
+  "height": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 100,
+    "passive": 0,
+    "aggressive": 0
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.0,
+  "bounding_box": {
+    "width": 0.2,
+    "height": 0.22,
+    "eye_height": 0.12
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Melmetal"
+      },
+      "conditions": [
+        {
+          "ores": 400,
+          "evoConditionType": "ores"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Thunder Punch"
+      ]
+    }
+  ],
+  "abilities": [
+    "MagnetPull",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Thunder Shock"
+    ],
+    "8": [
+      "Tail Whip"
+    ],
+    "16": [
+      "Headbutt"
+    ],
+    "24": [
+      "Thunder Wave"
+    ],
+    "32": [
+      "Acid Armor"
+    ],
+    "40": [
+      "Flash Cannon"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Gyro Ball",
+    "Flash Cannon"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Facade",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Rest",
+    "Protect",
+    "Substitute",
+    "Thunder Wave",
+    "Toxic",
+    "Thunderbolt",
+    "Flash Cannon"
+  ],
+  "forms": {}
+}

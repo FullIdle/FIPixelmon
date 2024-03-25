@@ -1,0 +1,265 @@
+{
+  "pixelmonName": "Grotle",
+  "pokemon": "Grotle",
+  "form": 0,
+  "stats": {
+    "HP": 75,
+    "Attack": 89,
+    "Defence": 85,
+    "Speed": 36,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 5,
+  "baseExp": 141,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Turtwig"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "weight": 97.0,
+  "bounding_box": {
+    "width": 1.1,
+    "height": 1.1,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 32,
+      "to": {
+        "name": "Torterra"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Earthquake"
+      ]
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Tackle",
+      "Withdraw"
+    ],
+    "5": [
+      "Withdraw"
+    ],
+    "9": [
+      "Absorb"
+    ],
+    "13": [
+      "Razor Leaf"
+    ],
+    "17": [
+      "Curse"
+    ],
+    "22": [
+      "Bite"
+    ],
+    "27": [
+      "Mega Drain"
+    ],
+    "32": [
+      "Leech Seed"
+    ],
+    "37": [
+      "Synthesis"
+    ],
+    "42": [
+      "Crunch"
+    ],
+    "47": [
+      "Giga Drain"
+    ],
+    "52": [
+      "Leaf Storm"
+    ]
+  },
+  "tutorMoves": [
+    "Earth Power",
+    "Giga Drain",
+    "Grass Pledge",
+    "Iron Tail",
+    "Seed Bomb",
+    "Snore",
+    "Stealth Rock",
+    "Superpower",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Body Slam",
+    "Double-Edge",
+    "Earth Power",
+    "Grassy Terrain",
+    "Growth",
+    "Heavy Slam",
+    "Sand Tomb",
+    "Seed Bomb",
+    "Spit Up",
+    "Stockpile",
+    "Superpower",
+    "Swallow",
+    "Thrash",
+    "Tickle",
+    "Wide Guard",
+    "Worry Seed"
+  ],
+  "transferMoves": [
+    "Bullet Seed",
+    "Captivate",
+    "Cut",
+    "Endure",
+    "Flash",
+    "Headbutt",
+    "Mud-Slap",
+    "Natural Gift",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Energy Ball",
+    "Endure",
+    "Flash",
+    "Swords Dance",
+    "Stealth Rock",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

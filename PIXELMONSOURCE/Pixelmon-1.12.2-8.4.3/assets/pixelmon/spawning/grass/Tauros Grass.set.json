@@ -1,0 +1,28 @@
+{
+  "id": "Tauros Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tauros"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "savanna",
+          "minecraft:plains",
+          "outback"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

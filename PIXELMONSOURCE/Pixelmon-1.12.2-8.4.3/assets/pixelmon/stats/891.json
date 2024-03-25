@@ -1,0 +1,180 @@
+{
+  "pixelmonName": "Kubfu",
+  "pokemon": "Kubfu",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 90,
+    "Defence": 60,
+    "SpecialAttack": 53,
+    "SpecialDefence": 50,
+    "Speed": 72
+  },
+  "catchRate": 3,
+  "malePercent": 87.5,
+  "spawnLevel": 10,
+  "spawnLevelRange": 0,
+  "baseExp": 64,
+  "baseFriendship": 50,
+  "types": [
+    "Fighting"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 0,
+    "passive": 0,
+    "aggressive": 100
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 12.0,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.6,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "conditions": [
+        {
+          "emptyHand": true,
+          "evoConditionType": "evolutionScroll",
+          "evolutionScroll": "Darkness",
+          "maxRangeSquared": 64
+        }
+      ],
+      "evoType": "interact",
+      "moves": [
+        "Wicked Blow"
+      ],
+      "to": {
+        "name": "Urshifu",
+        "form": 0
+      }
+    },
+    {
+      "conditions": [
+        {
+          "emptyHand": true,
+          "evoConditionType": "evolutionScroll",
+          "evolutionScroll": "Waters",
+          "maxRangeSquared": 64
+        }
+      ],
+      "evoType": "interact",
+      "moves": [
+        "Surging Strikes"
+      ],
+      "to": {
+        "name": "Urshifu",
+        "form": 1
+      }
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Rock Smash"
+    ],
+    "4": [
+      "Endure"
+    ],
+    "8": [
+      "Focus Energy"
+    ],
+    "12": [
+      "Aerial Ace"
+    ],
+    "16": [
+      "Scary Face"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Brick Break"
+    ],
+    "28": [
+      "Detect"
+    ],
+    "32": [
+      "Bulk Up"
+    ],
+    "36": [
+      "Iron Head"
+    ],
+    "40": [
+      "Dynamic Punch"
+    ],
+    "44": [
+      "Counter"
+    ],
+    "48": [
+      "Close Combat"
+    ],
+    "52": [
+      "Focus Punch"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Low Kick",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Superpower",
+    "Bulk Up",
+    "Close Combat",
+    "Zen Headbutt",
+    "Iron Head",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Dig",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Facade",
+    "Helping Hand",
+    "Revenge",
+    "Brick Break",
+    "U-turn",
+    "Low Sweep",
+    "Round",
+    "Acrobatics",
+    "Retaliate"
+  ]
+}

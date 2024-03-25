@@ -1,0 +1,101 @@
+{
+  "id": "Klink Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Klink"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ice_mountains",
+          "mutated_extreme_hills"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "STORM"
+            ]
+          }
+        }
+      ],
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Klang"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ice_mountains",
+          "mutated_extreme_hills"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "STORM"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Klinklang"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 49,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ice_mountains",
+          "mutated_extreme_hills"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "STORM"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

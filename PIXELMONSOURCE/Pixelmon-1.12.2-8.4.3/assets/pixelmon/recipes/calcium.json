@@ -1,0 +1,15 @@
+{
+  "type": "pixelmon:infusion",
+  
+  "input1": {
+    "item": "pixelmon:petaya_berry",
+	"count": 10
+  },
+  "input2": {
+    "item": "pixelmon:genius_feather"
+  },
+  "ticks": 1600,
+  "result": {
+    "item": "pixelmon:calcium"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "attackIndex": 452,
+  "attackName": "Mirror Shot",
+  "attackType": "Steel",
+  "attackCategory": "SPECIAL",
+  "basePower": 65,
+  "ppBase": 10,
+  "ppMax": 15,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Accuracy",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 0.5,
+				"speed": 0.6
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Corkscrew Crash",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "pixelmonName": "Indeedee",
+  "pokemon": "Indeedee",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 65,
+    "Defence": 55,
+    "SpecialAttack": 105,
+    "SpecialDefence": 95,
+    "Speed": 95
+  },
+  "catchRate": 30,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 30,
+  "baseExp": 166,
+  "baseFriendship": 140,
+  "types": [
+    "Psychic",
+    "Normal"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 28.0,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.5,
+    "eye_height": 0.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "InnerFocus",
+    "Synchronize",
+    "PsychicSurge"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Play Nice",
+      "Stored Power"
+    ],
+    "5": [
+      "Encore"
+    ],
+    "10": [
+      "Disarming Voice"
+    ],
+    "15": [
+      "Psybeam"
+    ],
+    "20": [
+      "Helping Hand"
+    ],
+    "25": [
+      "After You"
+    ],
+    "30": [
+      "Aromatherapy"
+    ],
+    "35": [
+      "Psychic"
+    ],
+    "40": [
+      "Calm Mind"
+    ],
+    "45": [
+      "Power Split"
+    ],
+    "50": [
+      "Psychic Terrain"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force",
+    "Terrain Pulse"
+  ],
+  "eggMoves": [
+    "Extrasensory",
+    "Fake Out",
+    "Psych Up"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Metronome",
+    "Tri Attack",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Shadow Ball",
+    "Future Sight",
+    "Trick",
+    "Hyper Voice",
+    "Calm Mind",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Stored Power",
+    "Ally Switch",
+    "Play Rough",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Pay Day",
+    "Magical Leaf",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Imprison",
+    "Power Swap",
+    "Drain Punch",
+    "Trick Room",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Draining Kiss",
+    "Psychic Terrain",
+    "Mystical Fire"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 70,
+        "Attack": 55,
+        "Defence": 65,
+        "SpecialAttack": 95,
+        "SpecialDefence": 105,
+        "Speed": 85
+      },
+      "evYields": {
+        "SpecialDefence": 2
+      },
+      "abilities": [
+        "OwnTempo",
+        "Synchronize",
+        "PsychicSurge"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Play Nice",
+          "Stored Power"
+        ],
+        "5": [
+          "Baton Pass"
+        ],
+        "10": [
+          "Disarming Voice"
+        ],
+        "15": [
+          "Psybeam"
+        ],
+        "20": [
+          "Helping Hand"
+        ],
+        "25": [
+          "Follow Me"
+        ],
+        "30": [
+          "Aromatherapy"
+        ],
+        "35": [
+          "Psychic"
+        ],
+        "40": [
+          "Calm Mind"
+        ],
+        "45": [
+          "Guard Split"
+        ],
+        "50": [
+          "Psychic Terrain"
+        ],
+        "55": [
+          "Healing Wish"
+        ]
+      },
+      "eggMoves": [
+        "Fake Out",
+        "Heal Pulse",
+        "Psych Up",
+        "Psycho Shift"
+      ],
+      "trMoves": [
+        "Psychic",
+        "Metronome",
+        "Substitute",
+        "Psyshock",
+        "Endure",
+        "Sleep Talk",
+        "Baton Pass",
+        "Shadow Ball",
+        "Future Sight",
+        "Trick",
+        "Hyper Voice",
+        "Calm Mind",
+        "Energy Ball",
+        "Zen Headbutt",
+        "Stored Power",
+        "Ally Switch",
+        "Play Rough",
+        "Dazzling Gleam"
+      ],
+      "tmMoves8": [
+        "Pay Day",
+        "Magical Leaf",
+        "Light Screen",
+        "Reflect",
+        "Safeguard",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Attract",
+        "Facade",
+        "Swift",
+        "Helping Hand",
+        "Imprison",
+        "Guard Swap",
+        "Drain Punch",
+        "Round",
+        "Draining Kiss",
+        "Psychic Terrain",
+        "Mystical Fire"
+      ]
+    }
+  }
+}

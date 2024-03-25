@@ -1,0 +1,21 @@
+{
+  "cardCode": "JUNG4",
+  "attackNumber": 2,
+  "name": "attack.JUNG4.2.name",
+  "energy": [
+    "LIGHTNING",
+    "LIGHTNING",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": "Multiply",
+  "text": "attack.JUNG4.2.text",
+  "effectsString": "FLIPS_MULTIPLY:4",
+  "effects": [
+    {
+      "flipCount": 4,
+      "type": "Exact",
+      "counter": 0
+    }
+  ]
+}

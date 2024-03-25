@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hexmaniac.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bellatrix"
+        },
+        {
+            "name": "Gytha"
+        },
+        {
+            "name": "Samantha"
+        },
+        {
+            "name": "Piper"
+        },
+        {
+            "name": "Sabrina"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Oh regarde, mon Fantominus m'a jeté un sort."
+                },
+                {
+                    "text": "Je m'attendais à agoniser, mais ça chatouille juste un peu."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je n'arrive jamais à faire en sorte que mes Funécire restent immobiles autour de mes cercles occultes."
+                },
+                {
+                    "text": "Ils me bousillent tous mes rituels."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non..."
+                },
+                {
+                    "text": "Ce n'est toujours pas toi que je cherche..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mes amis ne croient pas en mes pouvoirs maléfiques."
+                },
+                {
+                    "text": "Ne CROYAIENT pas, en fait. Je n'ai plus d'amis."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,351 @@
+{
+  "pixelmonName": "Seadra",
+  "pokemon": "Seadra",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 65,
+    "Defence": 95,
+    "Speed": 85,
+    "SpecialAttack": 95,
+    "SpecialDefence": 45
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 8,
+  "baseExp": 155,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Horsea"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 20,
+    "swimSpeed": 2.2,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialAttack": 1
+  },
+  "weight": 25.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.2,
+    "eye_height": 0.9
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Kingdra"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:dragon_scale"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "PoisonPoint",
+    "Sniper",
+    "Damp"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Smokescreen",
+      "Twister",
+      "Water Gun"
+    ],
+    "15": [
+      "Focus Energy"
+    ],
+    "20": [
+      "Dragon Breath"
+    ],
+    "25": [
+      "Bubble Beam"
+    ],
+    "30": [
+      "Agility"
+    ],
+    "37": [
+      "Laser Focus"
+    ],
+    "44": [
+      "Dragon Pulse"
+    ],
+    "51": [
+      "Hydro Pump"
+    ],
+    "58": [
+      "Dragon Dance"
+    ],
+    "65": [
+      "Rain Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Flip Turn",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Aurora Beam",
+    "Clear Smog",
+    "Disable",
+    "Flail",
+    "Octazooka",
+    "Splash",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Bubble",
+    "Captivate",
+    "Confide",
+    "Curse",
+    "Double Team",
+    "Double-Edge",
+    "Dragon Rage",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Mimic",
+    "Natural Gift",
+    "Rage",
+    "Razor Wind",
+    "Return",
+    "Secret Power",
+    "Signal Beam",
+    "Skull Bash",
+    "Swagger",
+    "Take Down",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Agility",
+    "Focus Energy",
+    "Waterfall",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Muddy Water",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Flash Cannon",
+    "Scald",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Dive",
+    "Bounce",
+    "Brine",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Brine",
+    "Endure",
+    "Dragon Pulse",
+    "Giga Impact",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Snore",
+    "Blizzard",
+    "Hyper Beam",
+    "Icy Wind",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Dragon Breath",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Water Gun",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Rage",
+    "Mimic",
+    "Double Team",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Rest",
+    "Substitute"
+  ],
+  "forms": {}
+}

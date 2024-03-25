@@ -1,0 +1,23 @@
+{
+  "id": "Cubchoo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cubchoo"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 22,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

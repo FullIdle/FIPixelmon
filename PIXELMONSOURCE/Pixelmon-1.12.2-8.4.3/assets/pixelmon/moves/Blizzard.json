@@ -1,0 +1,74 @@
+{
+  "attackIndex": 106,
+  "attackName": "Blizzard",
+  "attackType": "Ice",
+  "attackCategory": "SPECIAL",
+  "basePower": 110,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 70,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Freeze",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Freeze"
+    },
+    {
+      "weather": "Hail",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"atTarget": false,
+				"scale": 0.7,
+				"rgb": [255,255,255]
+			},
+			"15": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"scale": 0.7,
+				"power": 5,
+				"segments": 10
+			},
+			"17": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"scale": 0.6
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 185,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

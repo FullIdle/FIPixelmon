@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "w ",
+        "ww",
+        "ss"
+    ],
+    "key": {
+        "w": {
+            "item": "minecraft:wool",
+			"data": 2
+        },
+        "s": {
+			"type": "forge:ore_dict",
+            "ore": "plankWood"
+        }
+    },
+    "result": {
+        "item": "pixelmon:magenta_armchair",
+        "count": 1
+    }
+}

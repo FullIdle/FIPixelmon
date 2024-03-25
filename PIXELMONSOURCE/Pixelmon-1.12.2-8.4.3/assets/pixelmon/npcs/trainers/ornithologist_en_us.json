@@ -1,0 +1,233 @@
+{
+    "data": {
+        "trainerType": "Ornithologist",
+        "minLevel": 15,
+        "maxLevel": 45,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Fearow"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        },
+        {
+            "name": "Farfetchd"
+        },
+        {
+            "name": "Hoothoot"
+        },
+        {
+            "name": "Noctowl"
+        },
+        {
+            "name": "Natu"
+        },
+        {
+            "name": "Xatu"
+        },
+        {
+            "name": "Skarmory"
+        },
+        {
+            "name": "Murkrow"
+        },
+        {
+            "name": "Murkrow"
+        },
+        {
+            "name": "Wingull"
+        },
+        {
+            "name": "Pelipper"
+        },
+        {
+            "name": "Taillow"
+        },
+        {
+            "name": "Taillow"
+        },
+        {
+            "name": "Swellow"
+        },
+        {
+            "name": "Swablu"
+        },
+        {
+            "name": "Altaria"
+        },
+        {
+            "name": "Starly"
+        },
+        {
+            "name": "Starly"
+        },
+        {
+            "name": "Staravia"
+        },
+        {
+            "name": "Staraptor"
+        },
+        {
+            "name": "Chatot"
+        },
+        {
+            "name": "Pidove"
+        },
+        {
+            "name": "Pidove"
+        },
+        {
+            "name": "Tranquill"
+        },
+        {
+            "name": "Unfezant"
+        },
+        {
+            "name": "Archen"
+        },
+        {
+            "name": "Archeops"
+        },
+        {
+            "name": "Ducklett"
+        },
+        {
+            "name": "Swanna"
+        },
+        {
+            "name": "Rufflet"
+        },
+        {
+            "name": "Rufflet"
+        },
+        {
+            "name": "Braviary"
+        },
+        {
+            "name": "Vullaby"
+        },
+        {
+            "name": "Vullaby"
+        },
+        {
+            "name": "Mandibuzz"
+        },
+        {
+            "name": "Fletchling"
+        },
+        {
+            "name": "Fletchling"
+        },
+        {
+            "name": "Fletchinder"
+        },
+        {
+            "name": "Talonflame"
+        },
+        {
+            "name": "Hawlucha"
+        },
+        {
+            "name": "Pikipek"
+        },
+        {
+            "name": "Trumbeak"
+        },
+        {
+            "name": "Toucannon"
+        },
+        {
+            "name": "Oricorio"
+        },
+        {
+            "name": "Cubone"
+        },
+        {
+            "name": "Rookidee"
+        },
+        {
+            "name": "Rookidee"
+        },
+        {
+            "name": "Corvisquire"
+        },
+        {
+            "name": "Corviknight"
+        },
+        {
+            "name": "Cramorant"
+        },
+        {
+            "name": "Torandus",
+            "form": 1
+        }
+    ],
+    "names": [
+        {
+            "name": "Watson"
+        },
+        {
+            "name": "Walter"
+        },
+        {
+            "name": "Montgomery"
+        },
+        {
+            "name": "Diego"
+        },
+        {
+            "name": "Arthur"
+        },
+        {
+            "name": "Callum"
+        },
+        {
+            "name": "Gastby"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "I travel around the world with my flying Pokémon.",
+            "win": "My flying Pokémon are great!",
+            "lose": "No, my wonderful Pokémon!"
+        },
+        {
+            "opening": "Bird Pokémon are the most impressive, I'll have you know.",
+            "win": "As you see, bird Pokémon are superior!",
+            "lose": "Oh dear. Oh well, got to fly!"
+        },
+        {
+            "opening": "I'd love to see what kind of Pokémon you have",
+            "win": "Flying Pokémon are really strong. It's no wonder you lost.",
+            "lose": "I guess other kinds of Pokémon are pretty cool too."
+        }
+    ]
+}

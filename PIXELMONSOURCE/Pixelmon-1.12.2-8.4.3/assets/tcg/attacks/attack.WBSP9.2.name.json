@@ -1,0 +1,18 @@
+{
+  "cardCode": "WBSP9",
+  "attackNumber": 2,
+  "name": "attack.WBSP9.2.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.WBSP9.2.text",
+  "effectsString": "DEVOLVE:0",
+  "effects": [
+    {
+      "mode": 0
+    }
+  ]
+}

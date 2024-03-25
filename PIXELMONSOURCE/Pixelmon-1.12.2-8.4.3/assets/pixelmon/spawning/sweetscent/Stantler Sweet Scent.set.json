@@ -1,0 +1,27 @@
+{
+  "id": "Stantler Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Stantler"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

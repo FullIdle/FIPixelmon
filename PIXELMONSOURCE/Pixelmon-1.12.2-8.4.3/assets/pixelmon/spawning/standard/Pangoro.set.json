@@ -1,0 +1,35 @@
+{
+  "id": "Pangoro",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pangoro"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 33,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest",
+          "bamboo_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

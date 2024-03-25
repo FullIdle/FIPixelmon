@@ -1,0 +1,54 @@
+{
+  "attackIndex": 411,
+  "attackName": "Brine",
+  "attackType": "Water",
+  "attackCategory": "SPECIAL",
+  "basePower": 65,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "DoubleOnHalf"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "BUBBLE",
+				"atTarget": false,
+				"scale": 0.3
+			},
+			"12": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"scale": 0.8
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

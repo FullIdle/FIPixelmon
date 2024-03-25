@@ -1,0 +1,327 @@
+{
+  "pixelmonName": "Mamoswine",
+  "pokemon": "Mamoswine",
+  "form": 0,
+  "stats": {
+    "HP": 110,
+    "Attack": 130,
+    "Defence": 80,
+    "Speed": 80,
+    "SpecialAttack": 70,
+    "SpecialDefence": 60
+  },
+  "catchRate": 50,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 207,
+  "baseFriendship": 70,
+  "types": [
+    "Ice",
+    "Ground"
+  ],
+  "height": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Piloswine",
+    "Swinub"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.3
+    }
+  },
+  "weight": 291.0,
+  "bounding_box": {
+    "width": 1.5,
+    "height": 1.45,
+    "eye_height": 1.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "Oblivious",
+    "SnowCloak",
+    "ThickFat"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ancient Power",
+      "Double Hit",
+      "Flail",
+      "Ice Fang",
+      "Mud-Slap",
+      "Powder Snow",
+      "Tackle"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Mist"
+    ],
+    "25": [
+      "Endure"
+    ],
+    "30": [
+      "Icy Wind"
+    ],
+    "37": [
+      "Amnesia"
+    ],
+    "44": [
+      "Take Down"
+    ],
+    "51": [
+      "Earthquake"
+    ],
+    "58": [
+      "Blizzard"
+    ],
+    "65": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Ancient Power",
+    "Bite",
+    "Curse",
+    "Double-Edge",
+    "Fissure",
+    "Freeze-Dry",
+    "Icicle Crash"
+  ],
+  "transferMoves": [
+    "Block",
+    "Captivate",
+    "Charm",
+    "Confide",
+    "Defense Curl",
+    "Detect",
+    "Double Team",
+    "Endeavor",
+    "Frustration",
+    "Fury Attack",
+    "Fury Cutter",
+    "Headbutt",
+    "Hidden Power",
+    "Horn Attack",
+    "Knock Off",
+    "Mimic",
+    "Mud Bomb",
+    "Mud Sport",
+    "Natural Gift",
+    "Odor Sleuth",
+    "Peck",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Ice Beam",
+    "Blizzard",
+    "Earthquake",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Superpower",
+    "Earth Power",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heavy Slam",
+    "High Horsepower",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Dig",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Icy Wind",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Icicle Spear",
+    "Mud Shot",
+    "Rock Blast",
+    "Avalanche",
+    "Ice Fang",
+    "Round",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Endure",
+    "Giga Impact",
+    "Stone Edge",
+    "Avalanche",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

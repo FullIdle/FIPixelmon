@@ -1,0 +1,28 @@
+{
+  "id": "Zekrom",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zekrom",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwood_taiga_hills"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "cardCode": "JUNG48",
+  "attackNumber": 2,
+  "name": "attack.JUNG48.2.name",
+  "energy": [
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

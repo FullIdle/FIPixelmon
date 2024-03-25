@@ -1,0 +1,32 @@
+{
+  "id": "Trubbish",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Trubbish"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 23,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silk_scarf",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "evil"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

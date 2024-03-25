@@ -1,0 +1,35 @@
+{
+  "id": "Swirlix",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Swirlix"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 22,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:whipped_dream",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "birches",
+          "mushroom",
+          "magical"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

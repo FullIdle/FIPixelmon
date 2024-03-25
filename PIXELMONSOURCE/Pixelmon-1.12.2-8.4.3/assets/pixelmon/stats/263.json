@@ -1,0 +1,466 @@
+{
+  "pixelmonName": "Zigzagoon",
+  "pokemon": "Zigzagoon",
+  "form": 0,
+  "stats": {
+    "HP": 38,
+    "Attack": 30,
+    "Defence": 41,
+    "Speed": 60,
+    "SpecialAttack": 30,
+    "SpecialDefence": 41
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 2,
+  "spawnLevelRange": 14,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 17.5,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.4,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Linoone"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Slash"
+      ]
+    }
+  ],
+  "abilities": [
+    "Pickup",
+    "Gluttony",
+    "QuickFeet"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Growl"
+    ],
+    "3": [
+      "Sand Attack"
+    ],
+    "6": [
+      "Tail Whip"
+    ],
+    "9": [
+      "Covet"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "18": [
+      "Pin Missile"
+    ],
+    "21": [
+      "Rest"
+    ],
+    "24": [
+      "Take Down"
+    ],
+    "27": [
+      "Fling"
+    ],
+    "30": [
+      "Flail"
+    ],
+    "33": [
+      "Belly Drum"
+    ],
+    "36": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Extreme Speed",
+    "Simple Beam",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Bestow",
+    "Captivate",
+    "Charge Beam",
+    "Confide",
+    "Cut",
+    "Defense Curl",
+    "Double Team",
+    "Echoed Voice",
+    "Frustration",
+    "Fury Cutter",
+    "Hidden Power",
+    "Hone Claws",
+    "Last Resort",
+    "Mimic",
+    "Mud Sport",
+    "Mud-Slap",
+    "Natural Gift",
+    "Odor Sleuth",
+    "Pursuit",
+    "Return",
+    "Rock Climb",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Shock Wave",
+    "Super Fang",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Trick",
+    "Hyper Voice",
+    "Seed Bomb",
+    "Gunk Shot",
+    "Grass Knot",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Thunder Wave",
+    "Dig",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Mud Shot",
+    "Fling",
+    "Round",
+    "Retaliate",
+    "Tail Slap"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Retaliate",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Charge Beam",
+    "Retaliate",
+    "Thunder Wave",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Thunder Wave",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "forms": {
+    "2": {
+      "form": 2,
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "height": 0.4,
+      "width": 0.7,
+      "length": 0.9,
+      "evolutions": [
+        {
+          "level": 20,
+          "to": {
+            "name": "Linoone",
+            "form": 2
+          },
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Night Slash"
+          ]
+        }
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Tackle",
+          "Leer"
+        ],
+        "3": [
+          "Sand Attack"
+        ],
+        "6": [
+          "Lick"
+        ],
+        "9": [
+          "Snarl"
+        ],
+        "12": [
+          "Headbutt"
+        ],
+        "15": [
+          "Baby-Doll Eyes"
+        ],
+        "18": [
+          "Pin Missile"
+        ],
+        "21": [
+          "Rest"
+        ],
+        "24": [
+          "Take Down"
+        ],
+        "27": [
+          "Scary Face"
+        ],
+        "30": [
+          "Counter"
+        ],
+        "33": [
+          "Taunt"
+        ],
+        "36": [
+          "Double-Edge"
+        ]
+      },
+      "tutorMoves": [
+        "Lash Out"
+      ],
+      "eggMoves": [
+        "Parting Shot",
+        "Quick Guard",
+        "Knock Off"
+      ],
+      "tmMoves8": [
+        "Pin Missile",
+        "Thunder Wave",
+        "Dig",
+        "Screech",
+        "Rest",
+        "Thief",
+        "Snore",
+        "Protect",
+        "Scary Face",
+        "Icy Wind",
+        "Attract",
+        "Rain Dance",
+        "Sunny Day",
+        "Whirlpool",
+        "Facade",
+        "Swift",
+        "Helping Hand",
+        "Fake Tears",
+        "Mud Shot",
+        "Payback",
+        "Assurance",
+        "Fling",
+        "Round",
+        "Retaliate",
+        "Snarl"
+      ],
+      "trMoves": [
+        "Body Slam",
+        "Surf",
+        "Ice Beam",
+        "Blizzard",
+        "Thunderbolt",
+        "Thunder",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Iron Tail",
+        "Shadow Ball",
+        "Taunt",
+        "Trick",
+        "Hyper Voice",
+        "Seed Bomb",
+        "Gunk Shot",
+        "Grass Knot",
+        "Work Up"
+      ]
+    }
+  }
+}

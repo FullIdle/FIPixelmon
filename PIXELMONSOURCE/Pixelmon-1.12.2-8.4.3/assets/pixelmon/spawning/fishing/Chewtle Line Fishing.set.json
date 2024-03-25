@@ -1,0 +1,77 @@
+{
+  "id": "Chewtle Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chewtle"
+      },
+      "stringLocationTypes": [
+        "Old Rod"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Chewtle"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Drednaw"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Drednaw"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "ornithologist.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mr. Bird"
+        },
+        {
+            "name": "Wilfred Warbler"
+        },
+        {
+            "name": "Geoffrey Twirp"
+        },
+        {
+            "name": "Bertram Birdlover"
+        },
+        {
+            "name": "Professor Bird"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ah, es gibt nichts Besseres als den Anblick eines Speeres im Flug!"
+                },
+                {
+                    "text": "Ich wünschte, ich hätte daran gedacht, etwas Vogelsamen mitzubringen!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Die Brutgewohnheiten des Rotkamm-Tauboss sind bemerkenswert ähnlich denen des goldbraunen Hoothoots."
+                },
+                {
+                    "text": "Es ist so interessant, Vogel-Pokémon zu beobachten! Du solltest es einmal versuchen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Manchmal muss ich mich wochenlang im Wald verstecken, nur um ein Noctuh zu entdecken."
+                },
+                {
+                    "text": "Es wird etwas unangenehm, wenn man auf dem Boden schläft. Na ja, jemand muss es tun!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mein Job ist sehr wichtig, weißt du! Ich gebe alle Informationen über Vogel-Pokémon, die du benötigst, um sie zu trainieren."
+                },
+                {
+                    "text": "Ja, der arme Ornithologe ist ein unbesiegter Held in der Pokémon-Forschung."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Verzeihung, hast du Brot? Ich habe kein Vogelsamen mehr, um Starly damit zu verführen."
+                },
+                {
+                    "text": "Mein Fernglas ist das stärkste verfügbare. Ich kann einen winziges Starlili aus zehn Meilen Entfernung erkennen!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "Rookidee Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rookidee",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Rookidee"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Corvisquire",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Corvisquire"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

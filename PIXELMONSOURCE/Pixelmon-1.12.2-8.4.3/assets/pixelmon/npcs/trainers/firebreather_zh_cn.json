@@ -1,0 +1,88 @@
+{
+    "data": {
+        "trainerType": "FireBreather",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Flareon"
+        },
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Vulpix"
+        },
+        {
+            "name": "Camerupt"
+        },
+        {
+            "name": "Charmeleon"
+        }
+    ],
+    "names": [
+        {
+            "name": "格雷格"
+        },
+        {
+            "name": "丹尼尔"
+        },
+        {
+            "name": "煞部红"
+        },
+        {
+            "name": "赫拉"
+        },
+        {
+            "name": "尼古拉斯"
+        },
+        {
+            "name": "白塔"
+        },
+        {
+            "name": "詹姆斯"
+        },
+        {
+            "name": "松鸦"
+        },
+        {
+            "name": "艾克"
+        },
+        {
+            "name": "由美"
+        },
+        {
+            "name": "里奥"
+        },
+        {
+            "name": "加勒特贝尔"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "火？",
+            "win": "火！",
+            "lose": "火..."
+        },
+        {
+            "opening": "这是多么奇怪的职业。",
+            "win": "但我有点喜欢它",
+            "lose": "然而我不喜欢它.."
+        },
+        {
+            "opening": "训练我的神奇宝贝是我的热情所在。",
+            "win": "我的激情比以往任何时候燃烧得都要亮！",
+            "lose": "我的激情已燃烧殆尽.."
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "Chikorita Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chikorita"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "flowery",
+          "grassland",
+          "prairie",
+          "meadow"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Bayleef"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "flowery",
+          "grassland",
+          "prairie",
+          "meadow"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Meganium"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:plains",
+          "flowery",
+          "grassland",
+          "prairie",
+          "meadow"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

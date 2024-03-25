@@ -1,0 +1,206 @@
+{
+  "pixelmonName": "Wishiwashi",
+  "pokemon": "Wishiwashi",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 20,
+    "Defence": 20,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25,
+    "Speed": 40
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.8,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.3,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.3,
+    "eye_height": 0.15
+  },
+  "evolutions": [],
+  "abilities": [
+    "Schooling",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Water Gun"
+    ],
+    "4": [
+      "Helping Hand"
+    ],
+    "8": [
+      "Beat Up"
+    ],
+    "12": [
+      "Brine"
+    ],
+    "16": [
+      "Tearful Look"
+    ],
+    "20": [
+      "Dive"
+    ],
+    "24": [
+      "Soak"
+    ],
+    "28": [
+      "Uproar"
+    ],
+    "32": [
+      "Aqua Tail"
+    ],
+    "36": [
+      "Aqua Ring"
+    ],
+    "40": [
+      "Endeavor"
+    ],
+    "44": [
+      "Hydro Pump"
+    ],
+    "48": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Flip Turn",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Mist",
+    "Take Down",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Covet",
+    "Double Team",
+    "Feint Attack",
+    "Frustration",
+    "Hidden Power",
+    "Return",
+    "Swagger",
+    "Toxic",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Earthquake",
+    "Waterfall",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Uproar",
+    "Muddy Water",
+    "Scald",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Beat Up",
+    "Facade",
+    "Helping Hand",
+    "Dive",
+    "Mud Shot",
+    "Brine",
+    "U-turn",
+    "Round",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Bulldoze",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 45,
+        "Attack": 140,
+        "Defence": 130,
+        "SpecialAttack": 140,
+        "SpecialDefence": 135,
+        "Speed": 30
+      },
+      "height": 4.8,
+      "width": 3.0,
+      "length": 3.0,
+      "weight": 78.6,
+      "bounding_box": {
+        "width": 4.0,
+        "height": 4.0,
+        "eye_height": 2.5
+      }
+    }
+  }
+}

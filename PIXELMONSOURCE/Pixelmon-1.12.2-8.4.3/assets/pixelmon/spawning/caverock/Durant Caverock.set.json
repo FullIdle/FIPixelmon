@@ -1,0 +1,25 @@
+{
+  "id": "Durant Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Durant"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "mesas",
+          "hills"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 30.0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:sport_ball"
+        },
+        "title": {
+            "translate": "advancements.sport_ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.sport_ball_capture.description"
+        },
+        "hidden": true
+    },
+    "parent": "pixelmon:balls/ball_capture_trigger",
+    "criteria": {
+        "sport_ball_capture": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "sport_ball"
+            }
+        }
+    }
+}

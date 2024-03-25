@@ -1,0 +1,23 @@
+{
+  "id": "Rockruff",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rockruff"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "hills",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

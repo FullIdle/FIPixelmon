@@ -1,0 +1,28 @@
+{
+  "id": "Yveltal",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Yveltal",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_taiga"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

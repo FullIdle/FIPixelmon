@@ -1,0 +1,22 @@
+{
+  "id": "Lotad Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lotad"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

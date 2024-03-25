@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "scientist_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Marie"
+        },
+        {
+            "name": "Ada"
+        },
+        {
+            "name": "Irène"
+        },
+        {
+            "name": "Harriet"
+        },
+        {
+            "name": "Sofia"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Fossils are fascinating."
+                },
+                {
+                    "text": "Did you know that you can find them deep in caves, among gravel?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "People say that you can't revive Fossils, that science doesn't work that way."
+                },
+                {
+                    "text": "What do they know about science? One day I'll show them."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'm starting to question my choice to wear a skirt."
+                },
+                {
+                    "text": "What if I spill acid on my shins? I'd better aim my test tubes straight at my lab coat."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "The anatomy of Solosis blows my mind."
+                },
+                {
+                    "text": "It looks unicellular and yet, it has eyes and that just... just... agh!"
+                }
+            ]
+        }
+    ]
+}

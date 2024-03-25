@@ -1,0 +1,18 @@
+{
+  "cardCode": "GYMH58",
+  "attackNumber": 1,
+  "name": "attack.GYMH58.1.name",
+  "energy": [
+    "WATER",
+    "WATER",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.GYMH58.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

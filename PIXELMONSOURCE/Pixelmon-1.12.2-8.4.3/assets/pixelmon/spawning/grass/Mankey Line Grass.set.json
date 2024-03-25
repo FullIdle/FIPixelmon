@@ -1,0 +1,47 @@
+{
+  "id": "Mankey Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mankey"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 28,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Primeape"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

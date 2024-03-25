@@ -1,0 +1,30 @@
+{
+  "id": "Sunkern",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sunkern"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 2,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

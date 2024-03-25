@@ -1,0 +1,53 @@
+{
+  "id": "Skwovet Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Skwovet"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "all forests",
+          "freezing forests"
+        ]
+      },
+      "rarity": 200.0
+    },
+    {
+      "spec": {
+        "name": "Greedent"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "all forests",
+          "freezing forests"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "attackIndex": 209,
+  "attackName": "Air Slash",
+  "attackType": "Flying",
+  "attackCategory": "SPECIAL",
+  "basePower": 75,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 95,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Supersonic Skystrike",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

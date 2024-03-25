@@ -1,0 +1,20 @@
+{
+  "type": "forge:ore_shaped",
+  "mirrored": false,
+  "group": "blockBraille",
+  "pattern": [
+    "XX",
+    "XX",
+    "XX"
+  ],
+  "key": {
+    "X": {
+      "item": "pixelmon:temple_block"
+    }
+  },
+  "result": {
+    "item": "pixelmon:braille_block2",
+    "data": 12,
+    "count": 6
+  }
+}

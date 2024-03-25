@@ -1,0 +1,20 @@
+{
+  "cardCode": "JUNG40",
+  "attackNumber": 1,
+  "name": "attack.JUNG40.1.name",
+  "energy": [
+    "GRASS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG40.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:CONFUSED",
+  "effects": [
+    {
+      "condition": "CONFUSED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

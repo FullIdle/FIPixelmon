@@ -1,0 +1,39 @@
+{
+  "attackIndex": 58,
+  "attackName": "Earthquake",
+  "attackType": "Ground",
+  "attackCategory": "PHYSICAL",
+  "basePower": 100,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+	{
+		"id": "verticalStomp",
+		"landingEffect": {
+			"id": "radial",
+			"texture": "DUST"
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "groundium_z",
+      "attackName": "Tectonic Rage",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

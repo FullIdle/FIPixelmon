@@ -1,0 +1,22 @@
+{
+  "id": "Weedle Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Weedle"
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 7,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "taigas"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 170,
+  "setId": 3,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 100,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 149,
+  "code": "FOSS4",
+  "name": "card.FOSS4.name",
+  "description": "",
+  "previousPokemonId": 148,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS4",
+      "attackNumber": 1,
+      "name": "attack.FOSS4.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 40,
+      "modifier": "Multiply",
+      "text": "attack.FOSS4.1.text",
+      "effects": [
+        "FLIPS_MULTIPLY:2"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 1,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "StepIn"
+}

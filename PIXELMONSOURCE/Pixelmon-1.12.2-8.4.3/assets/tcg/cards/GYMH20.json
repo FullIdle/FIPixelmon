@@ -1,0 +1,31 @@
+{
+  "id": 341,
+  "setId": 6,
+  "cardType": "TRAINER",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": "",
+  "energy2": null,
+  "pokemonId": null,
+  "code": "GYMH20",
+  "name": "card.GYMH20.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Gurdurr",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gurdurr"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 26,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

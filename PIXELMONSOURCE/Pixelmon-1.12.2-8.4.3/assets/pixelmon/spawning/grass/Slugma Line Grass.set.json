@@ -1,0 +1,93 @@
+{
+  "id": "Slugma Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Slugma"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Slugma"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Magcargo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Magcargo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

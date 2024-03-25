@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "punkgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Nomy"
+        },
+        {
+            "name": "Avril"
+        },
+        {
+            "name": "Joan"
+        },
+        {
+            "name": "Penelope"
+        },
+        {
+            "name": "Cherie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mes cheveux sont durs à entretenir, mais je fais avec."
+                },
+                {
+                    "text": "Parfois, être punk, c'est aussi faire des sacrifices."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "A bas le système ! Les Poké Balls ça sert à rien !"
+                },
+                {
+                    "text": "Moi, j'attrape les Pokémon à mains nues!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il me faut plus de pointes pour mon bracelet de force."
+                },
+                {
+                    "text": "Tu sais où j'peux en trouver ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tu crois que j'peux dresser un Rondoudou à chanter des chansons punk ?"
+                },
+                {
+                    "text": "Je peux p't-êt' le faire tatouer. Ouais, dément."
+                }
+            ]
+        }
+    ]
+}

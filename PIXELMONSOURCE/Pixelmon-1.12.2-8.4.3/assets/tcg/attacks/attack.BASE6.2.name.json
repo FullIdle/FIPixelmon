@@ -1,0 +1,23 @@
+{
+  "cardCode": "BASE6",
+  "attackNumber": 2,
+  "name": "attack.BASE6.2.name",
+  "energy": [
+    "WATER",
+    "WATER",
+    "WATER",
+    "WATER"
+  ],
+  "damage": 40,
+  "modifier": null,
+  "text": "attack.BASE6.2.text",
+  "effectsString": "HEAD-OPP_CONDITION:PARALYZED",
+  "effects": [
+    {
+      "condition": "PARALYZED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

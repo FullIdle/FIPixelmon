@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:mug_pika" },
+    "facing=south": { "model": "pixelmon:mug_pika" },
+    "facing=north": {
+      "model": "pixelmon:mug_pika",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "pixelmon:mug_pika",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "pixelmon:mug_pika",
+      "y": 90
+    }
+  }
+}

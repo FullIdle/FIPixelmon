@@ -1,0 +1,42 @@
+{
+  "attackIndex": 219,
+  "attackName": "Dive",
+  "attackType": "Water",
+  "attackCategory": "PHYSICAL",
+  "basePower": 80,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "message": "pixelmon.effect.dive",
+      "base": "Submerged",
+      "type": "Submerged",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "Dive"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

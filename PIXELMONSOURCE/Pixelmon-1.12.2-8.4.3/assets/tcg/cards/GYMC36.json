@@ -1,0 +1,31 @@
+{
+  "id": 489,
+  "setId": 7,
+  "cardType": "ENERGY",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": null,
+  "code": "GYMC36",
+  "name": "card.GYMC36.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,16 @@
+{
+  "cardCode": "GYMH106",
+  "attackNumber": 2,
+  "name": "attack.GYMH106.2.name",
+  "energy": [
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.GYMH106.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

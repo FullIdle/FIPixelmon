@@ -1,0 +1,318 @@
+{
+  "pixelmonName": "Whismur",
+  "pokemon": "Whismur",
+  "form": 0,
+  "stats": {
+    "HP": 64,
+    "Attack": 51,
+    "Defence": 23,
+    "Speed": 28,
+    "SpecialAttack": 51,
+    "SpecialDefence": 23
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 16.3,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.6,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Loudred"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Bite"
+      ]
+    }
+  ],
+  "abilities": [
+    "Soundproof",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Pound"
+    ],
+    "5": [
+      "Echoed Voice"
+    ],
+    "10": [
+      "Howl"
+    ],
+    "15": [
+      "Rest",
+      "Sleep Talk"
+    ],
+    "21": [
+      "Stomp"
+    ],
+    "25": [
+      "Roar"
+    ],
+    "30": [
+      "Supersonic"
+    ],
+    "35": [
+      "Uproar"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "45": [
+      "Hyper Voice"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Circle Throw",
+    "Disarming Voice",
+    "Endeavor",
+    "Extrasensory",
+    "Hammer Arm",
+    "Smokescreen",
+    "Take Down",
+    "Whirlwind"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Counter",
+    "Defense Curl",
+    "Double Team",
+    "Double-Edge",
+    "Dynamic Punch",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Incinerate",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Psych Up",
+    "Return",
+    "Rollout",
+    "Secret Power",
+    "Seismic Toss",
+    "Shock Wave",
+    "Smelling Salts",
+    "Swagger",
+    "Synchronoise",
+    "Teeter Dance",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Ice Beam",
+    "Blizzard",
+    "Fire Blast",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Uproar",
+    "Hyper Voice",
+    "Zen Headbutt",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Solar Beam",
+    "Screech",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Fake Tears",
+    "Fling",
+    "Round",
+    "Retaliate"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Work Up",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Fling",
+    "Endure",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

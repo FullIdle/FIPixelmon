@@ -1,0 +1,58 @@
+{
+  "id": 287,
+  "setId": 4,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 63,
+  "code": "TERO49",
+  "name": "card.TERO49.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO49",
+      "attackNumber": 1,
+      "name": "attack.TERO49.1.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.TERO49.1.text",
+      "effects": [
+        "SHUFFLEACTIVE:SELF:DISCARDATTACH"
+      ]
+    },
+    {
+      "cardCode": "TERO49",
+      "attackNumber": 2,
+      "name": "attack.TERO49.2.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.TERO49.2.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

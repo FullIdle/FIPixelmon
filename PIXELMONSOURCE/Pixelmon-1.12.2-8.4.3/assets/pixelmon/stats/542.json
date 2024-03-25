@@ -1,0 +1,250 @@
+{
+  "pixelmonName": "Leavanny",
+  "pokemon": "Leavanny",
+  "form": 0,
+  "stats": {
+    "HP": 75,
+    "Attack": 103,
+    "Defence": 80,
+    "Speed": 92,
+    "SpecialAttack": 70,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 221,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "height": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Swadloon",
+    "Sewaddle"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 20.5,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 1.0,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Chlorophyll",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Bug Bite",
+      "False Swipe",
+      "Razor Leaf",
+      "Slash",
+      "String Shot",
+      "Tackle"
+    ],
+    "8": [
+      "Bug Bite"
+    ],
+    "15": [
+      "Razor Leaf"
+    ],
+    "22": [
+      "Struggle Bug"
+    ],
+    "29": [
+      "Fell Stinger"
+    ],
+    "32": [
+      "Helping Hand"
+    ],
+    "36": [
+      "Leaf Blade"
+    ],
+    "39": [
+      "X-Scissor"
+    ],
+    "43": [
+      "Entrainment"
+    ],
+    "46": [
+      "Swords Dance"
+    ],
+    "50": [
+      "Leaf Storm"
+    ]
+  },
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Giga Drain",
+    "Heal Bell",
+    "Helping Hand",
+    "Iron Defense",
+    "Knock Off",
+    "Laser Focus",
+    "Magic Coat",
+    "Seed Bomb",
+    "Signal Beam",
+    "Snore",
+    "Synthesis",
+    "Throat Chop",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Camouflage",
+    "Grassy Terrain",
+    "Me First",
+    "Mind Reader",
+    "Razor Wind",
+    "Screech",
+    "Silver Wind"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Flash",
+    "Hone Claws",
+    "Retaliate",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Energy Ball",
+    "False Swipe",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Energy Ball",
+    "False Swipe",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "False Swipe",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

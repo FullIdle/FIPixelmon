@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "pixelmon:aluminium_plate"
+    }
+  },
+  "result": {
+    "item": "pixelmon:fossil_machine_base",
+    "count": 1
+  }
+}

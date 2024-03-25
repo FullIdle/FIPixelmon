@@ -1,0 +1,47 @@
+{
+  "id": "Mankey Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mankey"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "eucalyptus"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Primeape"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "eucalyptus"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

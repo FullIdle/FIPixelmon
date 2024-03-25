@@ -1,0 +1,50 @@
+{
+  "id": "Galvantula",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Galvantula"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Galvantula"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

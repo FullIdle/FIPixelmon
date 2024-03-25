@@ -1,0 +1,308 @@
+{
+  "pixelmonName": "Zygarde",
+  "pokemon": "Zygarde",
+  "form": 0,
+  "stats": {
+    "HP": 108,
+    "Attack": 100,
+    "Defence": 121,
+    "SpecialAttack": 81,
+    "SpecialDefence": 95,
+    "Speed": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 1,
+  "spawnLevelRange": 99,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Dragon",
+    "Ground"
+  ],
+  "height": 2.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.6
+    }
+  },
+  "weight": 305.0,
+  "bounding_box": {
+    "width": 1.5,
+    "height": 2.5,
+    "eye_height": 2.125
+  },
+  "evolutions": [],
+  "abilities": [
+    "AuraBreak",
+    "PowerConstruct",
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Bind",
+      "Bite",
+      "Bulldoze",
+      "Core Enforcer",
+      "Dragon Breath",
+      "Thousand Arrows",
+      "Thousand Waves"
+    ],
+    "8": [
+      "Haze"
+    ],
+    "16": [
+      "Dig"
+    ],
+    "24": [
+      "Safeguard"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "48": [
+      "Land\u0027s Wrath"
+    ],
+    "56": [
+      "Glare"
+    ],
+    "64": [
+      "Sandstorm"
+    ],
+    "72": [
+      "Coil"
+    ],
+    "80": [
+      "Earthquake"
+    ],
+    "88": [
+      "Outrage"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Scale Shot",
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Block",
+    "Camouflage",
+    "Confide",
+    "Double Team",
+    "Dragon Tail",
+    "Extreme Speed",
+    "Frustration",
+    "Hidden Power",
+    "Pain Split",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Shock Wave",
+    "Spite",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Earthquake",
+    "Substitute",
+    "Reversal",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Superpower",
+    "Hyper Voice",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Focus Blast",
+    "Earth Power",
+    "Zen Headbutt",
+    "Stone Edge",
+    "Grass Knot",
+    "Sludge Wave",
+    "High Horsepower"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Dig",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Brick Break",
+    "Payback",
+    "Round",
+    "Retaliate",
+    "Bulldoze",
+    "Stomping Tantrum",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 54,
+        "Attack": 100,
+        "Defence": 71,
+        "SpecialAttack": 61,
+        "SpecialDefence": 85,
+        "Speed": 115
+      },
+      "height": 1.4,
+      "width": 1.0,
+      "length": 1.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -0.6
+        }
+      },
+      "weight": 33.5,
+      "bounding_box": {
+        "width": 1.0,
+        "height": 1.5,
+        "eye_height": 1.0
+      }
+    },
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 216,
+        "Attack": 100,
+        "Defence": 121,
+        "SpecialAttack": 91,
+        "SpecialDefence": 95,
+        "Speed": 85
+      },
+      "height": 6.6,
+      "width": 3.0,
+      "length": 3.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 3.7,
+          "z": 0.1
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 3.7,
+          "z": 0.1
+        }
+      },
+      "weight": 610.0,
+      "bounding_box": {
+        "width": 3.0,
+        "height": 6.0,
+        "eye_height": 2.125
+      }
+    }
+  }
+}

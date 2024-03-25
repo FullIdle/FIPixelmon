@@ -1,0 +1,22 @@
+{
+  "id": "Primal Kyogre",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kyogre"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "Purrloin Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Purrloin"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 9,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Liepard"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

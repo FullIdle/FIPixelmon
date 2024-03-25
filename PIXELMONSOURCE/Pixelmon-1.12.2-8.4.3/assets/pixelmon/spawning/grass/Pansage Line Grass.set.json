@@ -1,0 +1,39 @@
+{
+  "id": "Pansage Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pansage"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 11,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Simisage"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

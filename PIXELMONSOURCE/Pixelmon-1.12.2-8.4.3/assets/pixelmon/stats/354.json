@@ -1,0 +1,377 @@
+{
+  "pixelmonName": "Banette",
+  "pokemon": "Banette",
+  "form": 0,
+  "stats": {
+    "HP": 64,
+    "Attack": 115,
+    "Defence": 65,
+    "Speed": 65,
+    "SpecialAttack": 83,
+    "SpecialDefence": 63
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 179,
+  "baseFriendship": 35,
+  "types": [
+    "Ghost"
+  ],
+  "height": 1.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Shuppet"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 12.5,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.2,
+    "eye_height": 0.7
+  },
+  "evolutions": [],
+  "abilities": [
+    "Insomnia",
+    "Frisk",
+    "CursedBody"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Knock Off",
+      "Night Shade",
+      "Phantom Force",
+      "Screech",
+      "Spite"
+    ],
+    "4": [
+      "Screech"
+    ],
+    "7": [
+      "Night Shade"
+    ],
+    "10": [
+      "Spite"
+    ],
+    "13": [
+      "Shadow Sneak"
+    ],
+    "16": [
+      "Will-O-Wisp"
+    ],
+    "19": [
+      "Feint Attack"
+    ],
+    "22": [
+      "Hex"
+    ],
+    "26": [
+      "Curse"
+    ],
+    "30": [
+      "Shadow Ball"
+    ],
+    "34": [
+      "Embargo"
+    ],
+    "40": [
+      "Sucker Punch"
+    ],
+    "46": [
+      "Snatch"
+    ],
+    "52": [
+      "Grudge"
+    ],
+    "58": [
+      "Trick"
+    ],
+    "64": [
+      "Phantom Force"
+    ]
+  },
+  "tutorMoves": [
+    "Ally Switch",
+    "Foul Play",
+    "Gunk Shot",
+    "Icy Wind",
+    "Knock Off",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Role Play",
+    "Shock Wave",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Telekinesis",
+    "Throat Chop",
+    "Trick"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Confuse Ray",
+    "Destiny Bond",
+    "Disable",
+    "Foresight",
+    "Gunk Shot",
+    "Imprison",
+    "Ominous Wind",
+    "Phantom Force",
+    "Pursuit",
+    "Shadow Sneak"
+  ],
+  "transferMoves": [
+    "Body Slam",
+    "Captivate",
+    "Cotton Guard",
+    "Double-Edge",
+    "Endure",
+    "Flash",
+    "Headbutt",
+    "Helping Hand",
+    "Metronome",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Nightmare",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room"
+  ],
+  "tmMoves4": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap",
+    "Snatch",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Will-O-Wisp",
+    "Embargo",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Captivate",
+    "Dark Pulse",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room"
+  ],
+  "tmMoves3": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap",
+    "Snatch"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 64,
+        "Attack": 165,
+        "Defence": 75,
+        "Speed": 75,
+        "SpecialAttack": 93,
+        "SpecialDefence": 83
+      },
+      "weight": 13.0,
+      "bounding_box": {
+        "width": 1.4,
+        "height": 1.6,
+        "eye_height": 0.7
+      },
+      "abilities": [
+        "Prankster",
+        null,
+        null
+      ]
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "Graveler",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Graveler",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 25,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mountainous",
+          "mesas"
+        ],
+        "maxY": 80
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Graveler",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 25,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cell_battery",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_extreme_hills",
+          "mutated_savanna",
+          "ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Graveler",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 25,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Graveler",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 25,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cell_battery",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "savannas",
+          "freezing mountains"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.5
+    }
+  ]
+}

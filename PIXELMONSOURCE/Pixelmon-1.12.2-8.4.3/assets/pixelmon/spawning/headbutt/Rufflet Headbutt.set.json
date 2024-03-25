@@ -1,0 +1,55 @@
+{
+  "id": "Rufflet Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rufflet",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests"
+        ]
+      },
+      "rarity": 70.0
+    },
+    {
+      "spec": {
+        "name": "Rufflet"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests"
+        ]
+      },
+      "rarity": 70.0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "attackIndex": 559,
+  "attackName": "Shadow Sneak",
+  "attackType": "Ghost",
+  "attackCategory": "PHYSICAL",
+  "basePower": 40,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Never-Ending Nightmare",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

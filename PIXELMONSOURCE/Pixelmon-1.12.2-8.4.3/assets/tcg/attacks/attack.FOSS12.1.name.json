@@ -1,0 +1,17 @@
+{
+  "cardCode": "FOSS12",
+  "attackNumber": 1,
+  "name": "attack.FOSS12.1.name",
+  "energy": [
+    "FIRE"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS12.1.text",
+  "effectsString": "WILDFIRE:FIRE",
+  "effects": [
+    {
+      "energy": "FIRE"
+    }
+  ]
+}

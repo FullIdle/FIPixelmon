@@ -1,0 +1,320 @@
+{
+  "pixelmonName": "Swalot",
+  "pokemon": "Swalot",
+  "form": -1,
+  "stats": {
+    "HP": 100,
+    "Attack": 73,
+    "Defence": 83,
+    "Speed": 55,
+    "SpecialAttack": 73,
+    "SpecialDefence": 83
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Gulpin"
+  ],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.05
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.05
+    }
+  },
+  "weight": 80.0,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.7,
+    "eye_height": 1.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "LiquidOoze",
+    "StickyHold",
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Body Slam",
+      "Gunk Shot",
+      "Poison Gas",
+      "Pound",
+      "Sludge",
+      "Venom Drench",
+      "Wring Out",
+      "Yawn"
+    ],
+    "5": [
+      "Yawn"
+    ],
+    "8": [
+      "Poison Gas"
+    ],
+    "10": [
+      "Sludge"
+    ],
+    "12": [
+      "Amnesia"
+    ],
+    "17": [
+      "Acid Spray"
+    ],
+    "20": [
+      "Encore"
+    ],
+    "25": [
+      "Toxic"
+    ],
+    "30": [
+      "Spit Up",
+      "Stockpile",
+      "Swallow"
+    ],
+    "37": [
+      "Sludge Bomb"
+    ],
+    "42": [
+      "Gastro Acid"
+    ],
+    "49": [
+      "Belch"
+    ],
+    "54": [
+      "Wring Out"
+    ],
+    "61": [
+      "Gunk Shot"
+    ]
+  },
+  "tutorMoves": [
+    "Block",
+    "Fire Punch",
+    "Gastro Acid",
+    "Giga Drain",
+    "Gunk Shot",
+    "Ice Punch",
+    "Pain Split",
+    "Seed Bomb",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Thunder Punch",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Curse",
+    "Destiny Bond",
+    "Gunk Shot",
+    "Mud-Slap",
+    "Pain Split",
+    "Smog",
+    "Venom Drench"
+  ],
+  "transferMoves": [
+    "Bullet Seed",
+    "Captivate",
+    "Counter",
+    "Defense Curl",
+    "Double-Edge",
+    "Dynamic Punch",
+    "Endure",
+    "Headbutt",
+    "Mimic",
+    "Natural Gift",
+    "Nightmare",
+    "Power-Up Punch",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Self-Destruct",
+    "Sing",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Bulldoze",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Bulldoze",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Bulldoze",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Snatch",
+    "Endure",
+    "Explosion",
+    "Giga Impact",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Snatch"
+  ],
+  "forms": {}
+}

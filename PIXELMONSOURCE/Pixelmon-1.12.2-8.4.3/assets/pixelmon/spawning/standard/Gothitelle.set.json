@@ -1,0 +1,44 @@
+{
+  "id": "Gothitelle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gothitelle"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Gothitelle"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

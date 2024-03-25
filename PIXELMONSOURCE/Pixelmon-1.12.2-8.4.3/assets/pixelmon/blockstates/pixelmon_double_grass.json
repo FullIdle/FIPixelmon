@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "pixelmon:pixelmon_double_grass_bottom" },
+        "half=upper":    { "model": "pixelmon:pixelmon_double_grass_top" }
+    }
+}

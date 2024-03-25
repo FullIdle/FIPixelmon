@@ -1,0 +1,47 @@
+{
+  "attackIndex": 326,
+  "attackName": "Stockpile",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Stockpile",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Stockpile"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Stockpile",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "increment": 100,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "Recover"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

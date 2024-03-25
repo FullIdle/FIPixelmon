@@ -1,0 +1,51 @@
+{
+  "attackIndex": 541,
+  "attackName": "Hurricane",
+  "attackType": "Flying",
+  "attackCategory": "SPECIAL",
+  "basePower": 110,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 70,
+  "makesContact": false,
+  "effects": [
+    {
+      "weather": "Rainy",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    },
+    {
+      "type": "Confusion",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Confusion"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Supersonic Skystrike",
+      "basePower": 185,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

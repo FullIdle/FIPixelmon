@@ -1,0 +1,88 @@
+{
+    "data": {
+        "trainerType": "FireBreather",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Flareon"
+        },
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Vulpix"
+        },
+        {
+            "name": "Camerupt"
+        },
+        {
+            "name": "Charmeleon"
+        }
+    ],
+    "names": [
+        {
+            "name": "Greg"
+        },
+        {
+            "name": "Daniel"
+        },
+        {
+            "name": "Nick"
+        },
+        {
+            "name": "Shoru"
+        },
+        {
+            "name": "Nicolás"
+        },
+        {
+            "name": "Berter"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Jay"
+        },
+        {
+            "name": "Ike"
+        },
+        {
+            "name": "Yumi"
+        },
+        {
+            "name": "Leo"
+        },
+        {
+            "name": "Garett"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¿Fuego?",
+            "win": "¡Fuego!",
+            "lose": "Fuego..."
+        },
+        {
+            "opening": "Que profesión tan extraña.",
+            "win": "Pero en cierto modo me gusta.",
+            "lose": "Y tampoco se me da muy bien.."
+        },
+        {
+            "opening": "Entrenar a mis Pokémon es mi pasión.",
+            "win": "¡Mi pasión arde más que nunca!",
+            "lose": "Mi pasión se va apagando.."
+        }
+    ]
+}

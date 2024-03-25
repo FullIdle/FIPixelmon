@@ -1,0 +1,307 @@
+{
+  "pixelmonName": "Chimchar",
+  "pokemon": "Chimchar",
+  "form": 0,
+  "stats": {
+    "HP": 44,
+    "Attack": 58,
+    "Defence": 44,
+    "Speed": 61,
+    "SpecialAttack": 58,
+    "SpecialDefence": 44
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 8,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 6.2,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.6,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 14,
+      "to": {
+        "name": "Monferno"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Mach Punch"
+      ]
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "IronFist"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Scratch"
+    ],
+    "7": [
+      "Ember"
+    ],
+    "9": [
+      "Taunt"
+    ],
+    "15": [
+      "Fury Swipes"
+    ],
+    "17": [
+      "Flame Wheel"
+    ],
+    "23": [
+      "Nasty Plot"
+    ],
+    "25": [
+      "Torment"
+    ],
+    "31": [
+      "Facade"
+    ],
+    "33": [
+      "Fire Spin"
+    ],
+    "39": [
+      "Acrobatics"
+    ],
+    "41": [
+      "Slack Off"
+    ],
+    "47": [
+      "Flamethrower"
+    ]
+  },
+  "tutorMoves": [
+    "Covet",
+    "Endeavor",
+    "Fire Pledge",
+    "Fire Punch",
+    "Focus Punch",
+    "Gunk Shot",
+    "Heat Wave",
+    "Helping Hand",
+    "Iron Tail",
+    "Low Kick",
+    "Role Play",
+    "Snore",
+    "Stealth Rock",
+    "Thunder Punch",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Assist",
+    "Blaze Kick",
+    "Counter",
+    "Double Kick",
+    "Encore",
+    "Fake Out",
+    "Fire Punch",
+    "Focus Energy",
+    "Focus Punch",
+    "Heat Wave",
+    "Helping Hand",
+    "Power-Up Punch",
+    "Quick Guard",
+    "Submission",
+    "Thunder Punch"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Cut",
+    "Dig",
+    "Endure",
+    "Headbutt",
+    "Hone Claws",
+    "Incinerate",
+    "Mud-Slap",
+    "Natural Gift",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Strength",
+    "Swift",
+    "Vacuum Wave"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat",
+    "Fling",
+    "Endure",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Swords Dance",
+    "Stealth Rock",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Tentacool",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tentacool"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 8,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ],
+        "minY": 50
+      },
+      "rarity": 130.0
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "battlegirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Yuen"
+        },
+        {
+            "name": "JeeJa"
+        },
+        {
+            "name": "Ronda"
+        },
+        {
+            "name": "Graciella"
+        },
+        {
+            "name": "Lucia"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "My instructor says that brute strength is nothing without agility. They complement each other."
+                },
+                {
+                    "text": "Fly like a Butterfree, sting like a Beedrill, he says."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I've practiced my flying kicks to perfection."
+                },
+                {
+                    "text": "I can jump so far you'll swear I'll never land! Yaaaaaaa!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I like capoeira; it's like dancing and fighting at the same time."
+                },
+                {
+                    "text": "It frees up so much space around me at parties."
+                }
+            ]
+        }
+    ]
+}

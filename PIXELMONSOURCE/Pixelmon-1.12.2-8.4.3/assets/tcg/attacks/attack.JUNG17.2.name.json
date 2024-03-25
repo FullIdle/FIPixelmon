@@ -1,0 +1,19 @@
+{
+  "cardCode": "JUNG17",
+  "attackNumber": 2,
+  "name": "attack.JUNG17.2.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG17.2.text",
+  "effectsString": "DAMAGE_REDUCE:20",
+  "effects": [
+    {
+      "amount": 20,
+      "benchingRemoves": false
+    }
+  ]
+}

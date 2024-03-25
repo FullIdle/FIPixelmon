@@ -1,0 +1,23 @@
+{
+  "cardCode": "BASE18",
+  "attackNumber": 2,
+  "name": "attack.BASE18.2.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.BASE18.2.text",
+  "effectsString": "OPP_DISCARD:*:1",
+  "effects": [
+    {
+      "onMe": false,
+      "energy": null,
+      "count": 1,
+      "needCoinSide": null
+    }
+  ]
+}

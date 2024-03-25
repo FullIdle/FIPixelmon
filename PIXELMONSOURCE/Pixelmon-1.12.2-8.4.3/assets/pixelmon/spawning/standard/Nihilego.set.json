@@ -1,0 +1,25 @@
+{
+  "id": "Nihilego",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Nihilego"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

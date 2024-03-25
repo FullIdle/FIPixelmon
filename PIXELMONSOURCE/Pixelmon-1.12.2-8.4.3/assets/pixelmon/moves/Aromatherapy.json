@@ -1,0 +1,61 @@
+{
+  "attackIndex": 372,
+  "attackName": "Aromatherapy",
+  "attackType": "Grass",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "HealBell"
+    }
+  ],
+  "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "TUBE",
+          "texture": "PETAL",
+          "conical": false,
+          "lifetimeTicks": 10,
+          "scale": 0.2,
+          "segments": 100,
+          "speed": 0.4,
+          "radius": 3,
+          "rgb": [255, 204, 229]
+        }
+      }
+    }
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Z-Aromatherapy",
+      "basePower": 0,
+      "effects": [
+        {
+          "increment": 100,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Recover"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

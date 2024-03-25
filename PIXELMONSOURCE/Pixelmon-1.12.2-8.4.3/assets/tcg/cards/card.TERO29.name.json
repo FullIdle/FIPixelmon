@@ -1,0 +1,45 @@
+{
+  "id": 267,
+  "setId": 4,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 80,
+  "code": "TERO29",
+  "name": "card.TERO29.name",
+  "description": "",
+  "previousPokemonId": 79,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO29",
+      "attackNumber": 1,
+      "name": "attack.TERO29.1.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.TERO29.1.text",
+      "effects": [
+        "TAIL-SELF_MISSED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "ReelIn"
+}

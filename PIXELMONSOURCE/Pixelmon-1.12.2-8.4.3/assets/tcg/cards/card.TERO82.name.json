@@ -1,0 +1,31 @@
+{
+  "id": 320,
+  "setId": 4,
+  "cardType": "ENERGY",
+  "isSpecial": true,
+  "hp": 0,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 0,
+  "code": "TERO82",
+  "name": "card.TERO82.name",
+  "description": "card.TERO82.text",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 0,
+  "cardRarity": "UNCOMMON",
+  "customTexture": "gui/cards/foreground/potionenergy.png",
+  "customTextureX": 16,
+  "customTextureY": 16,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

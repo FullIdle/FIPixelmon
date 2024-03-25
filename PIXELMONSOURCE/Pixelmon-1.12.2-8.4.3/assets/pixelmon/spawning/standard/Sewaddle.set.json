@@ -1,0 +1,36 @@
+{
+  "id": "Sewaddle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sewaddle"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "forests",
+          "flowery",
+          "Bamboo_forest"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

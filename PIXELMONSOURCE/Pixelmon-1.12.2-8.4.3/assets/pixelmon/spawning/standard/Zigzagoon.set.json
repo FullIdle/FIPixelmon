@@ -1,0 +1,69 @@
+{
+  "id": "Zigzagoon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zigzagoon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Zigzagoon",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 300.0
+    }
+  ]
+}

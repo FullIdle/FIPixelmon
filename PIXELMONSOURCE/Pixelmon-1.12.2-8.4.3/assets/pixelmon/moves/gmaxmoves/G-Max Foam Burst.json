@@ -1,0 +1,32 @@
+{
+  "attackIndex": 11032,
+  "attackName": "G-Max Foam Burst",
+  "attackType": "Water",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 10,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Speed",
+      "amount": -2,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffectCone"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

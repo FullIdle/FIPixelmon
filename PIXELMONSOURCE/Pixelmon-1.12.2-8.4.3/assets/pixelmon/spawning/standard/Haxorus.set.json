@@ -1,0 +1,26 @@
+{
+  "id": "Haxorus",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Haxorus"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 57,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

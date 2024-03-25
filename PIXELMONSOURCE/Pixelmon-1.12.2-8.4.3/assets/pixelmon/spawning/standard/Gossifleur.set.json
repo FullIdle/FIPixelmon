@@ -1,0 +1,26 @@
+{
+  "id": "Gossifleur",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gossifleur"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

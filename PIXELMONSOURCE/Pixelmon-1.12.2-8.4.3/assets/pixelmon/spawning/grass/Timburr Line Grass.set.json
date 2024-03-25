@@ -1,0 +1,47 @@
+{
+  "id": "Timburr Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Timburr"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Gurdurr"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 26,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cardCode": "FOSS55",
+  "attackNumber": 2,
+  "name": "attack.FOSS55.2.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS55.2.text",
+  "effectsString": "SEARCHDISCARDCOST:1:PSYCHIC:1:TRAINER",
+  "effects": [
+    {
+      "discardCount": 1,
+      "discardEnergy": "PSYCHIC",
+      "searchCount": 1,
+      "searchType": "TRAINER"
+    }
+  ]
+}

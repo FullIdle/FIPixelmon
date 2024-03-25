@@ -1,0 +1,33 @@
+{
+  "id": "Drampa Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Drampa"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:persim_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mushroom_island",
+          "end"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

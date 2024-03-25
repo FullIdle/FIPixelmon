@@ -1,0 +1,27 @@
+{
+  "id": "Pinsir Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pinsir"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 9.0
+    }
+  ]
+}

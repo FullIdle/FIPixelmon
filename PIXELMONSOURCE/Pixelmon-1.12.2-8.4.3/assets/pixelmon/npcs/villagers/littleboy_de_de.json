@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littleboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Billy"
+        },
+        {
+            "name": "Akihiko"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "Sammy"
+        },
+        {
+            "name": "Pip"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Wenn ich groß bin, werde ich ein Pokémon-Meister. Und ein Feuerwehrmann!"
+                },
+                {
+                    "text": "Ich wünschte, ich hätte ein Pokémon wie du!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wow, hast du deine Pokémon in einem Geschäft bekommen oder hast du sie echt erwischt?"
+                },
+                {
+                    "text": "Ich habe ein Pokéball aus Papier und etwas Leim gemacht. Es funktioniert aber nicht sehr gut."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mein Vater ist ein berühmter Pokémon-Fänger!"
+                },
+                {
+                    "text": "Tatsächlich fing er ein Raupy im Garten, ließ ihn aber gehen..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Schau mir zu, wie ich Pokémon mit einem Netz fange! Ich hätte neulich fast ein Hornliu gefangen!"
+                },
+                {
+                    "text": "Eines Tages werde ich sie alle fangen!"
+                }
+            ]
+        }
+    ]
+}

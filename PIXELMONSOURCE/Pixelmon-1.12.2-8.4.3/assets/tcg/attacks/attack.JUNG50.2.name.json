@@ -1,0 +1,24 @@
+{
+  "cardCode": "JUNG50",
+  "attackNumber": 2,
+  "name": "attack.JUNG50.2.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING"
+  ],
+  "damage": 10,
+  "modifier": "Plus",
+  "text": "attack.JUNG50.2.text",
+  "effectsString": "DAMAGE_BONUS:SELF:PER_DAMAGE:10",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerDamage",
+      "energy": null,
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": null,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

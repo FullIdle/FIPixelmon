@@ -1,0 +1,47 @@
+{
+  "attackIndex": 586,
+  "attackName": "Hold Hands",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 40,
+  "ppMax": 64,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "HoldHands"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Hold Hands",
+      "basePower": 0,
+      "effects": [
+        {
+          "persists": false,
+          "effectTypeID": "RaiseStats"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

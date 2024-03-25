@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "blackbelt.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bruce"
+        },
+        {
+            "name": "Jackie"
+        },
+        {
+            "name": "Jet"
+        },
+        {
+            "name": "Jean-Claude"
+        },
+        {
+            "name": "Steven"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I may be a Black Belt, but I must keep training!"
+                },
+                {
+                    "text": "Find me boards, cinderblocks, and a waterfall. Quick!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Huah! Sho! OooooooOOOOOOOOO!"
+                },
+                {
+                    "text": "Are you impressed yet? Did I strike your heart with dread?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "With my level of skill, everything is a weapon."
+                },
+                {
+                    "text": "I can fend off hordes of rabid Raticate with my little finger."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I was raised by Machoke."
+                },
+                {
+                    "text": "If they had been Machamp, maybe I would have been even stronger."
+                }
+            ]
+        }
+    ]
+}

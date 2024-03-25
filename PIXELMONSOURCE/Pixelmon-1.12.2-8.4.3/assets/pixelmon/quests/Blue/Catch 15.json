@@ -1,0 +1,58 @@
+{
+	"radiant": true,
+	"weight": 0,
+	"abandonable": true,
+	"repeatable": true,
+	"color": {
+		"r": 15,
+		"g": 131,
+		"b": 255
+	},
+	"activeStage": 10,
+	"stages": [
+		{
+			"stage": 0,
+			"nextStage": 10,
+			"icon": "SPEECH_BUBBLE",
+			"objectives": [
+				"TYPE_VALUES_SPEC_INSERTER SPEC any any any",
+				"NPC_TIMED_INSERTER NPC 0.05 100 0 12000",
+				"DIALOGUE ?NPC? npcName start startYes startNo - - - - - -",
+				"NPC_RESPOND ?NPC? 0",
+				"NPC_RESPOND ?NPC? 1",
+				"NAME_INSERTER NAME -1"
+			],
+			"actions": [
+				"3 DIALOGUE npcName accepted goodbye - - - - - - -",
+				"3 SET_STAGE 10 -",
+				"4 DIALOGUE npcName rejected goodbye - - - - - - -"
+			]
+		},
+		{
+			"stage": 10,
+			"nextStage": 20,
+			"icon": "POKEBALL",
+			"objectives": [
+				"POKEMON_CAPTURE ?SPEC? 15"
+			],
+			"actions": []
+		},
+		{
+			"stage": 20,
+			"nextStage": -1,
+			"objectives": [
+				"DIALOGUE ?NPC? npcName end goodbye - - - - - - -",
+				"NPC_TALK ?NPC?",
+        "STRING_INSERTER BERRY pixelmon:tanga_berry;pixelmon:yache_berry;pixelmon:occa_berry;pixelmon:passho_berry;pixelmon:wacan_berry;pixelmon:rindo_berry;pixelmon:chople_berry;pixelmon:kebia_berry;pixelmon:shuca_berry;pixelmon:coba_berry;pixelmon:payapa_berry;pixelmon:charti_berry;pixelmon:kasib_berry;pixelmon:haban_berry;pixelmon:colbur_berry;pixelmon:babiri_berry;pixelmon:chilan_berry;pixelmon:roseli_berry",
+        "INTEGER_INSERTER AMOUNT 5-10"
+      ],
+			"actions": [
+				"1 ITEM_GIVE ?BERRY? ?AMOUNT?",
+				"1 XP_GIVE - 50",
+				"1 END_DIALOGUE",
+				"1 COMPLETE_QUEST"
+			]
+		}
+	],
+	"strings": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Sirfetchd",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sirfetchd"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:leek",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

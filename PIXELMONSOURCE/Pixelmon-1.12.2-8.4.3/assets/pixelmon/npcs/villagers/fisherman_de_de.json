@@ -1,0 +1,37 @@
+{
+  "skins": [
+    {
+      "filename": "fisherman.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Fischer Fritz"
+    },
+    {
+      "name": "Fred Fischer"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Psst! Verscheuch nicht meine Fische!"
+        },
+        {
+          "text": "Ach du bist am Pokémon fangen? Ich bevorzuge das Fischen von Karpador, lecker."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Kennst du gute Köder? Aprikokos gehen nicht."
+        },
+        {
+          "text": "Ich mag es sie zu fangen, einmal reinzubeißen und sie dann zurückzuwerfen."
+        }
+      ]
+    }
+  ]
+}

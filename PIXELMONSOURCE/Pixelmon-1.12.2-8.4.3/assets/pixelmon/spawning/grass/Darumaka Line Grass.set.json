@@ -1,0 +1,89 @@
+{
+  "id": "Darumaka Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Darumaka",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 23,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "desert_hills"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Darumaka",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 23,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing mountains"
+        ]
+      },
+      "rarity": 25.0
+    },
+    {
+      "spec": {
+        "name": "Darmanitan",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "desert_hills"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Darmanitan",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing mountains"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

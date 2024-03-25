@@ -1,0 +1,381 @@
+{
+  "pixelmonName": "Tentacool",
+  "pokemon": "Tentacool",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 40,
+    "Defence": 35,
+    "Speed": 70,
+    "SpecialAttack": 50,
+    "SpecialDefence": 100
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 8,
+  "spawnLevelRange": 22,
+  "baseExp": 105,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Poison"
+  ],
+  "height": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 3,
+    "depthRangeEnd": 7,
+    "swimSpeed": 0.5,
+    "decayRate": 0.95,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 45.5,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 0.9,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Tentacruel"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "ClearBody",
+    "LiquidOoze",
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Poison Sting",
+      "Water Gun"
+    ],
+    "4": [
+      "Acid"
+    ],
+    "8": [
+      "Wrap"
+    ],
+    "12": [
+      "Supersonic"
+    ],
+    "16": [
+      "Water Pulse"
+    ],
+    "20": [
+      "Screech"
+    ],
+    "24": [
+      "Bubble Beam"
+    ],
+    "28": [
+      "Hex"
+    ],
+    "32": [
+      "Acid Armor"
+    ],
+    "36": [
+      "Poison Jab"
+    ],
+    "40": [
+      "Surf"
+    ],
+    "44": [
+      "Sludge Wave"
+    ],
+    "48": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Acupressure",
+    "Aqua Ring",
+    "Aurora Beam",
+    "Confuse Ray",
+    "Haze",
+    "Knock Off",
+    "Mirror Coat",
+    "Rapid Spin",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Acid Spray",
+    "Barrier",
+    "Bide",
+    "Bind",
+    "Bubble",
+    "Captivate",
+    "Confide",
+    "Constrict",
+    "Curse",
+    "Cut",
+    "Double Team",
+    "Double-Edge",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Infestation",
+    "Magic Coat",
+    "Mega Drain",
+    "Mimic",
+    "Natural Gift",
+    "Rage",
+    "Reflect",
+    "Return",
+    "Secret Power",
+    "Skull Bash",
+    "Swagger",
+    "Take Down",
+    "Toxic",
+    "Wring Out"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Waterfall",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Muddy Water",
+    "Toxic Spikes",
+    "Poison Jab",
+    "Sludge Wave",
+    "Scald",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Screech",
+    "Safeguard",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Dive",
+    "Brine",
+    "Payback",
+    "Cross Poison",
+    "Venoshock",
+    "Round",
+    "Hex",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Payback",
+    "Swords Dance",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Payback",
+    "Swords Dance",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Scald",
+    "Payback",
+    "Swords Dance",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Brine",
+    "Endure",
+    "Payback",
+    "Swords Dance",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Snore",
+    "Blizzard",
+    "Icy Wind",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Endure",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves1": [
+    "Swords Dance",
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Water Gun",
+    "Ice Beam",
+    "Blizzard",
+    "Rage",
+    "Mega Drain",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Skull Bash",
+    "Rest",
+    "Substitute"
+  ],
+  "forms": {}
+}

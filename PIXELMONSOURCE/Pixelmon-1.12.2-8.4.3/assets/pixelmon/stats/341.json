@@ -1,0 +1,356 @@
+{
+  "pixelmonName": "Corphish",
+  "pokemon": "Corphish",
+  "form": 0,
+  "stats": {
+    "HP": 43,
+    "Attack": 80,
+    "Defence": 65,
+    "Speed": 35,
+    "SpecialAttack": 50,
+    "SpecialDefence": 35
+  },
+  "catchRate": 205,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 24,
+  "baseExp": 111,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 11.5,
+  "bounding_box": {
+    "width": 0.9,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Crawdaunt"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Swift"
+      ]
+    }
+  ],
+  "abilities": [
+    "HyperCutter",
+    "ShellArmour",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Water Gun"
+    ],
+    "4": [
+      "Leer"
+    ],
+    "8": [
+      "Taunt"
+    ],
+    "12": [
+      "Bubble Beam"
+    ],
+    "16": [
+      "Knock Off"
+    ],
+    "20": [
+      "Double Hit"
+    ],
+    "24": [
+      "Protect"
+    ],
+    "28": [
+      "Night Slash"
+    ],
+    "32": [
+      "Razor Shell"
+    ],
+    "36": [
+      "Swords Dance"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "44": [
+      "Crabhammer"
+    ],
+    "48": [
+      "Endeavor"
+    ],
+    "52": [
+      "Guillotine"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Ancient Power",
+    "Aqua Jet",
+    "Double-Edge",
+    "Metal Claw",
+    "Slash",
+    "Switcheroo"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Bubble",
+    "Captivate",
+    "Chip Away",
+    "Confide",
+    "Counter",
+    "Cut",
+    "Double Team",
+    "Frustration",
+    "Fury Cutter",
+    "Hidden Power",
+    "Hone Claws",
+    "Mimic",
+    "Mud Sport",
+    "Mud-Slap",
+    "Natural Gift",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Spite",
+    "Strength",
+    "Swagger",
+    "Toxic",
+    "Trump Card",
+    "Vise Grip",
+    "Water Pulse",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Waterfall",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Taunt",
+    "Superpower",
+    "Muddy Water",
+    "Iron Defense",
+    "Dragon Dance",
+    "X-Scissor",
+    "Scald"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Mud Shot",
+    "Payback",
+    "Fling",
+    "Round",
+    "Razor Shell",
+    "False Swipe"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Payback",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Payback",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Payback",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "False Swipe",
+    "Fling",
+    "Endure",
+    "Payback",
+    "Swords Dance",
+    "Captivate",
+    "Rock Slide",
+    "X-Scissor",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

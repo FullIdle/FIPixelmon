@@ -1,0 +1,49 @@
+{
+  "id": "Ledyba Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ledyba"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "magical"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Ledian"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 18,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "magical"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

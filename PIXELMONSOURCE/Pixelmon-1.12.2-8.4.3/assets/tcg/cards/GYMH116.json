@@ -1,0 +1,61 @@
+{
+  "id": 437,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 100,
+  "code": "GYMH116",
+  "name": "card.GYMH116.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH116",
+      "attackNumber": 1,
+      "name": "attack.GYMH116.1.name",
+      "energy": [
+        "LIGHTNING"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH116.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH116",
+      "attackNumber": 2,
+      "name": "attack.GYMH116.2.name",
+      "energy": [
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH116.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

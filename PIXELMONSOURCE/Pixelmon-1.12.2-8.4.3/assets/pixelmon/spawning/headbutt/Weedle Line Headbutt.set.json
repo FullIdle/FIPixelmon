@@ -1,0 +1,209 @@
+{
+  "id": "Weedle Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Weedle",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "forests",
+          "taigas"
+        ],
+        "variant": [
+          "oak",
+          "ebony",
+          "ethereal",
+          "willow",
+          "spruce"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Weedle"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "forests",
+          "taigas"
+        ],
+        "variant": [
+          "oak",
+          "ebony",
+          "ethereal",
+          "willow",
+          "spruce"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Kakuna",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "forests",
+          "taigas"
+        ],
+        "variant": [
+          "oak",
+          "ebony",
+          "ethereal",
+          "willow",
+          "spruce"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Kakuna"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "forests",
+          "taigas"
+        ],
+        "variant": [
+          "oak",
+          "ebony",
+          "ethereal",
+          "willow",
+          "spruce"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Beedrill",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "forests",
+          "taigas"
+        ],
+        "variant": [
+          "oak",
+          "ebony",
+          "ethereal",
+          "willow",
+          "spruce"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Beedrill"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "forests",
+          "taigas"
+        ],
+        "variant": [
+          "oak",
+          "ebony",
+          "ethereal",
+          "willow",
+          "spruce"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

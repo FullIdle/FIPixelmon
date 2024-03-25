@@ -1,0 +1,264 @@
+{
+  "pixelmonName": "Basculin",
+  "pokemon": "Basculin",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 92,
+    "Defence": 65,
+    "Speed": 98,
+    "SpecialAttack": 80,
+    "SpecialDefence": 55
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 13,
+  "baseExp": 161,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.6,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 18.0,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.4,
+    "eye_height": 0.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "Reckless",
+    "Adaptability",
+    "MoldBreaker"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Tail Whip",
+      "Water Gun"
+    ],
+    "4": [
+      "Tackle"
+    ],
+    "8": [
+      "Flail"
+    ],
+    "12": [
+      "Aqua Jet"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Scary Face"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "28": [
+      "Soak"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Take Down"
+    ],
+    "40": [
+      "Final Gambit"
+    ],
+    "44": [
+      "Aqua Tail"
+    ],
+    "48": [
+      "Thrash"
+    ],
+    "52": [
+      "Double-Edge"
+    ],
+    "56": [
+      "Head Smash"
+    ]
+  },
+  "tutorMoves": [
+    "Flip Turn",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Bubble Beam",
+    "Endeavor"
+  ],
+  "transferMoves": [
+    "Chip Away",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Rage",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Agility",
+    "Waterfall",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Uproar",
+    "Taunt",
+    "Superpower",
+    "Muddy Water",
+    "Zen Headbutt",
+    "Scald",
+    "Psychic Fangs",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Revenge",
+    "Dive",
+    "Bounce",
+    "Mud Shot",
+    "Brine",
+    "Assurance",
+    "Ice Fang",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "abilities": [
+        "RockHead",
+        "Adaptability",
+        "MoldBreaker"
+      ]
+    },
+    "2": {
+      "form": 2,
+      "evolutions": [
+        {
+          "to": {
+            "name": "Basculegion"
+          },
+          "conditions": [
+            {
+              "recoil": 294,
+              "evoConditionType": "recoil"
+            }
+          ],
+          "evoType": "ticking"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Turtwig",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Turtwig"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Lucario",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lucario"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 31,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

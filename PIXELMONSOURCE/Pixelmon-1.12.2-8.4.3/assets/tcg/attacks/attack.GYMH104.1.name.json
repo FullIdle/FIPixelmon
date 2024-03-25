@@ -1,0 +1,15 @@
+{
+  "cardCode": "GYMH104",
+  "attackNumber": 1,
+  "name": "attack.GYMH104.1.name",
+  "energy": [
+    "FIRE"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.GYMH104.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

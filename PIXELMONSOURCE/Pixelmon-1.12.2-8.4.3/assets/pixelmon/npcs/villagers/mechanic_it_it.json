@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "mechanic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Grease Jockey Joe"
+        },
+        {
+            "name": "Mac la chiave inglese"
+        },
+        {
+            "name": "Bob Driver"
+        },
+        {
+            "name": "Angus"
+        },
+        {
+            "name": "Pit Stop Pete"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Hai una ruota cigolante su un veicolo?"
+                },
+                {
+                    "text": "Vieni da me e portalo per una revisione."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Per cosa vuoi cacciare i Pokémon? Ho delle belle macchine da sistemare qui."
+                },
+                {
+                    "text": "Non c'è niente di più soddisfacente di un giorno sotto il cofano di una macchina in rovina!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ho bisogno di una vacanza. A sta' sotto le macchine tutto il giorno ci si stanca in fretta."
+                },
+                {
+                    "text": "Che ne dici di sostituirmi all'officina per un po'? Mi serve una pausa."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Adoro l'odore del grasso dell'asse al mattino!"
+                },
+                {
+                    "text": "Torna tra un po' con un veicolo. Gli darò una bella sistemata!"
+                }
+            ]
+        }
+    ]
+}

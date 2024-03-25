@@ -1,0 +1,51 @@
+{
+  "attackIndex": 322,
+  "attackName": "Whirlpool",
+  "attackType": "Water",
+  "attackCategory": "SPECIAL",
+  "basePower": 35,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"radius": 3.5,
+				"power": 18,
+				"speed": 0.7
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

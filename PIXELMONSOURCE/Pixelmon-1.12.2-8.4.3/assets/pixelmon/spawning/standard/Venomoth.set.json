@@ -1,0 +1,64 @@
+{
+  "id": "Venomoth",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Venomoth",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Sweet Scent"
+      ],
+      "minLevel": 31,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "jungles"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Venomoth",
+        "form": 108
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "jungles"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

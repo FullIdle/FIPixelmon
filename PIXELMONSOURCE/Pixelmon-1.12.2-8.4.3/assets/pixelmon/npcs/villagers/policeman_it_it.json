@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "policeman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Capitano Benny"
+        },
+        {
+            "name": "Ispettore Kenny"
+        },
+        {
+            "name": "Assistente Lenny"
+        },
+        {
+            "name": "Caporale Vinnie"
+        },
+        {
+            "name": "Tenente Ronnie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ehi, non usare Fossa per entrare nelle case degli altri, chiaro?"
+                },
+                {
+                    "text": "O usare Furto su altri allenatori, via."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non sto completamente bene con quella faccenda di guadagnare denaro attraverso lotte Pokémon."
+                },
+                {
+                    "text": "Sembra un po' illegale."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Quelle squadre criminali! Vorrei poterli prendere da solo."
+                },
+                {
+                    "text": "Ma nooo! Ogni volta quel ragazzino fa tutto per noi. Lascia che la polizia faccia il suo lavoro, no?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Faccio parte dell'unità k9. Mi piace tanto la mia Houndour."
+                },
+                {
+                    "text": "Insegue i ladri, trova elementi pericolosi; è una tuttofare!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "Seedot Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Seedot"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 2,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:power_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "redwoods",
+          "taigas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Nuzleaf"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 14,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:power_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "redwoods",
+          "taigas"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Shiftry"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:power_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods",
+          "taigas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

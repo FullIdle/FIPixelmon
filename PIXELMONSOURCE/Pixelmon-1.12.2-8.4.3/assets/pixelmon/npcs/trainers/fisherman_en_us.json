@@ -1,0 +1,263 @@
+{
+    "data": {
+        "trainerType": "Fisherman",
+        "minLevel": 24,
+        "maxLevel": 36,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Squirtle"
+        },
+        {
+            "name": "Wartortle"
+        },
+        {
+            "name": "Horsea"
+        },
+        {
+            "name": "Magikarp"
+        },
+        {
+            "name": "Gyarados"
+        },
+        {
+            "name": "Blastoise"
+        },
+        {
+            "name": "Tentacool"
+        },
+        {
+            "name": "Krabby"
+        },
+        {
+            "name": "Goldeen"
+        },
+        {
+            "name": "Seaking"
+        },
+        {
+            "name": "Staryu"
+        },
+        {
+            "name": "Starmie"
+        },
+        {
+            "name": "Lapras"
+        },
+        {
+            "name": "Shellder"
+        },
+        {
+            "name": "Remoraid"
+        },
+        {
+            "name": "Octillery"
+        },
+        {
+            "name": "Luvdisc"
+        },
+        {
+            "name": "Clamperl"
+        },
+        {
+            "name": "Gorebyss"
+        },
+        {
+            "name": "Huntail"
+        },
+        {
+            "name": "Carvanha"
+        },
+        {
+            "name": "Sharpedo"
+        },
+        {
+            "name": "Barboach"
+        },
+        {
+            "name": "Whiscash"
+        },
+        {
+            "name": "Feebas"
+        },
+        {
+            "name": "Milotic"
+        },
+        {
+            "name": "Kingdra"
+        },
+        {
+            "name": "Wailmer"
+        },
+        {
+            "name": "Wailord"
+        },
+        {
+            "name": "Qwilfish"
+        },
+        {
+            "name": "Chinchou"
+        },
+        {
+            "name": "Lanturn"
+        },
+        {
+            "name": "Relicanth"
+        },
+        {
+            "name": "Finneon"
+        },
+        {
+            "name": "Lumineon"
+        },
+        {
+            "name": "Basculin"
+        },
+        {
+            "name": "Alomomola"
+        },
+        {
+            "name": "Skrelp"
+        },
+        {
+            "name": "Dragalge"
+        },
+        {
+            "name": "Dratini"
+        },
+        {
+            "name": "Dragonair"
+        },
+        {
+            "name": "Wishiwashi"
+        },
+        {
+            "name": "Bruxish"
+        },
+        {
+            "name": "Arrokuda"
+        },
+        {
+            "name": "Barraskewda"
+        }
+    ],
+    "names": [
+        {
+            "name": "Wilton"
+        },
+        {
+            "name": "Fins"
+        },
+        {
+            "name": "Marvin"
+        },
+        {
+            "name": "Marlin"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Jill"
+        },
+        {
+            "name": "David"
+        },
+        {
+            "name": "Zack"
+        },
+        {
+            "name": "Danny"
+        },
+        {
+            "name": "Stephan"
+        },
+        {
+            "name": "Scott"
+        },
+        {
+            "name": "Todd"
+        },
+        {
+            "name": "Tom"
+        },
+        {
+            "name": "Mitchell"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Water types are the best!",
+            "win": "I told you that Water-type Pokémon are the best!",
+            "lose": "I guess Water types aren't the best."
+        },
+        {
+            "opening": "Try to beat my water Pokémon!",
+            "win": "My water Pokémon are the best!",
+            "lose": "Damn it! My water Pokémon lost!?"
+        },
+        {
+            "opening": "I bet you can't beat me!",
+            "win": "I knew I would beat you.",
+            "lose": "You beat me. Impossible."
+        },
+        {
+            "opening": "Do you have any Water-type Pokémon?",
+            "win": "Ok, I beat you. Now show me you Water types, please.",
+            "lose": "I guess Water-type Pokémon aren't so great after all."
+        },
+        {
+            "opening": "I'll trade you my water Pokémon for something.",
+            "win": "Actually, I don't wanna trade any more! My team is the best!",
+            "lose": "So, you wanna trade?"
+        },
+        {
+            "opening": "Wanna battle me?",
+            "win": "Great battle. You gave me a run for my money.",
+            "lose": "The better Trainer won."
+        },
+        {
+            "opening": "Time to test my Pokémon!",
+            "win": "My training finally paid off.",
+            "lose": "I need to train more!"
+        },
+        {
+            "opening": "My Pokémon are the very best!",
+            "win": "See? My Pokemon are the very best.",
+            "lose": "No, no no. It's not fair! You cheated!"
+        },
+        {
+            "opening": "I love fishing. Don't you?",
+            "win": "I can teach you to fish if you want.",
+            "lose": "Oh well, I lost. I guess I'll go back to fishing."
+        },
+        {
+            "opening": "I wish I could travel across the sea.",
+            "win": "I won. Now I just need to find someone who has the Surf HM.",
+            "lose": "Good battle. Now do you know where I can get Surf?"
+        },
+        {
+            "opening": "You look like you have been searching far and wide.",
+            "win": "Unlucky dude. Maybe next time.",
+            "lose": "Your Pokémon are awesome. Maybe I should try searching far and wide instead of fishing all day."
+        },
+        {
+            "opening": "Do you ever wonder what it is like to be a Magikarp?",
+            "win": "It must feel great to be able to swim freely in the ocean.",
+            "lose": "I suck at being a Trainer. I wish I could be a Pokémon!"
+        },
+        {
+            "opening": "Do you think you can beat my water Pokémon?",
+            "win": "My water Pokémon are invincible!",
+            "lose": "OH NO! My water Pokémon lost!"
+        },
+        {
+            "opening": "You walked in front of me. Now we have to battle.",
+            "win": "I won. Now you have to scurry to the Pokémon Center.",
+            "lose": "I lost. Now I need to scurry back to the Pokémon Center."
+        }
+    ]
+}

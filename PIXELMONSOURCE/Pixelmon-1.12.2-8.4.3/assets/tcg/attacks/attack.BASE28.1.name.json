@@ -1,0 +1,14 @@
+{
+  "cardCode": "BASE28",
+  "attackNumber": 1,
+  "name": "attack.BASE28.1.name",
+  "energy": [
+    "FIRE",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

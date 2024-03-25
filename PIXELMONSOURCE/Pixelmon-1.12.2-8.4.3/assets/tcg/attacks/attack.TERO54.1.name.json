@@ -1,0 +1,21 @@
+{
+  "cardCode": "TERO54",
+  "attackNumber": 1,
+  "name": "attack.TERO54.1.name",
+  "energy": [
+    "PSYCHIC",
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.TERO54.1.text",
+  "effectsString": "OPP_CONDITION:ASLEEP",
+  "effects": [
+    {
+      "condition": "ASLEEP",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": null
+    }
+  ]
+}

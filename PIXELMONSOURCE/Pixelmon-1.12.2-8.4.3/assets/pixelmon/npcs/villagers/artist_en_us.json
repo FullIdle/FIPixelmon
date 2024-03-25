@@ -1,0 +1,66 @@
+{
+    "skins": [
+        {
+            "filename": "artist.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Leonardo"
+        },
+        {
+            "name": "Raphael"
+        },
+        {
+            "name": "Vincent"
+        },
+        {
+            "name": "René"
+        },
+        {
+            "name": "Andy"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ah, this town is so inspiring."
+                },
+                {
+                    "text": "If only I had my easel with me; my mind is buzzing with artsy thoughts!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Just because I am partial to traditional painting methods doesn't mean that I don't like Porygon."
+                },
+                {
+                    "text": "Its sharp edges remind me of cubist works."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'm glad that Pokémon come in every color imaginable."
+                },
+                {
+                    "text": "Vivid or desaturated, dark or light, it's like an explosion of hues."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I hear about this Team Aqua and Team Magma rivalry..."
+                },
+                {
+                    "text": "... and I think this all lacks in yellow. There should be a yellow team."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "Heracross Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Heracross",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "NIGHT"
+        ],
+        "variant": [
+          "spruce",
+          "fir",
+          "redwood"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Heracross"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING",
+          "DUSK"
+        ],
+        "variant": [
+          "spruce",
+          "fir",
+          "redwood"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 60.0
+    }
+  ]
+}

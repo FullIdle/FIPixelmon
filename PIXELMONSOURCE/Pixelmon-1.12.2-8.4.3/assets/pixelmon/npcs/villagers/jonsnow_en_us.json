@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "jonsnow.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jon Snow"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Winter is coming..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Everyone knew what this place was, and no one told me."
+                },
+                {
+                    "text": "No one but you."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Even the strongest blizzards start with a single snowflake."
+                },
+                {
+                    "text": "Or a Cryogonal. That causes blizzards too..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Let the storm rage on, the cold never bothered me anyway."
+                }
+            ]
+        }
+    ]
+}

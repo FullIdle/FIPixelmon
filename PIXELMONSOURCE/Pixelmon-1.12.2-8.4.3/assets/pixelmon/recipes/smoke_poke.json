@@ -1,0 +1,11 @@
+{
+  "type": "pixelmon:smelting",
+  "input": {
+      "item": "pixelmon:slowpoke_tail"
+  },
+  "result": {
+    "item": "pixelmon:curry_smoke_poke_tail",
+    "count": 1
+  },
+  "xp": 2
+}

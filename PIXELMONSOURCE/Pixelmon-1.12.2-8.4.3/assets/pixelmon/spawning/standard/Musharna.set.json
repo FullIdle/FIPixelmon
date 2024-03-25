@@ -1,0 +1,35 @@
+{
+  "id": "Musharna",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Musharna"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 22,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "attackIndex": 280,
+  "attackName": "Mud Sport",
+  "attackType": "Ground",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "affectedType": "Electric",
+      "moveName": "Mud Sport",
+      "type": "MudSport",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MudSport"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "groundium_z",
+      "attackName": "Z-Mud Sport",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialDefence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "Frosmoth",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Frosmoth"
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

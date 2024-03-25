@@ -1,0 +1,22 @@
+{
+  "cardCode": "JUNG3",
+  "attackNumber": 1,
+  "name": "attack.JUNG3.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": "Plus",
+  "text": "attack.JUNG3.1.text",
+  "effectsString": "HEAD-OPP_DAMAGE:20",
+  "effects": [
+    {
+      "onMe": false,
+      "location": "Active",
+      "count": -1,
+      "amount": 20,
+      "needCoinSide": "Head"
+    }
+  ]
+}

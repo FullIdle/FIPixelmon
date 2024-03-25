@@ -1,0 +1,39 @@
+{
+  "id": "Aron Line Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Aron"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Lairon"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 15.0
+    }
+  ]
+}

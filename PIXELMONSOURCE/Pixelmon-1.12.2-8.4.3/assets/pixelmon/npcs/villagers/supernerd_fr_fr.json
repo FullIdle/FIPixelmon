@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "supernerd.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sheldon"
+        },
+        {
+            "name": "Steve"
+        },
+        {
+            "name": "Bernard"
+        },
+        {
+            "name": "Bill"
+        },
+        {
+            "name": "Gabe"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "J'ai envie de rentrer à la maison pour bosser sur mes projets ! Pourquoi j'aurais besoin d'une \"vie sociale\", d'abord ?"
+                },
+                {
+                    "text": "Un jour, j'inventerai un sosie robotisé qui se fera des amis à ma place."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hé ! Tu sais qu'en reliant un Voltorbe à un transpondeur asynchrone, on peut modifier le..."
+                },
+                {
+                    "text": "... Tu m'écoutes ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Quand j'étais petit, j'ai téléchargé par erreur un virus sur le Porygon2 de mes parents."
+                },
+                {
+                    "text": "Je voulais juste le mettre à niveau ! Ils étaient furax !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai bidouillé mon PC. Maintenant je peux ranger mes Pokémon en 3D !"
+                },
+                {
+                    "text": "Je trouve que ça une meilleure tête. Et puis, selon moi, mes Pokémon adorent."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+  "attackIndex": 42,
+  "attackName": "Petal Dance",
+  "attackType": "Grass",
+  "attackCategory": "SPECIAL",
+  "basePower": 120,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "PetalDance"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "PETAL",
+				"atTarget": false,
+				"rgb": [255, 204, 229],
+				"scale": 0.6
+			},
+			"10": {
+				"id": "beam",
+				"texture": "PETAL",
+				"rgb": [255, 204, 229],
+				"power": 1,
+				"scale": 0.6
+			},
+			"14": {
+				"id": "beam",
+				"texture": "PETAL",
+				"rgb": [255, 204, 229],
+				"power": 1,
+				"segments": 1,
+				"scale": 0.6
+			},
+			"18": {
+				"id": "beam",
+				"texture": "PETAL",
+				"rgb": [255, 204, 229],
+				"power": 1,
+				"segments": 1,
+				"scale": 0.6
+			},
+			"22": {
+				"id": "beam",
+				"texture": "PETAL",
+				"rgb": [255, 204, 229],
+				"power": 1,
+				"segments": 1,
+				"scale": 0.6
+			},
+			"26": {
+				"id": "beam",
+				"texture": "PETAL",
+				"rgb": [255, 204, 229],
+				"power": 1,
+				"segments": 1,
+				"scale": 0.6
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

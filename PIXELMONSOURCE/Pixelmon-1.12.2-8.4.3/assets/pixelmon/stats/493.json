@@ -1,0 +1,551 @@
+{
+  "pixelmonName": "Arceus",
+  "pokemon": "Arceus",
+  "form": 0,
+  "stats": {
+    "HP": 120,
+    "Attack": 120,
+    "Defence": 120,
+    "Speed": 120,
+    "SpecialAttack": 120,
+    "SpecialDefence": 120
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 324,
+  "baseFriendship": 0,
+  "types": [
+    "Normal"
+  ],
+  "height": 3.3,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": -0.3
+    }
+  },
+  "weight": 320.0,
+  "bounding_box": {
+    "width": 2.0,
+    "height": 3.3,
+    "eye_height": 2.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Multitype",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "100": [
+      "Judgment"
+    ],
+    "0": [
+      "Cosmic Power",
+      "Natural Gift",
+      "Punishment",
+      "Seismic Toss"
+    ],
+    "10": [
+      "Gravity"
+    ],
+    "20": [
+      "Earth Power"
+    ],
+    "30": [
+      "Hyper Voice"
+    ],
+    "40": [
+      "Extreme Speed"
+    ],
+    "50": [
+      "Refresh"
+    ],
+    "60": [
+      "Future Sight"
+    ],
+    "70": [
+      "Recover"
+    ],
+    "80": [
+      "Hyper Beam"
+    ],
+    "90": [
+      "Perish Song"
+    ]
+  },
+  "tutorMoves": [
+    "Aqua Tail",
+    "Defog",
+    "Draco Meteor",
+    "Dragon Pulse",
+    "Earth Power",
+    "Giga Drain",
+    "Gravity",
+    "Heat Wave",
+    "Hyper Voice",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Iron Tail",
+    "Laser Focus",
+    "Last Resort",
+    "Liquidation",
+    "Magic Coat",
+    "Outrage",
+    "Recycle",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Stealth Rock",
+    "Tailwind",
+    "Telekinesis",
+    "Trick",
+    "Water Pulse",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Ancient Power",
+    "Avalanche",
+    "Blast Burn",
+    "Brine",
+    "Bullet Seed",
+    "Cut",
+    "Dive",
+    "Endure",
+    "Flash",
+    "Fury Cutter",
+    "Headbutt",
+    "Hone Claws",
+    "Hydro Cannon",
+    "Incinerate",
+    "Mud-Slap",
+    "Ominous Wind",
+    "Retaliate",
+    "Roar of Time",
+    "Rock Smash",
+    "Secret Power",
+    "Shadow Force",
+    "Silver Wind",
+    "Spacial Rend",
+    "Strength",
+    "Swift",
+    "Twister",
+    "Whirlpool"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Dragon Claw",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Energy Ball",
+    "Charge Beam",
+    "Quash",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "Fly",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Surf",
+    "Snarl",
+    "Dark Pulse",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Energy Ball",
+    "Charge Beam",
+    "Incinerate",
+    "Quash",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Secret Power",
+    "Snarl",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Psyshock",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Focus Blast",
+    "Energy Ball",
+    "Charge Beam",
+    "Incinerate",
+    "Quash",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Rock Smash",
+    "Snarl"
+  ],
+  "tmMoves4": [
+    "Dragon Claw",
+    "Water Pulse",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Overheat",
+    "Focus Blast",
+    "Energy Ball",
+    "Brine",
+    "Charge Beam",
+    "Endure",
+    "Dragon Pulse",
+    "Will-O-Wisp",
+    "Silver Wind",
+    "Shadow Claw",
+    "Payback",
+    "Recycle",
+    "Giga Impact",
+    "Flash",
+    "Stone Edge",
+    "Avalanche",
+    "Thunder Wave",
+    "Swords Dance",
+    "Stealth Rock",
+    "Psych Up",
+    "Dark Pulse",
+    "Rock Slide",
+    "X-Scissor",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "types": [
+        "Grass"
+      ]
+    },
+    "2": {
+      "form": 2,
+      "types": [
+        "Fire"
+      ]
+    },
+    "3": {
+      "form": 3,
+      "types": [
+        "Water"
+      ]
+    },
+    "4": {
+      "form": 4,
+      "types": [
+        "Flying"
+      ]
+    },
+    "5": {
+      "form": 5,
+      "types": [
+        "Bug"
+      ]
+    },
+    "6": {
+      "form": 6,
+      "types": [
+        "Poison"
+      ]
+    },
+    "7": {
+      "form": 7,
+      "types": [
+        "Electric"
+      ]
+    },
+    "8": {
+      "form": 8,
+      "types": [
+        "Psychic"
+      ]
+    },
+    "9": {
+      "form": 9,
+      "types": [
+        "Rock"
+      ]
+    },
+    "10": {
+      "form": 10,
+      "types": [
+        "Ground"
+      ]
+    },
+    "11": {
+      "form": 11,
+      "types": [
+        "Dark"
+      ]
+    },
+    "12": {
+      "form": 12,
+      "types": [
+        "Ghost"
+      ]
+    },
+    "13": {
+      "form": 13,
+      "types": [
+        "Steel"
+      ]
+    },
+    "14": {
+      "form": 14,
+      "types": [
+        "Fighting"
+      ]
+    },
+    "15": {
+      "form": 15,
+      "types": [
+        "Ice"
+      ]
+    },
+    "16": {
+      "form": 16,
+      "types": [
+        "Dragon"
+      ]
+    },
+    "17": {
+      "form": 17,
+      "types": [
+        "Fairy"
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "engineer.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Gustave"
+        },
+        {
+            "name": "Graham"
+        },
+        {
+            "name": "Seymour"
+        },
+        {
+            "name": "Thomas"
+        },
+        {
+            "name": "Kees"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Grâce à mes équipements, je suis protégé contre les risques électriques !"
+                },
+                {
+                    "text": "Du coup je peux caresser tous les Pikachu que je rencontre, sans danger."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'étais censé réparer un poteau électrique, mais j'le trouve pas."
+                },
+                {
+                    "text": "Ca doit être un bizutage."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il va y avoir une coupure de courant demain."
+                },
+                {
+                    "text": "Pas de panique ; c'est juste pour de l'entretien."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non, ch'uis pas fâché. Je fais toujours cette tête."
+                },
+                {
+                    "text": "C'est mon expression normale ! Neutre. Ca te pose un problème ?"
+                }
+            ]
+        }
+    ]
+}

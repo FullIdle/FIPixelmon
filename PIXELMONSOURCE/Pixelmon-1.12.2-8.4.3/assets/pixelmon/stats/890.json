@@ -1,0 +1,172 @@
+{
+  "pixelmonName": "Eternatus",
+  "pokemon": "Eternatus",
+  "form": 0,
+  "stats": {
+    "HP": 140,
+    "Attack": 85,
+    "Defence": 95,
+    "SpecialAttack": 145,
+    "SpecialDefence": 95,
+    "Speed": 130
+  },
+  "catchRate": 10,
+  "malePercent": -1.0,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 345,
+  "baseFriendship": 0,
+  "types": [
+    "Poison",
+    "Dragon"
+  ],
+  "height": 20.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 0,
+    "passive": 0,
+    "aggressive": 100
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -3.15,
+      "z": 1.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -3.15,
+      "z": 1.3
+    }
+  },
+  "weight": 950.0,
+  "bounding_box": {
+    "width": 5.0,
+    "height": 6.0,
+    "eye_height": 4.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Agility",
+      "Confuse Ray",
+      "Dragon Tail",
+      "Poison Tail"
+    ],
+    "8": [
+      "Toxic"
+    ],
+    "16": [
+      "Venoshock"
+    ],
+    "24": [
+      "Dragon Dance"
+    ],
+    "32": [
+      "Cross Poison"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "48": [
+      "Flamethrower"
+    ],
+    "56": [
+      "Dynamax Cannon"
+    ],
+    "64": [
+      "Cosmic Power"
+    ],
+    "72": [
+      "Recover"
+    ],
+    "80": [
+      "Hyper Beam"
+    ],
+    "88": [
+      "Eternabeam"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Meteor Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Flamethrower",
+    "Agility",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Cosmic Power",
+    "Dragon Dance",
+    "Toxic Spikes",
+    "Poison Jab",
+    "Dragon Pulse",
+    "Flash Cannon",
+    "Sludge Wave",
+    "Venom Drench"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Screech",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Facade",
+    "Payback",
+    "Assurance",
+    "Cross Poison",
+    "Venoshock",
+    "Round",
+    "Mystical Fire",
+    "Brutal Swing"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 255,
+        "Attack": 115,
+        "Defence": 250,
+        "SpecialAttack": 125,
+        "SpecialDefence": 250,
+        "Speed": 130
+      },
+      "height": 50.0
+    },
+    "2": {
+      "form": 2,
+      "height": 50.0
+    }
+  }
+}

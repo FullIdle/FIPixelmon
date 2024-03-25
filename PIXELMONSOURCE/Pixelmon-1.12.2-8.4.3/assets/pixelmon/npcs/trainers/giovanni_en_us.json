@@ -1,0 +1,78 @@
+{
+    "data": {
+        "trainerType": "Bosses",
+        "minLevel": 40,
+        "maxLevel": 60,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 100
+    },
+    "models":[
+        {
+            "name": "giovanni"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Gliscor"
+        },
+        {
+            "name": "Nidoking"
+        },
+        {
+            "name": "Nidoqueen"
+        },
+        {
+            "name": "Persian"
+        },
+        {
+            "name": "Dugtrio"
+        },
+        {
+            "name": "Hippowdon"
+        },
+        {
+            "name": "Krookodile"
+        },
+        {
+            "name": "Kangaskhan"
+        },
+        {
+            "name": "Golem"
+        },
+        {
+            "name": "Garchomp"
+        },
+        {
+            "name": "Honchkrow"
+        },
+        {
+            "name": "Rhyperior"
+        },
+        {
+            "name": "Mewtwo"
+        }
+    ],
+    "names": [
+        {
+            "name": "Giovanni"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "So! I must say, I am impressed you got here!",
+            "win": "A child like you would never understand what I hope to achieve!",
+            "lose": "What?! This cannot be!"
+        },
+        {
+            "opening": "Keep your nose out of grown-ups matters, or experience a world of pain!",
+            "win": "Team Rocket never fails!",
+            "lose": "Blast it all!"
+        },
+        {
+            "opening": "This time I'm not holding back! Prepare to face Giovanni, the greatest trainer!",
+            "win": "Told you I was the greatest!",
+            "lose": "Arrgh! I lost again!"
+        }
+    ]
+}

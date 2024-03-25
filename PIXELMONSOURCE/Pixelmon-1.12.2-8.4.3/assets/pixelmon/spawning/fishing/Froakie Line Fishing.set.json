@@ -1,0 +1,109 @@
+{
+  "id": "Froakie Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Froakie"
+      },
+      "stringLocationTypes": [
+        "Old Rod"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Froakie"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Frogadier"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 20,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+    {
+      "spec": {
+        "name": "Frogadier"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Greninja"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 7.0
+    },
+    {
+      "spec": {
+        "name": "Greninja",
+        "form": 1,
+        "ability": "BattleBond"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

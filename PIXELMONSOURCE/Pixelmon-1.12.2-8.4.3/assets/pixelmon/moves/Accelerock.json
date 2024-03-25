@@ -1,0 +1,40 @@
+{
+  "attackIndex": 622,
+  "attackName": "Accelerock",
+  "attackType": "Rock",
+  "attackCategory": "PHYSICAL",
+  "basePower": 40,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "rockium_z",
+      "attackName": "Continental Crush",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

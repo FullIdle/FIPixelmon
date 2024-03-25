@@ -1,0 +1,54 @@
+{
+  "attackIndex": 231,
+  "attackName": "Snore",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 50,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Snore"
+    },
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Snore",
+      "basePower": 0,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

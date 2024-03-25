@@ -1,0 +1,426 @@
+{
+  "pixelmonName": "Heracross",
+  "pokemon": "Heracross",
+  "form": 0,
+  "stats": {
+    "HP": 80,
+    "Attack": 125,
+    "Defence": 75,
+    "Speed": 85,
+    "SpecialAttack": 40,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 50,
+  "baseExp": 200,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "height": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": 0.15
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": 0.15
+    }
+  },
+  "weight": 54.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.5,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "Guts",
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Tackle"
+    ],
+    "5": [
+      "Fury Attack"
+    ],
+    "10": [
+      "Endure"
+    ],
+    "15": [
+      "Aerial Ace"
+    ],
+    "20": [
+      "Horn Attack"
+    ],
+    "25": [
+      "Counter"
+    ],
+    "30": [
+      "Brick Break"
+    ],
+    "35": [
+      "Pin Missile"
+    ],
+    "40": [
+      "Throat Chop"
+    ],
+    "45": [
+      "Thrash"
+    ],
+    "50": [
+      "Swords Dance"
+    ],
+    "55": [
+      "Megahorn"
+    ],
+    "60": [
+      "Close Combat"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Feint",
+    "Flail",
+    "Harden",
+    "Night Slash",
+    "Seismic Toss",
+    "Take Down"
+  ],
+  "transferMoves": [
+    "Arm Thrust",
+    "Bide",
+    "Bug Bite",
+    "Captivate",
+    "Chip Away",
+    "Confide",
+    "Curse",
+    "Cut",
+    "Detect",
+    "Double Team",
+    "Focus Punch",
+    "Frustration",
+    "Fury Cutter",
+    "Headbutt",
+    "Hidden Power",
+    "Knock Off",
+    "Mimic",
+    "Natural Gift",
+    "Pursuit",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Smack Down",
+    "Strength",
+    "Struggle Bug",
+    "Swagger",
+    "Toxic",
+    "Vacuum Wave"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Low Kick",
+    "Earthquake",
+    "Substitute",
+    "Reversal",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Megahorn",
+    "Iron Defense",
+    "Bulk Up",
+    "Close Combat",
+    "Focus Blast",
+    "Stone Edge",
+    "Work Up",
+    "High Horsepower",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Hyper Beam",
+    "Giga Impact",
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "Bullet Seed",
+    "Rock Blast",
+    "Assurance",
+    "Fling",
+    "Shadow Claw",
+    "Venoshock",
+    "Round",
+    "Retaliate",
+    "Bulldoze",
+    "False Swipe",
+    "Smart Strike",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Focus Blast",
+    "Fling",
+    "Endure",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Focus Punch",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Rock Smash",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fury Cutter"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 80,
+        "Attack": 185,
+        "Defence": 115,
+        "Speed": 75,
+        "SpecialAttack": 40,
+        "SpecialDefence": 105
+      },
+      "height": 1.7,
+      "weight": 62.5,
+      "bounding_box": {
+        "width": 1.4,
+        "height": 1.5,
+        "eye_height": 1.0
+      },
+      "abilities": [
+        "SkillLink",
+        null,
+        null
+      ]
+    }
+  }
+}

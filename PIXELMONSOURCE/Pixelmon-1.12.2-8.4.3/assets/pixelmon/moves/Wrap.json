@@ -1,0 +1,40 @@
+{
+  "attackIndex": 89,
+  "attackName": "Wrap",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 15,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

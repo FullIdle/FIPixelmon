@@ -1,0 +1,22 @@
+{
+  "cardCode": "FOSS2",
+  "attackNumber": 1,
+  "name": "attack.FOSS2.1.name",
+  "energy": [
+    "WATER",
+    "WATER",
+    "WATER"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.FOSS2.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:PARALYZED",
+  "effects": [
+    {
+      "condition": "PARALYZED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

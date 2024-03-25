@@ -1,0 +1,90 @@
+{
+  "pixelmonName": "Wobbuffet",
+  "pokemon": "Wobbuffet",
+  "form": 0,
+  "stats": {
+    "HP": 190,
+    "Attack": 33,
+    "Defence": 58,
+    "Speed": 33,
+    "SpecialAttack": 33,
+    "SpecialDefence": 58
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 177,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Wynaut"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 28.5,
+  "bounding_box": {
+    "width": 0.9,
+    "height": 1.45,
+    "eye_height": 1.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "ShadowTag",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Amnesia",
+      "Charm",
+      "Counter",
+      "Destiny Bond",
+      "Encore",
+      "Mirror Coat",
+      "Safeguard",
+      "Splash"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [],
+  "transferMoves": [
+    "Tickle"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Amnesia",
+    "Encore"
+  ],
+  "tmMoves8": [
+    "Safeguard",
+    "Charm"
+  ],
+  "tmMoves7": [
+    "Safeguard"
+  ],
+  "tmMoves6": [
+    "Safeguard"
+  ],
+  "forms": {}
+}

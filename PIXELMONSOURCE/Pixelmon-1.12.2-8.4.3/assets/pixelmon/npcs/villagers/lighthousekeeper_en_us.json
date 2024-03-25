@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "lighthousekeeper.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Lighthouse Keeper"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "You know the saying don't stare at the sun?"
+                },
+                {
+                    "text": "Well, same goes for lighthouse lights..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Who needs a night light when you have a lanturn!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "And I would have gotten away with it too, if it weren't for those meddling kids!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "The air sure is salty today..."
+                },
+                {
+                    "text": "Someone must have lost a gym battle."
+                }
+            ]
+        }
+    ]
+}

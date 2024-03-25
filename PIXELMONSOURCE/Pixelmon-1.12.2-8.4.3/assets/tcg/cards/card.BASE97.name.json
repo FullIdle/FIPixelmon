@@ -1,0 +1,31 @@
+{
+  "id": 97,
+  "setId": 1,
+  "cardType": "ENERGY",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 0,
+  "code": "BASE97",
+  "name": "card.BASE97.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": "gui/cards/foreground/fighting.png",
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

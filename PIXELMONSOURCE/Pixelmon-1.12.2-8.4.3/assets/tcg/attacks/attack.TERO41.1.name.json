@@ -1,0 +1,21 @@
+{
+  "cardCode": "TERO41",
+  "attackNumber": 1,
+  "name": "attack.TERO41.1.name",
+  "energy": [
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.TERO41.1.text",
+  "effectsString": "OPP_CONDITION:POISONED",
+  "effects": [
+    {
+      "condition": "POISONED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": null
+    }
+  ]
+}

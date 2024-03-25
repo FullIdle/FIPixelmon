@@ -1,0 +1,27 @@
+{
+  "id": "Phanpy",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Phanpy"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "maxY": 120
+      },
+      "rarity": 130.0
+    }
+  ]
+}

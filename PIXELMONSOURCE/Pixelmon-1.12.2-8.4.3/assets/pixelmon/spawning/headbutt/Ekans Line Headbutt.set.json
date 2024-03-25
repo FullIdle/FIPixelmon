@@ -1,0 +1,125 @@
+{
+  "id": "Ekans Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ekans"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 11,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "oak",
+          "acacia"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "savannas",
+          "swamps",
+          "evil"
+        ]
+      },
+      "rarity": 80.0
+    },
+    {
+      "spec": {
+        "name": "Arbok",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "oak",
+          "acacia"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "savannas",
+          "swamps",
+          "evil"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Arbok",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "oak",
+          "acacia"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Arbok",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "oak",
+          "acacia"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Arbok",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "variant": [
+          "jungle",
+          "oak",
+          "acacia"
+        ],
+        "stringBiomes": [
+          "evil"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

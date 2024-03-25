@@ -1,0 +1,59 @@
+{
+  "id": 153,
+  "setId": 2,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 133,
+  "code": "JUNG51",
+  "name": "card.JUNG51.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG51",
+      "attackNumber": 1,
+      "name": "attack.JUNG51.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.JUNG51.1.text",
+      "effects": [
+        "HEAD-SELF_IMMUNE:*"
+      ]
+    },
+    {
+      "cardCode": "JUNG51",
+      "attackNumber": 2,
+      "name": "attack.JUNG51.2.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": "Plus",
+      "text": "attack.JUNG51.2.text",
+      "effects": [
+        "HEAD-OPP_DAMAGE:20"
+      ]
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

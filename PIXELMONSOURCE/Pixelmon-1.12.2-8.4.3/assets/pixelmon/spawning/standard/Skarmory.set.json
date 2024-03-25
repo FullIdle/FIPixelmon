@@ -1,0 +1,32 @@
+{
+  "id": "Skarmory",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Skarmory"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "savannas"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

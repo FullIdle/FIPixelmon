@@ -1,0 +1,58 @@
+{
+  "id": 140,
+  "setId": 2,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 90,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 108,
+  "code": "JUNG38",
+  "name": "card.JUNG38.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG38",
+      "attackNumber": 1,
+      "name": "attack.JUNG38.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.JUNG38.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    },
+    {
+      "cardCode": "JUNG38",
+      "attackNumber": 2,
+      "name": "attack.JUNG38.2.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.JUNG38.2.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:CONFUSED"
+      ]
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

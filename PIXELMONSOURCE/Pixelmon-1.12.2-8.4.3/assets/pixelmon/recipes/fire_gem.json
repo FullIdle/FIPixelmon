@@ -1,0 +1,13 @@
+{
+  "type": "pixelmon:infusion",
+  
+  "input1": {
+    "item": "pixelmon:occa_berry"
+  },
+  "input2": {
+    "item": "pixelmon:crystal_block"
+  },
+  "result": {
+    "item": "pixelmon:fire_gem"
+  }
+}

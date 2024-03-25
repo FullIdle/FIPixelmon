@@ -1,0 +1,45 @@
+{
+  "id": "Mienfoo Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mienfoo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Mienshao"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 24,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 9.0
+    }
+  ]
+}

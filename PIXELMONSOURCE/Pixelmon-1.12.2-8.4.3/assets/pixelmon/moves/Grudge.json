@@ -1,0 +1,50 @@
+{
+  "attackIndex": 352,
+  "attackName": "Grudge",
+  "attackType": "Ghost",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Grudge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Grudge"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Z-Grudge",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "FollowMe",
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "FollowMe"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

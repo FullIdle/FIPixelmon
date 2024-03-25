@@ -1,0 +1,81 @@
+{
+  "id": "Slugma Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Slugma"
+      },
+      "stringLocationTypes": [
+        "Old Rod Lava"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "savannas",
+          "mesas"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Slugma"
+      },
+      "stringLocationTypes": [
+        "Good Rod Lava"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "savannas",
+          "mesas"
+        ]
+      },
+      "rarity": 120.0
+    },
+    {
+      "spec": {
+        "name": "Magcargo"
+      },
+      "stringLocationTypes": [
+        "Good Rod Lava"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "savannas",
+          "mesas"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Magcargo"
+      },
+      "stringLocationTypes": [
+        "Super Rod Lava"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "savannas",
+          "mesas"
+        ]
+      },
+      "rarity": 80.0
+    }
+  ]
+}

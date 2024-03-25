@@ -1,0 +1,36 @@
+{
+  "id": "Camerupt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Camerupt"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 33,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesa"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:deadbush"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    }
+  ]
+}

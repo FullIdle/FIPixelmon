@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "groundleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "雷克斯"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "你將會嚐到苦頭！",
+      "win": "你沒有機會贏我。",
+      "lose": "You already came down to meet me."
+    }
+  ]
+}

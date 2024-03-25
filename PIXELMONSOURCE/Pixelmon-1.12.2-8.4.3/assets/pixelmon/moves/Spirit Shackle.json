@@ -1,0 +1,47 @@
+{
+  "attackIndex": 663,
+  "attackName": "Spirit Shackle",
+  "attackType": "Ghost",
+  "attackCategory": "PHYSICAL",
+  "basePower": 80,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "MeanLook",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MeanLook"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Never-Ending Nightmare",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    },
+	{
+      "crystal": "decidium_z",
+      "attackName": "Sinister Arrow Raid",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": ["Decidueye"]
+    }
+  ]
+}

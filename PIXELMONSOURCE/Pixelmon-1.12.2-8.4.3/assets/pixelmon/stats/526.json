@@ -1,0 +1,263 @@
+{
+  "pixelmonName": "Gigalith",
+  "pokemon": "Gigalith",
+  "form": 0,
+  "stats": {
+    "HP": 85,
+    "Attack": 135,
+    "Defence": 130,
+    "Speed": 25,
+    "SpecialAttack": 60,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 40,
+  "spawnLevelRange": 10,
+  "baseExp": 227,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Boldore",
+    "Roggenrola"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.4
+    }
+  },
+  "weight": 260.0,
+  "bounding_box": {
+    "width": 1.6,
+    "height": 2.0,
+    "eye_height": 1.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "Sturdy",
+    "SandStream",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Power Gem",
+      "Sand Attack",
+      "Stealth Rock",
+      "Tackle"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Smack Down"
+    ],
+    "20": [
+      "Iron Defense"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "30": [
+      "Rock Slide"
+    ],
+    "36": [
+      "Rock Blast"
+    ],
+    "42": [
+      "Sandstorm"
+    ],
+    "48": [
+      "Stone Edge"
+    ],
+    "54": [
+      "Explosion"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Autotomize",
+    "Curse",
+    "Gravity",
+    "Take Down",
+    "Wide Guard"
+  ],
+  "transferMoves": [
+    "Block",
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Lock-On",
+    "Magnitude",
+    "Nature Power",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Superpower",
+    "Iron Defense",
+    "Power Gem",
+    "Earth Power",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heavy Slam",
+    "Throat Chop",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Facade",
+    "Weather Ball",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Rock Blast",
+    "Round",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

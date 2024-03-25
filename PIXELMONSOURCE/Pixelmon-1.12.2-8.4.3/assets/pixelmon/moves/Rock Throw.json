@@ -1,0 +1,52 @@
+{
+  "attackIndex": 125,
+  "attackName": "Rock Throw",
+  "attackType": "Rock",
+  "attackCategory": "PHYSICAL",
+  "basePower": 50,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 1.2
+			},
+			"7": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 1.2
+			},
+			"14": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 1.2
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "rockium_z",
+      "attackName": "Continental Crush",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

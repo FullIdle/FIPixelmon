@@ -1,0 +1,56 @@
+{
+  "attackIndex": 459,
+  "attackName": "Leaf Storm",
+  "attackType": "Grass",
+  "attackCategory": "SPECIAL",
+  "basePower": 130,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "SpecialAttack",
+      "amount": -2,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "LEAF",
+				"atTarget": false
+			},
+			"13": {
+				"id": "beam",
+				"texture": "LEAF",
+				"segments": 11
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 195,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "attackIndex": 696,
+  "attackName": "Life Dew",
+  "attackType": "Water",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "increment": 25,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recover"
+    }
+  ],
+  "animations": [
+    
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Z-Life Dew",
+      "basePower": 0,
+	  "effects": [
+	    {
+          "type": "SpecialDefence",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Oddish Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Oddish"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 2,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "forests",
+          "swamps"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

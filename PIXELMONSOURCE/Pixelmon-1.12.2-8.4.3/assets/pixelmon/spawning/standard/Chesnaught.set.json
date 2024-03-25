@@ -1,0 +1,26 @@
+{
+  "id": "Chesnaught",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chesnaught"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "taigas"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

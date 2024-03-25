@@ -1,0 +1,25 @@
+{
+  "id": "Durant",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Durant"
+      },
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 30.0
+    }
+  ]
+}

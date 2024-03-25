@@ -1,0 +1,268 @@
+{
+  "pixelmonName": "Dwebble",
+  "pokemon": "Dwebble",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 65,
+    "Defence": 85,
+    "Speed": 55,
+    "SpecialAttack": 35,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 29,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 14.5,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.4,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Crustle"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "ShellArmour",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fury Cutter",
+      "Sand Attack"
+    ],
+    "4": [
+      "Withdraw"
+    ],
+    "8": [
+      "Smack Down"
+    ],
+    "12": [
+      "Bug Bite"
+    ],
+    "16": [
+      "Flail"
+    ],
+    "20": [
+      "Slash"
+    ],
+    "24": [
+      "Rock Slide"
+    ],
+    "28": [
+      "Stealth Rock"
+    ],
+    "32": [
+      "Rock Blast"
+    ],
+    "36": [
+      "X-Scissor"
+    ],
+    "40": [
+      "Rock Polish"
+    ],
+    "44": [
+      "Shell Smash"
+    ],
+    "48": [
+      "Rock Wrecker"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Block",
+    "Counter",
+    "Curse",
+    "Knock Off",
+    "Night Slash",
+    "Wide Guard"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Feint Attack",
+    "Frustration",
+    "Hidden Power",
+    "Hone Claws",
+    "Nature Power",
+    "Return",
+    "Rock Smash",
+    "Rototiller",
+    "Secret Power",
+    "Strength",
+    "Struggle Bug",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Earthquake",
+    "Substitute",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Poison Jab",
+    "X-Scissor",
+    "Stone Edge",
+    "Stealth Rock"
+  ],
+  "tmMoves8": [
+    "Solar Beam",
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Facade",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Rock Blast",
+    "Shadow Claw",
+    "Round",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Shadow Claw",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Shadow Claw",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Shadow Claw",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

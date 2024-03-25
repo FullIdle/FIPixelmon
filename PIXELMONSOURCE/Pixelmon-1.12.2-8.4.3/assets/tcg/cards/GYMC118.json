@@ -1,0 +1,46 @@
+{
+  "id": 571,
+  "setId": 7,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 100,
+  "code": "GYMC118",
+  "name": "card.GYMC118.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC118",
+      "attackNumber": 1,
+      "name": "attack.GYMC118.1.name",
+      "energy": [
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.GYMC118.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

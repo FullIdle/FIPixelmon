@@ -1,0 +1,25 @@
+{
+  "id": "Flapple",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Flapple"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

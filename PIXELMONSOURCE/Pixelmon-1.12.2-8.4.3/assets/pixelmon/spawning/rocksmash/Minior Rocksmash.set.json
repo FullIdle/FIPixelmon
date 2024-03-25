@@ -1,0 +1,24 @@
+{
+  "id": "Minior Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Minior"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "freezing mountains"
+        ],
+        "minY": 120
+      },
+      "rarity": 0.5
+    }
+  ]
+}

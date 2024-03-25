@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "bugcatcher4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Bob"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "¡Bienvenido al Invernadero Madera!"
+        },
+        {
+          "text": "Nuestro líder es un apasionado de la jardinería."
+        },
+        {
+          "text": "¡Lleva cuidado con las abejas!"
+        }
+      ]
+    }
+  ]
+}

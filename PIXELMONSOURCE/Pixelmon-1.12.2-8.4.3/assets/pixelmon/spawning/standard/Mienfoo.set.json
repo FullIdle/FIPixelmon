@@ -1,0 +1,25 @@
+{
+  "id": "Mienfoo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mienfoo"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 60.0
+    }
+  ]
+}

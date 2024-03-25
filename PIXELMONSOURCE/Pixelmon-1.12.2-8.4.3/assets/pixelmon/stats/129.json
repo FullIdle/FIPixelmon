@@ -1,0 +1,118 @@
+{
+  "pixelmonName": "Magikarp",
+  "pokemon": "Magikarp",
+  "form": 0,
+  "stats": {
+    "HP": 20,
+    "Attack": 10,
+    "Defence": 55,
+    "Speed": 80,
+    "SpecialAttack": 15,
+    "SpecialDefence": 20
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 20,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 5,
+    "swimSpeed": 0.6,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 10.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 0.9,
+    "eye_height": 0.765
+  },
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Gyarados"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Bite"
+      ]
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Water2",
+    "Dragon"
+  ],
+  "eggCycles": 6,
+  "levelUpMoves": {
+    "0": [
+      "Splash"
+    ],
+    "15": [
+      "Tackle"
+    ],
+    "25": [
+      "Flail"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [],
+  "transferMoves": [
+    "Celebrate",
+    "Happy Hour"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump"
+  ],
+  "tmMoves8": [
+    "Bounce"
+  ],
+  "forms": {
+      "1": {
+          "form": 1,
+          "evolutions": [
+              {
+                "level": 20,
+                "to": {
+                  "name": "Gyarados",
+                  "form": 100
+                },
+                "conditions": [],
+                "evoType": "leveling",
+                "moves": [
+                  "Bite"
+                ]
+              }
+          ]
+      }
+  }
+}

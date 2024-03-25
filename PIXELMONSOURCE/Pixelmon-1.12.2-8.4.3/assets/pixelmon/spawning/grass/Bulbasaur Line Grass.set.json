@@ -1,0 +1,71 @@
+{
+  "id": "Bulbasaur Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bulbasaur"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "rw_emperor_ridge"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Ivysaur"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "rw_emperor_ridge"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Venusaur"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "rw_emperor_ridge"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

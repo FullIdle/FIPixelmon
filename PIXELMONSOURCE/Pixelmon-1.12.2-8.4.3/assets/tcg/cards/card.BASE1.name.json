@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "setId": 1,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 65,
+  "code": "BASE1",
+  "name": "card.BASE1.name",
+  "description": "",
+  "previousPokemonId": 64,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE1",
+      "attackNumber": 1,
+      "name": "attack.BASE1.1.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.BASE1.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:CONFUSED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "DamageSwap"
+}

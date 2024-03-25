@@ -1,0 +1,313 @@
+{
+  "pixelmonName": "Castform",
+  "pokemon": "Castform",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 70,
+    "Defence": 70,
+    "Speed": 70,
+    "SpecialAttack": 70,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 0.8,
+  "bounding_box": {
+    "width": 0.3,
+    "height": 0.5,
+    "eye_height": 0.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "Forecast",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "10": [
+      "Ember",
+      "Powder Snow",
+      "Water Gun"
+    ],
+    "15": [
+      "Headbutt"
+    ],
+    "20": [
+      "Hail",
+      "Rain Dance",
+      "Sunny Day"
+    ],
+    "25": [
+      "Weather Ball"
+    ],
+    "35": [
+      "Blizzard",
+      "Fire Blast",
+      "Hydro Pump"
+    ],
+    "45": [
+      "Hurricane"
+    ]
+  },
+  "tutorMoves": [
+    "Defog",
+    "Icy Wind",
+    "Last Resort",
+    "Shock Wave",
+    "Snore",
+    "Tailwind",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Clear Smog",
+    "Cosmic Power",
+    "Disable",
+    "Future Sight",
+    "Guard Swap",
+    "Hex",
+    "Lucky Chant",
+    "Ominous Wind",
+    "Reflect Type"
+  ],
+  "transferMoves": [
+    "Avalanche",
+    "Body Slam",
+    "Captivate",
+    "Defense Curl",
+    "Double-Edge",
+    "Endure",
+    "Flash",
+    "Incinerate",
+    "Mimic",
+    "Natural Gift",
+    "Retaliate",
+    "Secret Power",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Thunder Wave",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Incinerate",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Incinerate",
+    "Retaliate",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Work Up",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Energy Ball",
+    "Endure",
+    "Flash",
+    "Avalanche",
+    "Thunder Wave",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "types": [
+        "Ice"
+      ]
+    },
+    "2": {
+      "form": 2,
+      "types": [
+        "Water"
+      ]
+    },
+    "3": {
+      "form": 3,
+      "types": [
+        "Fire"
+      ]
+    }
+  }
+}

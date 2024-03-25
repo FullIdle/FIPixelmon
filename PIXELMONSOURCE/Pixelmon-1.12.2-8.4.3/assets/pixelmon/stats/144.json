@@ -1,0 +1,533 @@
+{
+  "pixelmonName": "Articuno",
+  "pokemon": "Articuno",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 85,
+    "Defence": 100,
+    "Speed": 85,
+    "SpecialAttack": 95,
+    "SpecialDefence": 125
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 215,
+  "baseFriendship": 35,
+  "types": [
+    "Ice",
+    "Flying"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "mountedFlying": {
+    "upperAngleLimit": 40,
+    "lowerAngleLimit": -40,
+    "maxFlySpeed": 2.1,
+    "decelerationRate": 0.2,
+    "hoverDecelerationRate": 0.09,
+    "accelerationRate": 0.09,
+    "strafeAccelerationRate": 0.9,
+    "strafeRollConversion": 30,
+    "turnRate": 1,
+    "pitchRate": 1
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialDefence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": 0.0
+    }
+  },
+  "weight": 55.4,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.7,
+    "eye_height": 1.445
+  },
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "SnowCloak"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Gust",
+      "Mist"
+    ],
+    "5": [
+      "Powder Snow"
+    ],
+    "10": [
+      "Reflect"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "25": [
+      "Ancient Power"
+    ],
+    "30": [
+      "Tailwind"
+    ],
+    "35": [
+      "Freeze-Dry"
+    ],
+    "40": [
+      "Roost"
+    ],
+    "45": [
+      "Ice Beam"
+    ],
+    "55": [
+      "Hurricane"
+    ],
+    "60": [
+      "Mind Reader"
+    ],
+    "65": [
+      "Blizzard"
+    ],
+    "70": [
+      "Sheer Cold"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Triple Axel"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Aerial Ace",
+    "Air Cutter",
+    "Aurora Veil",
+    "Bide",
+    "Bubble Beam",
+    "Confide",
+    "Curse",
+    "Defog",
+    "Detect",
+    "Double Team",
+    "Double-Edge",
+    "Extrasensory",
+    "Frost Breath",
+    "Frustration",
+    "Haze",
+    "Headbutt",
+    "Heal Bell",
+    "Hidden Power",
+    "Laser Focus",
+    "Leer",
+    "Mimic",
+    "Mirror Coat",
+    "Mud-Slap",
+    "Natural Gift",
+    "Ominous Wind",
+    "Peck",
+    "Pluck",
+    "Rage",
+    "Razor Wind",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Secret Power",
+    "Signal Beam",
+    "Sky Attack",
+    "Sky Drop",
+    "Swagger",
+    "Take Down",
+    "Toxic",
+    "Twister",
+    "Water Gun",
+    "Water Pulse",
+    "Whirlwind"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Brave Bird",
+    "Hurricane"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Reflect",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Steel Wing",
+    "Sandstorm",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Swift",
+    "Weather Ball",
+    "Icicle Spear",
+    "U-turn",
+    "Avalanche",
+    "Round",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Steel Wing",
+    "Sky Drop",
+    "Giga Impact",
+    "Aurora Veil",
+    "Fly",
+    "Frost Breath",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Steel Wing",
+    "Sky Drop",
+    "Giga Impact",
+    "Frost Breath",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Sky Drop",
+    "Giga Impact",
+    "Frost Breath",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Steel Wing",
+    "Roost",
+    "Endure",
+    "Giga Impact",
+    "Avalanche",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Steel Wing"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Roar",
+    "Toxic",
+    "Rock Smash",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Blizzard",
+    "Hyper Beam",
+    "Icy Wind",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Sandstorm",
+    "Swift",
+    "Detect",
+    "Rest",
+    "Steel Wing"
+  ],
+  "tmMoves1": [
+    "Razor Wind",
+    "Whirlwind",
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Water Gun",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Rage",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Rest",
+    "Substitute"
+  ],
+  "forms": {
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 90,
+        "Attack": 85,
+        "Defence": 85,
+        "Speed": 95,
+        "SpecialAttack": 125,
+        "SpecialDefence": 100
+      },
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "spawnLocations": [
+        "Air"
+      ],
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "isRideable": false,
+      "canFly": false,
+      "canSurf": false,
+      "weight": 50.9,
+      "abilities": [
+        "Competitive",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Gust",
+          "Psycho Shift"
+        ],
+        "5": [
+          "Confusion"
+        ],
+        "10": [
+          "Reflect"
+        ],
+        "15": [
+          "Hypnosis"
+        ],
+        "20": [
+          "Agility"
+        ],
+        "25": [
+          "Ancient Power"
+        ],
+        "30": [
+          "Tailwind"
+        ],
+        "35": [
+          "Psycho Cut"
+        ],
+        "40": [
+          "Recover"
+        ],
+        "45": [
+          "Freezing Glare"
+        ],
+        "50": [
+          "Dream Eater"
+        ],
+        "55": [
+          "Hurricane"
+        ],
+        "60": [
+          "Mind Reader"
+        ],
+        "65": [
+          "Future Sight"
+        ],
+        "70": [
+          "Trick Room"
+        ]
+      },
+      "trMoves": [
+        "Psychic",
+        "Agility",
+        "Substitute",
+        "Psyshock",
+        "Endure",
+        "Sleep Talk",
+        "Shadow Ball",
+        "Future Sight",
+        "Skill Swap",
+        "Hyper Voice",
+        "Calm Mind",
+        "Brave Bird",
+        "Stored Power",
+        "Ally Switch",
+        "Hurricane"
+      ],
+      "tmMoves8": [
+        "Fly",
+        "Hyper Beam",
+        "Giga Impact",
+        "Light Screen",
+        "Reflect",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Scary Face",
+        "Steel Wing",
+        "Facade",
+        "Swift",
+        "Imprison",
+        "U-turn",
+        "Power Swap",
+        "Guard Swap",
+        "Psycho Cut",
+        "Trick Room",
+        "Round",
+        "Air Slash"
+      ],
+      "tutorMoves": [
+        "Dual Wingbeat",
+        "Expanding Force"
+      ]
+    }
+  }
+}

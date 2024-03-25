@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "psychicleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Ordo"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Es besteht keine Notwendigkeit, sich vorzustellen. Ich weiß wer du bist. Und ich weiß, dass du verlieren wirst!",
+      "win": "Kein Wunder, dass du verloren hast...",
+      "lose": "Ich... Ich habe verloren? Ich hab mich geirrt? Ich habe mich niemals zuvor geirrt!"
+    }
+  ]
+}

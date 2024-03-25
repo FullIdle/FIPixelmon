@@ -1,0 +1,51 @@
+{
+  "attackIndex": 118,
+  "attackName": "Mega Drain",
+  "attackType": "Grass",
+  "attackCategory": "SPECIAL",
+  "basePower": 40,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "drainPercent": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"inverted": true,
+				"scale": 0.3,
+				"texture": "NORMAL",
+				"speed": 0.2
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

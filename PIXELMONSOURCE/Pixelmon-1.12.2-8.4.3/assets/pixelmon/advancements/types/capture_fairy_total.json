@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lead"
+		},
+		"title": {
+			"translate": "advancements.capture_fairy_total.title"
+		},
+		"description": {
+			"translate": "advancements.capture_fairy_total.description"
+		},
+		"background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+		"hidden": true
+	},
+	"parent": "pixelmon:types/capture_fairy_25",
+	"criteria": {
+		"capture_fairy_total": {
+			"trigger": "pixelmon:capture_type_trigger",
+			"conditions" : {
+				"type" : "Fairy",
+				"count" : 49
+			}
+		}
+	}
+}

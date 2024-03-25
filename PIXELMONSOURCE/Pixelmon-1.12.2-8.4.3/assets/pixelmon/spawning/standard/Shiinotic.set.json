@@ -1,0 +1,40 @@
+{
+  "id": "Shiinotic",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shiinotic"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 24,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "birches",
+          "mushroom",
+          "taigas",
+          "redwoods",
+          "magical"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

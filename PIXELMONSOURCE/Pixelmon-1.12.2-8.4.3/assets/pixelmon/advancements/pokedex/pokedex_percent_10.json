@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:poke_ball"
+        },
+        "title": {
+            "translate": "advancements.pokedex_10.title"
+        },
+        "description": {
+            "translate": "advancements.pokedex_10.description"
+        },
+        "background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+        "hidden": true
+    },
+    "parent" : "pixelmon:pokedex/pokedex_trigger",
+    "criteria": {
+        "pokedex_percent_10": {
+            "trigger": "pixelmon:pokedex_trigger",
+            "conditions" : {
+                "percent" : 10
+            }
+        }
+    }
+}

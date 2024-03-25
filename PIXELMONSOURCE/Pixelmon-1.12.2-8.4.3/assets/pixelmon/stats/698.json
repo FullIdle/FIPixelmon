@@ -1,0 +1,289 @@
+{
+  "pixelmonName": "Amaura",
+  "pokemon": "Amaura",
+  "form": 0,
+  "stats": {
+    "HP": 77,
+    "Attack": 59,
+    "Defence": 50,
+    "Speed": 46,
+    "SpecialAttack": 67,
+    "SpecialDefence": 63
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 22,
+  "spawnLevelRange": 16,
+  "baseExp": 72,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Ice"
+  ],
+  "height": 1.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 25.2,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 39,
+      "to": {
+        "name": "Aurorus"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Refrigerate",
+    null,
+    "SnowWarning"
+  ],
+  "eggGroups": [
+    "Monster"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Powder Snow"
+    ],
+    "4": [
+      "Encore"
+    ],
+    "8": [
+      "Ancient Power"
+    ],
+    "12": [
+      "Icy Wind"
+    ],
+    "16": [
+      "Round"
+    ],
+    "20": [
+      "Mist"
+    ],
+    "24": [
+      "Aurora Beam"
+    ],
+    "28": [
+      "Thunder Wave"
+    ],
+    "32": [
+      "Nature Power"
+    ],
+    "36": [
+      "Freeze-Dry"
+    ],
+    "40": [
+      "Ice Beam"
+    ],
+    "44": [
+      "Light Screen"
+    ],
+    "48": [
+      "Hail"
+    ],
+    "52": [
+      "Blizzard"
+    ],
+    "56": [
+      "Hyper Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Aurora Veil",
+    "Discharge",
+    "Haze",
+    "Mirror Coat",
+    "Rock Throw",
+    "Take Down"
+  ],
+  "transferMoves": [
+    "Aqua Tail",
+    "Barrier",
+    "Charge Beam",
+    "Confide",
+    "Double Team",
+    "Dragon Tail",
+    "Dream Eater",
+    "Echoed Voice",
+    "Flash",
+    "Frost Breath",
+    "Frustration",
+    "Hidden Power",
+    "Magnet Rise",
+    "Psych Up",
+    "Return",
+    "Roar",
+    "Rock Polish",
+    "Rock Smash",
+    "Secret Power",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Iron Tail",
+    "Hyper Voice",
+    "Iron Defense",
+    "Calm Mind",
+    "Dark Pulse",
+    "Earth Power",
+    "Zen Headbutt",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Weather Ball",
+    "Rock Tomb",
+    "Mud Shot",
+    "Rock Blast",
+    "Avalanche",
+    "Round",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Dragon Tail",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Nature Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Thunder Wave",
+    "Psych Up",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Dragon Tail",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Nature Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "forms": {}
+}

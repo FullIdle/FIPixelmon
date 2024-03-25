@@ -1,0 +1,110 @@
+{
+  "id": "Litwick Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Litwick"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:torch"
+            ]
+          }
+        }
+      ],
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Lampent"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 41,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:torch"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Chandelure"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 45,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:torch"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

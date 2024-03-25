@@ -1,0 +1,27 @@
+{
+  "id": "Altaria",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Altaria"
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "magical"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

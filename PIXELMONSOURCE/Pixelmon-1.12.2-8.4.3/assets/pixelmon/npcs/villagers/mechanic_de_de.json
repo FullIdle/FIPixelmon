@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "mechanic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Grease Jockey Joe"
+        },
+        {
+            "name": "Mac the Wrench"
+        },
+        {
+            "name": "Bob Driver"
+        },
+        {
+            "name": "Angus"
+        },
+        {
+            "name": "Pit Stop Pete"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Du hast ein quietschendes Rad an einem Fahrzeug?"
+                },
+                {
+                    "text": "Bring das Fahrzeug für eine Überholung in meine Werkstatt."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wofür willst du Pokémon jagen? Ich habe ein paar wirklich schöne Autos, die man hier reparieren kann."
+                },
+                {
+                    "text": "Nichts ist befriedigender als ein Tag unter der Motorhaube eines kaputten Autos!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich muss Urlaub mahcne. Den ganzen Tag unter Autos zu krabbeln, wird ein wenig ermüdend."
+                },
+                {
+                    "text": "Wie wäre es, wenn du meine Werkstatt für einen Moment übernimmst? Ich brauche eine Pause."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich liebe den Geruch von Achsfett am Morgen!"
+                },
+                {
+                    "text": "Komm einmal mit einem Fahrzeug von dir zurück. Ich werde es süß summen lassen!"
+                }
+            ]
+        }
+    ]
+}

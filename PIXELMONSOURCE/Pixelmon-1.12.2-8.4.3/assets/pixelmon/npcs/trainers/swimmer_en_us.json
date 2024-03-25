@@ -1,0 +1,318 @@
+{
+    "data": {
+        "trainerType": "Swimmer",
+        "minLevel": 15,
+        "maxLevel": 35,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Squirtle"
+        },
+        {
+            "name": "Wartortle"
+        },
+        {
+            "name": "Horsea"
+        },
+        {
+            "name": "Magikarp"
+        },
+        {
+            "name": "Gyarados"
+        },
+        {
+            "name": "Blastoise"
+        },
+        {
+            "name": "Tentacool"
+        },
+        {
+            "name": "Tentacool"
+        },
+        {
+            "name": "Krabby"
+        },
+        {
+            "name": "Goldeen"
+        },
+        {
+            "name": "Goldeen"
+        },
+        {
+            "name": "Seaking"
+        },
+        {
+            "name": "Staryu"
+        },
+        {
+            "name": "Staryu"
+        },
+        {
+            "name": "Starmie"
+        },
+        {
+            "name": "Lapras"
+        },
+        {
+            "name": "Shellder"
+        },
+        {
+            "name": "Remoraid"
+        },
+        {
+            "name": "Octillery"
+        },
+        {
+            "name": "Luvdisc"
+        },
+        {
+            "name": "Clamperl"
+        },
+        {
+            "name": "Gorebyss"
+        },
+        {
+            "name": "Huntail"
+        },
+        {
+            "name": "Carvanha"
+        },
+        {
+            "name": "Sharpedo"
+        },
+        {
+            "name": "Barboach"
+        },
+        {
+            "name": "Whiscash"
+        },
+        {
+            "name": "Feebas"
+        },
+        {
+            "name": "Milotic"
+        },
+        {
+            "name": "Kingdra"
+        },
+        {
+            "name": "Wailmer"
+        },
+        {
+            "name": "Wailmer"
+        },
+        {
+            "name": "Wailord"
+        },
+        {
+            "name": "Qwilfish"
+        },
+        {
+            "name": "Chinchou"
+        },
+        {
+            "name": "Chinchou"
+        },
+        {
+            "name": "Lanturn"
+        },
+        {
+            "name": "Relicanth"
+        },
+        {
+            "name": "Finneon"
+        },
+        {
+            "name": "Finneon"
+        },
+        {
+            "name": "Lumineon"
+        },
+        {
+            "name": "Basculin"
+        },
+        {
+            "name": "Alomomola"
+        },
+        {
+            "name": "Alomomola"
+        },
+        {
+            "name": "Skrelp"
+        },
+        {
+            "name": "Dragalge"
+        },
+        {
+            "name": "Tentacruel"
+        },
+        {
+            "name": "Frillish"
+        },
+        {
+            "name": "Jellicent"
+        },
+        {
+            "name": "Wishiwashi"
+        },
+        {
+            "name": "Bruxish"
+        },
+        {
+            "name": "Arrokuda"
+        },
+        {
+            "name": "Arrokuda"
+        },
+        {
+            "name": "Barraskewda"
+        },
+        {
+            "name": "Wingull"
+        },
+        {
+            "name": "Pelipper"
+        },
+        {
+            "name": "Manaphy"
+        }
+    ],
+    "names": [
+        {
+            "name": "Aaron"
+        },
+        {
+            "name": "Adam"
+        },
+        {
+            "name": "Alen"
+        },
+        {
+            "name": "Albert"
+        },
+        {
+            "name": "Alex"
+        },
+        {
+            "name": "Arthur"
+        },
+        {
+            "name": "Arnold"
+        },
+        {
+            "name": "Ashton"
+        },
+        {
+            "name": "Brad"
+        },
+        {
+            "name": "Blake"
+        },
+        {
+            "name": "Brendon"
+        },
+        {
+            "name": "Byron"
+        },
+        {
+            "name": "Cameron"
+        },
+        {
+            "name": "Carlos"
+        },
+        {
+            "name": "Carter"
+        },
+        {
+            "name": "Declan"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Derek"
+        },
+        {
+            "name": "Domonic"
+        },
+        {
+            "name": "Elliot"
+        },
+        {
+            "name": "Eric"
+        },
+        {
+            "name": "Gary"
+        },
+        {
+            "name": "George"
+        },
+        {
+            "name": "Gilbert"
+        },
+        {
+            "name": "Glen"
+        },
+        {
+            "name": "Hayden"
+        },
+        {
+            "name": "Harry"
+        },
+        {
+            "name": "Henry"
+        },
+        {
+            "name": "Ian"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Jacob"
+        },
+        {
+            "name": "Jaden"
+        },
+        {
+            "name": "Jeff"
+        },
+        {
+            "name": "Jerry"
+        },
+        {
+            "name": "Jim"
+        },
+        {
+            "name": "Joel"
+        },
+        {
+            "name": "Kai"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Let's test my new water Pokémon!",
+            "win": "My new water Pokémon are great!",
+            "lose": "My new Pokémon need some training!"
+        },
+        {
+            "opening": "I swim anytime I want!",
+            "win": "Swimming makes you strong like me!",
+            "lose": "I might go for a swim to forget my defeat!"
+        },
+        {
+            "opening": "Have to warm up before I swim!",
+            "win": "My first win!",
+            "lose": "I can never win a battle in the ocean!"
+        },
+        {
+            "opening": "Aren't water Pokémon beautiful?",
+            "win": "Get water Pokémon if you want to be strong!",
+            "lose": "Your Pokémon are too strong!"
+        }
+    ]
+}

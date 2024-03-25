@@ -1,0 +1,165 @@
+{
+  "data": {
+    "trainerType": "Swimmer",
+    "minLevel": 13,
+    "maxLevel": 18,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 6,
+    "winnings": 18
+  },
+  "pokemon": [
+    {
+      "name": "Squirtle"
+    },
+    {
+      "name": "Tentacool"
+    },
+    {
+      "name": "Slowpoke"
+    },
+    {
+      "name": "Poliwag"
+    },
+    {
+      "name": "Psyduck"
+    },
+    {
+      "name": "Shellder"
+    }
+  ],
+  "names": [
+    {
+      "name": "Aaron"
+    },
+    {
+      "name": "Adam"
+    },
+    {
+      "name": "Alen"
+    },
+    {
+      "name": "Albert"
+    },
+    {
+      "name": "Alex"
+    },
+    {
+      "name": "Arthur"
+    },
+    {
+      "name": "Arnold"
+    },
+    {
+      "name": "Ashton"
+    },
+    {
+      "name": "Brad"
+    },
+    {
+      "name": "Blake"
+    },
+    {
+      "name": "Brendon"
+    },
+    {
+      "name": "Byron"
+    },
+    {
+      "name": "Cameron"
+    },
+    {
+      "name": "Carlos"
+    },
+    {
+      "name": "Carter"
+    },
+    {
+      "name": "Declan"
+    },
+    {
+      "name": "Dennis"
+    },
+    {
+      "name": "Derek"
+    },
+    {
+      "name": "Domonic"
+    },
+    {
+      "name": "Elliot"
+    },
+    {
+      "name": "Eric"
+    },
+    {
+      "name": "Gary"
+    },
+    {
+      "name": "George"
+    },
+    {
+      "name": "Gilbert"
+    },
+    {
+      "name": "Glen"
+    },
+    {
+      "name": "Hayden"
+    },
+    {
+      "name": "Harry"
+    },
+    {
+      "name": "Henry"
+    },
+    {
+      "name": "Ian"
+    },
+    {
+      "name": "Jack"
+    },
+    {
+      "name": "Jacob"
+    },
+    {
+      "name": "Jaden"
+    },
+    {
+      "name": "Jeff"
+    },
+    {
+      "name": "Jerry"
+    },
+    {
+      "name": "Jim"
+    },
+    {
+      "name": "Joel"
+    },
+    {
+      "name": "Kai"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Gestattet mir meine neuen Wasser Pokémon auszuprobieren!",
+      "win": "Sie sind großartig!",
+      "lose": "Sie benötigen etwas Übung!"
+    },
+    {
+      "opening": "Ich schwimme wann ich möchte!",
+      "win": "Das Schwimmen machte dich stark wie mich!",
+      "lose": "Womöglich schwimme ich eine Runde um meine Niederlage zu vergessen!"
+    },
+    {
+      "opening": "Muss mich aufwärmen bevor ich schwimme!",
+      "win": "Mein erster Sieg!",
+      "lose": "Ich werde niemals einen Kampf auf See gewinnen!"
+    },
+    {
+      "opening": "Sind Wasser-Pokémon nicht herrlich?",
+      "win": "Hol dir Wasser-Pokémon, wenn du stark sein willst; Karpador kostet nur 500 Pokédollar!",
+      "lose": "Deine Pokémon sind zu stark!"
+    }
+  ]
+}

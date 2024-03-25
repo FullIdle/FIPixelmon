@@ -1,0 +1,37 @@
+{
+  "id": "Dunsparce Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dunsparce"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 1,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Dunsparce"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 1,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 30.0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "engineer.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Gustave"
+        },
+        {
+            "name": "Graham"
+        },
+        {
+            "name": "Seymour"
+        },
+        {
+            "name": "Thomas"
+        },
+        {
+            "name": "Kees"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "With my equipment, I'm protected from electric shock!"
+                },
+                {
+                    "text": "That means that I can pet wild Pikachu without fear."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I was supposed to fix a utility pole, but I can't find it anywhere."
+                },
+                {
+                    "text": "I'm starting to think I'm getting hazed."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "There's going to be a power outage tomorrow."
+                },
+                {
+                    "text": "Don't panic; it's just maintenance."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No, I'm not angry at you. I always make that face."
+                },
+                {
+                    "text": "That's my normal face! My neutral face. You got a problem with that?"
+                }
+            ]
+        }
+    ]
+}

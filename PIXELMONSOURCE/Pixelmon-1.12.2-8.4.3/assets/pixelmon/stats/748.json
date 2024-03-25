@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Toxapex",
+  "pokemon": "Toxapex",
+  "form": -1,
+  "stats": {
+    "HP": 50,
+    "Attack": 63,
+    "Defence": 152,
+    "Speed": 35,
+    "SpecialAttack": 53,
+    "SpecialDefence": 142
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 25,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Mareanie"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 14.5,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 0.9,
+    "eye_height": 0.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "Merciless",
+    "Limber",
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Baneful Bunker",
+      "Bite",
+      "Peck",
+      "Poison Sting",
+      "Wide Guard"
+    ],
+    "15": [
+      "Venoshock"
+    ],
+    "20": [
+      "Recover"
+    ],
+    "25": [
+      "Pin Missile"
+    ],
+    "30": [
+      "Toxic Spikes"
+    ],
+    "35": [
+      "Liquidation"
+    ],
+    "42": [
+      "Venom Drench"
+    ],
+    "49": [
+      "Poison Jab"
+    ],
+    "56": [
+      "Toxic"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Haze",
+    "Infestation",
+    "Spit Up",
+    "Stockpile",
+    "Swallow"
+  ],
+  "transferMoves": [
+    "After You",
+    "Block",
+    "Confide",
+    "Covet",
+    "Double Team",
+    "Frost Breath",
+    "Frustration",
+    "Gastro Acid",
+    "Hidden Power",
+    "Knock Off",
+    "Magic Coat",
+    "Pain Split",
+    "Return",
+    "Smack Down",
+    "Snatch",
+    "Spike Cannon",
+    "Spite",
+    "Swagger",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Muddy Water",
+    "Iron Defense",
+    "Toxic Spikes",
+    "Poison Jab",
+    "Gunk Shot",
+    "Sludge Wave",
+    "Scald",
+    "Venom Drench",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Mud Shot",
+    "Brine",
+    "Payback",
+    "Cross Poison",
+    "Venoshock",
+    "Round",
+    "Hex"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Payback",
+    "Frost Breath",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Confide"
+  ],
+  "forms": {}
+}

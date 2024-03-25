@@ -1,0 +1,218 @@
+{
+  "pixelmonName": "Clauncher",
+  "pokemon": "Clauncher",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 53,
+    "Defence": 62,
+    "Speed": 44,
+    "SpecialAttack": 58,
+    "SpecialDefence": 63
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 12,
+  "baseExp": 66,
+  "baseFriendship": 0,
+  "types": [
+    "Water"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 8.3,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.7,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Clawitzer"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "MegaLauncher",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Water3"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Splash",
+      "Water Gun"
+    ],
+    "5": [
+      "Vise Grip"
+    ],
+    "10": [
+      "Flail"
+    ],
+    "15": [
+      "Aqua Jet"
+    ],
+    "20": [
+      "Smack Down"
+    ],
+    "25": [
+      "Hone Claws"
+    ],
+    "30": [
+      "Water Pulse"
+    ],
+    "35": [
+      "Swords Dance"
+    ],
+    "40": [
+      "Aura Sphere"
+    ],
+    "45": [
+      "Bounce"
+    ],
+    "50": [
+      "Muddy Water"
+    ],
+    "55": [
+      "Crabhammer"
+    ]
+  },
+  "tutorMoves": [
+    "Flip Turn",
+    "Terrain Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Bubble Beam",
+    "Entrainment"
+  ],
+  "transferMoves": [
+    "Bubble",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Toxic",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Surf",
+    "Ice Beam",
+    "Waterfall",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Muddy Water",
+    "Aura Sphere",
+    "Dragon Pulse",
+    "Flash Cannon",
+    "Sludge Wave",
+    "Scald"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Helping Hand",
+    "Dive",
+    "Bounce",
+    "U-turn",
+    "Venoshock",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {}
+}

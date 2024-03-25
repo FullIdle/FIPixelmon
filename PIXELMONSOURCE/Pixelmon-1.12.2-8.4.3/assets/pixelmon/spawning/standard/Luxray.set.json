@@ -1,0 +1,25 @@
+{
+  "id": "Luxray",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Luxray"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

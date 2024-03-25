@@ -1,0 +1,196 @@
+{
+  "pixelmonName": "Litten",
+  "pokemon": "Litten",
+  "form": -1,
+  "stats": {
+    "HP": 45,
+    "Attack": 65,
+    "Defence": 40,
+    "Speed": 70,
+    "SpecialAttack": 60,
+    "SpecialDefence": 40
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.3,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.6,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Torracat"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "Intimidate"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Scratch"
+    ],
+    "3": [
+      "Ember"
+    ],
+    "6": [
+      "Lick"
+    ],
+    "9": [
+      "Roar"
+    ],
+    "12": [
+      "Fury Swipes"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "18": [
+      "Double Kick"
+    ],
+    "21": [
+      "Fire Fang"
+    ],
+    "24": [
+      "Scary Face"
+    ],
+    "27": [
+      "Swagger"
+    ],
+    "30": [
+      "Flamethrower"
+    ],
+    "33": [
+      "Thrash"
+    ],
+    "36": [
+      "Flare Blitz"
+    ]
+  },
+  "tutorMoves": [
+    "Fire Pledge"
+  ],
+  "eggMoves": [
+    "Fake Out",
+    "Parting Shot",
+    "Power Trip"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Covet",
+    "Double Team",
+    "Endeavor",
+    "Flame Charge",
+    "Frustration",
+    "Hidden Power",
+    "Leer",
+    "Return",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Flamethrower",
+    "Fire Blast",
+    "Leech Life",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Heat Wave",
+    "Taunt",
+    "Overheat",
+    "Bulk Up",
+    "Flare Blitz",
+    "Nasty Plot",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Pay Day",
+    "Fire Spin",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Revenge",
+    "U-turn",
+    "Shadow Claw",
+    "Fire Fang",
+    "Round",
+    "Acrobatics"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Swords Dance",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Panpour",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Panpour"
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 11,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

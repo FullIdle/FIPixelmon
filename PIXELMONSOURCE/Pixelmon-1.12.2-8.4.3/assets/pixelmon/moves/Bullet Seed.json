@@ -1,0 +1,54 @@
+{
+  "attackIndex": 387,
+  "attackName": "Bullet Seed",
+  "attackType": "Grass",
+  "attackCategory": "PHYSICAL",
+  "basePower": 25,
+  "ppBase": 30,
+  "ppMax": 48,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "minHits": 2,
+      "maxHits": 5,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MultipleHit"
+    }
+  ],
+  "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "BEAM",
+          "texture": "SOLID",
+          "power": -40,
+          "scale": 0.15,
+          "segments": 10,
+          "speed": 0.6,
+          "rgb": [82, 52, 0]
+        }
+      }
+    }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

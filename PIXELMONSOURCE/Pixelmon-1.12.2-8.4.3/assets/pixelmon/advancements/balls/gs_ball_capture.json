@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:gs_ball"
+        },
+        "title": {
+            "translate": "advancements.gs_ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.gs_ball_capture.description"
+        },
+        "hidden": true
+    },
+    "parent": "pixelmon:balls/ultra_ball_capture",
+    "criteria": {
+        "gs_ball_capture": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "gs_ball"
+            }
+        }
+    }
+}

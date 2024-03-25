@@ -1,0 +1,237 @@
+{
+  "pixelmonName": "Clamperl",
+  "pokemon": "Clamperl",
+  "form": 0,
+  "stats": {
+    "HP": 35,
+    "Attack": 64,
+    "Defence": 85,
+    "Speed": 32,
+    "SpecialAttack": 74,
+    "SpecialDefence": 55
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 5,
+  "baseExp": 142,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": -1,
+    "depthRangeEnd": 0,
+    "swimSpeed": 0.0,
+    "decayRate": 0.0,
+    "refreshRate": 0
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 52.5,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.5,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Gorebyss"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:deep_sea_scale"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    },
+    {
+      "to": {
+        "name": "Huntail"
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:deep_sea_tooth"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "ShellArmour",
+    null,
+    "Rattled"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Clamp",
+      "Iron Defense",
+      "Water Gun",
+      "Whirlpool"
+    ],
+    "50": [
+      "Shell Smash"
+    ]
+  },
+  "tutorMoves": [
+    "Icy Wind",
+    "Iron Defense",
+    "Snore",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Barrier",
+    "Body Slam",
+    "Brine",
+    "Confuse Ray",
+    "Endure",
+    "Mud Sport",
+    "Muddy Water",
+    "Refresh",
+    "Supersonic",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Dive",
+    "Double-Edge",
+    "Mimic",
+    "Natural Gift",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Brine",
+    "Endure",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

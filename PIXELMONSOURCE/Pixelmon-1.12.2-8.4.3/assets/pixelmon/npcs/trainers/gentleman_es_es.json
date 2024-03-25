@@ -1,0 +1,86 @@
+{
+    "data": {
+        "trainerType": "Gentleman",
+        "minLevel": 7,
+        "maxLevel": 12,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 2,
+        "winnings": 200,
+        "rarity": 6,
+        "spawnBiomes": "Plains"
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Pikachu"
+        },
+        {
+            "name": "Grimer"
+        }
+    ],
+    "names": [
+        {
+            "name": "Winston"
+        },
+        {
+            "name": "Roberto"
+        },        
+        {
+            "name": "Ruperto"
+        },        
+        {
+            "name": "Hienrich"
+        },        
+        {
+            "name": "Bertram"
+        },        
+        {
+            "name": "Montague"
+        },        
+        {
+            "name": "Kenneth"
+        },        
+        {
+            "name": "Wallice"
+        },        
+        {
+            "name": "Randolf"
+        },        
+        {
+            "name": "Wilfred"
+        },
+        {
+            "name": "William"
+        },
+        {
+            "name": "Kingsley"
+        },
+        {
+            "name": "Lincoln"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Soy propietario de una mansión.",
+            "win": "Fue una batalla muy gentil.",
+            "lose": "Que descortés por tu parte..."
+		},        
+        {
+            "opening": "Buenos días.",
+            "win": "Parece que va a ser un gran día para mí.",
+            "lose": "Que descortés por tu parte no contestarme."
+        },        
+        {
+            "opening": "¿Te apetece un duelo caballeresco?",
+            "win": "Parece que te he superado.",
+            "lose": "Que violento es usted."
+        },
+        {
+            "opening": "Hacer dinero no es mi única hablidad.",
+            "win": "Hay mucho más de donde yo vengo.",
+            "lose": "Tal vez necesite algo más de práctica."
+        }
+    ]
+}

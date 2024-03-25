@@ -1,0 +1,168 @@
+{
+    "data": {
+        "trainerType": "Gardener",
+        "minLevel": 25,
+        "maxLevel": 45,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Bulbasaur"
+        },
+        {
+            "name": "Ivysaur"
+        },
+        {
+            "name": "Venusaur"
+        },
+        {
+            "name": "Oddish"
+        },
+        {
+            "name": "Gloom"
+        },
+        {
+            "name": "Vileplume"
+        },
+        {
+            "name": "Bellossom"
+        },
+        {
+            "name": "Bellsprout"
+        },
+        {
+            "name": "Weepinbell"
+        },
+        {
+			"name": "Victreebel"
+		},
+		{
+			"name": "Roselia"
+		},
+        {
+            "name": "Roserade"
+        },
+        {
+            "name": "Sunkern"
+        },
+        {
+            "name": "Sunflora"
+        },
+        {
+            "name": "Exeggcute"
+        },
+        {
+            "name": "Exeggutor"
+        },
+        {
+            "name": "Grotle"
+        },
+        {
+            "name": "Torterra"
+        },
+        {
+            "name": "Cherubi"
+        },
+        {
+            "name": "Cherrim"
+        },
+        {
+            "name": "Carnivine"
+        },
+        {
+            "name": "Leafeon"
+        },
+        {
+            "name": "Rotom",
+            "form": 5
+        },
+        {
+            "name": "Cottonee"
+        },
+        {
+            "name": "Whimsicott"
+        },
+        {
+            "name": "Petilil"
+        },
+        {
+            "name": "Lilligant"
+        },
+        {
+            "name": "Maractus"
+        },
+        {
+            "name": "Deerling"
+        },
+        {
+            "name": "Sawsbuck"
+        },
+        {
+            "name": "Pumpkaboo"
+        },
+        {
+            "name": "Gourgeist"
+        },
+        {
+            "name": "Fomantis"
+        },
+        {
+            "name": "Lurantis"
+        },
+        {
+            "name": "Bounsweet"
+        },
+        {
+            "name": "Steenee"
+        },
+        {
+            "name": "Tsareena"
+        },
+        {
+            "name": "Gossifleur"
+        },
+        {
+            "name": "Eldegoss"
+        },
+        {
+            "name": "Applin"
+        },
+        {
+            "name": "Flapple"
+        },
+        {
+            "name": "Appletun"
+        }
+    ],
+    "names": [
+        {
+            "name": "Edgar"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "Geoff"
+        },
+        {
+            "name": "Gregory"
+        },
+        {
+            "name": "George"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "I've cared for my Pokemon as I do my plants, lets see how they do!",
+            "win": "Looks like they had gained the nourishment needed to win",
+            "lose": "Looks like they need more time to grow"
+        },
+        {
+            "opening": "Time to trim back the weeds!",
+            "win": "No weeds will get past me.",
+            "lose": "Looks like they overpowered me this time."
+        }
+    ]
+}

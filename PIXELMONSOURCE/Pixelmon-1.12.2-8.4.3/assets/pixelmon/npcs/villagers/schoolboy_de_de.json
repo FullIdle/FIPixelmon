@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "schoolboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Ethan"
+        },
+        {
+            "name": "Matt"
+        },
+        {
+            "name": "Liam"
+        },
+        {
+            "name": "Tyler"
+        },
+        {
+            "name": "Ryan"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich frage mich, ob ich in einem Pokémon-Center arbeiten kann, wenn ich groß bin."
+                },
+                {
+                    "text": "Welche Art von Schule muss man besuchen, wenn man dort arbeiten möchte? Ich sollte nachfragen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich werde heute zu den Aktivitäten nach der Schule gehen."
+                },
+                {
+                    "text": "Ich kann es kaum erwarten, dass der Unterricht vorbei ist!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wir lernen etwas über eine entfernte Region im Geographieunterricht."
+                },
+                {
+                    "text": "Es gibt viele Vulkane überall! Genial!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mein Lehrer wird uns nächsten Monat zu einer Exkursion mitnehmen!"
+                },
+                {
+                    "text": "Wir besuchen eine Pokémon-Ranch. Vielleicht werden wir süße Baby Pokémon sehen?"
+                }
+            ]
+        }
+    ]
+}

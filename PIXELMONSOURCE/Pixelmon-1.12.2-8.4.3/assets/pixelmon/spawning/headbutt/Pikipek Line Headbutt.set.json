@@ -1,0 +1,113 @@
+{
+  "id": "Pikipek Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pikipek",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ],
+        "variant": [
+          "jungle"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Pikipek"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ],
+        "variant": [
+          "jungle"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Trumbeak",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 14,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ],
+        "variant": [
+          "jungle"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Trumbeak"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 14,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ],
+        "variant": [
+          "jungle"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

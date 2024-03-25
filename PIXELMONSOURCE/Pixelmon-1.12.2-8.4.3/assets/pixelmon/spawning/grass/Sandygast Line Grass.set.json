@@ -1,0 +1,59 @@
+{
+  "id": "Sandygast Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sandygast"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:beaches",
+          "white_beach"
+        ]
+      },
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Palossand"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:beaches",
+          "white_beach"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "attackIndex": 232,
+  "attackName": "Curse",
+  "attackType": "Ghost",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Curse"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Z-Curse",
+      "basePower": 0,
+      "effects": [
+        {
+          "effectTypeID": "ZCurse"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

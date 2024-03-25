@@ -1,0 +1,21 @@
+{
+  "cardCode": "FOSS42",
+  "attackNumber": 2,
+  "name": "attack.FOSS42.2.name",
+  "energy": [
+    "WATER",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.FOSS42.2.text",
+  "effectsString": "HEAD-SELF_IMMUNE:*",
+  "effects": [
+    {
+      "onMe": true,
+      "immuneType": "All",
+      "needCoinSide": "Head"
+    }
+  ]
+}

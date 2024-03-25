@@ -1,0 +1,32 @@
+{
+  "id": "Nincada Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Nincada"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 18,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

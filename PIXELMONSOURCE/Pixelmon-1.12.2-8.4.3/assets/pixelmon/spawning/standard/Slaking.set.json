@@ -1,0 +1,25 @@
+{
+  "id": "Slaking",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Slaking"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

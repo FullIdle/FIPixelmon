@@ -1,0 +1,26 @@
+{
+  "id": "Dartrix",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dartrix"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "pixelmonName": "Buzzwole",
+  "pokemon": "Buzzwole",
+  "form": -1,
+  "stats": {
+    "HP": 107,
+    "Attack": 139,
+    "Defence": 139,
+    "Speed": 79,
+    "SpecialAttack": 53,
+    "SpecialDefence": 53
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fighting"
+  ],
+  "height": 5.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": 0.0
+    },
+    "moving": {
+      "x": -0.2,
+      "y": -1.4,
+      "z": 0.3
+    }
+  },
+  "weight": 333.6,
+  "bounding_box": {
+    "width": 2.4,
+    "height": 4.2,
+    "eye_height": 3.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Power-Up Punch"
+    ],
+    "5": [
+      "Taunt"
+    ],
+    "10": [
+      "Fell Stinger"
+    ],
+    "15": [
+      "Vital Throw"
+    ],
+    "20": [
+      "Bulk Up"
+    ],
+    "25": [
+      "Endure"
+    ],
+    "30": [
+      "Reversal"
+    ],
+    "35": [
+      "Mega Punch"
+    ],
+    "40": [
+      "Lunge"
+    ],
+    "45": [
+      "Focus Energy"
+    ],
+    "50": [
+      "Dynamic Punch"
+    ],
+    "55": [
+      "Counter"
+    ],
+    "60": [
+      "Hammer Arm"
+    ],
+    "65": [
+      "Superpower"
+    ],
+    "70": [
+      "Focus Punch"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching",
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Bug Bite",
+    "Comet Punch",
+    "Confide",
+    "Double Team",
+    "Dual Chop",
+    "Endeavor",
+    "Frustration",
+    "Hidden Power",
+    "Return",
+    "Roost",
+    "Smack Down",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Earthquake",
+    "Focus Energy",
+    "Leech Life",
+    "Substitute",
+    "Reversal",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Superpower",
+    "Bulk Up",
+    "Gyro Ball",
+    "Close Combat",
+    "Poison Jab",
+    "Iron Head",
+    "Stone Edge",
+    "Work Up",
+    "Darkest Lariat",
+    "High Horsepower"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Facade",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "Bounce",
+    "Payback",
+    "Fling",
+    "Drain Punch",
+    "Low Sweep",
+    "Round",
+    "Bulldoze",
+    "False Swipe",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Leech Life",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

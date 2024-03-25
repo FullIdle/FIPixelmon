@@ -1,0 +1,53 @@
+{
+  "attackIndex": 96,
+  "attackName": "Sing",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 55,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Sleep",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Sleep"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Sing",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "Speed",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

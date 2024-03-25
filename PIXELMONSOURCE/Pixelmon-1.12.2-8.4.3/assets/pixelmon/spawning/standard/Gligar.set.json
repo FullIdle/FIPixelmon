@@ -1,0 +1,28 @@
+{
+  "id": "Gligar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gligar"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "redwoods"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

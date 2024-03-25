@@ -1,0 +1,215 @@
+{
+  "pixelmonName": "Celesteela",
+  "pokemon": "Celesteela",
+  "form": -1,
+  "stats": {
+    "HP": 97,
+    "Attack": 101,
+    "Defence": 103,
+    "Speed": 61,
+    "SpecialAttack": 107,
+    "SpecialDefence": 101
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Flying"
+  ],
+  "height": 6.0,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1,
+    "SpecialAttack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.4,
+      "z": -0.5
+    }
+  },
+  "weight": 999.9,
+  "bounding_box": {
+    "width": 4.0,
+    "height": 6.0,
+    "eye_height": 5.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Tackle"
+    ],
+    "5": [
+      "Harden"
+    ],
+    "10": [
+      "Wide Guard"
+    ],
+    "15": [
+      "Mega Drain"
+    ],
+    "20": [
+      "Smack Down"
+    ],
+    "25": [
+      "Ingrain"
+    ],
+    "30": [
+      "Autotomize"
+    ],
+    "35": [
+      "Giga Drain"
+    ],
+    "40": [
+      "Flash Cannon"
+    ],
+    "45": [
+      "Metal Sound"
+    ],
+    "50": [
+      "Iron Defense"
+    ],
+    "55": [
+      "Leech Seed"
+    ],
+    "60": [
+      "Heavy Slam"
+    ],
+    "65": [
+      "Double-Edge"
+    ],
+    "70": [
+      "Skull Bash"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam",
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Block",
+    "Confide",
+    "Double Team",
+    "Explosion",
+    "Flame Charge",
+    "Frustration",
+    "Gravity",
+    "Hidden Power",
+    "Magnet Rise",
+    "Return",
+    "Shock Wave",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Earthquake",
+    "Fire Blast",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Megahorn",
+    "Superpower",
+    "Iron Defense",
+    "Gyro Ball",
+    "Seed Bomb",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Grass Knot",
+    "Heavy Slam"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Facade",
+    "Round",
+    "Acrobatics",
+    "Bulldoze",
+    "Air Slash",
+    "Smart Strike",
+    "Brutal Swing",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Brutal Swing",
+    "Acrobatics",
+    "Explosion",
+    "Smart Strike",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Fly",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "forms": {}
+}

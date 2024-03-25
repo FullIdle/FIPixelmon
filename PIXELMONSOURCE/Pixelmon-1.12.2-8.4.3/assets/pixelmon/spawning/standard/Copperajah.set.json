@@ -1,0 +1,32 @@
+{
+  "id": "Copperajah",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Copperajah"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:protector",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

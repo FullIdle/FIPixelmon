@@ -1,0 +1,65 @@
+{
+  "id": "Murkrow Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Murkrow",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 6,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "oak",
+          "birch",
+          "spruce"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "swamps"
+        ]
+      },
+      "rarity": 80.0
+    },
+    {
+      "spec": {
+        "name": "Murkrow"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 6,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "oak",
+          "birch",
+          "spruce"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "swamps"
+        ]
+      },
+      "rarity": 80.0
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+    "data": {
+        "trainerType": "MaleScientist",
+        "minLevel": 25,
+        "maxLevel": 45,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Magneton"
+        },
+        {
+            "name": "Magnezone"
+        },
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Voltorb"
+        },
+        {
+            "name": "Electrode"
+        },
+        {
+            "name": "Grimer"
+        },
+        {
+            "name": "Muk"
+        },
+        {
+            "name": "Ditto"
+        },
+        {
+            "name": "Porygon"
+        },
+        {
+            "name": "Porygon2"
+        },
+        {
+            "name": "Porygon-Z"
+        },
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Klang"
+        },
+        {
+            "name": "Klinklang"
+        },
+        {
+            "name": "Solosis"
+        },
+        {
+            "name": "Duosion"
+        },
+        {
+            "name": "Reuniclus"
+        },
+        {
+            "name": "Omanyte"
+        },
+        {
+            "name": "Omastar"
+        },
+        {
+            "name": "Kabuto"
+        },
+        {
+            "name": "Kabutops"
+        },
+        {
+            "name": "Aerodactyl"
+        },
+        {
+            "name": "Anorith"
+        },
+        {
+            "name": "Armaldo"
+        },
+        {
+            "name": "Cranidos"
+        },
+        {
+            "name": "Rampardos"
+        },
+        {
+            "name": "Shieldon"
+        },
+        {
+            "name": "Bastiodon"
+        },
+        {
+            "name": "Tirtouga"
+        },
+        {
+            "name": "Carracosta"
+        },
+        {
+            "name": "Archen"
+        },
+        {
+            "name": "Archeops"
+        }
+    ],
+    "names": [
+        {
+            "name": "Adam"
+        },
+        {
+            "name": "Archimedes"
+        },
+        {
+            "name": "Riff"
+        },
+        {
+            "name": "Theodore \"Six Eyes\""
+        },
+        {
+            "name": "Cornelius"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Durch akribische Recherche habe ich das perfekte Team gefunden!",
+            "win": "Wissenschaft! Es klappt.",
+            "lose": "Lass mich meine Notizen überprüfen ..."
+        },
+        {
+            "opening": "Mein Hauptziel hier ist einfach zu beobachten.",
+            "win": "Obwohl der Sieg ein sekundäres Ziel sein könnte!",
+            "lose": "Oh ... das war schwer zu beobachten."
+        },
+        {
+            "opening": "Ich gehe davon aus, dass ich Sie besiegen werde!",
+            "win": "Hypothese bestätigt.",
+            "lose": "Dafür sind diese Tests gedacht."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "data": {
+        "trainerType": "FemaleTeamYellGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 60
+    },
+    "models":[
+        {
+            "name": "teamyellgruntfemale"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Zigzagoon",
+            "form": 2
+        },
+        {
+            "name": "Linoone",
+            "form": 2
+        },
+        {
+            "name": "Nickit"
+        },
+        {
+            "name": "Thievul"
+        },
+        {
+            "name": "Sableye"
+        },
+        {
+            "name": "Pancham"
+        },
+        {
+            "name": "Liepard"
+        },
+        {
+            "name": "Stunky"
+        },
+        {
+            "name": "Pangoro"
+        },
+		{
+			"name": "Scrafty"
+		},
+        {
+			"name": "Weavile"
+		},
+        {
+            "name": "Sneasel"
+        },
+        {
+            "name": "Scraggy"
+        },
+        {
+            "name": "Skuntank"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Yell Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "You want to get past me, but I don't want that. Basically, it's a battle between our desires.",
+            "win": "Well it seems my desire for you to not get past won out in the end.",
+            "lose": "Seems you desired to get past me a bit more than my desire to stop you."
+        },        
+        {
+            "opening": "We're here to make ure Marnie totally wins it all!",
+            "win": "With you out of the way, Marnie has a better chance to win!",
+            "lose": "We may have lost but we may have given Marnie a better lead."
+        }
+    ]
+}

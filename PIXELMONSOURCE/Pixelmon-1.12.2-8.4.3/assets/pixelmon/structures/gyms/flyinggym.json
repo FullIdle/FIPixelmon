@@ -1,0 +1,2439 @@
+{
+  "type":["Flying"],
+  "npcs": [
+    {
+      "name": "flyinggymintro",
+      "type": "chat",
+      "x": 16,
+      "y": 3,
+      "z": 8
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 90,
+      "x": 21,
+      "y": 10,
+      "z": 13
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 3, 
+      "rotation": 90,
+      "x": 26,
+      "y": 11,
+      "z": 18
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 19,
+      "y": 14,
+      "z": 24
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 14,
+      "y": 16,
+      "z": 25
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 9,
+      "y": 17,
+      "z": 23
+    },
+    {
+      "name": "flyinggymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 0,
+      "x": 10,
+      "y": 18,
+      "z": 17
+    },
+    {
+      "name": "flyinggymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 180,
+      "x": 16,
+      "y": 27,
+      "z": 21,
+      "drops": [ "Galar: Fly", "Galar: Acrobatics", "Galar: Air Slash", "Galar: Brave Bird", "Galar: Hurricane", "Galar: Bounce" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Charizard",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Flamethrower", "Fire Blast", "Heat Wave", "Overheat", "Blast Burn" ],
+          "move2": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Hidden Power Grass", "Ancient Power", "Roost", "Will-O-Wisp", "Flame Charge", "Tailwind" ],
+          "move3": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Hidden Power Grass", "Ancient Power", "Roost", "Will-O-Wisp", "Flame Charge", "Tailwind" ],
+          "move4": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Hidden Power Grass", "Ancient Power", "Roost", "Will-O-Wisp", "Flame Charge", "Tailwind" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:expert_belt", "pixelmon:charti_berry", "pixelmon:charcoal" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Flamethrower", "Fire Blast", "Heat Wave", "Overheat", "Blast Burn" ],
+          "move2": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Hidden Power Grass", "Ancient Power" ],
+          "move3": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Hidden Power Grass", "Ancient Power" ],
+          "move4": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Hidden Power Grass", "Ancient Power" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:choice_scarf" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Fire Punch", "Flare Blitz", "Flame Charge" ],
+          "move2": [ "Dragon Claw", "Shadow Claw", "Rock Slide", "Earthquake", "Roost", "Will-O-Wisp", "Crunch", "Dragon Rush", "Iron Tail", "Thunder Punch", "Brick Break" ],
+          "move3": [ "Acrobatics" ],
+          "move4": [ "Dragon Dance", "Swords Dance", "Belly Drum", "Flame Charge", "Tailwind" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 60,
+          "move1": [ "Fire Punch", "Flare Blitz", "Flame Charge" ],
+          "move2": [ "Shadow Claw", "Rock Slide", "Earthquake", "Roost", "Will-O-Wisp", "Crunch", "Iron Tail", "Thunder Punch", "Brick Break" ],
+          "move3": [ "Dragon Claw", "Dragon Rush", "Outrage" ],
+          "move4": [ "Dragon Dance", "Swords Dance", "Belly Drum", "Flame Charge", "Tailwind" ],
+          "heldItem": [ "pixelmon:charizardite_x" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 60,
+          "move1": [ "Fire Punch", "Flare Blitz" ],
+          "move2": [ "Shadow Claw", "Rock Slide", "Earthquake", "Crunch", "Iron Tail", "Thunder Punch", "Brick Break", "Flame Charge", "Tailwind" ],
+          "move3": [ "Dragon Claw", "Dragon Rush", "Outrage" ],
+          "move4": [ "Shadow Claw", "Rock Slide", "Earthquake", "Crunch", "Iron Tail", "Thunder Punch", "Brick Break", "Flame Charge", "Tailwind" ],
+          "heldItem": [ "pixelmon:charizardite_x" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 60,
+          "move1": [ "Fire Punch", "Flare Blitz", "Flame Charge" ],
+          "move2": [ "Will-O-Wisp" ],
+          "move3": [ "Shadow Claw", "Rock Slide", "Earthquake", "Crunch", "Iron Tail", "Thunder Punch", "Brick Break", "Dragon Tail", "Dragon Rush", "Dragon Claw", "Flame Charge", "Tailwind" ],
+          "move4": [ "Roost" ],
+          "heldItem": [ "pixelmon:charizardite_x" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVHP": 252,
+          "EVDefence": 4,
+          "EVSpeed": 252
+        },
+        {
+          "minLevel": 60,
+          "move1": [ "Flamethrower", "Fire Blast", "Heat Wave", "Overheat", "Blast Burn" ],
+          "move2": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Solar Beam", "Ancient Power", "Roost", "Will-O-Wisp", "Flame Charge", "Tailwind" ],
+          "move3": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Solar Beam", "Ancient Power", "Roost", "Will-O-Wisp", "Flame Charge", "Tailwind" ],
+          "move4": [ "Air Slash", "Dragon Pulse", "Focus Blast", "Solar Beam", "Ancient Power", "Roost", "Will-O-Wisp", "Flame Charge", "Tailwind" ],
+          "heldItem": [ "pixelmon:charizardite_y" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Butterfree",
+      "minLevel": 10,
+      "maxLevel": 45,
+      "sets": [
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Struggle Bug", "Silver Wind", "Infestation" ],
+          "move3": [ "Confusion", "Mega Drain", "Swift", "Electroweb", "Ominous Wind", "Twister" ],
+          "move4": [ "Sleep Powder", "Stun Spore", "Poison Powder" ],
+          "heldItem": [ "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Butterfree",
+      "minLevel": 46,
+      "sets": [
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Bug Buzz" ],
+          "move3": [ "Quiver Dance" ],
+          "move4": [ "Sleep Powder", "Energy Ball", "Psychic", "Giga Drain", "Shadow Ball", "Stun Spore" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:leftovers", "pixelmon:silver_powder" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Bug Buzz" ],
+          "move3": [ "Sleep Powder" ],
+          "move4": [ "U-turn" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:silver_powder" ],
+          "nature": [ "Mild", "Rash", "Hasty", "Naive" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Pidgey",
+      "maxLevel": 17,
+      "sets": [
+        {
+          "move1": [ "Gust", "Aerial Ace", "Pluck", "Air Cutter" ],
+          "move2": [ "Swift", "Tackle", "Quick Attack", "Rage" ],
+          "move3": [ "Twister", "Mud-Slap", "Feint Attack", "Ominous Wind" ],
+          "move4": [ "Work Up", "Sand Attack", "Curse" ],
+          "nature": [ "Naive", "Hasty", "Mild", "Rash", "Lonely", "Naughty" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:silk_scarf", "pixelmon:normal_gem", "pixelmon:scope_lens" ],
+          "EVAttack": 128,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Pidgeotto",
+      "minLevel": 18,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Pluck" ],
+          "move2": [ "Facade", "Take Down", "Secret Power" ],
+          "move3": [ "Feint Attack", "U-turn", "Steel Wing", "Quick Attack" ],
+          "move4": [ "Work Up", "Curse" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:silk_scarf", "pixelmon:normal_gem", "pixelmon:scope_lens", "pixelmon:muscle_band" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Pidgeot",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Return", "Double-Edge", "Uproar", "Hyper Beam", "Giga Impact" ],
+          "move2": [ "Brave Bird", "Sky Attack", "Aerial Ace", "Fly", "Hurricane", "Air Slash" ],
+          "move3": [ "Heat Wave", "Steel Wing", "Defog" ],
+          "move4": [ "Roost", "U-turn" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:sharp_beak", "pixelmon:silk_scarf" ],
+          "nature": [ "Naive", "Hasty", "Mild", "Rash", "Lonely", "Naughty" ],
+          "EVAttack": 128,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Spearow",
+      "maxLevel": 19,
+      "sets": [
+        {
+          "move1": [ "Peck", "Aerial Ace", "Pluck" ],
+          "move2": [ "Fury Attack", "Rage", "Quick Attack" ],
+          "move3": [ "Pursuit", "Thief", "Feint Attack", "Astonish" ],
+          "move4": [ "Growl", "Leer", "Confide", "Scary Face" ],
+          "heldItem": [ "pixelmon:flying_gem", "pixelmon:sharp_beak", "pixelmon:normal_gem", "pixelmon:silk_scarf", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Fearow",
+      "minLevel": 20,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Pluck", "Fly" ],
+          "move2": [ "Facade", "Secret Power" ],
+          "move3": [ "U-turn", "Feint Attack", "Steel Wing", "Quick Attack" ],
+          "move4": [ "U-turn", "Feint Attack", "Steel Wing", "Quick Attack" ],
+          "heldItem": [ "pixelmon:flying_gem", "pixelmon:sharp_beak", "pixelmon:normal_gem", "pixelmon:silk_scarf", "pixelmon:expert_belt", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Fearow",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Drill Peck", "Fly" ],
+          "move2": [ "Return", "Double-Edge" ],
+          "move3": [ "U-turn", "Pursuit", "Steel Wing", "Drill Run", "Quick Attack" ],
+          "move4": [ "U-turn", "Pursuit", "Steel Wing", "Drill Run", "Quick Attack" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Zubat",
+      "maxLevel": 21,
+      "sets": [
+        {
+          "move1": [ "Wing Attack", "Aerial Ace", "Pluck", "Air Cutter", "Gust" ],
+          "move2": [ "Poison Fang" ],
+          "move3": [ "Taunt", "Roost", "Defog", "Whirlwind", "Toxic", "Hypnosis", "Leech Life", "Mega Drain", "Bite", "Swift", "Ominous Wind", "Twister" ],
+          "move4": [ "Taunt", "Roost", "Defog", "Whirlwind", "Toxic", "Hypnosis", "Leech Life", "Mega Drain", "Bite", "Swift", "Ominous Wind", "Twister" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:poison_barb", "pixelmon:poison_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVHP": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Golbat",
+      "minLevel": 22,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Wing Attack", "Aerial Ace", "Pluck", "Fly" ],
+          "move2": [ "Poison Fang" ],
+          "move3": [ "Taunt", "Roost", "Defog", "Whirlwind", "Haze", "Confuse Ray", "Toxic", "Protect", "Bite", "U-turn", "Super Fang" ],
+          "move4": [ "Taunt", "Roost", "Defog", "Whirlwind", "Haze", "Confuse Ray", "Toxic", "Protect", "Bite", "U-turn", "Super Fang" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:poison_barb", "pixelmon:poison_gem", "pixelmon:razor_fang", "pixelmon:bright_powder" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVHP": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Golbat",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Brave Bird", "Fly" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Taunt", "Defog", "Whirlwind", "Haze", "Confuse Ray", "Toxic", "U-turn", "Protect", "Super Fang" ],
+          "move4": [ "Taunt", "Defog", "Whirlwind", "Haze", "Confuse Ray", "Toxic", "U-turn", "Protect", "Super Fang" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Air Slash" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Giga Drain", "Shadow Ball", "Heat Wave" ],
+          "move4": [ "Taunt", "Defog", "Whirlwind", "Haze", "Confuse Ray", "Toxic", "U-turn", "Protect", "Super Fang", "Nasty Plot" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Crobat",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Brave Bird", "Fly" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Taunt", "Defog", "Toxic", "U-turn", "Super Fang", "Hypnosis", "Confuse Ray" ],
+          "move4": [ "Taunt", "Defog", "Toxic", "U-turn", "Super Fang", "Hypnosis", "Confuse Ray" ],
+          "heldItem": [ "pixelmon:black_sludge", "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful", "Jolly" ],
+          "EVDefence": 252,
+          "EVHP": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Brave Bird", "Fly" ],
+          "move2": [ "Cross Poison" ],
+          "move3": [ "Steel Wing", "Zen Headbutt", "X-Scissor" ],
+          "move4": [ "Steel Wing", "Zen Headbutt", "X-Scissor" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:life_orb", "pixelmon:charti_berry", "pixelmon:sharp_beak" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Slash" ],
+          "move2": [ "Sludge Bomb" ],
+          "move3": [ "Shadow Ball", "Heat Wave", "Dark Pulse", "Giga Drain", "Hypnosis", "Roost", "Confuse Ray" ],
+          "move4": [ "Nasty Plot" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:charti_berry", "pixelmon:sharp_beak", "pixelmon:poison_barb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Farfetchd",
+      "minLevel": 25,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Pluck", "Fly" ],
+          "move2": [ "Facade", "Secret Power", "Slash", "Retaliate", "Headbutt", "Quick Attack", "Flail" ],
+          "move3": [ "Knock Off", "U-turn", "Steel Wing", "Quick Attack", "Revenge", "Night Slash", "Roost", "Baton Pass" ],
+          "move4": [ "Swords Dance" ],
+          "heldItem": [ "pixelmon:stick", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:silk_scarf", "pixelmon:normal_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Farfetchd",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Brave Bird", "Fly" ],
+          "move2": [ "Return", "Double-Edge", "Body Slam", "Quick Attack" ],
+          "move3": [ "Knock Off", "U-turn", "Steel Wing", "Roost", "Leaf Blade", "Poison Jab", "Baton Pass" ],
+          "move4": [ "Swords Dance" ],
+          "heldItem": [ "pixelmon:stick", "pixelmon:sharp_beak", "pixelmon:life_orb", "pixelmon:silk_scarf" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Doduo",
+      "maxLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Quick Attack", "Fury Attack", "Rage", "Flail" ],
+          "move2": [ "Aerial Ace", "Pluck", "Peck" ],
+          "move3": [ "Feint Attack", "Low Kick", "Roost" ],
+          "move4": [ "Feint Attack", "Low Kick", "Roost" ],
+          "ability": [ "Early Bird", "Tangled Feet" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:silk_scarf", "pixelmon:normal_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Dodrio",
+      "minLevel": 31,
+      "sets": [
+        {
+          "move1": [ "Brave Bird", "Drill Peck", "Fly" ],
+          "move2": [ "Return", "Double-Edge", "Body Slam", "Thrash" ],
+          "move3": [ "Knock Off", "Jump Kick", "Steel Wing", "Quick Attack" ],
+          "move4": [ "Knock Off", "Jump Kick", "Steel Wing", "Quick Attack" ],
+          "ability": [ "Early Bird", "Tangled Feet" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_band", "pixelmon:choice_scarf" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Brave Bird", "Drill Peck", "Fly" ],
+          "move2": [ "Return", "Double-Edge", "Body Slam", "Thrash" ],
+          "move3": [ "Knock Off", "Jump Kick", "Steel Wing", "Quick Attack", "Low Kick" ],
+          "move4": [ "Swords Dance" ],
+          "ability": [ "Early Bird", "Tangled Feet" ],
+          "heldItem": [ "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Scyther",
+      "minLevel": 35,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "X-Scissor", "Bug Bite", "U-turn" ],
+          "move2": [ "Aerial Ace" ],
+          "move3": [ "Knock Off", "Brick Break", "Steel Wing", "Pursuit", "Quick Attack", "Roost", "Tailwind" ],
+          "move4": [ "Knock Off", "Brick Break", "Steel Wing", "Pursuit", "Quick Attack", "Roost", "Tailwind" ],
+          "heldItem": [ "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Scyther",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Bug Bite", "U-turn" ],
+          "move2": [ "Aerial Ace" ],
+          "move3": [ "Knock Off", "Brick Break", "Steel Wing", "Pursuit", "Quick Attack" ],
+          "move4": [ "Knock Off", "Brick Break", "Steel Wing", "Pursuit", "Quick Attack" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:eviolite", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Bug Bite", "U-turn" ],
+          "move2": [ "Aerial Ace" ],
+          "move3": [ "Knock Off", "Brick Break", "Steel Wing", "Pursuit", "Quick Attack", "Baton Pass", "Roost", "Tailwind" ],
+          "move4": [ "Swords Dance" ],
+          "ability": [ "Technician" ],
+          "heldItem": [ "pixelmon:eviolite", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Gyarados",
+      "minLevel": 20,
+      "maxLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Bubble Beam", "Brine", "Water Pulse", "Whirlpool" ],
+          "move2": [ "Bounce" ],
+          "move3": [ "Ice Fang", "Bite", "Dragon Rage", "Bulldoze", "Secret Power", "Dragon Tail", "Rock Smash", "Incinerate" ],
+          "move4": [ "Ice Fang", "Bite", "Dragon Rage", "Bulldoze", "Secret Power", "Dragon Tail", "Rock Smash", "Incinerate" ],
+          "heldItem": [ "pixelmon:water_gem", "pixelmon:mystic_water", "pixelmon:expert_belt" ],
+          "nature": [ "Hasty", "Naive", "Rash", "Mild" ],
+          "EVSpecialAttack": 128,
+          "EVAttack": 128,
+          "EVSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Gyarados",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Waterfall", "Aqua Tail" ],
+          "move2": [ "Bounce" ],
+          "move3": [ "Earthquake", "Crunch", "Stone Edge", "Iron Head", "Ice Fang", "Outrage", "Giga Impact", "Thunder Wave" ],
+          "move4": [ "Dragon Dance" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:leftovers", "pixelmon:lum_berry", "pixelmon:muscle_band", "pixelmon:wacan_berry", "pixelmon:power_herb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Waterfall", "Aqua Tail" ],
+          "move2": [ "Bounce" ],
+          "move3": [ "Earthquake", "Crunch", "Stone Edge", "Iron Head", "Ice Fang", "Thunder Wave", "Dragon Dance", "Sleep Talk", "Dragon Tail", "Roar", "Toxic" ],
+          "move4": [ "Rest" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:chesto_berry", "pixelmon:leftovers", "pixelmon:power_herb" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Aerodactyl",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Stone Edge", "Rock Slide" ],
+          "move2": [ "Aerial Ace", "Fly", "Sky Drop" ],
+          "move3": [ "Earthquake", "Iron Head", "Aqua Tail", "Ice Fang", "Thunder Fang", "Fire Fang", "Pursuit", "Dragon Claw", "Roost", "Stealth Rock", "Taunt", "Defog", "Double-Edge", "Hone Claws" ],
+          "move4": [ "Earthquake", "Iron Head", "Aqua Tail", "Ice Fang", "Thunder Fang", "Fire Fang", "Pursuit", "Dragon Claw", "Roost", "Stealth Rock", "Taunt", "Defog", "Double-Edge", "Hone Claws" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:passho_berry", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide" ],
+          "move2": [ "Aerial Ace", "Fly", "Sky Drop" ],
+          "move3": [ "Earthquake", "Iron Head", "Aqua Tail", "Ice Fang", "Thunder Fang", "Fire Fang", "Pursuit", "Dragon Claw", "Double-Edge" ],
+          "move4": [ "Earthquake", "Iron Head", "Aqua Tail", "Ice Fang", "Thunder Fang", "Fire Fang", "Pursuit", "Dragon Claw", "Double-Edge" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:passho_berry", "pixelmon:expert_belt", "pixelmon:choice_band", "pixelmon:choice_scarf" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "minLevel": 55,
+      "sets": [
+        {
+          "move1": [ "Dragon Dance" ],
+          "move2": [ "Dragon Claw", "Outrage", "Dragon Rush" ],
+          "move3": [ "Fly", "Aerial Ace", "Sky Drop" ],
+          "move4": [ "Earthquake", "Fire Punch", "Thunder Punch", "Brick Break", "Stone Edge", "Rock Slide", "Ice Punch", "Iron Head", "Substitute", "Roost", "Aqua Jet" ],
+          "ability": [ "Multiscale" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:leftovers", "pixelmon:salac_berry", "pixelmon:weakness_policy" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Fly", "Aerial Ace", "Sky Drop" ],
+          "move2": [ "Dragon Claw", "Outrage", "Dragon Rush" ],
+          "move3": [ "Earthquake", "Fire Punch", "Thunder Punch", "Superpower", "Stone Edge", "Rock Slide", "Ice Punch", "Iron Head", "Aqua Jet" ],
+          "move4": [ "Earthquake", "Fire Punch", "Thunder Punch", "Superpower", "Stone Edge", "Rock Slide", "Ice Punch", "Iron Head", "Aqua Jet" ],
+          "ability": [ "Multiscale" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:leftovers", "pixelmon:salac_berry", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:weakness_policy" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Dragon Claw", "Dragon Rush" ],
+          "move2": [ "Toxic", "Thunder Wave", "Substitute", "Safeguard", "Rock Slide", "Fly" ],
+          "move3": [ "Toxic", "Thunder Wave", "Substitute", "Safeguard", "Rock Slide", "Fly" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Multiscale" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:leftovers", "pixelmon:custap_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Hurricane" ],
+          "move2": [ "Dragon Pulse", "Draco Meteor" ],
+          "move3": [ "Ice Beam", "Thunderbolt", "Fire Blast", "Focus Blast", "Surf" ],
+          "move4": [ "Ice Beam", "Thunderbolt", "Fire Blast", "Focus Blast", "Surf" ],
+          "ability": [ "Multiscale" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:leftovers", "pixelmon:salac_berry", "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:weakness_policy" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Hoothoot",
+      "maxLevel": 19,
+      "sets": [
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Swift", "Roost", "Reflect", "Toxic", "Whirlwind", "Night Shade", "Hypnosis" ],
+          "move3": [ "Swift", "Roost", "Reflect", "Toxic", "Whirlwind", "Night Shade", "Hypnosis" ],
+          "move4": [ "Swift", "Roost", "Reflect", "Toxic", "Whirlwind", "Night Shade", "Hypnosis" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:light_clay" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVSpecialAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Noctowl",
+      "minLevel": 20,
+      "maxLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Swift", "Defog", "Toxic", "Night Shade", "Tailwind", "Whirlwind" ],
+          "move3": [ "Swift", "Defog", "Toxic", "Night Shade", "Tailwind", "Whirlwind" ],
+          "move4": [ "Roost" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVSpecialAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Noctowl",
+      "minLevel": 26,
+      "sets": [
+        {
+          "move1": [ "Air Slash", "Hyper Voice", "Defog", "Toxic", "Night Shade", "Tailwind", "Whirlwind" ],
+          "move2": [ "Air Slash", "Hyper Voice", "Defog", "Toxic", "Night Shade", "Tailwind", "Whirlwind" ],
+          "move3": [ "Air Slash", "Hyper Voice", "Defog", "Toxic", "Night Shade", "Tailwind", "Whirlwind" ],
+          "move4": [ "Roost" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Air Slash" ],
+          "move2": [ "Hyper Voice" ],
+          "move3": [ "Psychic", "Silver Wind", "Heat Wave", "Shadow Ball", "Roost" ],
+          "move4": [ "Psychic", "Silver Wind", "Heat Wave", "Shadow Ball", "Roost" ],
+          "ability": [ "Tinted Lens" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:leftovers" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Ledyba",
+      "maxLevel": 17,
+      "sets": [
+        {
+          "move1": [ "Reflect" ],
+          "move2": [ "Light Screen" ],
+          "move3": [ "Air Cutter" ],
+          "move4": [ "Struggle Bug", "Roost", "Agility", "Encore", "Toxic", "Swift", "Double Team" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:charti_berry", "pixelmon:light_clay" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Ledian",
+      "minLevel": 18,
+      "sets": [
+        {
+          "move1": [ "Reflect" ],
+          "move2": [ "Light Screen" ],
+          "move3": [ "Aerial Ace" ],
+          "move4": [ "U-turn", "Encore", "Knock Off", "Toxic" ],
+          "ability": [ "Early Bird", "Swarm" ],
+          "heldItem": [ "pixelmon:light_clay" ],
+          "nature": [ "Jolly" ],
+          "EVHP": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Bug Bite" ],
+          "move2": [ "Acrobatics" ],
+          "move3": [ "Mach Punch", "Dig", "Ice Punch", "Thunder Punch", "Drain Punch", "Knock Off", "Baton Pass" ],
+          "move4": [ "Swords Dance", "Agility" ],
+          "ability": [ "Iron Fist" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Togetic",
+      "minLevel": 25,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Thunder Wave", "Baton Pass", "Defog", "Wish", "Toxic", "Encore", "Heal Bell" ],
+          "move2": [ "Dazzling Gleam", "Seismic Toss" ],
+          "move3": [ "Air Cutter" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Super Luck" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Togetic",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Dazzling Gleam", "Seismic Toss" ],
+          "move2": [ "Thunder Wave", "Baton Pass", "Defog", "Toxic", "Encore", "Heal Bell" ],
+          "move3": [ "Thunder Wave", "Baton Pass", "Defog", "Toxic", "Encore", "Heal Bell" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Super Luck" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Cutter", "Roost" ],
+          "move2": [ "Dazzling Gleam", "Psyshock", "Psychic", "Shadow Ball", "Flamethrower", "Fire Blast", "Grass Knot", "Signal Beam", "Heat Wave", "Roost" ],
+          "move3": [ "Baton Pass" ],
+          "move4": [ "Nasty Plot" ],
+          "ability": [ "Serene Grace", "Super Luck" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Dazzling Gleam", "Seismic Toss" ],
+          "move2": [ "Thunder Wave", "Baton Pass", "Defog", "Toxic", "Encore", "Heal Bell" ],
+          "move3": [ "Protect" ],
+          "move4": [ "Wish" ],
+          "ability": [ "Super Luck" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Dazzling Gleam" ],
+          "move3": [ "Psyshock", "Psychic", "Shadow Ball", "Flamethrower", "Fire Blast", "Grass Knot", "Signal Beam", "Heat Wave", "Roost" ],
+          "move4": [ "Nasty Plot" ],
+          "ability": [ "Serene Grace", "Super Luck" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Togekiss",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Nasty Plot" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Dazzling Gleam", "Aura Sphere", "Fire Blast", "Shadow Ball", "Grass Knot", "Psychic", "Signal Beam", "Thunder Wave", "Roost", "Baton Pass" ],
+          "move4": [ "Dazzling Gleam", "Aura Sphere", "Fire Blast", "Shadow Ball", "Grass Knot", "Psychic", "Signal Beam", "Thunder Wave", "Roost", "Baton Pass" ],
+          "ability": [ "Serene Grace" ],
+          "heldItem": [ "pixelmon:expert_belt", "pixelmon:life_orb", "pixelmon:leftovers" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Nasty Plot" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Thunder Wave", "Roost", "Heal Bell", "Defog", "Baton Pass", "Encore", "Reflect" ],
+          "move4": [ "Thunder Wave", "Roost", "Heal Bell", "Defog", "Baton Pass", "Encore", "Reflect" ],
+          "ability": [ "Serene Grace" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Modest", "Timid", "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Aerial Ace", "Fly", "Sky Attack" ],
+          "move2": [ "Brick Break", "Drain Punch" ],
+          "move3": [ "Steel Wing", "Zen Headbutt", "Extreme Speed", "Roost" ],
+          "move4": [ "Steel Wing", "Zen Headbutt", "Extreme Speed", "Roost" ],
+          "ability": [ "Hustle" ],
+          "heldItem": [ "pixelmon:expert_belt", "pixelmon:liechi_berry", "pixelmon:kings_rock", "pixelmon:life_orb", "pixelmon:leftovers", "pixelmon:choice_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpeed": 4
+        }
+      ]
+    },
+    {
+      "name": "Natu",
+      "maxLevel": 24,
+      "sets": [
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Thunder Wave", "Toxic", "Tailwind", "Haze", "Stored Power", "Grass Knot", "Silver Wind", "Reflect", "Light Screen", "Night Shade", "Double Team", "Calm Mind" ],
+          "move3": [ "Thunder Wave", "Toxic", "Tailwind", "Haze", "Stored Power", "Grass Knot", "Silver Wind", "Reflect", "Light Screen", "Night Shade", "Double Team", "Calm Mind" ],
+          "move4": [ "Roost", "Wish" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:flying_gem", "pixelmon:sharp_beak", "pixelmon:wise_glasses" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Xatu",
+      "minLevel": 25,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Air Slash" ],
+          "move2": [ "Psyshock" ],
+          "move3": [ "Grass Knot", "Silver Wind", "U-turn", "Thunder Wave", "Ominous Wind", "Twister" ],
+          "move4": [ "Roost" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:rocky_helmet" ],
+          "nature": [ "Timid", "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpeed": 4
+        }
+      ]
+    },
+    {
+      "name": "Xatu",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Psychic", "Psyshock" ],
+          "move2": [ "Air Slash", "Grass Knot", "Giga Drain", "U-turn", "Thunder Wave", "Shadow Ball", "Dazzling Gleam", "Heat Wave", "Signal Beam", "Toxic", "Night Shade", "Tailwind", "Haze", "Feather Dance" ],
+          "move3": [ "Air Slash", "Grass Knot", "Giga Drain", "U-turn", "Thunder Wave", "Shadow Ball", "Dazzling Gleam", "Heat Wave", "Signal Beam", "Toxic", "Night Shade", "Tailwind", "Haze", "Feather Dance" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Magic Bounce" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:rocky_helmet", "pixelmon:leftovers" ],
+          "nature": [ "Timid", "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Psychic", "Psyshock", "Stored Power" ],
+          "move3": [ "Air Slash", "Grass Knot", "Giga Drain", "Shadow Ball", "Dazzling Gleam", "Heat Wave", "Signal Beam", "Roost" ],
+          "move4": [ "Calm Mind" ],
+          "ability": [ "Magic Bounce" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:rocky_helmet", "pixelmon:leftovers" ],
+          "nature": [ "Timid", "Modest", "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Grass Knot", "Shadow Ball", "Dazzling Gleam", "Heat Wave", "Signal Beam", "Air Slash", "U-turn" ],
+          "move4": [ "Grass Knot", "Shadow Ball", "Dazzling Gleam", "Heat Wave", "Signal Beam", "Air Slash", "U-turn" ],
+          "ability": [ "Magic Bounce" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:rocky_helmet", "pixelmon:leftovers", "pixelmon:life_orb" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Slash", "Roost" ],
+          "move2": [ "Psychic", "Psyshock" ],
+          "move3": [ "Reflect" ],
+          "move4": [ "Light Screen" ],
+          "ability": [ "Magic Bounce" ],
+          "heldItem": [ "pixelmon:light_clay" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Hoppip",
+      "maxLevel": 17,
+      "sets": [
+        {
+          "move1": [ "Sleep Powder", "Stun Spore", "Poison Powder" ],
+          "move2": [ "Aerial Ace" ],
+          "move3": [ "Bullet Seed" ],
+          "move4": [ "Aromatherapy", "Substitute", "Memento", "Synthesis", "Leech Seed", "Encore" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Skiploom",
+      "minLevel": 18,
+      "maxLevel": 26,
+      "sets": [
+        {
+          "move1": [ "Acrobatics", "Aerial Ace" ],
+          "move2": [ "Bullet Seed", "Mega Drain", "Grass Knot" ],
+          "move3": [ "Sleep Powder", "Toxic", "Stun Spore", "Encore", "Leech Seed", "Substitute", "Protect", "Round", "U-turn", "Fairy Wind", "Confusion" ],
+          "move4": [ "Sleep Powder", "Toxic", "Stun Spore", "Encore", "Leech Seed", "Substitute", "Protect", "Round", "U-turn", "Fairy Wind", "Confusion" ],
+          "heldItem": [ "pixelmon:charti_berry", "pixelmon:occa_berry", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:miracle_seed", "pixelmon:grass_gem" ],
+          "nature": [ "Hasty", "Naive" ],
+          "EVAttack": 128,
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Jumpluff",
+      "minLevel": 27,
+      "sets": [
+        {
+          "move1": [ "Acrobatics" ],
+          "move2": [ "Seed Bomb" ],
+          "move3": [ "Sleep Powder", "U-turn", "Toxic", "Memento", "Encore", "Leech Seed", "Substitute" ],
+          "move4": [ "Sleep Powder", "U-turn", "Toxic", "Memento", "Encore", "Leech Seed", "Substitute" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Acrobatics" ],
+          "move2": [ "Seed Bomb" ],
+          "move3": [ "Sleep Powder", "Substitute" ],
+          "move4": [ "Swords Dance" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Acrobatics", "Aerial Ace" ],
+          "move2": [ "Seed Bomb" ],
+          "move3": [ "Natural Gift" ],
+          "move4": [ "Swords Dance" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "heldItem": [ "pixelmon:chople_berry" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Yanma",
+      "maxLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Silver Wind" ],
+          "move3": [ "Ancient Power", "Ominous Wind", "Swift", "Protect" ],
+          "move4": [ "Ancient Power", "Ominous Wind", "Swift", "Protect" ],
+          "heldItem": [ "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Yanmega",
+      "minLevel": 33,
+      "sets": [
+        {
+          "move1": [ "Bug Buzz" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Giga Drain", "Shadow Ball", "Psychic", "Hypnosis", "Tailwind", "Ancient Power", "Swagger", "Substitute" ],
+          "move4": [ "Protect" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:weakness_policy", "pixelmon:sitrus_berry", "pixelmon:lum_berry", "pixelmon:kings_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Bug Buzz" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Giga Drain", "Shadow Ball", "Psychic", "Ancient Power", "U-turn" ],
+          "move4": [ "Giga Drain", "Shadow Ball", "Psychic", "Ancient Power", "U-turn" ],
+          "ability": [ "Speed Boost", "Tinted Lens" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:weakness_policy", "pixelmon:sitrus_berry", "pixelmon:lum_berry", "pixelmon:kings_rock", "pixelmon:choice_specs", "pixelmon:choice_scarf" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Bug Buzz" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Reversal" ],
+          "move4": [ "Endure" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:weakness_policy", "pixelmon:lum_berry", "pixelmon:kings_rock" ],
+          "nature": [ "Hasty", "Naive", "Rash", "Mild" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Murkrow",
+      "minLevel": 25,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Pluck", "Fly" ],
+          "move2": [ "Assurance", "Thief", "Feint Attack" ],
+          "move3": [ "Thunder Wave", "Pursuit", "Substitute", "Roost" ],
+          "move4": [ "Thunder Wave", "Pursuit", "Substitute", "Roost" ],
+          "heldItem": [ "pixelmon:black_glasses", "pixelmon:dark_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Murkrow",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Brave Bird", "Fly", "Drill Peck" ],
+          "move2": [ "Sucker Punch", "Dark Pulse" ],
+          "move3": [ "Thunder Wave", "Pursuit", "Substitute", "Roost", "Heat Wave", "Hidden Power Fighting", "Hidden Power Grass", "Steel Wing", "Psychic", "Torment" ],
+          "move4": [ "Thunder Wave", "Pursuit", "Substitute", "Roost", "Heat Wave", "Hidden Power Fighting", "Hidden Power Grass", "Steel Wing", "Psychic", "Torment" ],
+          "ability": [ "Prankster" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:eviolite" ],
+          "nature": [ "Naive", "Hasty", "Lonely", "Naughty" ],
+          "EVAttack": 128,
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252
+        },
+        {
+          "move1": [ "Air Cutter", "Roost" ],
+          "move2": [ "Dark Pulse" ],
+          "move3": [ "Heat Wave", "Hidden Power Fighting", "Hidden Power Grass", "Psychic" ],
+          "move4": [ "Calm Mind" ],
+          "ability": [ "Prankster" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Honchkrow",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Brave Bird", "Fly", "Drill Peck" ],
+          "move2": [ "Sucker Punch", "Night Slash" ],
+          "move3": [ "Pursuit", "Roost", "Superpower", "Steel Wing", "Substitute", "Taunt", "Tailwind", "Thunder Wave" ],
+          "move4": [ "Pursuit", "Roost", "Superpower", "Steel Wing", "Substitute", "Taunt", "Tailwind", "Thunder Wave" ],
+          "ability": [ "Moxie" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:black_glasses", "pixelmon:kee_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Dark Pulse" ],
+          "move3": [ "Psychic", "Heat Wave" ],
+          "move4": [ "Nasty Plot" ],
+          "ability": [ "Insomnia", "Super Luck" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:black_glasses", "pixelmon:kee_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Brave Bird", "Fly", "Drill Peck" ],
+          "move2": [ "Sucker Punch", "Night Slash" ],
+          "move3": [ "Pursuit", "Superpower", "Steel Wing" ],
+          "move4": [ "Pursuit", "Superpower", "Steel Wing" ],
+          "ability": [ "Moxie" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:black_glasses", "pixelmon:kee_berry", "pixelmon:choice_scarf", "pixelmon:choice_scarf" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Gligar",
+      "minLevel": 25,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Aerial Ace", "Acrobatics" ],
+          "move3": [ "Bulldoze", "Dig" ],
+          "move4": [ "Defog", "Stealth Rock", "U-turn", "Taunt", "Toxic", "Knock Off" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Gligar",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Defog", "Stealth Rock", "U-turn", "Taunt", "Toxic", "Knock Off" ],
+          "move4": [ "Defog", "Stealth Rock", "U-turn", "Taunt", "Toxic", "Knock Off" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Aerial Ace" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Swords Dance" ],
+          "move4": [ "Baton Pass" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Gliscor",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Swords Dance", "Taunt", "Toxic", "Earthquake", "Stealth Rock", "Guillotine" ],
+          "move2": [ "Swords Dance", "Taunt", "Toxic", "Earthquake", "Stealth Rock", "Guillotine" ],
+          "move3": [ "Swords Dance", "Taunt", "Toxic", "Earthquake", "Stealth Rock", "Guillotine" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Toxic", "Guillotine" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Protect" ],
+          "move4": [ "Substitute" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Aerial Ace", "Sky Attack" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Knock Off", "Facade", "Thunder Fang", "Ice Fang", "Fire Fang", "Poison Jab", "X-Scissor", "Sky Uppercut", "Brick Break", "Stone Edge", "Rock Slide", "Iron Tail", "Steel Wing", "Aqua Tail", "Feint" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Aerial Ace", "Sky Attack" ],
+          "move2": [ "Swords Dance", "Agility", "Hone Claws", "Curse" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Baton Pass" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb", "pixelmon:liechi_berry", "pixelmon:salac_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Aerial Ace", "Sky Attack" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Knock Off", "Thunder Fang", "Ice Fang", "Fire Fang", "Poison Jab", "Sky Uppercut", "Stone Edge", "Iron Tail", "Aqua Tail", "Feint", "U-turn", "Counter", "Guillotine" ],
+          "move4": [ "Knock Off", "Thunder Fang", "Ice Fang", "Fire Fang", "Poison Jab", "Sky Uppercut", "Stone Edge", "Iron Tail", "Aqua Tail", "Feint", "U-turn", "Counter", "Guillotine" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Delibird",
+      "minLevel": 25,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Fly", "Bounce" ],
+          "move2": [ "Ice Ball", "Ice Shard", "Icy Wind", "Aurora Beam" ],
+          "move3": [ "Rapid Spin", "Destiny Bond" ],
+          "move4": [ "Spikes" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Naive", "Hasty" ],
+          "EVAttack": 252,
+          "EVSpecialAttack": 128,
+          "EVSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Delibird",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Fly", "Bounce", "Sky Attack" ],
+          "move2": [ "Ice Punch", "Ice Shard", "Icy Wind", "Freeze-Dry", "Ice Beam", "Blizzard", "Frost Breath" ],
+          "move3": [ "Rapid Spin", "Destiny Bond" ],
+          "move4": [ "Spikes" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpecialAttack": 4,
+          "EVSpeed": 252
+        },
+        {
+          "move1": [ "Aerial Ace", "Fly", "Bounce", "Sky Attack" ],
+          "move2": [ "Ice Punch", "Ice Shard" ],
+          "move3": [ "Brick Break", "Gunk Shot", "Seed Bomb" ],
+          "move4": [ "Brick Break", "Gunk Shot", "Seed Bomb" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpecialAttack": 4,
+          "EVSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Mantyke",
+      "maxLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Bubble Beam", "Bubble", "Water Pulse", "Whirlpool" ],
+          "move3": [ "Toxic", "Icy Wind", "Mud-Slap", "Swift" ],
+          "move4": [ "Rain Dance" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:mystic_water", "pixelmon:water_gem", "pixelmon:wise_glasses", "pixelmon:sitrus_berry", "pixelmon:damp_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Mantine",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Scald", "Surf", "Hydro Pump" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Substitute", "Toxic", "Defog", "Protect", "Rest", "Aqua Ring", "Rain Dance" ],
+          "move4": [ "Substitute", "Toxic", "Defog", "Protect", "Rest", "Aqua Ring", "Rain Dance" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:wacan_berry", "pixelmon:lum_berry", "pixelmon:damp_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Scald", "Surf", "Hydro Pump" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Substitute", "Toxic", "Defog", "Protect", "Rest", "Aqua Ring", "Rain Dance" ],
+          "move4": [ "Substitute", "Toxic", "Defog", "Protect", "Rest", "Aqua Ring", "Rain Dance" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:wacan_berry", "pixelmon:lum_berry", "pixelmon:damp_rock" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Scald", "Surf", "Hydro Pump" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Signal Beam", "Psybeam" ],
+          "move4": [ "Ice Beam", "Blizzard" ],
+          "heldItem": [ "pixelmon:wacan_berry", "pixelmon:life_orb", "pixelmon:choice_specs", "pixelmon:choice_scarf" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Skarmory",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Spikes", "Stealth Rock" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Drill Peck", "Brave Bird", "Fly" ],
+          "move4": [ "Whirlwind", "Taunt", "Defog" ],
+          "ability": [ "Sturdy", "Keen Eye" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rocky_helmet", "pixelmon:lax_incense", "pixelmon:lum_berry", "pixelmon:occa_berry", "pixelmon:custap_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVSpecialDefence": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Drill Peck", "Brave Bird", "Fly" ],
+          "move2": [ "Iron Head" ],
+          "move3": [ "Night Slash", "Rock Slide", "X-Scissor", "Counter" ],
+          "move4": [ "Night Slash", "Rock Slide", "X-Scissor", "Counter" ],
+          "ability": [ "Sturdy", "Keen Eye" ],
+          "heldItem": [ "pixelmon:lax_incense", "pixelmon:lum_berry", "pixelmon:occa_berry", "pixelmon:choice_band", "pixelmon:choice_scarf" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Drill Peck", "Brave Bird", "Fly" ],
+          "move2": [ "Iron Head" ],
+          "move3": [ "Night Slash", "Rock Slide", "X-Scissor", "Roost" ],
+          "move4": [ "Swords Dance" ],
+          "ability": [ "Sturdy", "Keen Eye" ],
+          "heldItem": [ "pixelmon:lax_incense", "pixelmon:lum_berry", "pixelmon:occa_berry", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Beautifly",
+      "minLevel": 10,
+      "maxLevel": 39,
+      "sets": [
+        {
+          "move1": [ "Gust", "Air Cutter" ],
+          "move2": [ "Silver Wind", "Struggle Bug", "Infestation" ],
+          "move3": [ "Electroweb", "Ominous Wind", "Twister", "Mega Drain", "Swift" ],
+          "move4": [ "Electroweb", "Ominous Wind", "Twister", "Mega Drain", "Swift" ],
+          "heldItem": [ "pixelmon:bright_powder", "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Timid", "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Beautifly",
+      "minLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Air Cutter", "Roost" ],
+          "move2": [ "Bug Buzz" ],
+          "move3": [ "Quiver Dance" ],
+          "move4": [ "Psychic", "Giga Drain", "Hidden Power Rock", "Venoshock", "Shadow Ball", "Energy Ball", "Roost", "Morning Sun" ],
+          "heldItem": [ "pixelmon:bright_powder", "pixelmon:life_orb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Taillow",
+      "maxLevel": 21,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Peck", "Wing Attack", "Pluck" ],
+          "move2": [ "Quick Attack", "Rage" ],
+          "move3": [ "Thief", "Pursuit" ],
+          "move4": [ "Protect" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:silk_scarf", "pixelmon:normal_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Swellow",
+      "minLevel": 22,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Pluck", "Wing Attack", "Aerial Ace" ],
+          "move2": [ "Secret Power", "Facade" ],
+          "move3": [ "Quick Attack", "U-turn", "Tailwind", "Pursuit", "Roost", "Endeavor" ],
+          "move4": [ "Quick Attack", "U-turn", "Tailwind", "Pursuit", "Roost", "Endeavor" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:silk_scarf", "pixelmon:normal_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Swellow",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Brave Bird", "Aerial Ace", "Fly", "Sky Attack" ],
+          "move2": [ "Facade" ],
+          "move3": [ "Quick Attack", "U-turn", "Tailwind", "Protect", "Pursuit", "Roost", "Endeavor" ],
+          "move4": [ "Quick Attack", "U-turn", "Tailwind", "Protect", "Pursuit", "Roost", "Endeavor"  ],
+          "ability": [ "Guts" ],
+          "heldItem": [ "pixelmon:toxic_orb", "pixelmon:flame_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Slash" ],
+          "move2": [ "Boomburst" ],
+          "move3": [ "Heat Wave", "Ominous Wind", "Hidden Power Grass", "U-turn" ],
+          "move4": [ "Heat Wave", "Ominous Wind", "Hidden Power Grass", "U-turn" ],
+          "ability": [ "Scrappy" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Wingull",
+      "maxLevel": 24,
+      "sets": [
+        {
+          "move1": [ "Water Gun", "Water Pulse" ],
+          "move2": [ "Gust", "Air Cutter" ],
+          "move3": [ "Icy Wind", "Shock Wave", "Swift", "Mud-Slap", "Ominous Wind", "Twister", "Defog", "Tailwind", "Roost", "Supersonic" ],
+          "move4": [ "Icy Wind", "Shock Wave", "Swift", "Mud-Slap", "Ominous Wind", "Twister", "Defog", "Tailwind", "Roost", "Supersonic" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:mystic_water", "pixelmon:water_gem", "pixelmon:wise_glasses", "pixelmon:wacan_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Pelipper",
+      "minLevel": 25,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Water Pulse", "Brine", "Scald" ],
+          "move2": [ "Air Cutter", "Air Slash" ],
+          "move3": [ "U-turn", "Roost", "Defog", "Tailwind", "Toxic", "Knock Off" ],
+          "move4": [ "U-turn", "Roost", "Defog", "Tailwind", "Toxic", "Knock Off"],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers" ],
+          "nature": [ "Bold" ],
+          "EVDefence": 252,
+          "EVHP": 252,
+          "EVSpecialAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Pelipper",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Scald", "Surf", "Hydro Pump" ],
+          "move2": [ "Hurricane", "Air Slash" ],
+          "move3": [ "U-turn", "Roost", "Defog", "Tailwind", "Toxic", "Knock Off" ],
+          "move4": [ "U-turn", "Roost", "Defog", "Tailwind", "Toxic", "Knock Off" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Bold" ],
+          "EVDefence": 252,
+          "EVHP": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Scald", "Surf", "Hydro Pump" ],
+          "move2": [ "Hurricane", "Air Slash" ],
+          "move3": [ "Roost" ],
+          "move4": [ "Agility", "Tailwind" ],
+          "heldItem": [ "pixelmon:life_orb" ],
+          "nature": [ "Bold" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Masquerain",
+      "minLevel": 23,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Silver Wind", "Struggle Bug", "Signal Beam" ],
+          "move2": [ "Air Cutter" ],
+          "move3": [ "Ominous Wind", "Bubble Beam", "Icy Wind", "Water Pulse", "Swift", "Twister", "Mud Shot", "Psybeam", "Roost", "Baton Pass" ],
+          "move4": [ "Agility", "Sticky Web" ],
+          "heldItem": [ "pixelmon:focus_band", "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Masquerain",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Bug Buzz" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Hydro Pump", "Ice Beam", "Blizzard", "Energy Ball", "Shadow Ball", "Giga Drain", "Scald", "Ominous Wind", "Psybeam", "Roost", "Baton Pass" ],
+          "move4": [ "Quiver Dance", "Sticky Web" ],
+          "ability": [ "Intimidate" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:life_orb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Ninjask",
+      "minLevel": 20,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "U-turn", "Bug Bite", "Fury Cutter" ],
+          "move2": [ "Aerial Ace" ],
+          "move3": [ "Metal Claw", "Dig", "Night Slash", "Slash", "Swords Dance" ],
+          "move4": [ "Metal Claw", "Dig", "Night Slash", "Slash", "Swords Dance" ],
+          "heldItem": [ "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Ninjask",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "U-turn", "X-Scissor" ],
+          "move2": [ "Aerial Ace" ],
+          "move3": [ "Night Slash", "Dig", "Baton Pass", "Protect" ],
+          "move4": [ "Swords Dance" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:silver_powder" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "eAtk": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Aerial Ace" ],
+          "move2": [ "Protect", "Substitute", "Swords Dance", "X-Scissor", "Toxic" ],
+          "move3": [ "Protect", "Substitute", "Swords Dance", "X-Scissor", "Toxic" ],
+          "move4": [ "Baton Pass" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:leftovers" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "eAtk": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Aerial Ace" ],
+          "move2": [ "U-turn", "X-Scissor" ],
+          "move3": [ "Night Slash", "Dig", "Final Gambit", "U-turn", "X-Scissor" ],
+          "move4": [ "Night Slash", "Dig", "Final Gambit", "U-turn", "X-Scissor" ],
+          "ability": [ "Speed Boost" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_band", "pixelmon:silver_powder" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "eAtk": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Swablu",
+      "maxLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Peck", "Aerial Ace", "Pluck" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Fury Attack", "Thief", "Agility", "Feather Dance" ],
+          "move4": [ "Fury Attack", "Thief", "Agility", "Feather Dance" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Impish", "Careful" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Altaria",
+      "minLevel": 35,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Dragon Breath", "Dragon Pulse" ],
+          "move2": [ "Air Cutter", "Roost" ],
+          "move3": [ "Roost", "Toxic", "Tailwind", "Flamethrower", "Moonblast", "Ice Beam", "Cotton Guard", "Heal Bell", "Substitute", "Roar", "Sing", "Haze" ],
+          "move4": [ "Roost", "Toxic", "Tailwind", "Flamethrower", "Moonblast", "Ice Beam", "Cotton Guard", "Heal Bell", "Substitute", "Roar", "Sing", "Haze" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:dragon_fang" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Altaria",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Draco Meteor", "Dragon Pulse" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Air Cutter", "Toxic", "Tailwind", "Fire Blast", "Moonblast", "Ice Beam", "Cotton Guard", "Heal Bell", "Substitute", "Roar", "Sing", "Haze" ],
+          "move4": [ "Air Cutter", "Toxic", "Tailwind", "Fire Blast", "Moonblast", "Ice Beam", "Cotton Guard", "Heal Bell", "Substitute", "Roar", "Sing", "Haze" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:life_orb", "pixelmon:leftovers" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Dragon Claw", "Outrage", "Dragon Rush" ],
+          "move2": [ "Aerial Ace", "Sky Attack", "Fly", "Roost" ],
+          "move3": [ "Earthquake", "Roost", "Iron Tail", "Steel Wing", "Thief", "Pursuit" ],
+          "move4": [ "Dragon Dance", "Agility" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:life_orb", "pixelmon:leftovers" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Dragon Claw", "Dragon Rush" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Toxic", "Tailwind", "Cotton Guard", "Heal Bell", "Substitute", "Roar", "Sing" ],
+          "move4": [ "Dragon Dance" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Air Cutter", "Toxic", "Tailwind", "Cotton Guard", "Heal Bell", "Substitute", "Roar", "Sing", "Dragon Pulse", "Haze", "Flamethrower" ],
+          "move3": [ "Air Cutter", "Toxic", "Tailwind", "Cotton Guard", "Heal Bell", "Substitute", "Roar", "Sing", "Dragon Pulse", "Haze", "Flamethrower" ],
+          "move4": [ "Air Cutter", "Toxic", "Tailwind", "Cotton Guard", "Heal Bell", "Substitute", "Roar", "Sing", "Dragon Pulse", "Haze", "Flamethrower" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Draco Meteor", "Dragon Pulse" ],
+          "move3": [ "Flamethrower", "Heat Wave", "Fire Blast" ],
+          "move4": [ "Draco Meteor", "Dragon Pulse", "Ice Beam", "Moonblast", "Solar Beam" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:life_orb", "pixelmon:choice_specs", "pixelmon:choice_scarf" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Tropius",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Leech Seed" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Protect", "Toxic", "Roost", "Giga Drain", "Substitute" ],
+          "move4": [ "Protect", "Toxic", "Roost", "Giga Drain", "Substitute" ],
+          "ability": [ "Harvest" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Swords Dance", "Dragon Dance" ],
+          "move2": [ "Aerial Ace", "Fly" ],
+          "move3": [ "Leaf Blade" ],
+          "move4": [ "Outrage", "Earthquake", "Steel Wing" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:lum_berry", "pixelmon:life_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Slash" ],
+          "move2": [ "Energy Ball", "Solar Beam", "Giga Drain" ],
+          "move3": [ "Hidden Power Fire", "Dragon Pulse", "Silver Wind", "Synthesis" ],
+          "move4": [ "Sunny Day" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:lum_berry", "pixelmon:life_orb", "pixelmon:heat_rock" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Salamence",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Dragon Dance" ],
+          "move2": [ "Dragon Claw", "Outrage", "Dragon Rush" ],
+          "move3": [ "Fly", "Aerial Ace" ],
+          "move4": [ "Fire Fang", "Thunder Fang", "Earthquake", "Crunch", "Zen Headbutt", "Brick Break", "Stone Edge", "Rock Slide", "Draco Meteor", "Flamethrower", "Fire Blast", "Shadow Claw", "Iron Tail", "Steel Wing", "Roost", "Substitute" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:lum_berry", "pixelmon:expert_belt", "pixelmon:life_orb" ],
+          "nature": [ "Naive", "Hasty", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Substitute", "Toxic", "Dragon Claw", "Dragon Tail", "Aerial Ace", "Defog", "Body Slam" ],
+          "move3": [ "Substitute", "Toxic", "Dragon Claw", "Dragon Tail", "Aerial Ace", "Defog", "Body Slam" ],
+          "move4": [ "Substitute", "Toxic", "Dragon Claw", "Dragon Tail", "Aerial Ace", "Defog", "Body Slam" ],
+          "ability": [ "Intimidate" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:lum_berry", "pixelmon:leftovers" ],
+          "nature": [ "Jolly", "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Dragon Claw", "Outrage", "Dragon Rush", "Draco Meteor", "Dragon Pulse" ],
+          "move2": [ "Aerial Ace", "Fly", "Air Cutter" ],
+          "move3": [ "Thunder Fang", "Earthquake", "Crunch", "Zen Headbutt", "Brick Break", "Stone Edge", "Fire Blast", "Shadow Claw", "Iron Tail" ],
+          "move4": [ "Thunder Fang", "Earthquake", "Crunch", "Zen Headbutt", "Brick Break", "Stone Edge", "Fire Blast", "Shadow Claw", "Iron Tail" ],
+          "heldItem": [ "pixelmon:yache_berry", "pixelmon:lum_berry", "pixelmon:choice_scarf" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty" ],
+          "EVAttack": 128,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Starly",
+      "maxLevel": 15,
+      "sets": [
+        {
+          "move1": [ "Wing Attack", "Aerial Ace", "Pluck" ],
+          "move2": [ "Tackle", "Fury Attack" ],
+          "move3": [ "Thief", "Quick Attack", "Endeavor" ],
+          "move4": [ "Thief", "Quick Attack", "Endeavor" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:silk_scarf", "pixelmon:normal_gem", "pixelmon:muscle_band", "pixelmon:salac_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Staravia",
+      "minLevel": 14,
+      "maxLevel": 33,
+      "sets": [
+        {
+          "move1": [ "Wing Attack", "Aerial Ace", "Pluck" ],
+          "move2": [ "Tackle", "Fury Attack" ],
+          "move3": [ "Thief", "Quick Attack", "Endeavor" ],
+          "move4": [ "Thief", "Quick Attack", "Endeavor" ],
+          "heldItem": [ "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:silk_scarf", "pixelmon:normal_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Staraptor",
+      "minLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Brave Bird" ],
+          "move2": [ "Double-Edge" ],
+          "move3": [ "Close Combat", "Quick Attack", "Final Gambit", "U-turn", "Pursuit", "Steel Wing" ],
+          "move4": [ "Close Combat", "Quick Attack", "Final Gambit", "U-turn", "Pursuit", "Steel Wing" ],
+          "ability": [ "Reckless" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:sitrus_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Brave Bird" ],
+          "move2": [ "Double-Edge", "Giga Impact" ],
+          "move3": [ "Close Combat", "Quick Attack", "U-turn", "Roost", "Pursuit", "Steel Wing", "Endeavor" ],
+          "move4": [ "Close Combat", "Quick Attack", "U-turn", "Roost", "Pursuit", "Steel Wing", "Endeavor" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:sitrus_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Mothim",
+      "minLevel": 20,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Silver Wind", "Struggle Bug" ],
+          "move2": [ "Air Cutter" ],
+          "move3": [ "Electroweb", "Psybeam", "Ominous Wind", "Venoshock", "Swift", "U-turn" ],
+          "move4": [ "Electroweb", "Psybeam", "Ominous Wind", "Venoshock", "Swift", "U-turn" ],
+          "heldItem": [ "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:expert_belt", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Mothim",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Bug Buzz" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Psychic", "Shadow Ball", "Hidden Power Ground", "Energy Ball", "Venoshock", "U-turn" ],
+          "move4": [ "Psychic", "Shadow Ball", "Hidden Power Ground", "Energy Ball", "Venoshock", "U-turn" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:life_orb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Bug Buzz" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Psychic", "Shadow Ball", "Hidden Power Ground", "Energy Ball", "Giga Drain", "Venoshock" ],
+          "move4": [ "Quiver Dance" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:expert_belt" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Combee",
+      "maxLevel": 20,
+      "sets": [
+        {
+          "move1": [ "Bug Bite" ],
+          "move2": [ "Gust", "Air Cutter" ],
+          "move3": [ "Ominous Wind", "Mud-Slap", "Tailwind", "Endeavor", "Swift" ],
+          "move4": [ "Ominous Wind", "Mud-Slap", "Tailwind", "Endeavor", "Swift" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:rocky_helmet" ],
+          "EVDefence": 128,
+          "EVHP": 252,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Vespiquen",
+      "minLevel": 25,
+      "maxLevel": 52,
+      "sets": [
+        {
+          "move1": [ "Silver Wind", "Struggle Bug" ],
+          "move2": [ "Air Cutter" ],
+          "move3": [ "Venoshock", "Ominous Wind", "Swift", "Power Gem" ],
+          "move4": [ "Tailwind" ],
+          "heldItem": [ "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:quick_claw", "pixelmon:custap_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Vespiquen",
+      "minLevel": 53,
+      "sets": [
+        {
+          "move1": [ "Bug Buzz" ],
+          "move2": [ "Air Slash" ],
+          "move3": [ "Destiny Bond", "Power Gem", "Sludge Bomb", "Ominous Wind", "Hidden Power Ground" ],
+          "move4": [ "Tailwind" ],
+          "heldItem": [ "pixelmon:silver_powder", "pixelmon:life_orb", "pixelmon:quick_claw", "pixelmon:custap_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Attack Order", "U-turn" ],
+          "move2": [ "Acrobatics" ],
+          "move3": [ "Destiny Bond", "Heal Order", "Roost" ],
+          "move4": [ "Tailwind" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Defend Order" ],
+          "move3": [ "Toxic" ],
+          "move4": [ "Attack Order", "Protect", "Confuse Ray" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:sitrus_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVDefence": 128,
+          "EVHP": 252,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Drifloon",
+      "maxLevel": 27,
+      "sets": [
+        {
+          "move1": [ "Ominous Wind" ],
+          "move2": [ "Gust", "Air Cutter" ],
+          "move3": [ "Shock Wave", "Icy Wind", "Silver Wind", "Clear Smog", "Will-O-Wisp", "Hypnosis" ],
+          "move4": [ "Shock Wave", "Icy Wind", "Silver Wind", "Clear Smog", "Will-O-Wisp", "Hypnosis" ],
+          "heldItem": [ "pixelmon:spell_tag", "pixelmon:ghost_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem", "pixelmon:wise_glasses" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Drifblim",
+      "minLevel": 28,
+      "sets": [
+        {
+          "move1": [ "Shadow Ball" ],
+          "move2": [ "Air Cutter" ],
+          "move3": [ "Calm Mind" ],
+          "move4": [ "Rest" ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:chesto_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Shadow Ball" ],
+          "move2": [ "Air Cutter" ],
+          "move3": [ "Calm Mind" ],
+          "move4": [ "Thunderbolt", "Silver Wind", "Psychic" ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:petaya_berry", "pixelmon:sitrus_berry", "pixelmon:ghost_gem", "pixelmon:colbur_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Acrobatics" ],
+          "move2": [ "Substitute" ],
+          "move3": [ "Knock Off", "Will-O-Wisp", "Sucker Punch", "Destiny Bond", "Hypnosis", "Defog", "Disable", "Thunder Wave"  ],
+          "move4": [ "Knock Off", "Will-O-Wisp", "Sucker Punch", "Destiny Bond", "Hypnosis", "Defog", "Disable", "Thunder Wave"  ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:liechi_berry", "pixelmon:flying_gem", "pixelmon:colbur_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Shadow Ball", "Hex" ],
+          "move2": [ "Acrobatics" ],
+          "move3": [ "Will-O-Wisp", "Destiny Bond", "Hypnosis", "Defog", "Disable", "Knock Off", "Sucker Punch", "Substitute", "Thunder Wave" ],
+          "move4": [ "Will-O-Wisp", "Destiny Bond", "Hypnosis", "Defog", "Disable", "Knock Off", "Sucker Punch", "Substitute", "Thunder Wave"  ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:liechi_berry", "pixelmon:flying_gem", "pixelmon:sitrus_berry", "pixelmon:colbur_berry" ],
+          "nature": [ "Rash", "Mild", "Hasty", "Naive" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Cutter" ],
+          "move2": [ "Calm Mind", "Ominous Wind", "Silver Wind", "Amnesia", "Minimize", "Stockpile", "Endure" ],
+          "move3": [ "Calm Mind", "Ominous Wind", "Silver Wind", "Amnesia", "Minimize", "Stockpile", "Endure" ],
+          "move4": [ "Baton Pass" ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:petaya_berry", "pixelmon:weakness_policy" ],
+          "nature": [ "Rash", "Mild", "Hasty", "Naive" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Shadow Ball" ],
+          "move2": [ "Air Cutter" ],
+          "move3": [ "Thunderbolt", "Silver Wind", "Psychic" ],
+          "move4": [ "Thunderbolt", "Silver Wind", "Psychic" ],
+          "ability": [ "Flare Boost" ],
+          "heldItem": [ "pixelmon:flame_orb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Acrobatics", "Fly" ],
+          "move2": [ "Phantom Force" ],
+          "move3": [ "Knock Off", "Will-O-Wisp", "Sucker Punch", "Destiny Bond", "Hypnosis", "Defog", "Disable", "Thunder Wave"  ],
+          "move4": [ "Knock Off", "Will-O-Wisp", "Sucker Punch", "Destiny Bond", "Hypnosis", "Defog", "Disable", "Thunder Wave"  ],
+          "ability": [ "Unburden" ],
+          "heldItem": [ "pixelmon:power_herb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Chatot",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Boomburst" ],
+          "move2": [ "Chatter" ],
+          "move3": [ "Hidden Power Fighting", "Hidden Power Ground", "Heat Wave", "U-turn", "Ominous Wind" ],
+          "move4": [ "Hidden Power Fighting", "Hidden Power Ground", "Heat Wave", "U-turn", "Ominous Wind" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:life_orb", "pixelmon:choice_scarf", "pixelmon:salac_berry", "pixelmon:silk_scarf" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Boomburst" ],
+          "move2": [ "Chatter" ],
+          "move3": [ "Hidden Power Fighting", "Hidden Power Ground", "Heat Wave", "U-turn", "Ominous Wind", "Substitute", "Taunt", "Encore" ],
+          "move4": [ "Nasty Plot", "Agility", "Tailwind" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:salac_berry", "pixelmon:silk_scarf" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sigilyph",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Air Slash", "Stored Power" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Calm Mind", "Cosmic Power" ],
+          "move4": [ "Psycho Shift" ],
+          "ability": [ "Magic Guard" ],
+          "heldItem": [ "pixelmon:flame_orb" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Psychic", "Psyshock" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Air Slash", "Heat Wave", "Dark Pulse", "Shock Wave", "Shadow Ball", "Energy Ball", "Dazzling Gleam", "Energy Ball", "Ice Beam", "Flash Cannon", "Heat Wave", "Signal Beam", "Ancient Power" ],
+          "move4": [ "Air Slash", "Heat Wave", "Dark Pulse", "Shock Wave", "Shadow Ball", "Energy Ball", "Dazzling Gleam", "Energy Ball", "Ice Beam", "Flash Cannon", "Heat Wave", "Signal Beam", "Ancient Power" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:colbur_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Air Slash" ],
+          "move2": [ "Thunder Wave" ],
+          "move3": [ "Psychic" ],
+          "move4": [ "Air Slash", "Heat Wave", "Dark Pulse", "Shock Wave", "Shadow Ball", "Energy Ball", "Dazzling Gleam", "Energy Ball", "Ice Beam", "Flash Cannon", "Heat Wave", "Signal Beam", "Ancient Power" ],
+          "ability": [ "Magic Guard" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Archen",
+      "maxLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Aerial Ace", "Pluck", "Wing Attack" ],
+          "move2": [ "Rock Tomb", "Smack Down", "Rock Throw" ],
+          "move3": [ "Bulldoze", "Rock Smash", "Bite", "Defog", "Stealth Rock" ],
+          "move4": [ "Bulldoze", "Rock Smash", "Bite", "Defog", "Stealth Rock" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Archeops",
+      "minLevel": 37,
+      "sets": [
+        {
+          "move1": [ "Acrobatics" ],
+          "move2": [ "Stone Edge", "Rock Slide", "Head Smash" ],
+          "move3": [ "Earthquake", "Earth Power", "Dragon Claw", "U-turn", "Iron Tail", "Aqua Tail", "Heat Wave", "Knock Off", "Zen Headbutt", "Roost", "Tailwind", "Quick Attack", "Endeavor" ],
+          "move4": [ "Earthquake", "Earth Power", "Dragon Claw", "U-turn", "Iron Tail", "Aqua Tail", "Heat Wave", "Knock Off", "Zen Headbutt", "Roost", "Tailwind", "Quick Attack", "Endeavor" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Aerial Ace", "Fly" ],
+          "move2": [ "Stone Edge", "Rock Slide", "Head Smash" ],
+          "move3": [ "Earthquake", "Dragon Claw", "U-turn", "Iron Tail", "Aqua Tail", "Knock Off", "Zen Headbutt", "Quick Attack", "Switcheroo" ],
+          "move4": [ "Earthquake", "Dragon Claw", "U-turn", "Iron Tail", "Aqua Tail", "Knock Off", "Zen Headbutt", "Quick Attack", "Switcheroo" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Acrobatics" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Earthquake", "Taunt", "Defog", "Stone Edge", "U-turn", "Tailwind" ],
+          "move4": [ "Earthquake", "Taunt", "Defog", "Stone Edge", "U-turn", "Tailwind" ],
+          "heldItem": [ "pixelmon:flying_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVHP": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Aerial Ace", "Acrobatics" ],
+          "move2": [ "Head Smash", "Rock Slide", "Stone Edge", "Rock Tomb" ],
+          "move3": [ "Stealth Rock" ],
+          "move4": [ "Endeavor", "Taunt" ],
+          "heldItem": [ "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVHP": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Aerial Ace", "Fly" ],
+          "move2": [ "Stone Edge", "Rock Slide", "Head Smash" ],
+          "move3": [ "Earthquake", "Earth Power", "Dragon Claw", "U-turn", "Iron Tail", "Aqua Tail", "Heat Wave", "Knock Off", "Zen Headbutt", "Roost", "Tailwind", "Quick Attack", "Endeavor" ],
+          "move4": [ "Earthquake", "Earth Power", "Dragon Claw", "U-turn", "Iron Tail", "Aqua Tail", "Heat Wave", "Knock Off", "Zen Headbutt", "Roost", "Tailwind", "Quick Attack", "Endeavor" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash" ],
+          "nature": [ "Naive", "Hasty", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Emolga",
+      "maxLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Spark" ],
+          "move2": [ "Aerial Ace" ],
+          "move3": [ "Taunt", "Encore", "Pursuit", "Tailwind" ],
+          "move4": [ "Roost" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:magnet", "pixelmon:electric_gem", "pixelmon:sharp_beak", "pixelmon:flying_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Emolga",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Thunderbolt", "Charge Beam" ],
+          "move2": [ "Aerial Ace", "Acrobatics", "Air Slash", "Roost" ],
+          "move3": [ "Taunt", "Encore", "Pursuit", "Tailwind", "Substitute" ],
+          "move4": [ "U-turn", "Volt Switch", "Knock Off", "Hidden Power Grass", "Baton Pass" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:electric_gem", "pixelmon:flying_gem", "pixelmon:focus_sash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Rufflet",
+      "maxLevel": 53,
+      "sets": [
+        {
+          "move1": [ "Wing Attack", "Pluck", "Aerial Ace", "Sky Drop" ],
+          "move2": [ "Fury Attack", "Cut" ],
+          "move3": [ "Rock Tomb", "Rock Smash" ],
+          "move4": [ "Bulk Up", "Roost", "Substitute" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:salac_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Braviary",
+      "minLevel": 54,
+      "sets": [
+        {
+          "move1": [ "Brave Bird", "Fly", "Aerial Ace", "Sky Drop", "Sky Attack" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Substitute" ],
+          "move4": [ "Bulk Up" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Careful", "Adamant", "Impish" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Brave Bird", "Fly", "Aerial Ace", "Sky Drop", "Sky Attack" ],
+          "move2": [ "Return", "Thrash", "Giga Impact" ],
+          "move3": [ "Superpower", "Rock Slide", "U-turn", "Steel Wing", "Shadow Claw", "Zen Headbutt" ],
+          "move4": [ "Superpower", "Rock Slide", "U-turn", "Steel Wing", "Shadow Claw", "Zen Headbutt" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:kings_rock", "pixelmon:lum_berry", "pixelmon:wacan_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Brave Bird", "Fly", "Aerial Ace", "Sky Drop", "Sky Attack" ],
+          "move2": [ "Return", "Thrash", "Giga Impact" ],
+          "move3": [ "Superpower", "Rock Slide", "U-turn", "Steel Wing", "Shadow Claw", "Zen Headbutt", "Roost" ],
+          "move4": [ "Bulk Up", "Tailwind" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:kings_rock", "pixelmon:lum_berry", "pixelmon:wacan_berry", "pixelmon:leftovers" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    }
+  ]
+}

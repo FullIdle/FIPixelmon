@@ -1,0 +1,294 @@
+{
+  "pixelmonName": "Terrakion",
+  "pokemon": "Terrakion",
+  "form": 0,
+  "stats": {
+    "HP": 91,
+    "Attack": 129,
+    "Defence": 90,
+    "Speed": 108,
+    "SpecialAttack": 72,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Rock",
+    "Fighting"
+  ],
+  "height": 1.9,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    }
+  },
+  "weight": 260.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.0,
+    "eye_height": 0.7
+  },
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Helping Hand",
+      "Leer",
+      "Quick Attack",
+      "Work Up"
+    ],
+    "7": [
+      "Smack Down"
+    ],
+    "14": [
+      "Quick Guard"
+    ],
+    "21": [
+      "Double Kick"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "35": [
+      "Rock Slide"
+    ],
+    "42": [
+      "Take Down"
+    ],
+    "49": [
+      "Sacred Sword"
+    ],
+    "56": [
+      "Swords Dance"
+    ],
+    "63": [
+      "Stone Edge"
+    ],
+    "70": [
+      "Close Combat"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Aerial Ace",
+    "Block",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Psych Up",
+    "Return",
+    "Roar",
+    "Rock Polish",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Earthquake",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Megahorn",
+    "Taunt",
+    "Superpower",
+    "Calm Mind",
+    "Close Combat",
+    "Poison Jab",
+    "X-Scissor",
+    "Focus Blast",
+    "Earth Power",
+    "Zen Headbutt",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Sandstorm",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "Rock Blast",
+    "Round",
+    "Retaliate",
+    "Bulldoze",
+    "False Swipe",
+    "Air Slash",
+    "Smart Strike",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Retaliate",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

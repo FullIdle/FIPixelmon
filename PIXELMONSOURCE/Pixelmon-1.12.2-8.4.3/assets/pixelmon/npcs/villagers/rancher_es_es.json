@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "rancher.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Billy Bob"
+        },
+        {
+            "name": "Vaquero Roy"
+        },
+        {
+            "name": "Bubba Pete Jr."
+        },
+        {
+            "name": "Cletus Sr."
+        },
+        {
+            "name": "Zeb"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Los Miltank tienen miles de usos, chaval."
+                },
+                {
+                    "text": "Por eso nos necesitais tanto. Sin nosotros, ¿de dónde sacaríais la leche y el cuero, hm?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Toda la gente de pueblo estamoh quemaos, ¿y tú?"
+                },
+                {
+                    "text": "Trabaja conmigo en la granja, chico. ¡Vamoh a darte algo de color!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Es difícil trabajar siendo Granjero. La espalda me está matando."
+                },
+                {
+                    "text": "Ah, sólo quiero sentarme en mi silla unas horas, y descansar."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Todos vosotros deberíais de ir al campo alguna vez."
+                },
+                {
+                    "text": "Respirar algo del buen aire del campo."
+                }
+            ]
+        }
+    ]
+}

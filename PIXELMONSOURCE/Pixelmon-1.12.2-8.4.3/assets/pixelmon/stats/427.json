@@ -1,0 +1,326 @@
+{
+  "pixelmonName": "Buneary",
+  "pokemon": "Buneary",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 66,
+    "Defence": 44,
+    "Speed": 85,
+    "SpecialAttack": 44,
+    "SpecialDefence": 56
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 7,
+  "spawnLevelRange": 10,
+  "baseExp": 84,
+  "baseFriendship": 0,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 5.5,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.6,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Lopunny"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "RunAway",
+    "Klutz",
+    "Limber"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Pound",
+      "Splash"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "8": [
+      "Baby-Doll Eyes"
+    ],
+    "12": [
+      "After You"
+    ],
+    "16": [
+      "Quick Attack"
+    ],
+    "20": [
+      "Double Kick"
+    ],
+    "24": [
+      "Charm"
+    ],
+    "28": [
+      "Baton Pass"
+    ],
+    "32": [
+      "Headbutt"
+    ],
+    "36": [
+      "Agility"
+    ],
+    "40": [
+      "Entrainment"
+    ],
+    "44": [
+      "Flatter"
+    ],
+    "48": [
+      "Bounce"
+    ],
+    "52": [
+      "Healing Wish"
+    ]
+  },
+  "tutorMoves": [
+    "Triple Axel"
+  ],
+  "eggMoves": [
+    "Circle Throw",
+    "Copycat",
+    "Double Hit",
+    "Fake Out",
+    "Flail",
+    "Focus Punch",
+    "Sweet Kiss",
+    "Switcheroo",
+    "Teeter Dance"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Charge Beam",
+    "Confide",
+    "Covet",
+    "Cut",
+    "Dizzy Punch",
+    "Double Team",
+    "Endeavor",
+    "Foresight",
+    "Frustration",
+    "Heal Bell",
+    "Hidden Power",
+    "Jump Kick",
+    "Last Resort",
+    "Magic Coat",
+    "Mud Sport",
+    "Mud-Slap",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Shock Wave",
+    "Sky Uppercut",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Ice Beam",
+    "Low Kick",
+    "Thunderbolt",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Encore",
+    "Iron Tail",
+    "Shadow Ball",
+    "Uproar",
+    "Hyper Voice",
+    "Cosmic Power",
+    "Grass Knot",
+    "Work Up",
+    "Play Rough"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Solar Beam",
+    "Thunder Wave",
+    "Dig",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Fake Tears",
+    "Bounce",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Drain Punch",
+    "Low Sweep",
+    "Round",
+    "Retaliate"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Retaliate",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Retaliate",
+    "Thunder Wave",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Drain Punch",
+    "Thunder Wave",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Liepard",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Liepard"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

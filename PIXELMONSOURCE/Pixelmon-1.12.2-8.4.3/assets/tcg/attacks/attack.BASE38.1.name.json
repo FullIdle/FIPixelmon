@@ -1,0 +1,19 @@
+{
+  "cardCode": "BASE38",
+  "attackNumber": 1,
+  "name": "attack.BASE38.1.name",
+  "energy": [
+    "WATER",
+    "WATER"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.BASE38.1.text",
+  "effectsString": "OPP_DISABLED:1",
+  "effects": [
+    {
+      "turnCount": 1,
+      "onMe": false
+    }
+  ]
+}

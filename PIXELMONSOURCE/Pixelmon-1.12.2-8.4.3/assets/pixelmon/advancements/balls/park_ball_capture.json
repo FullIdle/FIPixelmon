@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:park_ball"
+        },
+        "title": {
+            "translate": "advancements.park_ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.park_ball_capture.description"
+        },
+        "hidden": true
+    },
+    "parent": "pixelmon:balls/ball_capture_trigger",
+    "criteria": {
+        "park_ball_capture": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "park_ball"
+            }
+        }
+    }
+}

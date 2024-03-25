@@ -1,0 +1,28 @@
+{
+  "id": "Stantler Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Stantler"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "hills",
+          "freezing forests"
+        ],
+        "minY": 70
+      },
+      "rarity": 40.0
+    }
+  ]
+}

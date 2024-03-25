@@ -1,0 +1,276 @@
+{
+  "pixelmonName": "Heatmor",
+  "pokemon": "Heatmor",
+  "form": 0,
+  "stats": {
+    "HP": 85,
+    "Attack": 97,
+    "Defence": 66,
+    "Speed": 65,
+    "SpecialAttack": 105,
+    "SpecialDefence": 66
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 34,
+  "spawnLevelRange": 12,
+  "baseExp": 169,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 1.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 58.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.0,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Gluttony",
+    "FlashFire",
+    "WhiteSmoke"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Lick",
+      "Tackle"
+    ],
+    "5": [
+      "Fury Swipes"
+    ],
+    "10": [
+      "Incinerate"
+    ],
+    "15": [
+      "Bug Bite"
+    ],
+    "20": [
+      "Spit Up",
+      "Stockpile",
+      "Swallow"
+    ],
+    "25": [
+      "Slash"
+    ],
+    "30": [
+      "Bind"
+    ],
+    "35": [
+      "Fire Lash"
+    ],
+    "40": [
+      "Hone Claws"
+    ],
+    "45": [
+      "Amnesia"
+    ],
+    "50": [
+      "Fire Spin"
+    ],
+    "55": [
+      "Inferno"
+    ],
+    "60": [
+      "Flare Blitz"
+    ]
+  },
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Scorching Sands"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Curse",
+    "Night Slash",
+    "Sucker Punch",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Feint Attack",
+    "Flame Burst",
+    "Focus Punch",
+    "Frustration",
+    "Gastro Acid",
+    "Hidden Power",
+    "Knock Off",
+    "Odor Sleuth",
+    "Power-Up Punch",
+    "Pursuit",
+    "Recycle",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Snatch",
+    "Swagger",
+    "Toxic",
+    "Wrap"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Low Kick",
+    "Fire Blast",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Heat Wave",
+    "Taunt",
+    "Superpower",
+    "Overheat",
+    "Flare Blitz",
+    "Focus Blast",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Fire Punch",
+    "Thunder Punch",
+    "Giga Impact",
+    "Solar Beam",
+    "Fire Spin",
+    "Dig",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Rock Tomb",
+    "Fling",
+    "Drain Punch",
+    "Shadow Claw",
+    "Round",
+    "Brutal Swing",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Focus Blast",
+    "Fling",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

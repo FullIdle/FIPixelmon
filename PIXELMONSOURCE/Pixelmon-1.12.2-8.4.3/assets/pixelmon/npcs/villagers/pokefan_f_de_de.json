@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "pokefan_f.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Fancy"
+    },
+    {
+      "name": "Carys"
+    },
+    {
+      "name": "Ljubica"
+    },
+    {
+      "name": "Noa"
+    },
+    {
+      "name": "Yua"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Ich liebe Zubat SO SEHR."
+        },
+        {
+          "text": "Manchmal wage ich mich in Höhlen nur um hunderte Zubat-Umarmungen zu bekommen!"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich habe mal einen Wettkampf gewonnen."
+        },
+        {
+          "text": "Meine Pokémon sind offiziell die allerniedlichsten!"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Siehst du den Anstecker auf meine Jacke? Der ist vom offiziellen Weltpokémonfreundeklubladen..."
+        },
+        {
+          "text": "Ich versuchte einen Eigenen zu machen aber der war nicht gut."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich bin Mitglied im lokalen Pokémonfreundeklub."
+        },
+        {
+          "text": "Du solltest beitreten, du scheinst deine Pokémon zu lieben."
+        }
+      ]
+    }
+  ]
+}

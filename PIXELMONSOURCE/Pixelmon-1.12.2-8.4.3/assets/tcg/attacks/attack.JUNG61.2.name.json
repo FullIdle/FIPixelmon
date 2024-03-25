@@ -1,0 +1,15 @@
+{
+  "cardCode": "JUNG61",
+  "attackNumber": 2,
+  "name": "attack.JUNG61.2.name",
+  "energy": [
+    "FIGHTING",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

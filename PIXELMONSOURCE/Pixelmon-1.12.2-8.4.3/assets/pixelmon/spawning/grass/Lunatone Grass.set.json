@@ -1,0 +1,62 @@
+{
+  "id": "Lunatone Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lunatone"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mesa_rock"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Lunatone"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

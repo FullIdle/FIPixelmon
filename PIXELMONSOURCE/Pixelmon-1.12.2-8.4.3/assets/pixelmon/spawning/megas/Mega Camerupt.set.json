@@ -1,0 +1,23 @@
+{
+  "id": "Mega Camerupt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Camerupt"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

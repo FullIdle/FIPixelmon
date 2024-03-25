@@ -1,0 +1,57 @@
+{
+  "id": "Ferroseed",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ferroseed"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "redwoods",
+          "freezing forests"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Ferroseed"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "redwoods",
+          "freezing forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 9.0
+    }
+  ]
+}

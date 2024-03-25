@@ -1,0 +1,16 @@
+{
+  "cardCode": "BASE15",
+  "attackNumber": 1,
+  "name": "attack.BASE15.1.name",
+  "energy": [
+    "GRASS",
+    "GRASS",
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 60,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

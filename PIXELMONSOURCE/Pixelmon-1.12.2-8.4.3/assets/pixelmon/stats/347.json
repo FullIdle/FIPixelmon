@@ -1,0 +1,310 @@
+{
+  "pixelmonName": "Anorith",
+  "pokemon": "Anorith",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 95,
+    "Defence": 50,
+    "Speed": 75,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 99,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Bug"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 12.5,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.2,
+    "eye_height": 0.1
+  },
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Armaldo"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BattleArmour",
+    null,
+    "SwiftSwim"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Fury Cutter",
+      "Harden"
+    ],
+    "4": [
+      "Water Gun"
+    ],
+    "8": [
+      "Smack Down"
+    ],
+    "12": [
+      "Metal Claw"
+    ],
+    "16": [
+      "Ancient Power"
+    ],
+    "20": [
+      "Bug Bite"
+    ],
+    "24": [
+      "Brine"
+    ],
+    "28": [
+      "Slash"
+    ],
+    "32": [
+      "Crush Claw"
+    ],
+    "36": [
+      "Rock Blast"
+    ],
+    "41": [
+      "Protect"
+    ],
+    "44": [
+      "X-Scissor"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Curse",
+    "Knock Off",
+    "Rapid Spin",
+    "Sand Attack",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Captivate",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Double-Edge",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Hone Claws",
+    "Mimic",
+    "Mud Sport",
+    "Mud-Slap",
+    "Natural Gift",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Scratch",
+    "Secret Power",
+    "String Shot",
+    "Struggle Bug",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "X-Scissor",
+    "Earth Power",
+    "Stealth Rock"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Screech",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Mud Shot",
+    "Rock Blast",
+    "Brine",
+    "Cross Poison",
+    "Round",
+    "False Swipe"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Rock Polish",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Rock Polish",
+    "Swords Dance",
+    "Struggle Bug",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Rock Polish",
+    "Swords Dance",
+    "Struggle Bug",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "False Swipe",
+    "Endure",
+    "Rock Polish",
+    "Swords Dance",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "X-Scissor",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

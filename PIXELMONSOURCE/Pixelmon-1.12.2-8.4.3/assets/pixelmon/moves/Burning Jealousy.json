@@ -1,0 +1,39 @@
+{
+  "attackIndex": 715,
+  "attackName": "Burning Jealousy",
+  "attackType": "Fire",
+  "attackCategory": "SPECIAL",
+  "basePower": 70,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "BurningJealousy"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "FLAME",
+				"size": 0.2
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

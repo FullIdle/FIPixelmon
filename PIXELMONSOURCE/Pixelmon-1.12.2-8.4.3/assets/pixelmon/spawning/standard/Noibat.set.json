@@ -1,0 +1,42 @@
+{
+  "id": "Noibat",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Noibat"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "hills",
+          "jungles",
+          "redwoods"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Noibat"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.5
+    }
+  ]
+}

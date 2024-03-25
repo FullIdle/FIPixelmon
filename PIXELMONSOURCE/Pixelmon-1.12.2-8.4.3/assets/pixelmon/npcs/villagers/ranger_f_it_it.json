@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "ranger_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Diana"
+        },
+        {
+            "name": "Helen"
+        },
+        {
+            "name": "Sylvie"
+        },
+        {
+            "name": "Jane"
+        },
+        {
+            "name": "Naomi"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I Rangers terranno un incontro con il comune più tardi."
+                },
+                {
+                    "text": "Parleremo della conservazione della fauna e della flora circostante."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Gli allenatori di tipo erba ci salutano sempre quando ci vedono. Lo apprezziamo!"
+                },
+                {
+                    "text": "Riconoscono quanto sia importante il nostro lavoro."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Abbiamo attività programmate per l'estate. Porteremo i bambini del posto nel bosco e insegneremo loro la natura."
+                },
+                {
+                    "text": "Alcuni sono molto desiderosi di iniziare il loro viaggio Pokémon. Le escursioni sul campo dei Ranger li aiutano ad aspettare."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Devo parlare con i superiori delle nostre uniformi."
+                },
+                {
+                    "text": "I rovi continuano a graffiarmi le cosce. Vorrei avere dei pantaloni lunghi."
+                }
+            ]
+        }
+    ]
+}

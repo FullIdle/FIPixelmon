@@ -1,0 +1,20 @@
+{
+  "id": "Excadrill",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Excadrill"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 32,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 80
+      },
+      "rarity": 6.0
+    }
+  ]
+}

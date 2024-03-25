@@ -1,0 +1,52 @@
+{
+  "attackIndex": 624,
+  "attackName": "Aurora Veil",
+  "attackType": "Ice",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "langStart": "pixelmon.effect.auroraveil.raised",
+      "langFail": "pixelmon.effect.auroraveil.already",
+      "langEnd": "pixelmon.status.auroraveil.woreoff",
+      "type": "AuroraVeil",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AuroraVeil"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Z-Aurora Veil",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Speed",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

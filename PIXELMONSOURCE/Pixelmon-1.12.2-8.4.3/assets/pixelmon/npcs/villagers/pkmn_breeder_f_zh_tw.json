@@ -1,0 +1,82 @@
+{
+    "skins": [
+        { 
+            "filename": "pkmn_breeder_f.png"
+        },
+        { 
+            "filename": "pkmn_breeder_f2.png"
+        },
+        { 
+            "filename": "breedergreen_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "科琳娜"
+        },
+        {
+            "name": "伊利斯"
+        },
+        {
+            "name": "柔伊"
+        },
+        {
+            "name": " 凱碧歐拉"
+        },
+        {
+            "name": "\"Mama Teddiursa\""
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "我的寶可夢圖鑑提到了卡拉卡拉的母親已經死去...這真是太荒謬了！"
+                },
+                {
+                    "text": "我有一隻卡拉卡拉，牠的母親還活得好好的！"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "我得花一整天照顧可愛的幼年寶可夢..."
+                },
+                {
+                    "text": "這是我所夢想的工作！"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "百變怪！是你嗎？"
+                },
+                {
+                    "text": "噢！抱歉...我的百變怪有時候喜歡惡作劇。"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "我的丈夫用我的育種來研究他的\"色違\" 寶可夢。"
+                },
+                {
+                    "text": "我相信這個研究是非常吸引人的，but sometimes he goes on..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "我家的小女孩想知道為什麼葉之石沒有對伊布發揮作用..."
+                },
+                {
+                    "text": "I'd never thought about it before- but I'm not sure why either!?"
+                }
+            ]
+        }
+    ]
+}

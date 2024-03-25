@@ -1,0 +1,23 @@
+{
+  "cardCode": "FOSS10",
+  "attackNumber": 1,
+  "name": "attack.FOSS10.1.name",
+  "energy": [
+    "WATER"
+  ],
+  "damage": 10,
+  "modifier": "Plus",
+  "text": "attack.FOSS10.1.text",
+  "effectsString": "DAMAGE_BONUS:SELF:WATER:10:20",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerEnergy",
+      "energy": "WATER",
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": 20,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "cardCode": "TERO65",
+  "attackNumber": 2,
+  "name": "attack.TERO65.2.name",
+  "energy": [
+    "WATER",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": "Plus",
+  "text": "attack.TERO65.2.text",
+  "effectsString": "DAMAGE_BONUS:SELF:WATER:10:20",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerEnergy",
+      "energy": "WATER",
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": 20,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 58,
+  "setId": 1,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 25,
+  "code": "BASE58",
+  "name": "card.BASE58.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE58",
+      "attackNumber": 1,
+      "name": "attack.BASE58.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    },
+    {
+      "cardCode": "BASE58",
+      "attackNumber": 2,
+      "name": "attack.BASE58.2.name",
+      "energy": [
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.BASE58.2.text",
+      "effects": [
+        "TAIL-SELF_DAMAGE:10"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

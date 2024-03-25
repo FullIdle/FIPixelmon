@@ -1,0 +1,62 @@
+{
+  "id": "Slugma",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Slugma"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Slugma"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Slugma"
+      },
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 5,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "rarity": 130.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "Spinarak Line Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Spinarak"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 9,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Ariados"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

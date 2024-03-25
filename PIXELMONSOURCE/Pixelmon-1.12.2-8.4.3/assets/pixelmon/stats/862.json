@@ -1,0 +1,193 @@
+{
+  "pixelmonName": "Obstagoon",
+  "pokemon": "Obstagoon",
+  "form": 0,
+  "stats": {
+    "HP": 93,
+    "Attack": 90,
+    "Defence": 101,
+    "SpecialAttack": 60,
+    "SpecialDefence": 81,
+    "Speed": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 10,
+  "baseExp": 260,
+  "baseFriendship": 50,
+  "types": [
+    "Dark",
+    "Normal"
+  ],
+  "height": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Linoone f:2"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.81,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.81,
+      "z": 0.0
+    }
+  },
+  "weight": 46.0,
+  "bounding_box": {
+    "width": 1.8,
+    "height": 1.9,
+    "eye_height": 1.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "Reckless",
+    "Guts",
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Baby-Doll Eyes",
+      "Cross Chop",
+      "Leer",
+      "Lick",
+      "Night Slash",
+      "Obstruct",
+      "Pin Missile",
+      "Sand Attack",
+      "Submission",
+      "Switcheroo",
+      "Tackle"
+    ],
+    "9": [
+      "Snarl"
+    ],
+    "12": [
+      "Headbutt"
+    ],
+    "15": [
+      "Hone Claws"
+    ],
+    "18": [
+      "Fury Swipes"
+    ],
+    "23": [
+      "Rest"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "35": [
+      "Scary Face"
+    ],
+    "42": [
+      "Counter"
+    ],
+    "49": [
+      "Taunt"
+    ],
+    "56": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out"
+  ],
+  "eggMoves": [
+    "Knock Off",
+    "Parting Shot",
+    "Quick Guard"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Low Kick",
+    "Thunderbolt",
+    "Thunder",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Taunt",
+    "Trick",
+    "Hyper Voice",
+    "Iron Defense",
+    "Bulk Up",
+    "Close Combat",
+    "Seed Bomb",
+    "X-Scissor",
+    "Gunk Shot",
+    "Grass Knot",
+    "Work Up",
+    "Throat Chop",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Pin Missile",
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Revenge",
+    "Brick Break",
+    "Fake Tears",
+    "Mud Shot",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Shadow Claw",
+    "Cross Poison",
+    "Round",
+    "Retaliate",
+    "Snarl",
+    "Stomping Tantrum"
+  ]
+}

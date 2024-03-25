@@ -1,0 +1,37 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CSR",
+        "PGE",
+        "PPC"
+    ],
+    "key": {
+        "C": {
+            "type": "forge:ore_dict",
+            "ore": "gemCrystal"
+        },
+        "S": {
+            "type": "forge:ore_dict",
+            "ore": "gemSapphire"
+        },
+        "R": {
+            "item": "pixelmon:ruby",
+            "data": 0
+        },
+        "P": {
+            "item": "minecraft:stone",
+			"data": 6
+        },
+        "G": {
+            "item": "minecraft:diamond"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "pixelmon:reveal_glass",
+        "count": 1
+    }
+}

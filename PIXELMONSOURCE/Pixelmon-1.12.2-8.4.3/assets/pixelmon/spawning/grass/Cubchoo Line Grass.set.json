@@ -1,0 +1,49 @@
+{
+  "id": "Cubchoo Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cubchoo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing forests",
+          "ice_flats",
+          "frozen_ocean"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Beartic"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing forests",
+          "ice_flats",
+          "frozen_ocean"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

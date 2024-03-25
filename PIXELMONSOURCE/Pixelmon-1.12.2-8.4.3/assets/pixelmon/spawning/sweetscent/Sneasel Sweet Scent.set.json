@@ -1,0 +1,31 @@
+{
+  "id": "Sneasel Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sneasel"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:quick_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

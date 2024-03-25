@@ -1,0 +1,37 @@
+{
+    "skins": [
+        { 
+            "filename": "fisherman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Joe el Pescador"
+        },
+        {
+            "name": "Fred el Pescador"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¡Shh! ¡Qué vas a espantar a los peces!"
+                },
+                {
+                    "text": "Ah, ¿capturas Pokémon, verdad? Yo prefiero pescar."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Sabes de algún buen anzuelo? Los bonguris no parecen ser la mejor opción."
+                },
+                {
+                    "text": "Me gusta capturarlos y despúes soltarlos de nuevo."
+                }
+            ]
+        }
+    ]
+}

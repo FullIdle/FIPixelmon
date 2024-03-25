@@ -1,0 +1,33 @@
+{
+  "id": "Maractus Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Maractus"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 14,
+      "maxLevel": 28,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesa"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

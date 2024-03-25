@@ -1,0 +1,31 @@
+{
+    "rewards": {
+        "recipes": [
+            "pixelmon:infuser"
+        ]
+    },
+    "criteria": {
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "pixelmon:infuser"
+            }
+        },
+        "has_furnace": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:furnace"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_furnace"
+        ]
+    ]
+}

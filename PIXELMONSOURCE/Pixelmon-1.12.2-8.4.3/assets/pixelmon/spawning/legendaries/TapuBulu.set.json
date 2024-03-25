@@ -1,0 +1,29 @@
+{
+  "id": "TapuBulu",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "TapuBulu",
+        "level": 60
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungle",
+          "tropical_rainforest"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

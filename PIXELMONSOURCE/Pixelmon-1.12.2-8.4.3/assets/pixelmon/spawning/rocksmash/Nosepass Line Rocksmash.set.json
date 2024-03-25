@@ -1,0 +1,73 @@
+{
+  "id": "Nosepass Line Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Nosepass"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 10,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Nosepass"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 10,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Probopass"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 22,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Probopass"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 22,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

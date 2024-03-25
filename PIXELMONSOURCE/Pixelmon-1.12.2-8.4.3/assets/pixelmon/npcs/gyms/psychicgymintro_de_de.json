@@ -1,0 +1,31 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "madame.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Larentia"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Willkommen im Mystic Gym."
+        },
+        {
+          "text": "Unser Trainingsleiter hier war ein brillanter Student. Er hatte im Unterricht immer die richtige Antwort."
+        },
+         {
+          "text": "Wahrscheinlich, weil er psychische Kräfte hat. In der Tat weiß er wahrscheinlich, dass du kommst..."
+        },
+        {
+          "text": "Wie auch immer, dieses Gym hat unsichtbare Wände. Versuche den richtigen Weg zum Trainigsleiter zu finden!"
+        }
+      ]
+    }
+  ]
+}

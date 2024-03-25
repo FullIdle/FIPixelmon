@@ -1,0 +1,268 @@
+{
+  "pixelmonName": "Emolga",
+  "pokemon": "Emolga",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 75,
+    "Defence": 60,
+    "Speed": 103,
+    "SpecialAttack": 75,
+    "SpecialDefence": 60
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 150,
+  "baseFriendship": 70,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "height": 0.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.7,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.95,
+      "z": -0.35
+    }
+  },
+  "weight": 5.0,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.6,
+    "eye_height": 0.34
+  },
+  "evolutions": [],
+  "abilities": [
+    "Static",
+    null,
+    "MotorDrive"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Nuzzle",
+      "Tail Whip"
+    ],
+    "5": [
+      "Double Team"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Thunder Shock"
+    ],
+    "20": [
+      "Charge"
+    ],
+    "25": [
+      "Acrobatics"
+    ],
+    "30": [
+      "Spark"
+    ],
+    "35": [
+      "Encore"
+    ],
+    "40": [
+      "Volt Switch"
+    ],
+    "45": [
+      "Light Screen"
+    ],
+    "50": [
+      "Discharge"
+    ],
+    "55": [
+      "Agility"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Rising Voltage"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Covet",
+    "Defog",
+    "Roost",
+    "Shock Wave",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Charge Beam",
+    "Confide",
+    "Cut",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Ion Deluge",
+    "Knock Off",
+    "Last Resort",
+    "Pursuit",
+    "Return",
+    "Secret Power",
+    "Signal Beam",
+    "Swagger",
+    "Tailwind",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Encore",
+    "Iron Tail",
+    "Taunt",
+    "Energy Ball",
+    "Electro Ball",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Solar Beam",
+    "Thunder Wave",
+    "Light Screen",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "U-turn",
+    "Fling",
+    "Speed Swap",
+    "Round",
+    "Acrobatics",
+    "Volt Switch",
+    "Electroweb",
+    "Eerie Impulse",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Acrobatics",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Acrobatics",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Acrobatics",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Wild Charge"
+  ],
+  "forms": {}
+}

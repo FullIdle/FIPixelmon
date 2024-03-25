@@ -1,0 +1,23 @@
+{
+  "cardCode": "JUNG19",
+  "attackNumber": 2,
+  "name": "attack.JUNG19.2.name",
+  "energy": [
+    "FIRE",
+    "FIRE",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 60,
+  "modifier": null,
+  "text": "attack.JUNG19.2.text",
+  "effectsString": "SELF_DISCARD:FIRE:1",
+  "effects": [
+    {
+      "onMe": true,
+      "energy": "FIRE",
+      "count": 1,
+      "needCoinSide": null
+    }
+  ]
+}

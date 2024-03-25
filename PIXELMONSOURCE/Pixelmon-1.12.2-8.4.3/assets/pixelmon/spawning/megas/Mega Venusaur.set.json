@@ -1,0 +1,23 @@
+{
+  "id": "Mega Venusaur",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Venusaur"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "birches",
+          "forests"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

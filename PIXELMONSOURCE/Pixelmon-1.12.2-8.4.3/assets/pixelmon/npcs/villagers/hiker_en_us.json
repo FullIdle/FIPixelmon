@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hiker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Hermann"
+        },
+        {
+            "name": "Zsolt"
+        },
+        {
+            "name": "Gaston"
+        },
+        {
+            "name": "Willi"
+        },
+        {
+            "name": "Marek"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I'm just staying in this town for a short while."
+                },
+                {
+                    "text": "I need to rest and fill up on supplies, then I'll resume my hike!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Good footwear is paramount in mountaineering."
+                },
+                {
+                    "text": "Paramountaineering."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "If you eat your greens and carry a big backpack along, you can grow big and strong like me!"
+                },
+                {
+                    "text": "If you wrestle some Ursaring in the mountains, it helps too."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Weeks ago, one of my Pokémon used Rock Slide while I was climbing a slope."
+                },
+                {
+                    "text": "I traded him away."
+                }
+            ]
+        }
+    ]
+}

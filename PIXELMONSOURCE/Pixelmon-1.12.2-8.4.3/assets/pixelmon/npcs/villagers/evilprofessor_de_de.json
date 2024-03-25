@@ -1,0 +1,60 @@
+{
+    "skins": [
+        {
+            "filename": "evilprofessor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Victor"
+        },
+        {
+            "name": "Doofenshmirtz"
+        },
+        {
+            "name": "Gregory"
+        },
+        {
+            "name": "Dr. Henry Wu"
+        },
+        {
+            "name": "Dr. Trayaurus"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mein Proband ist entkommen!"
+                },
+                {
+                    "text": "Ich wusste, ich hätte die extra starken Eisenstangen haben sollen!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pokémon sind nichts weiter als Werkzeuge, die bis zu ihrer Entlassung gefangen sind und nur zur Zerstörung dienen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Versuche nicht einmal, mich aufzuhalten, Trainer!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Du bist zu spät, Trainer!"
+                },
+                {
+                    "text": "Mein Plan ist fast abgeschlossen!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "skins": [
+        {
+            "filename": "mailman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "George"
+        },
+        {
+            "name": "Postino Abraham"
+        },
+        {
+            "name": "Postino"
+        },
+        {
+            "name": "Impiegato postale Pete"
+        },
+        {
+            "name": "Craig"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Consegniamo sempre la posta, pioggia o sole, tempesta di neve o tempesta di sabbia!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Spedire la posta è difficile senza Pokemon."
+                },
+                {
+                    "text": "Soprattutto se le persone vivono nel cielo o sott'acqua."
+				},
+				{	
+					"text": "Le consegne più impegnative sono presso le basi del Team Magma e Team Idro."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mi dispiace allenatore, non ho nessuna posta per te oggi."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I Pidove viaggiatori sono i migliori!"
+                },
+                {
+                    "text": "Tranne quando si imbattono in Pokemon di livello più alto..."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "cardCode": "TERO35",
+  "attackNumber": 1,
+  "name": "attack.TERO35.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": "Plus",
+  "text": "attack.TERO35.1.text",
+  "effectsString": "DAMAGE_BONUS:SELF:PER_DAMAGE:10",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerDamage",
+      "energy": null,
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": null,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

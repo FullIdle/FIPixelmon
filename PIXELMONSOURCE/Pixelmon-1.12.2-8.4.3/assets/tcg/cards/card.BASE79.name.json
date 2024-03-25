@@ -1,0 +1,32 @@
+{
+  "id": 79,
+  "setId": 1,
+  "cardType": "TRAINER",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": null,
+  "energy2": null,
+  "pokemonId": 0,
+  "code": "BASE79",
+  "name": "card.BASE79.name",
+  "description": "card.BASE79.text",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 0,
+  "cardRarity": "RARE",
+  "customTexture": "gui/cards/foreground/superenergyremoval.png",
+  "customTextureX": 16,
+  "customTextureY": 16,
+  "isHolo": true,
+  "effect": {
+  },
+  "cardAbility": null
+}

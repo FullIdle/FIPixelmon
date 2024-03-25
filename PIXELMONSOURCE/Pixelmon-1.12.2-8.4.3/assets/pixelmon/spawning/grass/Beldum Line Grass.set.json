@@ -1,0 +1,238 @@
+{
+  "id": "Beldum Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Beldum"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ],
+        "minY": 70
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Beldum"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mutated_ice_flats"
+        ],
+        "minY": 70
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Beldum"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Metang"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ],
+        "minY": 70
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Metang"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mutated_ice_flats"
+        ],
+        "minY": 70
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Metang"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Metagross"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ],
+        "minY": 70
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Metagross"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mutated_ice_flats"
+        ],
+        "minY": 70
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Metagross"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

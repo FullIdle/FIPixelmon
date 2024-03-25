@@ -1,0 +1,61 @@
+{
+  "id": 577,
+  "setId": 7,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 86,
+  "code": "GYMC124",
+  "name": "card.GYMC124.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC124",
+      "attackNumber": 1,
+      "name": "attack.GYMC124.1.name",
+      "energy": [
+        "WATER"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMC124.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC124",
+      "attackNumber": 2,
+      "name": "attack.GYMC124.2.name",
+      "energy": [
+        "WATER",
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMC124.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

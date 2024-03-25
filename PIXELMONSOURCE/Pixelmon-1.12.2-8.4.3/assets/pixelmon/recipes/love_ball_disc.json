@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pixelmon:cooked_pink_apricorn"
+    }
+  },
+  "result": {
+    "item": "pixelmon:love_ball_disc",
+    "count": 3
+  }
+}

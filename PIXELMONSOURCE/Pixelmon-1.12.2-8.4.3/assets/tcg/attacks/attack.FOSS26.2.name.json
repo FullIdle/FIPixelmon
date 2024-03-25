@@ -1,0 +1,38 @@
+{
+  "cardCode": "FOSS26",
+  "attackNumber": 2,
+  "name": "attack.FOSS26.2.name",
+  "energy": [
+    "LIGHTNING",
+    "LIGHTNING",
+    "LIGHTNING",
+    "LIGHTNING"
+  ],
+  "damage": 100,
+  "modifier": null,
+  "text": "attack.FOSS26.2.text",
+  "effectsString": "SELF_DAMAGE:100 SELF_DAMAGE:BENCH:*:20 OPP_DAMAGE:BENCH:*:20",
+  "effects": [
+    {
+      "onMe": true,
+      "location": "Active",
+      "count": -1,
+      "amount": 100,
+      "needCoinSide": null
+    },
+    {
+      "onMe": true,
+      "location": "Bench",
+      "count": -1,
+      "amount": 20,
+      "needCoinSide": null
+    },
+    {
+      "onMe": false,
+      "location": "Bench",
+      "count": -1,
+      "amount": 20,
+      "needCoinSide": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "Swoobat",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Swoobat"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 27,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest",
+          "taigas"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Swoobat"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 27,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.5
+    }
+  ]
+}

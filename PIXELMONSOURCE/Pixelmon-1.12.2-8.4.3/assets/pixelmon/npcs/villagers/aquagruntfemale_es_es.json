@@ -1,0 +1,53 @@
+{
+    "skins": [
+        {
+            "filename": "aquagruntfemale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Recluta Equipo Aqua"
+        },
+        {
+            "name": "Recluta Equipo Aqua"
+        },
+        {
+            "name": "Recluta Equipo Aqua"
+        },
+        {
+            "name": "Recluta Equipo Aqua"
+        },
+        {
+            "name": "Recluta Equipo Aqua"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¡Los del equipo Magma se piensan que tienen alguna posibilidad contra nosotros!"
+                },
+                {
+                    "text": "¡En el mundo hay más agua que tierra! Además, ¡tenemos ventaja de tipo! ¡Somos el mejor equipo!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Groudon mola y todo eso, pero no hay nada que pueda hacer contra Kyogre!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "El jefe sigue diciéndonos que va a utilizar a Kyogre para inundar la tierra."
+                },
+                {
+                    "text": "¡¿Pero entonces dónde vivirémos?! ¡La última vez que lo comprobé, los reclutas no podían respirar agua!"
+                }
+            ]
+        }
+    ]
+}

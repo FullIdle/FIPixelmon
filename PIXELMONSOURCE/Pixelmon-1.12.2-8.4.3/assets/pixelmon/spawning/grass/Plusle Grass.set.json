@@ -1,0 +1,33 @@
+{
+  "id": "Plusle Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Plusle"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cell_battery",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "plains",
+          "birches"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

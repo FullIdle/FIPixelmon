@@ -1,0 +1,34 @@
+{
+  "id": "Eiscue",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Eiscue"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "frozen_ocean",
+          "cold_beach",
+          "frozen_river"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 75.0
+    }
+  ]
+}

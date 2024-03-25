@@ -1,0 +1,154 @@
+{
+  "pixelmonName": "Centiskorch",
+  "pokemon": "Centiskorch",
+  "form": 0,
+  "stats": {
+    "HP": 100,
+    "Attack": 115,
+    "Defence": 65,
+    "SpecialAttack": 90,
+    "SpecialDefence": 90,
+    "Speed": 65
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 16,
+  "baseExp": 184,
+  "baseFriendship": 50,
+  "types": [
+    "Fire",
+    "Bug"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sizzlipede"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.2
+    }
+  },
+  "weight": 120.0,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.4,
+    "eye_height": 0.85
+  },
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    "WhiteSmoke",
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Ember",
+      "Inferno",
+      "Smokescreen",
+      "Wrap"
+    ],
+    "15": [
+      "Flame Wheel"
+    ],
+    "20": [
+      "Bug Bite"
+    ],
+    "25": [
+      "Coil"
+    ],
+    "32": [
+      "Slam"
+    ],
+    "39": [
+      "Fire Spin"
+    ],
+    "46": [
+      "Crunch"
+    ],
+    "53": [
+      "Fire Lash"
+    ],
+    "60": [
+      "Lunge"
+    ],
+    "67": [
+      "Burn Up"
+    ]
+  },
+  "tutorMoves": [
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Knock Off",
+    "Rollout",
+    "Struggle Bug"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Flamethrower",
+    "Fire Blast",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Heat Wave",
+    "Overheat",
+    "Flare Blitz",
+    "X-Scissor",
+    "Bug Buzz",
+    "Power Whip",
+    "Scald",
+    "Heat Crash"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Fire Spin",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Thunder Fang",
+    "Fire Fang",
+    "Venoshock",
+    "Round",
+    "Mystical Fire",
+    "Brutal Swing"
+  ]
+}

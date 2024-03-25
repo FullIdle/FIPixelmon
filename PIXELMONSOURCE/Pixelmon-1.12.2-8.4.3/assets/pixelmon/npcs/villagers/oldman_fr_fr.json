@@ -1,0 +1,37 @@
+{
+    "skins": [
+        { 
+            "filename": "npcchat1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Le Vieux Tom"
+        },
+        {
+            "name": "Fred le Bibliothécaire"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, jeune Dresseur !"
+                },
+                {
+                    "text": "Quand j'avais ton âge, j'avais un joli petit Bulbizarre."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tu penses vraiment que c'est une bonne idée de passer autant de temps avec des Pokémon ?"
+                },
+                {
+                    "text": "Ils me font peur."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "rancher.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Billy Bob"
+        },
+        {
+            "name": "Cowboy Roy"
+        },
+        {
+            "name": "Bubba Pete Jr."
+        },
+        {
+            "name": "Cletus Sr."
+        },
+        {
+            "name": "Zeb"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Miltank got a thousand uses, kiddo."
+                },
+                {
+                    "text": "Thaaah's why y'all need we guys 'round. Without us, where y'all gonna get yer milk 'n' leather, hm?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Y'all city folks like tans, do ya?"
+                },
+                {
+                    "text": "Come work with me on th' ranch, junior. Gon' give ya some colors!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "It's hard work bein' a Rancher. Mah back's killin' me."
+                },
+                {
+                    "text": "Ah just wanna sit in mah rockin' chair for a few hours, an' rest."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Y'all should go to the countryside some time."
+                },
+                {
+                    "text": "Breathe some good countryside air."
+                }
+            ]
+        }
+    ]
+}

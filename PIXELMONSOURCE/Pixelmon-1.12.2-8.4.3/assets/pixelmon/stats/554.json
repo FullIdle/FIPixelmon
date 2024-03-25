@@ -1,0 +1,418 @@
+{
+  "pixelmonName": "Darumaka",
+  "pokemon": "Darumaka",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 90,
+    "Defence": 45,
+    "Speed": 50,
+    "SpecialAttack": 15,
+    "SpecialDefence": 45
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 11,
+  "baseExp": 63,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 37.5,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.8,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Darmanitan"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Hammer Arm"
+      ]
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    null,
+    "InnerFocus"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Tackle"
+    ],
+    "4": [
+      "Taunt"
+    ],
+    "8": [
+      "Bite"
+    ],
+    "12": [
+      "Incinerate"
+    ],
+    "16": [
+      "Work Up"
+    ],
+    "20": [
+      "Fire Fang"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "28": [
+      "Fire Punch"
+    ],
+    "32": [
+      "Uproar"
+    ],
+    "36": [
+      "Belly Drum"
+    ],
+    "40": [
+      "Flare Blitz"
+    ],
+    "44": [
+      "Thrash"
+    ],
+    "48": [
+      "Superpower"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Extrasensory",
+    "Flame Wheel",
+    "Focus Punch",
+    "Hammer Arm",
+    "Take Down",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Endeavor",
+    "Flame Charge",
+    "Frustration",
+    "Hidden Power",
+    "Power-Up Punch",
+    "Rage",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Snatch",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Flamethrower",
+    "Focus Energy",
+    "Fire Blast",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Uproar",
+    "Heat Wave",
+    "Taunt",
+    "Superpower",
+    "Overheat",
+    "Gyro Ball",
+    "Flare Blitz",
+    "Zen Headbutt",
+    "Grass Knot",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Solar Beam",
+    "Fire Spin",
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "U-turn",
+    "Fling",
+    "Fire Fang",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Will-O-Wisp",
+    "Gyro Ball",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Gyro Ball",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Fling",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Gyro Ball",
+    "Rock Slide",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {
+    "2": {
+      "form": 2,
+      "spawnLevel": 23,
+      "spawnLevelRange": 11,
+      "types": [
+        "Ice"
+      ],
+      "weight": 40.0,
+      "bounding_box": {
+        "width": 0.4,
+        "height": 0.3,
+        "eye_height": 0.25
+      },
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:ice_stone"
+          },
+          "to": {
+            "name": "Darmanitan",
+            "form": 2
+          },
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Icicle Crash"
+          ]
+        }
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Powder Snow",
+          "Tackle"
+        ],
+        "4": [
+          "Taunt"
+        ],
+        "8": [
+          "Bite"
+        ],
+        "12": [
+          "Avalanche"
+        ],
+        "16": [
+          "Work Up"
+        ],
+        "20": [
+          "Ice Fang"
+        ],
+        "24": [
+          "Headbutt"
+        ],
+        "28": [
+          "Ice Punch"
+        ],
+        "32": [
+          "Uproar"
+        ],
+        "36": [
+          "Belly Drum"
+        ],
+        "40": [
+          "Blizzard"
+        ],
+        "44": [
+          "Thrash"
+        ],
+        "48": [
+          "Superpower"
+        ]
+      },
+      "eggMoves": [
+        "Focus Punch",
+        "Hammer Arm",
+        "Take Down",
+        "Flame Wheel",
+        "Yawn",
+        "Freeze-Dry",
+        "Incinerate",
+        "Power-Up Punch"
+      ],
+      "tmMoves8": [
+        "Mega Punch",
+        "Mega Kick",
+        "Fire Punch",
+        "Ice Punch",
+        "Solar Beam",
+        "Fire Spin",
+        "Dig",
+        "Rest",
+        "Rock Slide",
+        "Thief",
+        "Snore",
+        "Protect",
+        "Attract",
+        "Sunny Day",
+        "Will-O-Wisp",
+        "Facade",
+        "Brick Break",
+        "Rock Tomb",
+        "U-turn",
+        "Fling",
+        "Avalanche",
+        "Ice Fang",
+        "Fire Fang",
+        "Round"
+      ],
+      "trMoves": [
+        "Flamethrower",
+        "Ice Beam",
+        "Blizzard",
+        "Focus Energy",
+        "Fire Blast",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Encore",
+        "Uproar",
+        "Heat Wave",
+        "Taunt",
+        "Superpower",
+        "Overheat",
+        "Gyro Ball",
+        "Flare Blitz",
+        "Zen Headbutt",
+        "Grass Knot",
+        "Work Up"
+      ],
+      "tutorMoves": []
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "Meditite Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Meditite"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_extreme_hills_with_trees",
+          "mutated_taiga"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Medicham"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 38,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_extreme_hills_with_trees",
+          "mutated_taiga"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

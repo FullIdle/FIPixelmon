@@ -1,0 +1,45 @@
+{
+  "id": "Buneary Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Buneary"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Lopunny"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 28,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

@@ -1,0 +1,343 @@
+{
+  "pixelmonName": "Silvally",
+  "pokemon": "Silvally",
+  "form": 0,
+  "stats": {
+    "HP": 95,
+    "Attack": 95,
+    "Defence": 95,
+    "Speed": 95,
+    "SpecialAttack": 95,
+    "SpecialDefence": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "TypeNull"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": 0.0
+    }
+  },
+  "weight": 100.5,
+  "bounding_box": {
+    "width": 1.5,
+    "height": 1.8,
+    "eye_height": 1.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "RKSSystem",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Aerial Ace",
+      "Bite",
+      "Explosion",
+      "Fire Fang",
+      "Ice Fang",
+      "Imprison",
+      "Iron Head",
+      "Multi-Attack",
+      "Poison Fang",
+      "Scary Face",
+      "Tackle",
+      "Thunder Fang"
+    ],
+    "15": [
+      "Double Hit"
+    ],
+    "20": [
+      "Metal Sound"
+    ],
+    "25": [
+      "Crush Claw"
+    ],
+    "30": [
+      "Air Slash"
+    ],
+    "35": [
+      "Tri Attack"
+    ],
+    "40": [
+      "X-Scissor"
+    ],
+    "45": [
+      "Crunch"
+    ],
+    "50": [
+      "Take Down"
+    ],
+    "55": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Parting Shot"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Grass Pledge",
+    "Steel Beam",
+    "Terrain Pulse"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Confide",
+    "Defog",
+    "Double Team",
+    "Flame Charge",
+    "Frustration",
+    "Heal Block",
+    "Hidden Power",
+    "Laser Focus",
+    "Last Resort",
+    "Magic Coat",
+    "Punishment",
+    "Pursuit",
+    "Rage",
+    "Razor Wind",
+    "Return",
+    "Roar",
+    "Signal Beam",
+    "Swagger",
+    "Tailwind",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Flamethrower",
+    "Surf",
+    "Ice Beam",
+    "Thunderbolt",
+    "Tri Attack",
+    "Substitute",
+    "Reversal",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Shadow Ball",
+    "Heat Wave",
+    "Hyper Voice",
+    "Iron Defense",
+    "Dragon Claw",
+    "X-Scissor",
+    "Zen Headbutt",
+    "Flash Cannon",
+    "Iron Head",
+    "Work Up",
+    "Psychic Fangs"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Icy Wind",
+    "Steel Wing",
+    "Sandstorm",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Swift",
+    "Imprison",
+    "U-turn",
+    "Payback",
+    "Shadow Claw",
+    "Thunder Fang",
+    "Ice Fang",
+    "Fire Fang",
+    "Round",
+    "Snarl",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Steel Wing",
+    "Explosion",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Snarl",
+    "Confide"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "types": [
+        "Grass"
+      ]
+    },
+    "2": {
+      "form": 2,
+      "types": [
+        "Fire"
+      ]
+    },
+    "3": {
+      "form": 3,
+      "types": [
+        "Water"
+      ]
+    },
+    "4": {
+      "form": 4,
+      "types": [
+        "Flying"
+      ]
+    },
+    "5": {
+      "form": 5,
+      "types": [
+        "Bug"
+      ]
+    },
+    "6": {
+      "form": 6,
+      "types": [
+        "Poison"
+      ]
+    },
+    "7": {
+      "form": 7,
+      "types": [
+        "Electric"
+      ]
+    },
+    "8": {
+      "form": 8,
+      "types": [
+        "Psychic"
+      ]
+    },
+    "9": {
+      "form": 9,
+      "types": [
+        "Rock"
+      ]
+    },
+    "10": {
+      "form": 10,
+      "types": [
+        "Ground"
+      ]
+    },
+    "11": {
+      "form": 11,
+      "types": [
+        "Dark"
+      ]
+    },
+    "12": {
+      "form": 12,
+      "types": [
+        "Ghost"
+      ]
+    },
+    "13": {
+      "form": 13,
+      "types": [
+        "Steel"
+      ]
+    },
+    "14": {
+      "form": 14,
+      "types": [
+        "Fighting"
+      ]
+    },
+    "15": {
+      "form": 15,
+      "types": [
+        "Ice"
+      ]
+    },
+    "16": {
+      "form": 16,
+      "types": [
+        "Dragon"
+      ]
+    },
+    "17": {
+      "form": 17,
+      "types": [
+        "Fairy"
+      ]
+    }
+  }
+}

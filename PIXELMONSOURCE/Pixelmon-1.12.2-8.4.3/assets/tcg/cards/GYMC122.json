@@ -1,0 +1,63 @@
+{
+  "id": 575,
+  "setId": 7,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 15,
+  "code": "GYMC122",
+  "name": "card.GYMC122.name",
+  "description": "",
+  "previousPokemonId": 14,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC122",
+      "attackNumber": 1,
+      "name": "attack.GYMC122.1.name",
+      "energy": [
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMC122.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC122",
+      "attackNumber": 2,
+      "name": "attack.GYMC122.2.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 70,
+      "modifier": null,
+      "text": "attack.GYMC122.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": "30",
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

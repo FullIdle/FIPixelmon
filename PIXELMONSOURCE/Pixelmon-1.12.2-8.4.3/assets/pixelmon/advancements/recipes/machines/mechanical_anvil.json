@@ -1,0 +1,53 @@
+{
+    "rewards": {
+        "recipes": [
+            "pixelmon:mechanical_anvil"
+        ]
+    },
+    "criteria": {
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "pixelmon:mechanical_anvil"
+            }
+        },
+        "has_bars": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "iron_bars"
+                    }
+                ]
+            }
+        },
+        "has_furnace": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "furnace"
+                    }
+                ]
+            }
+        },
+        "has_sticky_piston": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "sticky_piston"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_bars",
+            "has_furnace",
+            "has_sticky_piston"
+        ]
+    ]
+}

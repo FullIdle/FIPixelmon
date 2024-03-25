@@ -1,0 +1,71 @@
+{
+  "id": "Gastly",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gastly"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest",
+          "evil"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Gastly"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Gastly"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 130.0
+    }
+  ]
+}

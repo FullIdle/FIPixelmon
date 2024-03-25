@@ -1,0 +1,51 @@
+{
+  "attackIndex": 596,
+  "attackName": "Misty Terrain",
+  "attackType": "Fairy",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "langStart": "pixelmon.status.mistyterrain",
+      "langEnd": "pixelmon.status.mistyterrainend",
+      "type": "MistyTerrain",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MistyTerrain"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fairium_z",
+      "attackName": "Z-Misty Terrain",
+      "basePower": 0,
+      "effects": [
+	    {
+		  "type": "SpecialDefence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

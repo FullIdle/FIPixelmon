@@ -1,0 +1,137 @@
+{
+  "pixelmonName": "Polteageist",
+  "pokemon": "Polteageist",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 65,
+    "Defence": 65,
+    "SpecialAttack": 134,
+    "SpecialDefence": 114,
+    "Speed": 70
+  },
+  "catchRate": 60,
+  "malePercent": -1,
+  "spawnLevel": 40,
+  "spawnLevelRange": 14,
+  "baseExp": 178,
+  "baseFriendship": 50,
+  "types": [
+    "Ghost"
+  ],
+  "height": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sinistea"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 0.4,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.4,
+    "eye_height": 0.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "WeakArmor",
+    null,
+    "CursedBody"
+  ],
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Aromatic Mist",
+      "Astonish",
+      "Mega Drain",
+      "Strength Sap",
+      "Teatime",
+      "Withdraw"
+    ],
+    "18": [
+      "Protect"
+    ],
+    "24": [
+      "Sucker Punch"
+    ],
+    "30": [
+      "Aromatherapy"
+    ],
+    "36": [
+      "Giga Drain"
+    ],
+    "42": [
+      "Nasty Plot"
+    ],
+    "48": [
+      "Shadow Ball"
+    ],
+    "54": [
+      "Memento"
+    ],
+    "60": [
+      "Shell Smash"
+    ],
+    "66": [
+      "Curse"
+    ]
+  },
+  "tutorMoves": [
+    "Poltergeist"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Metronome",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Shadow Ball",
+    "Trick",
+    "Dark Pulse",
+    "Nasty Plot",
+    "Foul Play",
+    "Stored Power",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Light Screen",
+    "Reflect",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Will-O-Wisp",
+    "Facade",
+    "Imprison",
+    "Payback",
+    "Wonder Room",
+    "Round",
+    "Hex",
+    "Phantom Force"
+  ],
+  "forms": {}
+}

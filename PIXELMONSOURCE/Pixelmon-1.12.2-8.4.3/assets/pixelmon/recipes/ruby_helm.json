@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "pixelmon:ruby",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "pixelmon:ruby_helm",
+    "count": 1
+  }
+}

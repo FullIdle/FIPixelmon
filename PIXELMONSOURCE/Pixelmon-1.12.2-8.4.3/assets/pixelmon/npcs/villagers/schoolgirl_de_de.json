@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "schoolgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Madison"
+        },
+        {
+            "name": "Kaylee"
+        },
+        {
+            "name": "Audrey"
+        },
+        {
+            "name": "Grace"
+        },
+        {
+            "name": "Lily"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "In der Schule lernen wir viel Interessantes, aber ich kann es kaum erwarten, Trainer zu werden."
+                },
+                {
+                    "text": "Das nächste Beste sind die Sommeraktivitäten mit den Rangers!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich muss nach Hause zurückkehren, oder ich werde \"Mein kleines Ponita\" vermissen!"
+                },
+                {
+                    "text": "Und dann werden meine Freunde es mir spoilern, bevor ich eine Wiederholung sehen kann..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wenn ich 2000 Pokédollar hätte und ein Pokéball 200 Pokédollar wert wäre, wie viele Pokébälle würde ich bekommen?"
+                },
+                {
+                    "text": "Elf! Es war eine Trickfrage, weil ich auch den kostenlosen Premierball bekomme!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Heute wurde Codys Pokéball in der Schule vom Lehrer weggenommen."
+                },
+                {
+                    "text": "Er spielte damit und störte jeden."
+                }
+            ]
+        }
+    ]
+}

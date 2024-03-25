@@ -1,0 +1,28 @@
+{
+  "id": "Wimpod",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wimpod"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "anticondition": {
+        "temperature": "COLD"
+      },
+      "rarity": 40.0
+    }
+  ]
+}

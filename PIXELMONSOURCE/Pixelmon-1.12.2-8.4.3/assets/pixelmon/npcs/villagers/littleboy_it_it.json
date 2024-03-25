@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littleboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Billy"
+        },
+        {
+            "name": "Akihiko"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "Sammy"
+        },
+        {
+            "name": "Pip"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Quando sarò grande, diventerò un Maestro Pokémon. E un pompiere!"
+                },
+                {
+                    "text": "Vorrei davvero avere un Pokémon come te!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wow, hai preso i tuoi Pokémon in un negozio o li hai presi per davvero?"
+                },
+                {
+                    "text": "Ho fatto una Poké Ball di carta e colla. Ma non funziona molto bene."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mio padre è un famoso allenatore Pokémon!"
+                },
+                {
+                    "text": "Beh, in realtà, ha catturato un Caterpie in giardino ma l'ha lasciato andare..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Guardami prendere i Pokémon con una rete! Ho quasi preso un Weedle l'altro giorno!"
+                },
+                {
+                    "text": "Un giorno li prenderò tutti!"
+                }
+            ]
+        }
+    ]
+}

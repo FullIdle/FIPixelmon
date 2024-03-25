@@ -1,0 +1,15 @@
+{
+  "cardCode": "TERO47",
+  "attackNumber": 2,
+  "name": "attack.TERO47.2.name",
+  "energy": [
+    "WATER",
+    "WATER",
+    "WATER"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.TERO47.2.text",
+  "effectsString": "EVOLVE:ACTIVE:DECK",
+  "effects": []
+}

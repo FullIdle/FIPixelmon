@@ -1,0 +1,125 @@
+{
+    "data": {
+        "trainerType": "MalePlasmaGrunt",
+        "minLevel": 30,
+        "maxLevel": 45,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 60
+    },
+    "models":[
+        {
+            "name": "plasmagruntmale"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Watchog"
+        },
+        {
+            "name": "Patrat"
+        },
+        {
+            "name": "Sandile"
+        },
+        {
+            "name": "Purrloin"
+        },
+        {
+            "name": "Scraggy"
+        },
+        {
+            "name": "Liepard"
+        },
+        {
+            "name": "Krokorok"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Trubbish"
+        },
+        {
+            "name": "Garbodor"
+        },
+        {
+            "name": "Scrafty"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Grimer"
+        },
+        {
+            "name": "Muk"
+        },
+        {
+            "name": "Krookodile"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Skorupi"
+        },
+        {
+            "name": "Drapion"
+        },
+        {
+            "name": "Zangoose"
+        },
+        {
+            "name": "Seviper"
+        },
+        {
+            "name": "Pawniard"
+        },
+        {
+            "name": "Whirlipede"
+        },
+        {
+            "name": "Scolipede"
+        },
+        {
+            "name": "Raticate"
+        },
+        {
+            "name": "Deino"
+        },
+        {
+            "name": "Sneasel"
+        },
+        {
+            "name": "Amoonguss"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Plasma Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "What do you think you're doing here?",
+            "win": "Leave now!",
+            "lose": "Leave before I tell the boss!"
+        },
+        {
+            "opening": "Get out of my way!",
+            "win": "I said move!",
+            "lose": "No way!"
+        },
+        {
+            "opening": "You've got some guts thinking you can fight me!",
+            "win": "You will never beat me.",
+            "lose": "You beat me!? Noooooo!"
+        },       
+        {
+            "opening": "You can't beat me. I'm the 8th strongest grunt!",
+            "win": "Yes, now I'm sure to be made the 7th strongest!",
+            "lose": "Oh no, now I will called the 9th strongest!"
+        }
+    ]
+}

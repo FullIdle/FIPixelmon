@@ -1,0 +1,257 @@
+{
+  "id": "Pumpkaboo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 8
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 1
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 2
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 110.0
+    },
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 110.0
+    },
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 4
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 110.0
+    },
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 5
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 6
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Pumpkaboo",
+        "growth": 7
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:miracle_seed",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_plains",
+          "evil"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

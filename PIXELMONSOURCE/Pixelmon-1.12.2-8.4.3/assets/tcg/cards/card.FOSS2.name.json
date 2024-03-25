@@ -1,0 +1,64 @@
+{
+  "id": 168,
+  "setId": 3,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 144,
+  "code": "FOSS2",
+  "name": "card.FOSS2.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS2",
+      "attackNumber": 1,
+      "name": "attack.FOSS2.1.name",
+      "energy": [
+        "WATER",
+        "WATER",
+        "WATER"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.FOSS2.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    },
+    {
+      "cardCode": "FOSS2",
+      "attackNumber": 2,
+      "name": "attack.FOSS2.2.name",
+      "energy": [
+        "WATER",
+        "WATER",
+        "WATER",
+        "WATER"
+      ],
+      "damage": 50,
+      "modifier": null,
+      "text": "attack.FOSS2.2.text",
+      "effects": [
+        "HEAD-OPP_DAMAGE:BENCH:*:10",
+        "TAIL-SELF_DAMAGE:BENCH:*:10"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 2,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

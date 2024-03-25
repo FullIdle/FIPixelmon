@@ -1,0 +1,22 @@
+{
+  "id": "Mega Glalie",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Glalie"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

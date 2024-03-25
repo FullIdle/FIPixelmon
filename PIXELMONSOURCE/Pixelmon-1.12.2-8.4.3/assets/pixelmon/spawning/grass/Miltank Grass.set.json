@@ -1,0 +1,31 @@
+{
+  "id": "Miltank Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Miltank"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moomoo_milk",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

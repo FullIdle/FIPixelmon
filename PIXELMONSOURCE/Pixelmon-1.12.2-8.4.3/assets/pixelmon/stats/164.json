@@ -1,0 +1,381 @@
+{
+  "pixelmonName": "Noctowl",
+  "pokemon": "Noctowl",
+  "form": 0,
+  "stats": {
+    "HP": 100,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 70,
+    "SpecialAttack": 86,
+    "SpecialDefence": 96
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 35,
+  "baseExp": 162,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 1.6,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Hoothoot"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 10,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 10,
+    "flightTimeMax": 30,
+    "flapRate": 2,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.5
+    },
+    "moving": {
+      "x": -0.15,
+      "y": -1.65,
+      "z": -0.4
+    }
+  },
+  "weight": 40.8,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.2,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Insomnia",
+    "KeenEye",
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Echoed Voice",
+      "Growl",
+      "Peck",
+      "Sky Attack",
+      "Tackle"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "12": [
+      "Reflect"
+    ],
+    "15": [
+      "Psycho Shift"
+    ],
+    "18": [
+      "Air Slash"
+    ],
+    "23": [
+      "Extrasensory"
+    ],
+    "28": [
+      "Take Down"
+    ],
+    "33": [
+      "Uproar"
+    ],
+    "38": [
+      "Roost"
+    ],
+    "43": [
+      "Moonblast"
+    ],
+    "48": [
+      "Hypnosis"
+    ],
+    "53": [
+      "Dream Eater"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Feather Dance",
+    "Night Shade",
+    "Supersonic",
+    "Whirlwind",
+    "Wing Attack"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Air Cutter",
+    "Captivate",
+    "Confide",
+    "Curse",
+    "Detect",
+    "Double Team",
+    "Double-Edge",
+    "Feint Attack",
+    "Flash",
+    "Foresight",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Magic Coat",
+    "Mean Look",
+    "Mimic",
+    "Mirror Move",
+    "Mud-Slap",
+    "Natural Gift",
+    "Nightmare",
+    "Ominous Wind",
+    "Pluck",
+    "Psych Up",
+    "Recycle",
+    "Return",
+    "Secret Power",
+    "Silver Wind",
+    "Swagger",
+    "Synchronoise",
+    "Tailwind",
+    "Toxic",
+    "Twister"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Agility",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Future Sight",
+    "Uproar",
+    "Heat Wave",
+    "Hyper Voice",
+    "Calm Mind",
+    "Nasty Plot",
+    "Zen Headbutt",
+    "Stored Power",
+    "Work Up",
+    "Hurricane"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Screech",
+    "Reflect",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Steel Wing",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Imprison",
+    "Round",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Giga Impact",
+    "Fly",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Giga Impact",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Giga Impact",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing",
+    "Roost",
+    "Endure",
+    "Silver Wind",
+    "Recycle",
+    "Giga Impact",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Hyper Beam",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Dream Eater",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing",
+    "Nightmare"
+  ],
+  "forms": {}
+}

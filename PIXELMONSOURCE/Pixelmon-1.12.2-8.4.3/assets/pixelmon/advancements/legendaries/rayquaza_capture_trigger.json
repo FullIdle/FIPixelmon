@@ -1,0 +1,24 @@
+{
+    "display" : {
+        "icon" : {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/384\"}"
+        },
+        "title" : {
+            "translate" : "advancements.rayquaza_capture.title"
+        },
+        "description" : {
+            "translate" : "advancements.rayquaza_capture.description"
+        },
+        "hidden": true
+    },
+    "parent" : "pixelmon:legendaries/legendary_capture_trigger",
+    "criteria" : {
+        "rayquaza_capture" : {
+            "trigger" : "pixelmon:legendary_capture_trigger",
+            "conditions" : {
+                "pokemon" : "rayquaza"
+            }
+        }
+    }
+}

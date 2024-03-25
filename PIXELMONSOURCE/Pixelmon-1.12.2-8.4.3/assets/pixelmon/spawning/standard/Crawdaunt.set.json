@@ -1,0 +1,26 @@
+{
+  "id": "Crawdaunt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Crawdaunt"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

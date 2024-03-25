@@ -1,0 +1,25 @@
+{
+  "id": "Eevee Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Eevee"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

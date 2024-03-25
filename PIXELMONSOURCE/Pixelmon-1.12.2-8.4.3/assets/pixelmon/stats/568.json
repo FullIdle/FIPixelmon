@@ -1,0 +1,244 @@
+{
+  "pixelmonName": "Trubbish",
+  "pokemon": "Trubbish",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 62,
+    "Speed": 65,
+    "SpecialAttack": 40,
+    "SpecialDefence": 62
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 12,
+  "baseExp": 66,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 31.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.6,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Garbodor"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Stench",
+    "StickyHold",
+    "Aftermath"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Poison Gas",
+      "Pound"
+    ],
+    "3": [
+      "Recycle"
+    ],
+    "6": [
+      "Acid Spray"
+    ],
+    "9": [
+      "Amnesia"
+    ],
+    "12": [
+      "Clear Smog"
+    ],
+    "15": [
+      "Toxic Spikes"
+    ],
+    "18": [
+      "Sludge"
+    ],
+    "21": [
+      "Stockpile",
+      "Swallow"
+    ],
+    "24": [
+      "Take Down"
+    ],
+    "27": [
+      "Sludge Bomb"
+    ],
+    "30": [
+      "Toxic"
+    ],
+    "33": [
+      "Belch"
+    ],
+    "37": [
+      "Pain Split"
+    ],
+    "39": [
+      "Gunk Shot"
+    ],
+    "42": [
+      "Explosion"
+    ]
+  },
+  "tutorMoves": [
+    "Corrosive Gas"
+  ],
+  "eggMoves": [
+    "Autotomize",
+    "Curse",
+    "Haze",
+    "Rollout",
+    "Sand Attack"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Double Slap",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Infestation",
+    "Mud Sport",
+    "Return",
+    "Secret Power",
+    "Spite",
+    "Swagger"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Amnesia",
+    "Substitute",
+    "Sludge Bomb",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Toxic Spikes",
+    "Dark Pulse",
+    "Seed Bomb",
+    "Gunk Shot",
+    "Sludge Wave",
+    "Venom Drench"
+  ],
+  "tmMoves8": [
+    "Self-Destruct",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Rock Blast",
+    "Payback",
+    "Drain Punch",
+    "Venoshock",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

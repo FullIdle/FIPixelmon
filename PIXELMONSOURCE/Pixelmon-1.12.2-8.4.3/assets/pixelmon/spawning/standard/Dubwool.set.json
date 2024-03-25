@@ -1,0 +1,27 @@
+{
+  "id": "Dubwool",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dubwool"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

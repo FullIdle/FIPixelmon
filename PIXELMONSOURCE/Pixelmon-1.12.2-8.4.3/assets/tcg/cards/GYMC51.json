@@ -1,0 +1,61 @@
+{
+  "id": 504,
+  "setId": 7,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 90,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 24,
+  "code": "GYMC51",
+  "name": "card.GYMC51.name",
+  "description": "",
+  "previousPokemonId": 23,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC51",
+      "attackNumber": 1,
+      "name": "attack.GYMC51.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMC51.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC51",
+      "attackNumber": 2,
+      "name": "attack.GYMC51.2.name",
+      "energy": [
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMC51.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

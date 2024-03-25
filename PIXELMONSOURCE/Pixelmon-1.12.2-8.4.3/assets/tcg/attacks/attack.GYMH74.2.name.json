@@ -1,0 +1,17 @@
+{
+  "cardCode": "GYMH74",
+  "attackNumber": 2,
+  "name": "attack.GYMH74.2.name",
+  "energy": [
+    "GRASS",
+    "GRASS",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.GYMH74.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Vanilluxe",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vanilluxe"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 48,
+      "maxLevel": 59,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

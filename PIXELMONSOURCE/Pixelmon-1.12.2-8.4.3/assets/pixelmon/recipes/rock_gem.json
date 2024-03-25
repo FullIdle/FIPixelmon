@@ -1,0 +1,13 @@
+{
+  "type": "pixelmon:infusion",
+  
+  "input1": {
+    "item": "pixelmon:charti_berry"
+  },
+  "input2": {
+    "item": "pixelmon:crystal_block"
+  },
+  "result": {
+    "item": "pixelmon:rock_gem"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "attackIndex": 562,
+  "attackName": "Belch",
+  "attackType": "Poison",
+  "attackCategory": "SPECIAL",
+  "basePower": 120,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Belch"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"segments": 1,
+				"scale": 0.8
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Acid Downpour",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

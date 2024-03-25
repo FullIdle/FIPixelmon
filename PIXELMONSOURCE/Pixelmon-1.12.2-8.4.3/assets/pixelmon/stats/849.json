@@ -1,0 +1,288 @@
+{
+  "pixelmonName": "Toxtricity",
+  "pokemon": "Toxtricity",
+  "form": 0,
+  "stats": {
+    "HP": 75,
+    "Attack": 98,
+    "Defence": 70,
+    "SpecialAttack": 114,
+    "SpecialDefence": 70,
+    "Speed": 75
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 18,
+  "baseExp": 176,
+  "baseFriendship": 50,
+  "types": [
+    "Electric",
+    "Poison"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Toxel"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 40.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 1.6,
+    "eye_height": 1.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "PunkRock",
+    "Plus",
+    "Technician"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Acid",
+      "Acid Spray",
+      "Belch",
+      "Eerie Impulse",
+      "Flail",
+      "Growl",
+      "Leer",
+      "Noble Roar",
+      "Nuzzle",
+      "Spark",
+      "Tearful Look",
+      "Thunder Shock"
+    ],
+    "4": [
+      "Charge"
+    ],
+    "8": [
+      "Shock Wave"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "16": [
+      "Taunt"
+    ],
+    "20": [
+      "Venoshock"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Swagger"
+    ],
+    "32": [
+      "Toxic"
+    ],
+    "36": [
+      "Discharge"
+    ],
+    "40": [
+      "Poison Jab"
+    ],
+    "44": [
+      "Overdrive"
+    ],
+    "48": [
+      "Boomburst"
+    ],
+    "52": [
+      "Shift Gear"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage"
+  ],
+  "eggMoves": [
+    "Endeavor",
+    "Metal Sound",
+    "Power-Up Punch"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Uproar",
+    "Taunt",
+    "Hyper Voice",
+    "Poison Jab",
+    "Gunk Shot",
+    "Sludge Wave",
+    "Electro Ball",
+    "Stored Power",
+    "Wild Charge",
+    "Venom Drench",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Thunder Punch",
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Screech",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Facade",
+    "Swift",
+    "Payback",
+    "Fling",
+    "Drain Punch",
+    "Round",
+    "Hex",
+    "Volt Switch",
+    "Snarl",
+    "Eerie Impulse"
+  ],
+  "forms": {
+    "1": {
+      "preEvolutions": [
+        "Toxel"
+      ],
+      "abilities": [
+        "Punk Rock",
+        "Minus",
+        "Technician"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Acid",
+          "Acid Spray",
+          "Belch",
+          "Eerie Impulse",
+          "Flail",
+          "Growl",
+          "Leer",
+          "Noble Roar",
+          "Nuzzle",
+          "Spark",
+          "Tearful Look",
+          "Thunder Shock"
+        ],
+        "4": [
+          "Charge"
+        ],
+        "8": [
+          "Shock Wave"
+        ],
+        "12": [
+          "Scary Face"
+        ],
+        "16": [
+          "Taunt"
+        ],
+        "20": [
+          "Venom Drench"
+        ],
+        "24": [
+          "Screech"
+        ],
+        "28": [
+          "Swagger"
+        ],
+        "32": [
+          "Toxic"
+        ],
+        "36": [
+          "Discharge"
+        ],
+        "40": [
+          "Poison Jab"
+        ],
+        "44": [
+          "Overdrive"
+        ],
+        "48": [
+          "Boomburst"
+        ],
+        "52": [
+          "Magnetic Flux"
+        ]
+      },
+      "tutorMoves": [
+        "Rising Voltage"
+      ],
+      "eggMoves": [
+        "Endeavor",
+        "Metal Sound",
+        "Power-Up Punch"
+      ],
+      "trMoves": [
+        "Thunderbolt",
+        "Thunder",
+        "Substitute",
+        "Sludge Bomb",
+        "Endure",
+        "Sleep Talk",
+        "Encore",
+        "Uproar",
+        "Taunt",
+        "Hyper Voice",
+        "Poison Jab",
+        "Gunk Shot",
+        "Sludge Wave",
+        "Electro Ball",
+        "Stored Power",
+        "Wild Charge",
+        "Throat Chop"
+      ],
+      "tmMoves8": [
+        "Mega Punch",
+        "Mega Kick",
+        "Fire Punch",
+        "Thunder Punch",
+        "Hyper Beam",
+        "Giga Impact",
+        "Thunder Wave",
+        "Screech",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Scary Face",
+        "Attract",
+        "Facade",
+        "Swift",
+        "Payback",
+        "Fling",
+        "Drain Punch",
+        "Venoshock",
+        "Round",
+        "Hex",
+        "Volt Switch",
+        "Snarl",
+        "Eerie Impulse"
+      ]
+    }
+  }
+}

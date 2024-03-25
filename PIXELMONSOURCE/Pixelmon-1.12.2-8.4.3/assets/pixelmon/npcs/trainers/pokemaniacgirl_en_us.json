@@ -1,0 +1,306 @@
+{
+    "data": {
+        "trainerType": "PokeManiacgirl",
+        "minLevel": 10,
+        "maxLevel": 35,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 64
+    },
+    "pokemon": [
+        {
+            "name": "Nidoranfemale"
+        },
+        {
+            "name": "Nidorina"
+        },
+        {
+            "name": "Nidoqueen"
+        },
+        {
+            "name": "Slowpoke"
+        },
+        {
+            "name": "Slowbro"
+        },
+        {
+            "name": "Slowking"
+        },
+        {
+            "name": "Goldeen"
+        },
+        {
+            "name": "Seaking"
+        },
+        {
+            "name": "Teddiursa"
+        },
+        {
+            "name": "Ursaring"
+        },
+        {
+            "name": "Granbull"
+        },
+        {
+            "name": "Bulbasaur"
+        },
+        {
+            "name": "Charmander"
+        },
+        {
+            "name": "Squirtle"
+        },
+        {
+            "name": "Delibird"
+        },
+        {
+            "name": "Pikachu"
+        },
+        {
+            "name": "Meowth"
+        },
+        {
+            "name": "Phanpy"
+        },
+        {
+            "name": "Psyduck"
+        },
+        {
+            "name": "Wooper"
+        },
+        {
+            "name": "Donphan"
+        },
+        {
+            "name": "Quagsire"
+        },
+        {
+            "name": "Golduck"
+        },
+        {
+            "name": "Raichu"
+        },
+        {
+            "name": "Sentret"
+        },
+        {
+            "name": "Furret"
+        },
+        {
+            "name": "Skitty"
+        },
+        {
+            "name": "Delcatty"
+        },
+        {
+            "name": "Plusle"
+        },
+        {
+            "name": "Minun"
+        },
+        {
+            "name": "Azurill"
+        },
+        {
+            "name": "Marill"
+        },
+        {
+            "name": "Azumarill"
+        },
+        {
+            "name": "Feebas"
+        },
+        {
+            "name": "Milotic"
+        },
+        {
+            "name": "Aipom"
+        },
+        {
+            "name": "Ambipom"
+        },
+        {
+            "name": "Pichu"
+        },
+        {
+            "name": "Pachirisu"
+        },
+        {
+            "name": "Emolga"
+        },
+        {
+            "name": "Eevee"
+        },
+        {
+            "name": "Sudowoodo"
+        },
+        {
+            "name": "Magikarp"
+        },
+        {
+            "name": "Gyarados"
+        },
+        {
+            "name": "Mareep"
+        },
+        {
+            "name": "Flaaffy"
+        },
+        {
+            "name": "Ampharos"
+        },
+        {
+            "name": "Spinda"
+        },
+        {
+            "name": "Volbeat"
+        },
+        {
+            "name": "Illumise"
+        },
+        {
+            "name": "Zigzagoon"
+        },
+        {
+            "name": "Linoone"
+        },
+        {
+            "name": "Bidoof"
+        },
+        {
+            "name": "Bibarel"
+        },
+        {
+            "name": "Patrat"
+        },
+        {
+            "name": "Watchog"
+        },
+        {
+            "name": "Rattata"
+        },
+        {
+            "name": "Raticate"
+        },
+        {
+            "name": "Drifloon"
+        },
+        {
+            "name": "Drifblim"
+        },
+        {
+            "name": "Spheal"
+        },
+        {
+            "name": "Sealeo"
+        },
+        {
+            "name": "Walrein"
+        },
+        {
+            "name": "Swablu"
+        },
+        {
+            "name": "Altaria"
+        },
+        {
+            "name": "Sewaddle"
+        },
+        {
+            "name": "Swadloon"
+        },
+        {
+            "name": "Leavanny"
+        },
+        {
+            "name": "Lillipup"
+        },
+        {
+            "name": "Herdier"
+        },
+        {
+            "name": "Stoutland"
+        },
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Arcanine"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        },
+        {
+            "name": "Cubchoo"
+        },
+        {
+            "name": "Beartic"
+        },
+        {
+            "name": "Clefairy"
+        },
+        {
+            "name": "Clefable"
+        },
+        {
+            "name": "Jigglypuff"
+        },
+        {
+            "name": "Wigglytuff"
+        },
+        {
+            "name": "Igglybuff"
+        },
+        {
+            "name": "Cleffa"
+        },
+        {
+            "name": "Glameow"
+        },
+        {
+            "name": "Purrloin"
+        },
+        {
+            "name": "Liepard"
+        },
+        {
+            "name": "Sandshrew"
+        },
+        {
+            "name": "Sandslash"
+        },
+        {
+            "name": "Darumaka"
+        },
+        {
+            "name": "Darmanitan"
+        },
+        {
+            "name": "Latias"
+        }
+    ],
+    "names": [
+        {
+            "name": "Beverly"
+        },
+        {
+            "name": "Georgia"
+        },
+        {
+            "name": "Jaime"
+        },
+        {
+            "name": "Ruth"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "I absolutely love Pokémon! Let's battle and see how much your Pokémon love you!",
+            "win": "You really should take better care of your Pokémon! Love makes them strong!",
+            "lose": "You must love your Pokémon as much as I love mine!"
+        }
+    ]
+}

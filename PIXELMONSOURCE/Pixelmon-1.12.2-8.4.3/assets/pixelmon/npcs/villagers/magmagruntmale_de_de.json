@@ -1,0 +1,69 @@
+{
+    "skins": [
+        {
+            "filename": "magmagruntfemale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Magma Grunt"
+        },
+        {
+            "name": "Team Magma Grunt"
+        },
+        {
+            "name": "Team Magma Grunt"
+        },
+        {
+            "name": "Team Magma Grunt"
+        },
+        {
+            "name": "Team Magma Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Wen kümmert es, dass Team Aqua den Typenvorteil hat??"
+                },
+                {
+                    "text": "Groudon würde Kyogre jeden Tag schlagen!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mal sehen, ein riesiger Dinosaurier oder ein aufgeblähter Wal..."
+                },
+                {
+                    "text": "Wissen Sie, was sonst noch ein Wal-Pokémon ist? Wailord. Kyogre ist nur ein verherrlichtes Wailord!"
+				},
+				{
+					"text": "Während Groudon ein cooler Dinosaurier ist, und jeder liebt Dinosaurier!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Die Leute verwechseln uns aus irgendeinem Grund immer wieder mit Team Valor..."
+                },
+                {
+                    "text": "Ich frage mich, ob Aqua das gleiche Problem hat..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Vulkane sind cool!"
+                },
+                {
+                    "text": "Oder soll ich sagen, nicht? HA!"
+                }
+            ]
+        }
+    ]
+}

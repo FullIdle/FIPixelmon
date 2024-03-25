@@ -1,0 +1,58 @@
+{
+  "id": "Vullaby Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vullaby"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 42,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_desert",
+          "mesa_clear_rock",
+          "mesa_rock",
+          "mutated_mesa_clear_rock",
+          "mutated_mesa_rock",
+          "evil",
+          "savannas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Mandibuzz"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 55,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas",
+          "evil",
+          "savannas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

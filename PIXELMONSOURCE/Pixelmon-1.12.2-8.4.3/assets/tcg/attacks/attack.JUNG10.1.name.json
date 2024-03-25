@@ -1,0 +1,15 @@
+{
+  "cardCode": "JUNG10",
+  "attackNumber": 1,
+  "name": "attack.JUNG10.1.name",
+  "energy": [
+    "GRASS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG10.1.text",
+  "effectsString": "SWORDSDANCE",
+  "effects": [
+    {}
+  ]
+}

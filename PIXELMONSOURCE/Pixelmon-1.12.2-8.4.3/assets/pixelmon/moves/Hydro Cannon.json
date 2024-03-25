@@ -1,0 +1,54 @@
+{
+  "attackIndex": 369,
+  "attackName": "Hydro Cannon",
+  "attackType": "Water",
+  "attackCategory": "SPECIAL",
+  "basePower": 150,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Recharge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recharge"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 128, 255],
+				"scale": 0.6,
+				"segments": 30,
+				"power": 90,
+				"speed": 0.6,
+				"variation": 0.7
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
+      "basePower": 200,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

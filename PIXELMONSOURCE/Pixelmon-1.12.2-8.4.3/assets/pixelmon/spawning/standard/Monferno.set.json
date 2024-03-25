@@ -1,0 +1,37 @@
+{
+  "id": "Monferno",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Monferno"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous forests",
+          "mutated_taiga_cold",
+          "taiga_cold_hills"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "CLEAR"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

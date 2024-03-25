@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "bugcatcher4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Bob"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Willkommen im Holzgewächshaus!"
+        },
+        {
+          "text": "Unser Anführer liebt Gartenarbeit."
+        },
+        {
+          "text": "Achte auf die Bienen!"
+        }
+      ]
+    }
+  ]
+}

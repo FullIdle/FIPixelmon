@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SIS",
+    "SSS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "pixelmon:silicon"
+    }
+  },
+  "result": {
+    "item": "pixelmon:wheel",
+    "count": 1
+  }
+}

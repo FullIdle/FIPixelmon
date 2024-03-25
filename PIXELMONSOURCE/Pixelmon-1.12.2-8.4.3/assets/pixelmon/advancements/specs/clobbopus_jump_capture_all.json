@@ -1,0 +1,110 @@
+{
+   "display":{
+      "icon":{
+         "item":"pixelmon:pixelmon_sprite",
+         "nbt":"{\"SpriteName\":\"pixelmon:sprites/shinypokemon/852\"}"
+      },
+      "title":{
+         "translate":"advancements.clobbopus_jump_all.title"
+      },
+      "description":{
+         "translate":"advancements.clobbopus_jump_all.description"
+      },
+      "hidden":false
+   },
+   "parent":"pixelmon:specs/clobbopus_jump_capture",
+   "criteria":{
+      "0":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:0 Clobbopus"
+         }
+      },
+      "1":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:1 Clobbopus"
+         }
+      },
+      "2":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:2 Clobbopus"
+         }
+      },
+      "3":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:3 Clobbopus"
+         }
+      },
+      "4":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:4 Clobbopus"
+         }
+      },
+      "5":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:5 Clobbopus"
+         }
+      },
+      "6":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:6 Clobbopus"
+         }
+      },
+      "7":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:7 Clobbopus"
+         }
+      },
+      "8":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:8 Clobbopus"
+         }
+      },
+      "s":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"s Clobbopus"
+         }
+      }
+   },
+   "requirements":[
+      [
+         "0"
+      ],
+      [
+         "1"
+      ],
+      [
+         "2"
+      ],
+      [
+         "3"
+      ],
+      [
+         "4"
+      ],
+      [
+         "5"
+      ],
+      [
+         "6"
+      ],
+      [
+         "7"
+      ],
+      [
+         "8"
+      ],
+      [
+         "s"
+      ]
+   ]
+}

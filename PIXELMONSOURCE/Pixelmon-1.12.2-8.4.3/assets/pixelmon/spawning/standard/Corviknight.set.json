@@ -1,0 +1,33 @@
+{
+  "id": "Corviknight",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Corviknight"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mountainous forests",
+          "redwoods"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

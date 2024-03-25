@@ -1,0 +1,27 @@
+{
+  "id": "Flaaffy",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Flaaffy"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

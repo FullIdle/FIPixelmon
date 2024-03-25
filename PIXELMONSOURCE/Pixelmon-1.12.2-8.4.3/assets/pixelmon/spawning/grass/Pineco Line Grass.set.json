@@ -1,0 +1,49 @@
+{
+  "id": "Pineco Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pineco"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Forretress"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 31,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cardCode": "BASE50",
+  "attackNumber": 1,
+  "name": "attack.BASE50.1.name",
+  "energy": [
+    "PSYCHIC"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.BASE50.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:ASLEEP",
+  "effects": [
+    {
+      "condition": "ASLEEP",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

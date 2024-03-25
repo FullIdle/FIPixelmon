@@ -1,0 +1,15 @@
+{
+  "cardCode": "GYMH84",
+  "attackNumber": 1,
+  "name": "attack.GYMH84.1.name",
+  "energy": [
+    "WATER"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.GYMH84.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

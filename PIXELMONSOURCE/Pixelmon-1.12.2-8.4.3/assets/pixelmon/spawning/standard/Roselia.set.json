@@ -1,0 +1,33 @@
+{
+  "id": "Roselia",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Roselia"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 12,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

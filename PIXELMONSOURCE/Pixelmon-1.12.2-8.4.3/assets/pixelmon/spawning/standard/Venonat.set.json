@@ -1,0 +1,52 @@
+{
+  "id": "Venonat",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Venonat"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "jungles"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Venonat",
+        "form": 108
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "jungles"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

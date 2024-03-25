@@ -1,0 +1,49 @@
+{
+  "attackIndex": 363,
+  "attackName": "Ice Ball",
+  "attackType": "Ice",
+  "attackCategory": "PHYSICAL",
+  "basePower": 30,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "Rollout"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [102, 255, 255],
+				"scale": 0.5
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

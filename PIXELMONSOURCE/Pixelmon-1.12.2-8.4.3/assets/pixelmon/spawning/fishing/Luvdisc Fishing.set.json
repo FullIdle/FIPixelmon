@@ -1,0 +1,53 @@
+{
+  "id": "Luvdisc Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Luvdisc"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 11,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Luvdisc"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

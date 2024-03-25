@@ -1,0 +1,26 @@
+{
+  "id": "Drowzee",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Drowzee"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "swamps"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

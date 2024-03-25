@@ -1,0 +1,25 @@
+{
+  "id": "Carnivine Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Carnivine"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 80.0
+    }
+  ]
+}

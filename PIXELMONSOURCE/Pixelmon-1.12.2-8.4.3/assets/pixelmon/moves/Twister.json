@@ -1,0 +1,57 @@
+{
+  "attackIndex": 317,
+  "attackName": "Twister",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 40,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+	{
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"rgb": [238, 238, 238],
+				"scale": 0.5,
+				"narrownesss": 0.5,
+				"speed": 0.7
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "dragonium_z",
+      "attackName": "Devastating Drake",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

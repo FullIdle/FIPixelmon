@@ -1,0 +1,70 @@
+{
+  "id": "Trapinch Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Trapinch"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Vibrava"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "desert_hills"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Flygon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "mutated_desert",
+          "desert_hills"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

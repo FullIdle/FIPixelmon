@@ -1,0 +1,117 @@
+{
+    "data": {
+        "trainerType": "BugManiac",
+        "minLevel": 16,
+        "maxLevel": 24,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 24
+    },
+    "pokemon": [
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Beedrill"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Paras"
+        }
+    ],
+    "names": [
+        {
+            "name": "Rydia"
+        },
+        {
+            "name": "Crystal"
+        },
+        {
+            "name": "Megan"
+        },
+        {
+            "name": "Natalia"
+        },
+        {
+            "name": "Agata"
+        },
+        {
+            "name": "Alejandra"
+        },
+        {
+            "name": "Brooke"
+        },
+        {
+            "name": "Marlee"
+        },
+        {
+            "name": "Julia"
+        },
+        {
+            "name": "Stella"
+        },
+        {
+            "name": "Tami"
+        },
+        {
+            "name": "Elsa"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¡Me encantan los bichos!",
+            "win": "¡Te dije que los bichos son lo mejor!",
+            "lose": "¡Los bichos siguen siendo lo mejor!"
+        },
+        {
+            "opening": "¿Has visto algún Butterfree? Quiero uno.",
+            "win": "Creo que he visto uno. Gracias por la batalla.",
+            "lose": "Oh bueno. Avísame si encuentras uno."
+        },
+        {
+            "opening": "Los bichos son maravillosos. ¡Va a ser interesante ver como intentas vencer a mi equipo!",
+            "win": "¿Puedes ver la belleza de los bichos?",
+            "lose": "Puede que me hayas derrotado, pero fueron mis Pokémon los que de verdad brillaron."
+        },
+        {
+            "opening": "¿Podemos luchar? Necesito hacer más fuerte a mis Pokémon de tipo bicho.",
+            "win": "Parece que mis Pokémon son más fuertes de lo que pensaba.",
+            "lose": "Sabía que mis Pokémon eran demasiado débiles."
+        },
+        {
+            "opening": "Con mucha paciencia he entrenado a mi equipo... ¡Vamos a luchar!",
+            "win": "Parece que mi entrenamiento ha merecido la pena.",
+            "lose": "¿Cómo he podido perder después de tanto entrenamiento?"
+        },
+        {
+            "opening": "Combatir siempre es algo muy serio. ¡Hagámos que sea un combate divertido!",
+            "win": "Fue divertido. Luchemos de nuevo otro día.",
+            "lose": "Fue divertido. Gracias por el combate."
+        },
+        {
+            "opening": "¡Si gano, me tienes que dar tu Pokémon de tipo bicho!",
+            "win": "Ja ja, ¡dámelos!",
+            "lose": "¡No toques a mis Pokémon!"
+        },
+        {
+            "opening": "¡BICHOS!",
+            "win": "¡Los bichos molan!",
+            "lose": "¿Por qué los Pokémon de tipo bicho son tan inútiles?"
+        },
+        {
+            "opening": "¡No hay ningún Pokémon de tipo bicho bueno! ¡Si pierdo, me haré un equipo nuevo!",
+            "win": "¡Supongo que estaba equivocado! ¡Los Pokémon bicho son alucinantes! ¡No necesito un nuevo equipo! ¡Este es increible!",
+            "lose": "¡Eso es todo! ¡Haré un nuevo equipo!"
+        },
+        {
+            "opening": "¡Bichoz, bichoz, bichoz!",
+            "win": "¡Necesito más bichoz!",
+            "lose": "¡Necesito más bichoz!"
+        }
+    ]
+}

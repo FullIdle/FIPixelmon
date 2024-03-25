@@ -1,0 +1,492 @@
+{
+  "pixelmonName": "Calyrex",
+  "pokemon": "Calyrex",
+  "form": 0,
+  "stats": {
+    "HP": 100,
+    "Attack": 80,
+    "Defence": 80,
+    "SpecialAttack": 80,
+    "SpecialDefence": 80,
+    "Speed": 80
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 80,
+  "spawnLevelRange": 0,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Grass"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "aggressive": 0,
+    "passive": 0,
+    "timid": 100
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 44.5,
+  "bounding_box": {
+    "width": 0.65,
+    "height": 1.1,
+    "eye_height": 0.55
+  },
+  "evolutions": [],
+  "abilities": [
+    "Unnerve",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "1": [
+      "Pound",
+      "Mega Drain",
+      "Confusion",
+      "Growth"
+    ],
+    "8": [
+      "Life Dew"
+    ],
+    "16": [
+      "Giga Drain"
+    ],
+    "24": [
+      "Psyshock"
+    ],
+    "32": [
+      "Helping Hand"
+    ],
+    "40": [
+      "Aromatherapy"
+    ],
+    "48": [
+      "Energy Ball"
+    ],
+    "56": [
+      "Psychic"
+    ],
+    "64": [
+      "Leech Seed"
+    ],
+    "72": [
+      "Heal Pulse"
+    ],
+    "80": [
+      "Solar Beam"
+    ],
+    "88": [
+      "Future Sight"
+    ],
+    "0": [
+      "Confusion",
+      "Growth",
+      "Mega Drain",
+      "Pound"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Agility",
+    "Metronome",
+    "Tri Attack",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Encore",
+    "Future Sight",
+    "Trick",
+    "Skill Swap",
+    "Calm Mind",
+    "Seed Bomb",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Leaf Storm",
+    "Grass Knot",
+    "Stored Power",
+    "Ally Switch",
+    "Pollen Puff"
+  ],
+  "tmMoves8": [
+    "Pay Day",
+    "Hyper Beam",
+    "Giga Impact",
+    "Magical Leaf",
+    "Solar Beam",
+    "Solar Blade",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Imprison",
+    "Bullet Seed",
+    "Power Swap",
+    "Guard Swap",
+    "Speed Swap",
+    "Trick Room",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Draining Kiss",
+    "Grassy Terrain",
+    "Psychic Terrain"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 100,
+        "Attack": 165,
+        "Defence": 150,
+        "SpecialAttack": 85,
+        "SpecialDefence": 130,
+        "Speed": 50
+      },
+      "types": [
+        "Psychic",
+        "Ice"
+      ],
+      "abilities": [
+        "AsOne",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Glacial Lance",
+          "Tackle",
+          "Tail Whip",
+          "Double Kick",
+          "Avalanche",
+          "Stomp",
+          "Torment",
+          "Mist",
+          "Icicle Crash",
+          "Take Down",
+          "Iron Defense",
+          "Thrash",
+          "Taunt",
+          "Double-Edge",
+          "Swords Dance",
+          "Pound",
+          "Mega Drain",
+          "Confusion",
+          "Growth"
+        ],
+        "8": [
+          "Life Dew"
+        ],
+        "16": [
+          "Giga Drain"
+        ],
+        "24": [
+          "Psyshock"
+        ],
+        "32": [
+          "Helping Hand"
+        ],
+        "40": [
+          "Aromatherapy"
+        ],
+        "48": [
+          "Energy Ball"
+        ],
+        "56": [
+          "Psychic"
+        ],
+        "64": [
+          "Leech Seed"
+        ],
+        "72": [
+          "Heal Pulse"
+        ],
+        "80": [
+          "Solar Beam"
+        ],
+        "88": [
+          "Future Sight"
+        ]
+      },
+      "tutorMoves": [
+        "Expanding Force",
+        "Lash Out"
+      ],
+      "trMoves": [
+        "Swords Dance",
+        "Body Slam",
+        "Ice Beam",
+        "Blizzard",
+        "Psychic",
+        "Agility",
+        "Metronome",
+        "Tri Attack",
+        "Substitute",
+        "Outrage",
+        "Psyshock",
+        "Endure",
+        "Sleep Talk",
+        "Megahorn",
+        "Baton Pass",
+        "Encore",
+        "Crunch",
+        "Future Sight",
+        "Uproar",
+        "Taunt",
+        "Trick",
+        "Superpower",
+        "Skill Swap",
+        "Iron Defense",
+        "Calm Mind",
+        "Close Combat",
+        "Seed Bomb",
+        "Energy Ball",
+        "Zen Headbutt",
+        "Leaf Storm",
+        "Grass Knot",
+        "Stored Power",
+        "Ally Switch",
+        "High Horsepower",
+        "Throat Chop",
+        "Pollen Puff",
+        "Body Press"
+      ],
+      "tmMoves8": [
+        "Pay Day",
+        "Hyper Beam",
+        "Giga Impact",
+        "Magical Leaf",
+        "Solar Beam",
+        "Solar Blade",
+        "Light Screen",
+        "Reflect",
+        "Safeguard",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Scary Face",
+        "Icy Wind",
+        "Giga Drain",
+        "Sunny Day",
+        "Hail",
+        "Facade",
+        "Swift",
+        "Helping Hand",
+        "Imprison",
+        "Bullet Seed",
+        "Icicle Spear",
+        "Mud Shot",
+        "Payback",
+        "Assurance",
+        "Power Swap",
+        "Guard Swap",
+        "Speed Swap",
+        "Avalanche",
+        "Trick Room",
+        "Wonder Room",
+        "Magic Room",
+        "Round",
+        "Bulldoze",
+        "Snarl",
+        "Draining Kiss",
+        "Grassy Terrain",
+        "Psychic Terrain",
+        "Smart Strike",
+        "Stomping Tantrum"
+      ],
+      "bounding_box": {
+        "width": 0.9,
+        "height": 1.8,
+        "eye_height": 1.5
+      }
+    },
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 100,
+        "Attack": 85,
+        "Defence": 80,
+        "SpecialAttack": 165,
+        "SpecialDefence": 100,
+        "Speed": 150
+      },
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "abilities": [
+        "AsOne",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "1": [
+          "Astral Barrage",
+          "Tackle",
+          "Tail Whip",
+          "Double Kick",
+          "Hex",
+          "Stomp",
+          "Confuse Ray",
+          "Haze",
+          "Shadow Ball",
+          "Take Down",
+          "Agility",
+          "Thrash",
+          "Disable",
+          "Double-Edge",
+          "Nasty Plot",
+          "Pound",
+          "Mega Drain",
+          "Confusion",
+          "Growth"
+        ],
+        "8": [
+          "Life Dew"
+        ],
+        "16": [
+          "Giga Drain"
+        ],
+        "24": [
+          "Psyshock"
+        ],
+        "32": [
+          "Helping Hand"
+        ],
+        "40": [
+          "Aromatherapy"
+        ],
+        "48": [
+          "Energy Ball"
+        ],
+        "56": [
+          "Psychic"
+        ],
+        "64": [
+          "Leech Seed"
+        ],
+        "72": [
+          "Heal Pulse"
+        ],
+        "80": [
+          "Solar Beam"
+        ],
+        "88": [
+          "Future Sight"
+        ]
+      },
+      "tutorMoves": [
+        "Expanding Force",
+        "Lash Out"
+      ],
+      "trMoves": [
+        "Body Slam",
+        "Psychic",
+        "Agility",
+        "Metronome",
+        "Tri Attack",
+        "Substitute",
+        "Psyshock",
+        "Endure",
+        "Sleep Talk",
+        "Baton Pass",
+        "Encore",
+        "Crunch",
+        "Shadow Ball",
+        "Future Sight",
+        "Uproar",
+        "Taunt",
+        "Trick",
+        "Skill Swap",
+        "Calm Mind",
+        "Dark Pulse",
+        "Seed Bomb",
+        "Energy Ball",
+        "Nasty Plot",
+        "Zen Headbutt",
+        "Leaf Storm",
+        "Grass Knot",
+        "Foul Play",
+        "Stored Power",
+        "Ally Switch",
+        "Pollen Puff"
+      ],
+      "tmMoves8": [
+        "Pay Day",
+        "Hyper Beam",
+        "Giga Impact",
+        "Magical Leaf",
+        "Solar Beam",
+        "Solar Blade",
+        "Light Screen",
+        "Reflect",
+        "Safeguard",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Scary Face",
+        "Giga Drain",
+        "Sunny Day",
+        "Will-O-Wisp",
+        "Facade",
+        "Swift",
+        "Helping Hand",
+        "Imprison",
+        "Bullet Seed",
+        "Mud Shot",
+        "Payback",
+        "Assurance",
+        "Power Swap",
+        "Guard Swap",
+        "Speed Swap",
+        "Psycho Cut",
+        "Trick Room",
+        "Wonder Room",
+        "Magic Room",
+        "Round",
+        "Hex",
+        "Bulldoze",
+        "Snarl",
+        "Phantom Force",
+        "Draining Kiss",
+        "Grassy Terrain",
+        "Psychic Terrain",
+        "Stomping Tantrum"
+      ],
+      "bounding_box": {
+        "width": 0.9,
+        "height": 1.8,
+        "eye_height": 1.5
+      }
+    }
+  }
+}

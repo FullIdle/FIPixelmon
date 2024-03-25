@@ -1,0 +1,57 @@
+{
+    "skins": [
+        {
+            "filename": "knight.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sir Bors de Ganis"
+        },
+		 {
+            "name": "Hamlet"
+        },
+        {
+            "name": "Sir Larion"
+        },
+        {
+            "name": "Sir Escavalier"
+        },
+        {
+            "name": "Francis"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Diese Mobs kommen einfach weiter!"
+                },
+                {
+                    "text": "Welle nach Welle... Wie viele Leben müssen verloren sein, damit diese Schlacht endet?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich würde lieber mit Pokémon über Wellen von Skeletten und Zombies kämpfen!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Kämpfe für das, woran du glaubst, sonst kämpfst du um nichts."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Obwohl dies Wahnsinn ist, gibt es doch eine Methode es zu schaffen."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "skins": [
+        {
+            "filename": "lass2.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Amy"
+        },
+        {
+            "name": "Jade"
+        },
+        {
+            "name": "Hermione"
+        },
+        {
+            "name": "Coraline"
+        },
+        {
+            "name": "Usagi"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "J'ai attrapé un autre Roucool. Je pense que je vais me mettre à les collectionner."
+                },
+                {
+                    "text": "Et ensuite, je les relâcherai tous en même temps pendant les cours."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai vu un documentaire sur la savane et maintenant, je veux un Lixy."
+                },
+                {
+                    "text": "Mais un Ranger m'a dit que c'était \"écologiquement irresponsable\". C'est pas juste."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ma maman m'a emmenée au cirque le week-end dernier !"
+                },
+                {
+                    "text": "J'ai vu deux Obalie jongler avec un troisième comme avec un ballon. Je savais pas qu'ils pouvaient faire ça."
+                }
+            ]
+        }
+    ]
+}

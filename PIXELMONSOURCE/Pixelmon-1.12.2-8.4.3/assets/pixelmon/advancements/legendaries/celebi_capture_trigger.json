@@ -1,0 +1,24 @@
+{
+    "display" : {
+        "icon" : {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/251\"}"
+        },
+        "title" : {
+            "translate" : "advancements.celebi_capture.title"
+        },
+        "description" : {
+            "translate" : "advancements.celebi_capture.description"
+        },
+        "hidden": true
+    },
+    "parent" : "pixelmon:legendaries/legendary_capture_trigger",
+    "criteria" : {
+        "celebi_capture" : {
+            "trigger" : "pixelmon:legendary_capture_trigger",
+            "conditions" : {
+                "pokemon" : "celebi"
+            }
+        }
+    }
+}

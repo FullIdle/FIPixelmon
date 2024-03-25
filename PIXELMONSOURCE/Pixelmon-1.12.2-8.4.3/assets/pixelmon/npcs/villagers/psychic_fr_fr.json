@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Tetsuo"
+        },
+        {
+            "name": "Neo"
+        },
+        {
+            "name": "Luke"
+        },
+        {
+            "name": "Raz"
+        },
+        {
+            "name": "Nate"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Non, je ne ferai pas de démonstration."
+                },
+                {
+                    "text": "Les pouvois psychiques sont un don à utiliser de manière responsable, ce ne sont pas des jouets."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ton esprit est rempli de... waouh."
+                },
+                {
+                    "text": "Non, oublie, je te laisse tranquille, au revoir."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pour un esprit entièrement ouvert, rien n'est impossible."
+                },
+                {
+                    "text": "Rien que par la pensée, je peux jongler avec des Poké Balls, ce qui, au final, ne sert pas à grand-chose."
+                }
+            ]
+        }
+    ]
+}

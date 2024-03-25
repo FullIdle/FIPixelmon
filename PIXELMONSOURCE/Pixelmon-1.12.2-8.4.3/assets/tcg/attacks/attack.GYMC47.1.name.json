@@ -1,0 +1,16 @@
+{
+  "cardCode": "GYMC47",
+  "attackNumber": 1,
+  "name": "attack.GYMC47.1.name",
+  "energy": [
+    "FIRE",
+    "FIRE"
+  ],
+  "damage": 50,
+  "modifier": null,
+  "text": "attack.GYMC47.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "punkguy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sven"
+        },
+        {
+            "name": "Eugene"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Donny"
+        },
+        {
+            "name": "Spike"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "J'suis allé à un concert le week-end dernier. Y'a eu un mosh pit!"
+                },
+                {
+                    "text": "Les Pokémon de type Combat dans les mosh pits, ça devrait être interdit."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il te plaît, mon blouson ? C'est du vrai cuir."
+                },
+                {
+                    "text": "Du type Normal au type Punk ! C'est une sacrée amélioration, mec."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Chuis pas méchant. Tu vois, j'aime bien mon Tadmorv."
+                },
+                {
+                    "text": "Parfois je le laisse grimper sur ma tête. Il sent un peu, mais il me donne un air cool."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai envie de rassembler quelques potes qui aiment pas les règles..."
+                },
+                {
+                    "text": "Et de me faire une bonne baston générale de Pokémon."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "data": {
+        "trainerType": "MaleRocketGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 60
+    },
+    "models":[
+        {
+            "name": "MaleRocketGrunt"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Ekans"
+        },
+        {
+            "name": "Arbok"
+        },
+        {
+            "name": "Lickitung"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Wobbuffet"
+        },
+        {
+            "name": "Meowth"
+        },
+        {
+            "name": "Drowzee"
+        },
+        {
+            "name": "Venonat"
+        },
+        {
+            "name": "Grimer"
+        },
+        {
+            "name": "Muk"
+        },
+        {
+            "name": "Oddish"
+        },
+        {
+            "name": "Gloom"
+        },
+        {
+            "name": "Rattata"
+        },
+        {
+            "name": "Raticate"
+        },
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Weezing"
+        }
+    ],
+    "names": [
+        {
+            "name": "James"
+        },
+        {
+            "name": "Butch"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Paul"
+        },
+        {
+            "name": "Chazz"
+        },
+        {
+            "name": "Jayden"
+        },
+        {
+            "name": "Zain"
+        },
+        {
+            "name": "Attila"
+        },
+        {
+            "name": "Hun"
+        },
+        {
+            "name": "Rolf"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Hey kid, hand over your Pokémon!",
+            "win": "I won. Now give me your Pokémon.",
+            "lose": "Urgh, how did you beat me!"
+        },        
+        {
+            "opening": "You can't pass without beating me!",
+            "win": "You shall not pass!",
+            "lose": "Go on through, if you dare."
+        },
+        {
+            "opening": "What are you doing here?!",
+            "win": "Get out of here.",
+            "lose": "Oh no! I lost!"
+        },
+        {
+            "opening": "This is an important operation. We don't need you snooping around!",
+            "win": "Get out now!",
+            "lose": "Impossible!"
+        },
+        {
+            "opening": "Team Rocket is the best!",
+            "win": "I told you we are the best!",
+            "lose": "I should've joined Team Magma."
+        },
+        {
+            "opening": "Prepare for trouble!",
+            "win": "And I can make that double.",
+            "lose": "Pokémon are rubbish!"
+        },
+        {
+            "opening": "Pokémon are tools. What use is treating them well?",
+            "win": "See? They are useless.",
+            "lose": "Useless things!"
+        },
+        {
+            "opening": "We are Team Rocket!",
+            "win": "Who are you?",
+            "lose": "Why are you here?"
+        },
+        {
+            "opening": "What do you think you're doing here?",
+            "win": "Leave now!",
+            "lose": "Leave before I tell the boss!"
+        },
+        {
+            "opening": "Get out of my way!",
+            "win": "I said move!",
+            "lose": "No way!"
+        },
+        {
+            "opening": "You've got some guts thinking you can fight me!",
+            "win": "You will never beat me.",
+            "lose": "You beat me!? Noooooo!"
+        },       
+        {
+            "opening": "You can't beat me. I'm the 27th strongest grunt!",
+            "win": "Yes, now I'm sure to be made the 26th strongest!",
+            "lose": "Oh no, now I will called the 28th strongest!"
+        },
+        {
+            "opening": "Your Pokémon will fetch a pretty penny on the black market!",
+            "win": "Your Pokémon are terrible!",
+            "lose": "They may be worth more than I thought!"
+        },       
+        {
+            "opening": "Nothing suspicious here. Move along!",
+            "win": "You don't know who you're dealing with kid!",
+            "lose": "The boss will not be happy with you."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shopgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Annabelle"
+        },
+        {
+            "name": "Zoe"
+        },
+        {
+            "name": "Chloe"
+        },
+        {
+            "name": "Babs"
+        },
+        {
+            "name": "Tasha"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Oh, stavi aspettando? Non ti ho visto."
+                },
+                {
+                    "text": "Ok, ok, aspetta! Che cosa vuoi comprare, comunque?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Benvenuti nel negozio. *Sbadiglio*"
+                },
+                {
+                    "text": "Come dovrei sapere se abbiamo quella misura in magazzino? Non puoi accontentarti di quello più piccolo?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Posso essere di servizio? ...Sigh."
+                },
+                {
+                    "text": "Sì, sono piuttosto occupata. Deciditi e compra qualcosa, ok?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sì, lo so che hai aspettato. Stiamo tutti aspettando qualcosa!"
+                },
+                {
+                    "text": "Cosa sceglierei? Diamine, non farei mai acquisti qui per un milione di dollari!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ciao, hai intenzione di comprarlo?"
+                },
+                {
+                    "text": "Beh, non lasciarlo lì! Rimettilo sullo scaffale!"
+                }
+            ]
+        }
+    ]
+}

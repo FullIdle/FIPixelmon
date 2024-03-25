@@ -1,0 +1,88 @@
+{
+    "data": {
+        "trainerType": "Blacksmith",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Magneton"
+        },
+        {
+            "name": "Aron"
+        },
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Scizor"
+        },
+        {
+            "name": "Metang"
+        },
+        {
+            "name": "Lairon"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bazza"
+        },
+        {
+            "name": "Garth"
+        },
+        {
+            "name": "Rusty"
+        },
+        {
+            "name": "Atsushi"
+        },
+        {
+            "name": "Rarth"
+        },
+        {
+            "name": "Tibo"
+        },
+        {
+            "name": "Henrry"
+        },
+        {
+            "name": "Bart"
+        },
+        {
+            "name": "Mikio"
+        },
+        {
+            "name": "Bartholomé"
+        },
+        {
+            "name": "Gunter"
+        },
+        {
+            "name": "Lars"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¿Cómo te atreves a desafiar a un entrenador de tipo Acero?",
+            "win": "¡Me desafiaste y perdiste!",
+            "lose": "Tu desafío valió la pena..."
+        },
+        {
+            "opening": "¡No me llaman el Hombre de Acero por nada! ¡Prepárate para luchar!",
+            "win": "El acero lo resiste todo, ya lo has podido comprobar.",
+            "lose": "Supongo que el acero no lo es todo..."
+        },
+        {
+            "opening": "Mis Pokémon están entrenados para soportar el fuego más sofocante. ¡Son invencibles!",
+            "win": "¡Te lo advertí! Buen intento.",
+            "lose": "No son tan invencibles como pensaba..."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Scrafty",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Scrafty"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

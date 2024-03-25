@@ -1,0 +1,31 @@
+{
+  "id": "Sandile",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sandile"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_glasses",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

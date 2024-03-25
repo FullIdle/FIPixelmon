@@ -1,0 +1,21 @@
+{
+  "cardCode": "FOSS57",
+  "attackNumber": 1,
+  "name": "attack.FOSS57.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS57.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:CONFUSED",
+  "effects": [
+    {
+      "condition": "CONFUSED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

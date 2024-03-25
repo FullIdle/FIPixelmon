@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "engineer.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Gustave"
+    },
+    {
+      "name": "Graham"
+    },
+    {
+      "name": "Seymour"
+    },
+    {
+      "name": "Thomas"
+    },
+    {
+      "name": "Kees"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Mit meiner Ausrüstung bin ich vor elektrischen Schlägen geschützt!"
+        },
+        {
+          "text": "Das bedeutet, dass ich wilde Pikachu ohne Angst streicheln kann."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich soll hier einen Hochspannungsmast reparieren, aber ich kann ihn nirgendwo finden."
+        },
+        {
+          "text": "Langsam denke ich, dass ich schikaniert werde."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Morgen wird es einen Stromausfall geben."
+        },
+        {
+          "text": "Keine Panik; das ist nur wegen Wartungsarbeiten."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Nein, Ich bin dir nicht böse. Ich sehe immer so aus."
+        },
+        {
+          "text": "So sehe ich immer aus! Mein neutrales Gesicht. Hast du ein Problem damit?"
+        }
+      ]
+    }
+  ]
+}

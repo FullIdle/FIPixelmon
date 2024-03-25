@@ -1,0 +1,37 @@
+{
+    "skins": [
+        {
+            "filename": "aquaboss.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Archie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "To flood the land to make more room for the ocean..."
+                },
+                {
+                    "text": "It sounded a lot cooler in my head, and it does have its flaws...but I'm still going through with it!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "As the head of Team Aqua, I have dedicated myself to thwarting Magma's plans."
+                },
+		{
+                    "text": "They want to expand the land, but everything depends on the sea, so we're doing the opposite of them!"
+                },
+                {
+                    "text": "You wouldn't understand, so stay out of our way!"
+                }
+            ]
+        }
+    ]
+}

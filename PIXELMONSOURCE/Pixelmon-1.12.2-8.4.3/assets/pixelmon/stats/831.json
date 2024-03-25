@@ -1,0 +1,139 @@
+{
+  "pixelmonName": "Wooloo",
+  "pokemon": "Wooloo",
+  "form": 0,
+  "stats": {
+    "HP": 42,
+    "Attack": 40,
+    "Defence": 55,
+    "SpecialAttack": 40,
+    "SpecialDefence": 45,
+    "Speed": 48
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 6,
+  "baseExp": 122,
+  "baseFriendship": 50,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 6.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 24,
+      "to": {
+        "name": "Dubwool"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Fluffy",
+    "RunAway",
+    "Bulletproof"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "8": [
+      "Copycat"
+    ],
+    "12": [
+      "Guard Split"
+    ],
+    "16": [
+      "Double Kick"
+    ],
+    "21": [
+      "Headbutt"
+    ],
+    "25": [
+      "Take Down"
+    ],
+    "28": [
+      "Guard Swap"
+    ],
+    "32": [
+      "Reversal"
+    ],
+    "36": [
+      "Cotton Guard"
+    ],
+    "40": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Stomp",
+    "Swagger"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Agility",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Electro Ball",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Payback",
+    "Guard Swap",
+    "Round"
+  ],
+  "forms": {
+    "1": {
+      "bounding_box": {
+        "width": 0.7,
+        "height": 0.7,
+        "eye_height": 0.5
+      }
+    }
+  }
+}

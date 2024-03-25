@@ -1,0 +1,66 @@
+{
+    "skins": [
+        {
+            "filename": "gardenermale2.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Christopher Lee"
+        },
+        {
+            "name": "José"
+        },
+        {
+            "name": "Mr. McGregor"
+        },
+        {
+            "name": "Percy"
+        },
+        {
+            "name": "Roberto"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Debo de llevar cuidado de por donde sego, especialmente cerca de la hierba alta."
+                },
+                {
+                    "text": "Una vez accidentalmente me pasó...fue todo muy turbio..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Un jardín no crece de la noche a la mañana, lleva su tiempo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No entiendo como la gente puede odiar a Metapod."
+                },
+                {
+                    "text": "Llega un día en el que todos los Metapod se convierten en Butterfree."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La gente piensa que los Pokémon bichos son débiles."
+                },
+                {
+                    "text": "Seguro que nunca han visto a un Scyther, o a un Pinsir, o a un Beedrill..."
+				},
+				{
+					"text": "¿Debería seguir?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "Numel Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Numel"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesa"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:dead_bush"
+            ]
+          }
+        }
+      ],
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Camerupt"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesa"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:dead_bush"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    }
+  ]
+}

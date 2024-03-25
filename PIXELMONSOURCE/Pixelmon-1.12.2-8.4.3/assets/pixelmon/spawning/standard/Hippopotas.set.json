@@ -1,0 +1,27 @@
+{
+  "id": "Hippopotas",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hippopotas"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 22,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 170.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Meditite",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Meditite"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

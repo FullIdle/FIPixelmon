@@ -1,0 +1,27 @@
+{
+  "id": "Stunky",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Stunky"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 23,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "forests"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

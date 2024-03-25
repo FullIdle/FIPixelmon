@@ -1,0 +1,59 @@
+{
+  "id": "Marill Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Marill"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand"
+        ],
+        "neededNearbyBlocks": [
+          "water"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "beaches",
+          "river"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Azumarill"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand"
+        ],
+        "neededNearbyBlocks": [
+          "water"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "beaches",
+          "river"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

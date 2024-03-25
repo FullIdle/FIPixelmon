@@ -1,0 +1,4114 @@
+{
+    "1": {
+        "Any": [
+            {
+                "item": "pixelmon:rare_candy",
+                "weight": 25
+            },
+            {
+                "item": "pixelmon:armorite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynamax_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:xs_exp_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:s_exp_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:orb",
+                "weight": 1
+            },
+            {
+                "item": "pixelmon:ranch_upgrade",
+                "weight": 20
+            }
+        ],
+        "Bug": [
+            {
+                "item": "pixelmon:silver_powder",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:bug_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Dark": [
+            {
+                "item": "pixelmon:black_glasses",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dark_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dusk_stone",
+                "weight": 30
+            }
+        ],
+        "Dragon": [
+            {
+                "item": "pixelmon:dragon_fang",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dragon_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            }
+        ],
+        "Electric": [
+            {
+                "item": "pixelmon:magnet",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:electric_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:thunder_stone",
+                "weight": 30
+            }
+        ],
+        "Fairy": [
+            {
+                "item": "pixelmon:fairy_wand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fairy_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:moon_stone",
+                "weight": 30
+            }
+        ],
+        "Fighting": [
+            {
+                "item": "pixelmon:black_belt",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fighting_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            }
+        ],
+        "Fire": [
+            {
+                "item": "pixelmon:charcoal",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fire_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:fire_stone",
+                "weight": 30
+            }
+        ],
+        "Flying": [
+            {
+                "item": "pixelmon:sharp_beak",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:flying_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Ghost": [
+            {
+                "item": "pixelmon:spell_tag",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ghost_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Grass": [
+            {
+                "item": "pixelmon:miracle_seed",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grass_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:leaf_stone",
+                "weight": 30
+            }
+        ],
+        "Ground": [
+            {
+                "item": "pixelmon:soft_sand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ground_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            }
+        ],
+        "Ice": [
+            {
+                "item": "pixelmon:never_melt_ice",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ice_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:ice_stone",
+                "weight": 30
+            }
+        ],
+        "Normal": [
+            {
+                "item": "pixelmon:silk_scarf",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:normal_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:shiny_stone",
+                "weight": 30
+            }
+        ],
+        "Poison": [
+            {
+                "item": "pixelmon:poison_barb",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:poison_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Psychic": [
+            {
+                "item": "pixelmon:twisted_spoon",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:psychic_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dawn_stone",
+                "weight": 30
+            }
+        ],
+        "Rock": [
+            {
+                "item": "pixelmon:hard_stone",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:rock_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:sun_stone",
+                "weight": 30
+            }
+        ],
+        "Steel": [
+            {
+                "item": "pixelmon:metal_coat",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:steel_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Water": [
+            {
+                "item": "pixelmon:mystic_water",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:water_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:razz_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nanab_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pinap_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pearl",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_pearl",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:water_stone",
+                "weight": 30
+            }
+        ]
+    },
+    "2": {
+        "Any": [
+            {
+                "item": "pixelmon:rare_candy",
+                "weight": 25
+            },
+            {
+                "item": "pixelmon:armorite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynamax_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:s_exp_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:m_exp_candy",
+                "weight": 75
+            },
+            {
+                "item": "pixelmon:wishing_piece",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:orb",
+                "weight": 2
+            },
+            {
+                "item": "pixelmon:ranch_upgrade",
+                "weight": 10
+            }
+        ],
+        "Bug": [
+            {
+                "item": "pixelmon:silver_powder",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:bug_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Dark": [
+            {
+                "item": "pixelmon:black_glasses",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dark_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dusk_stone",
+                "weight": 25
+            }
+        ],
+        "Dragon": [
+            {
+                "item": "pixelmon:dragon_fang",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dragon_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            }
+        ],
+        "Electric": [
+            {
+                "item": "pixelmon:magnet",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:electric_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:thunder_stone",
+                "weight": 25
+            }
+        ],
+        "Fairy": [
+            {
+                "item": "pixelmon:fairy_wand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fairy_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:moon_stone",
+                "weight": 25
+            }
+        ],
+        "Fighting": [
+            {
+                "item": "pixelmon:black_belt",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fighting_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            }
+        ],
+        "Fire": [
+            {
+                "item": "pixelmon:charcoal",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fire_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:fire_stone",
+                "weight": 25
+            }
+        ],
+        "Flying": [
+            {
+                "item": "pixelmon:sharp_beak",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:flying_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Ghost": [
+            {
+                "item": "pixelmon:spell_tag",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ghost_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Grass": [
+            {
+                "item": "pixelmon:miracle_seed",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grass_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:leaf_stone",
+                "weight": 25
+            }
+        ],
+        "Ground": [
+            {
+                "item": "pixelmon:soft_sand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ground_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            }
+        ],
+        "Ice": [
+            {
+                "item": "pixelmon:never_melt_ice",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ice_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:ice_stone",
+                "weight": 25
+            }
+        ],
+        "Normal": [
+            {
+                "item": "pixelmon:silk_scarf",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:normal_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:shiny_stone",
+                "weight": 25
+            }
+        ],
+        "Poison": [
+            {
+                "item": "pixelmon:poison_barb",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:poison_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Psychic": [
+            {
+                "item": "pixelmon:twisted_spoon",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:psychic_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dawn_stone",
+                "weight": 25
+            }
+        ],
+        "Rock": [
+            {
+                "item": "pixelmon:hard_stone",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:rock_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:sun_stone",
+                "weight": 25
+            }
+        ],
+        "Steel": [
+            {
+                "item": "pixelmon:metal_coat",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:steel_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Water": [
+            {
+                "item": "pixelmon:mystic_water",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:water_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:razz_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nanab_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pinap_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pearl",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_pearl",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:water_stone",
+                "weight": 25
+            }
+        ]
+    },
+    "3": {
+        "Any": [
+            {
+                "item": "pixelmon:rare_candy",
+                "weight": 25
+            },
+            {
+                "item": "pixelmon:armorite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynamax_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:m_exp_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:l_exp_candy",
+                "weight": 75
+            },
+            {
+                "item": "pixelmon:silver_bottle_cap",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:gold_bottle_cap",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:ability_capsule",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wishing_piece",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:orb",
+                "weight": 3
+            }
+        ],
+        "Bug": [
+            {
+                "item": "pixelmon:silver_powder",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:bug_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Dark": [
+            {
+                "item": "pixelmon:black_glasses",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dark_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dusk_stone",
+                "weight": 20
+            }
+        ],
+        "Dragon": [
+            {
+                "item": "pixelmon:dragon_fang",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dragon_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            }
+        ],
+        "Electric": [
+            {
+                "item": "pixelmon:magnet",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:electric_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:thunder_stone",
+                "weight": 20
+            }
+        ],
+        "Fairy": [
+            {
+                "item": "pixelmon:fairy_wand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fairy_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:moon_stone",
+                "weight": 20
+            }
+        ],
+        "Fighting": [
+            {
+                "item": "pixelmon:black_belt",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fighting_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:fire_stone",
+                "weight": 20
+            }
+        ],
+        "Fire": [
+            {
+                "item": "pixelmon:charcoal",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fire_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            }
+        ],
+        "Flying": [
+            {
+                "item": "pixelmon:sharp_beak",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:flying_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Ghost": [
+            {
+                "item": "pixelmon:spell_tag",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ghost_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Grass": [
+            {
+                "item": "pixelmon:miracle_seed",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grass_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:leaf_stone",
+                "weight": 20
+            }
+        ],
+        "Ground": [
+            {
+                "item": "pixelmon:soft_sand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ground_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            }
+        ],
+        "Ice": [
+            {
+                "item": "pixelmon:never_melt_ice",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ice_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:ice_stone",
+                "weight": 20
+            }
+        ],
+        "Normal": [
+            {
+                "item": "pixelmon:silk_scarf",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:normal_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:shiny_stone",
+                "weight": 20
+            }
+        ],
+        "Poison": [
+            {
+                "item": "pixelmon:poison_barb",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:poison_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Psychic": [
+            {
+                "item": "pixelmon:twisted_spoon",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:psychic_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dawn_stone",
+                "weight": 20
+            }
+        ],
+        "Rock": [
+            {
+                "item": "pixelmon:hard_stone",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:rock_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:sun_stone",
+                "weight": 20
+            }
+        ],
+        "Steel": [
+            {
+                "item": "pixelmon:metal_coat",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:steel_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Water": [
+            {
+                "item": "pixelmon:mystic_water",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:water_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:razz_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nanab_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pinap_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pearl",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_pearl",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:water_stone",
+                "weight": 20
+            }
+        ]
+    },
+    "4": {
+        "Any": [
+            {
+                "item": "pixelmon:rare_candy",
+                "weight": 25
+            },
+            {
+                "item": "pixelmon:armorite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynamax_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:m_exp_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:l_exp_candy",
+                "weight": 75
+            },
+            {
+                "item": "pixelmon:silver_bottle_cap",
+                "weight": 15
+            },
+            {
+                "item": "pixelmon:gold_bottle_cap",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:ability_patch",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:ability_capsule",
+                "weight": 40
+            },
+            {
+                "item": "pixelmon:wishing_piece",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:orb",
+                "weight": 4
+            }
+        ],
+        "Bug": [
+            {
+                "item": "pixelmon:silver_powder",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:bug_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Dark": [
+            {
+                "item": "pixelmon:black_glasses",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dark_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dusk_stone",
+                "weight": 15
+            }
+        ],
+        "Dragon": [
+            {
+                "item": "pixelmon:dragon_fang",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dragon_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            }
+        ],
+        "Electric": [
+            {
+                "item": "pixelmon:magnet",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:electric_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:thunder_stone",
+                "weight": 15
+            }
+        ],
+        "Fairy": [
+            {
+                "item": "pixelmon:fairy_wand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fairy_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:moon_stone",
+                "weight": 15
+            }
+        ],
+        "Fighting": [
+            {
+                "item": "pixelmon:black_belt",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fighting_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            }
+        ],
+        "Fire": [
+            {
+                "item": "pixelmon:charcoal",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fire_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:fire_stone",
+                "weight": 15
+            }
+        ],
+        "Flying": [
+            {
+                "item": "pixelmon:sharp_beak",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:flying_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Ghost": [
+            {
+                "item": "pixelmon:spell_tag",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ghost_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Grass": [
+            {
+                "item": "pixelmon:miracle_seed",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grass_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:leaf_stone",
+                "weight": 15
+            }
+        ],
+        "Ground": [
+            {
+                "item": "pixelmon:soft_sand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ground_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            }
+        ],
+        "Ice": [
+            {
+                "item": "pixelmon:never_melt_ice",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ice_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:ice_stone",
+                "weight": 15
+            }
+        ],
+        "Normal": [
+            {
+                "item": "pixelmon:silk_scarf",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:normal_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:shiny_stone",
+                "weight": 15
+            }
+        ],
+        "Poison": [
+            {
+                "item": "pixelmon:poison_barb",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:poison_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Psychic": [
+            {
+                "item": "pixelmon:twisted_spoon",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:psychic_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dawn_stone",
+                "weight": 15
+            }
+        ],
+        "Rock": [
+            {
+                "item": "pixelmon:hard_stone",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:rock_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:sun_stone",
+                "weight": 15
+            }
+        ],
+        "Steel": [
+            {
+                "item": "pixelmon:metal_coat",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:steel_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Water": [
+            {
+                "item": "pixelmon:mystic_water",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:water_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:razz_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nanab_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pinap_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pearl",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_pearl",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:water_stone",
+                "weight": 15
+            }
+        ]
+    },
+    "5": {
+        "Any": [
+            {
+                "item": "pixelmon:rare_candy",
+                "weight": 45
+            },
+            {
+                "item": "pixelmon:armorite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynite_ore",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dynamax_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:l_exp_candy",
+                "weight": 100
+            },
+            {
+                "item": "pixelmon:xl_exp_candy",
+                "weight": 75
+            },
+            {
+                "item": "pixelmon:silver_bottle_cap",
+                "weight": 25
+            },
+            {
+                "item": "pixelmon:gold_bottle_cap",
+                "weight": 25
+            },
+            {
+                "item": "pixelmon:ability_patch",
+                "weight": 25
+            },
+            {
+                "item": "pixelmon:ability_capsule",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wishing_piece",
+                "weight": 15
+            },
+            {
+                "item": "pixelmon:azure_flute",
+                "weight": 1
+            },
+            {
+                "item": "pixelmon:red_chain",
+                "weight": 1
+            },
+            {
+                "item": "pixelmon:clear_bell",
+                "weight": 1
+            },
+            {
+                "item": "pixelmon:tidal_bell",
+                "weight": 1
+            },
+            {
+                "item": "pixelmon:rainbow_wing",
+                "weight": 1
+            },
+            {
+                "item": "pixelmon:gs_ball",
+                "weight": 1
+            },
+            {
+                "item": "pixelmon:orb",
+                "weight": 5
+            }
+        ],
+        "Bug": [
+            {
+                "item": "pixelmon:silver_powder",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:bug_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Dark": [
+            {
+                "item": "pixelmon:black_glasses",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dark_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dusk_stone",
+                "weight": 10
+            }
+        ],
+        "Dragon": [
+            {
+                "item": "pixelmon:dragon_fang",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:dragon_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            }
+        ],
+        "Electric": [
+            {
+                "item": "pixelmon:magnet",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:electric_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:thunder_stone",
+                "weight": 10
+            }
+        ],
+        "Fairy": [
+            {
+                "item": "pixelmon:fairy_wand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fairy_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:moon_stone",
+                "weight": 10
+            }
+        ],
+        "Fighting": [
+            {
+                "item": "pixelmon:black_belt",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fighting_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 10
+            }
+        ],
+        "Fire": [
+            {
+                "item": "pixelmon:charcoal",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:fire_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:fire_stone",
+                "weight": 10
+            }
+        ],
+        "Flying": [
+            {
+                "item": "pixelmon:sharp_beak",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:flying_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:sitrus_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Ghost": [
+            {
+                "item": "pixelmon:spell_tag",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ghost_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            }
+        ],
+        "Grass": [
+            {
+                "item": "pixelmon:miracle_seed",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grass_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tamato_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:tiny_mushroom",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:leaf_stone",
+                "weight": 10
+            }
+        ],
+        "Ground": [
+            {
+                "item": "pixelmon:soft_sand",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ground_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            }
+        ],
+        "Ice": [
+            {
+                "item": "pixelmon:never_melt_ice",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:ice_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:ice_stone",
+                "weight": 10
+            }
+        ],
+        "Normal": [
+            {
+                "item": "pixelmon:silk_scarf",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:normal_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:iapapa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nugget",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:rare_bone",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_nugget",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:shiny_stone",
+                "weight": 10
+            }
+        ],
+        "Poison": [
+            {
+                "item": "pixelmon:poison_barb",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:poison_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:wiki_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Psychic": [
+            {
+                "item": "pixelmon:twisted_spoon",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:psychic_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:hondew_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:kelpsy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:figy_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:big_mushroom",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:balm_mushroom",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:dawn_stone",
+                "weight": 10
+            }
+        ],
+        "Rock": [
+            {
+                "item": "pixelmon:hard_stone",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:rock_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:grepa_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:lum_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:sun_stone",
+                "weight": 10
+            }
+        ],
+        "Steel": [
+            {
+                "item": "pixelmon:metal_coat",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:steel_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:qualot_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:mago_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pomeg_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:aguav_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:stardust",
+                "weight": 30
+            },
+            {
+                "item": "pixelmon:star_piece",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:comet_shard",
+                "weight": 10
+            }
+        ],
+        "Water": [
+            {
+                "item": "pixelmon:mystic_water",
+                "weight": 5
+            },
+            {
+                "item": "pixelmon:tr_gen8",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:water_gem",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:razz_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:nanab_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pinap_berry",
+                "weight": 50
+            },
+            {
+                "item": "pixelmon:pearl",
+                "weight": 20
+            },
+            {
+                "item": "pixelmon:big_pearl",
+                "weight": 10
+            },
+            {
+                "item": "pixelmon:water_stone",
+                "weight": 10
+            }
+        ]
+    }
+}

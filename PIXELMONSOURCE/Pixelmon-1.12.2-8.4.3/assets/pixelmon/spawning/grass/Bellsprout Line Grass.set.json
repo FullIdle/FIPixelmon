@@ -1,0 +1,70 @@
+{
+  "id": "Bellsprout Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bellsprout"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 2,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "jungles"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Weepinbell"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 21,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "jungles"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Victreebel"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "forests",
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

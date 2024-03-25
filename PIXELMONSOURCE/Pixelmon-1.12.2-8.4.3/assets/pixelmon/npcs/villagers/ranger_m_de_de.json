@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "ranger_m.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Förster Karl"
+    },
+    {
+      "name": "Förster Konrad"
+    },
+    {
+      "name": "Förster Schmitz"
+    },
+    {
+      "name": "Förster Richard"
+    },
+    {
+      "name": "Ursaring Georg"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Früher durchforstete ich die Wälder, doch heute bin ich meistens in der Stadt."
+        },
+        {
+          "text": "Der urbane Dschungel! Wie der Dschungel, nur halt urban."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich kenne jede pflanzliche und tierische Spezies."
+        },
+        {
+          "text": "Ach komm schon, frag mich aus!"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ob dus glaubst oder nicht, die Stadt braucht auch Förster."
+        },
+        {
+          "text": "Ein mieser Gärtner und Zack! Unkraut in der halben Stadt!"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Auch DU kannst Waldbränden vorbeugen!"
+        },
+        {
+          "text": "Überleg dir den Einsatz deiner Feuer Pokémon gut und verwende keine Feuer Attacken gegen Pflanzen und Käfer im Wald."
+        }
+      ]
+    }
+  ]
+}

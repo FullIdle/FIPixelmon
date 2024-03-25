@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:Tree" },
+    "blockpos=top,facing=north": { "model": "pixelmon:Tree" },
+		"blockpos=top,facing=south": { "model": "pixelmon:Tree" },
+		"blockpos=top,facing=east": { "model": "pixelmon:Tree" },
+		"blockpos=top,facing=west": { "model": "pixelmon:Tree" },
+    "blockpos=bottom,facing=north": { "model": "pixelmon:Tree" },
+		"blockpos=bottom,facing=south": { "model": "pixelmon:Tree" },
+		"blockpos=bottom,facing=east": { "model": "pixelmon:Tree" },
+		"blockpos=bottom,facing=west": { "model": "pixelmon:Tree" }
+  }
+}

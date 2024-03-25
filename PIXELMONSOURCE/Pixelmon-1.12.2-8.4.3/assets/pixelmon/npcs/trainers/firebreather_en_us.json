@@ -1,0 +1,207 @@
+{
+    "data": {
+        "trainerType": "FireBreather",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Flareon"
+        },
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Vulpix",
+            "form": 0
+        },
+        {
+            "name": "Vulpix",
+            "form": 0
+        },
+        {
+            "name": "Ninetales",
+            "form": 0
+        },
+        {
+            "name": "Numel"
+        },
+        {
+            "name": "Numel"
+        },
+        {
+            "name": "Camerupt"
+        },
+        {
+            "name": "Charmeleon"
+        },
+        {
+            "name": "Charizard"
+        },
+        {
+            "name": "Magmar"
+        },
+        {
+            "name": "Ponyta",
+            "form": 0
+        },
+        {
+            "name": "Rapidash",
+            "form": 0
+        },
+        {
+            "name": "Slugma"
+        },
+        {
+            "name": "Slugma"
+        },
+        {
+            "name": "Magcargo"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        },
+        {
+            "name": "Torkoal"
+        },
+        {
+            "name": "Pignite"
+        },
+        {
+            "name": "Emboar"
+        },
+        {
+            "name": "Magmortar"
+        },
+        {
+            "name": "Pansear"
+        },
+        {
+            "name": "Pansear"
+        },
+        {
+            "name": "Simisear"
+        },
+        {
+            "name": "Darumaka",
+            "form": 0
+        },
+        {
+            "name": "Darumaka",
+            "form": 0
+        },
+        {
+            "name": "Darmanitan",
+            "form": 0
+        },
+        {
+            "name": "Heatmor"
+        },
+        {
+            "name": "Pyroar"
+        },
+        {
+            "name": "Salandit"
+        },
+        {
+            "name": "Salazzle"
+        },
+        {
+            "name": "Turtonator"
+        },
+        {
+            "name": "Carkol"
+        },
+        {
+            "name": "Carkol"
+        },
+        {
+            "name": "Coalossal"
+        },
+        {
+            "name": "Sizzlipede"
+        },
+        {
+            "name": "Centiskorch"
+        },
+        {
+            "name": "Entei"
+        }
+    ],
+    "names": [
+        {
+            "name": "Greg"
+        },
+        {
+            "name": "Daniel"
+        },
+        {
+            "name": "Nick"
+        },
+        {
+            "name": "Shoru"
+        },
+        {
+            "name": "Nicholas"
+        },
+        {
+            "name": "Berter"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Jay"
+        },
+        {
+            "name": "Ike"
+        },
+        {
+            "name": "Yumi"
+        },
+        {
+            "name": "Leo"
+        },
+        {
+            "name": "Garett"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Fire?",
+            "win": "Fire!",
+            "lose": "Fire..."
+        },
+        {
+            "opening": "This is such a strange profession.",
+            "win": "But I sort of like it.",
+            "lose": "And I'm not fond of it.."
+        },
+        {
+            "opening": "Training my Pokémon is my passion.",
+            "win": "My passion burns brighter than ever!",
+            "lose": "My passion's burned out.."
+        }
+    ]
+}

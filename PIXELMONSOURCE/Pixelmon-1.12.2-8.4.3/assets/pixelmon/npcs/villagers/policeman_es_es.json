@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "policeman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Capitán Benny"
+        },
+        {
+            "name": "Inspector Kenny"
+        },
+        {
+            "name": "Comisario Lenny"
+        },
+        {
+            "name": "Cabo Vinnie"
+        },
+        {
+            "name": "Teniente Ronnie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Oye tú, no uses Excavar para entrar en las casas de la gente, ¿has entendido?"
+                },
+                {
+                    "text": "O usar Ladrón en otros entrenadores para robar. ¡Tienta mucho el nombre!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No estoy completamente de acuerdo con el negocio de dar dinero en los combates Pokémon."
+                },
+                {
+                    "text": "Suena un poco ilegal."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Malditos equipos criminales! Espero poder arrestarlos yo mismo."
+                },
+                {
+                    "text": "Pero nooooooo, un chaval siempre se nos adelanta. ¡Dejad a la policía hacer su trabajo!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Soy parte del sector K-9. Quiero mucho a mi Houndour."
+                },
+                {
+                    "text": "Persigue a los ladrones, olfatea cosas peligrosas, ella puede hacer de todo."
+                }
+            ]
+        }
+    ]
+}

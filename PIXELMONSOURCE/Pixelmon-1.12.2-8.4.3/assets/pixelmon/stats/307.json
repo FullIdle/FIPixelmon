@@ -1,0 +1,350 @@
+{
+  "pixelmonName": "Meditite",
+  "pokemon": "Meditite",
+  "form": 0,
+  "stats": {
+    "HP": 30,
+    "Attack": 40,
+    "Defence": 55,
+    "Speed": 60,
+    "SpecialAttack": 40,
+    "SpecialDefence": 55
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 13,
+  "spawnLevelRange": 18,
+  "baseExp": 91,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting",
+    "Psychic"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 11.2,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.6,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Medicham"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "PurePower",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bide"
+    ],
+    "4": [
+      "Meditate"
+    ],
+    "7": [
+      "Confusion"
+    ],
+    "9": [
+      "Detect"
+    ],
+    "12": [
+      "Endure"
+    ],
+    "15": [
+      "Feint"
+    ],
+    "17": [
+      "Force Palm"
+    ],
+    "20": [
+      "Hidden Power"
+    ],
+    "23": [
+      "Calm Mind"
+    ],
+    "25": [
+      "Mind Reader"
+    ],
+    "28": [
+      "High Jump Kick"
+    ],
+    "31": [
+      "Psych Up"
+    ],
+    "33": [
+      "Acupressure"
+    ],
+    "36": [
+      "Power Trick"
+    ],
+    "39": [
+      "Reversal"
+    ],
+    "41": [
+      "Recover"
+    ],
+    "44": [
+      "Counter"
+    ]
+  },
+  "tutorMoves": [
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Gravity",
+    "Helping Hand",
+    "Ice Punch",
+    "Low Kick",
+    "Magic Coat",
+    "Pain Split",
+    "Recycle",
+    "Role Play",
+    "Signal Beam",
+    "Snore",
+    "Telekinesis",
+    "Thunder Punch",
+    "Trick",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Bullet Punch",
+    "Drain Punch",
+    "Dynamic Punch",
+    "Fake Out",
+    "Fire Punch",
+    "Foresight",
+    "Guard Swap",
+    "Ice Punch",
+    "Power Swap",
+    "Psycho Cut",
+    "Quick Guard",
+    "Secret Power",
+    "Thunder Punch"
+  ],
+  "transferMoves": [
+    "Body Slam",
+    "Captivate",
+    "Double-Edge",
+    "Flash",
+    "Headbutt",
+    "Mega Kick",
+    "Mega Punch",
+    "Metronome",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Retaliate",
+    "Rock Smash",
+    "Seismic Toss",
+    "Strength",
+    "Swift",
+    "Vacuum Wave"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Flash",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Flash",
+    "Psych Up",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Focus Blast",
+    "Fling",
+    "Endure",
+    "Drain Punch",
+    "Recycle",
+    "Flash",
+    "Psych Up",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Focus Punch",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

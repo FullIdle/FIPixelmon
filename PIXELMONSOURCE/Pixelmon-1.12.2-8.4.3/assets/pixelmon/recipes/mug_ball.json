@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " XL",
+    " S "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:clay"
+    },
+    "L": {
+      "item": "minecraft:stone_slab",
+      "data": 0
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "pixelmon:poke_ball"
+    }
+  },
+  "result": {
+    "item": "pixelmon:mug_ball",
+    "count": 1
+  }
+}

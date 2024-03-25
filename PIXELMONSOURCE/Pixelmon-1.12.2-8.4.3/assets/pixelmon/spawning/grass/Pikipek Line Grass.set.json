@@ -1,0 +1,83 @@
+{
+  "id": "Pikipek Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pikipek"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 3,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Trumbeak"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 14,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Toucannon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 28,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rawst_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

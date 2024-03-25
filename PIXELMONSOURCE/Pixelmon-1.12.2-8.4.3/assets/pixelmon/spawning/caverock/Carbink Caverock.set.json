@@ -1,0 +1,22 @@
+{
+  "id": "Carbink Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Carbink"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 12,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

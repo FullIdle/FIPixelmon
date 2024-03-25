@@ -1,0 +1,51 @@
+{
+  "attackIndex": 462,
+  "attackName": "Cross Poison",
+  "attackType": "Poison",
+  "attackCategory": "PHYSICAL",
+  "basePower": 70,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    },
+    {
+      "type": "Poison",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Poison"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Acid Downpour",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

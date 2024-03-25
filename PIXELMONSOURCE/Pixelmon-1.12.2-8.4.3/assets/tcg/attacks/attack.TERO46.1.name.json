@@ -1,0 +1,19 @@
+{
+  "cardCode": "TERO46",
+  "attackNumber": 1,
+  "name": "attack.TERO46.1.name",
+  "energy": [
+    "WATER"
+  ],
+  "damage": 10,
+  "modifier": "Multiply",
+  "text": "attack.TERO46.1.text",
+  "effectsString": "FLIPS_MULTIPLY:2",
+  "effects": [
+    {
+      "flipCount": 2,
+      "type": "Exact",
+      "counter": 0
+    }
+  ]
+}

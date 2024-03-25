@@ -1,0 +1,220 @@
+{
+  "pixelmonName": "Marshadow",
+  "pokemon": "Marshadow",
+  "form": -1,
+  "stats": {
+    "HP": 90,
+    "Attack": 125,
+    "Defence": 80,
+    "Speed": 125,
+    "SpecialAttack": 90,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 120,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting",
+    "Ghost"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2,
+    "Speed": 1
+  },
+  "weight": 22.2,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.8,
+    "eye_height": 0.5
+  },
+  "evolutions": [],
+  "abilities": [
+    "Technician",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Copycat",
+      "Counter",
+      "Feint",
+      "Fire Punch",
+      "Ice Punch",
+      "Shadow Sneak",
+      "Thunder Punch"
+    ],
+    "9": [
+      "Role Play"
+    ],
+    "18": [
+      "Shadow Punch"
+    ],
+    "27": [
+      "Force Palm"
+    ],
+    "36": [
+      "Assurance"
+    ],
+    "45": [
+      "Sucker Punch"
+    ],
+    "54": [
+      "Drain Punch"
+    ],
+    "63": [
+      "Psych Up"
+    ],
+    "72": [
+      "Spectral Thief"
+    ],
+    "81": [
+      "Laser Focus"
+    ],
+    "90": [
+      "Endeavor"
+    ],
+    "99": [
+      "Close Combat"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching",
+    "Poltergeist",
+    "Skitter Smack"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Echoed Voice",
+    "Focus Punch",
+    "Frustration",
+    "Hidden Power",
+    "Jump Kick",
+    "Knock Off",
+    "Last Resort",
+    "Pursuit",
+    "Return",
+    "Rolling Kick",
+    "Smack Down",
+    "Snatch",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Low Kick",
+    "Agility",
+    "Substitute",
+    "Reversal",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Superpower",
+    "Blaze Kick",
+    "Bulk Up",
+    "Calm Mind",
+    "Close Combat",
+    "Aura Sphere",
+    "Poison Jab",
+    "Focus Blast",
+    "Zen Headbutt",
+    "Iron Head",
+    "Stone Edge",
+    "Grass Knot",
+    "Foul Play",
+    "Work Up",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "Bounce",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Drain Punch",
+    "Shadow Claw",
+    "Low Sweep",
+    "Round",
+    "Hex",
+    "Acrobatics",
+    "Phantom Force",
+    "False Swipe"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Low Sweep",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "False Swipe",
+    "Fling",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

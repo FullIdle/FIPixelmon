@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Dracovish",
+  "pokemon": "Dracovish",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 90,
+    "Defence": 100,
+    "SpecialAttack": 70,
+    "SpecialDefence": 80,
+    "Speed": 75
+  },
+  "catchRate": 45,
+  "malePercent": -1.0,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 177,
+  "baseFriendship": 50,
+  "types": [
+    "Water",
+    "Dragon"
+  ],
+  "height": 2.3,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.45
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.35,
+      "z": -0.15
+    }
+  },
+  "weight": 215.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 2.1,
+    "eye_height": 1.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "WaterAbsorb",
+    "StrongJaw",
+    "SandRush"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Water Gun"
+    ],
+    "7": [
+      "Protect"
+    ],
+    "14": [
+      "Brutal Swing"
+    ],
+    "21": [
+      "Ancient Power"
+    ],
+    "28": [
+      "Bite"
+    ],
+    "35": [
+      "Dragon Breath"
+    ],
+    "42": [
+      "Stomp"
+    ],
+    "49": [
+      "Super Fang"
+    ],
+    "56": [
+      "Crunch"
+    ],
+    "63": [
+      "Fishious Rend"
+    ],
+    "70": [
+      "Dragon Pulse"
+    ],
+    "77": [
+      "Dragon Rush"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Meteor Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Hydro Pump",
+    "Surf",
+    "Low Kick",
+    "Earthquake",
+    "Waterfall",
+    "Leech Life",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Dragon Pulse",
+    "Earth Power",
+    "Zen Headbutt",
+    "Iron Head",
+    "Stone Edge",
+    "Scald",
+    "Psychic Fangs",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Mega Kick",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Whirlpool",
+    "Facade",
+    "Dive",
+    "Rock Tomb",
+    "Rock Blast",
+    "Brine",
+    "Ice Fang",
+    "Round",
+    "Bulldoze",
+    "Brutal Swing",
+    "Stomping Tantrum"
+  ]
+}

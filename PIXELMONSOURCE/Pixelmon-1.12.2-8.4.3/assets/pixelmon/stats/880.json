@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Dracozolt",
+  "pokemon": "Dracozolt",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 100,
+    "Defence": 90,
+    "SpecialAttack": 80,
+    "SpecialDefence": 70,
+    "Speed": 75
+  },
+  "catchRate": 45,
+  "malePercent": -1.0,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 177,
+  "baseFriendship": 50,
+  "types": [
+    "Electric",
+    "Dragon"
+  ],
+  "height": 1.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.45
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.45
+    }
+  },
+  "weight": 190.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.4,
+    "eye_height": 1.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "VoltAbsorb",
+    "Hustle",
+    "SandRush"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Thunder Shock"
+    ],
+    "7": [
+      "Charge"
+    ],
+    "14": [
+      "Aerial Ace"
+    ],
+    "21": [
+      "Ancient Power"
+    ],
+    "28": [
+      "Pluck"
+    ],
+    "35": [
+      "Dragon Tail"
+    ],
+    "42": [
+      "Stomp"
+    ],
+    "49": [
+      "Slam"
+    ],
+    "56": [
+      "Discharge"
+    ],
+    "63": [
+      "Bolt Beak"
+    ],
+    "70": [
+      "Dragon Pulse"
+    ],
+    "77": [
+      "Dragon Rush"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Meteor Beam",
+    "Rising Voltage"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Low Kick",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Fire Blast",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Taunt",
+    "Dragon Claw",
+    "Dragon Pulse",
+    "Earth Power",
+    "Stone Edge",
+    "Electro Ball",
+    "Wild Charge",
+    "High Horsepower"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Thunder Punch",
+    "Hyper Beam",
+    "Giga Impact",
+    "Fire Spin",
+    "Thunder Wave",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Rock Tomb",
+    "Rock Blast",
+    "Thunder Fang",
+    "Fire Fang",
+    "Round",
+    "Bulldoze",
+    "Brutal Swing",
+    "Stomping Tantrum",
+    "Breaking Swipe"
+  ]
+}

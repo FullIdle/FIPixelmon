@@ -1,0 +1,70 @@
+{
+    "skins": [
+        {
+            "filename": "pirategrunt1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Pirate grunt"
+        },
+        {
+            "name": "Pegleg Pete"
+        },
+        {
+            "name": "Cannonball"
+        },
+        {
+            "name": "Calico Jack"
+        },
+        {
+            "name": "Scuz"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I was fired out of the cannon when we ran out of cannonballs."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Have you seen my parrot?"
+                },
+                {
+                    "text": "I sat him down somewhere, and I can't remember where I put 'em."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "A smooth sea never made a skilled sailor."
+                },
+                {
+                    "text": "But I'm a pirate, so I don't know how that applys to me."
+                }
+            ]
+        },
+		{
+            "lines": [
+                {
+                    "text": "You're about to walk the plank!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Not all pirates have eye patches, peg legs, and rotten teeth."
+                },
+                {
+                    "text": "I go to the dentist twice a year!"
+                }
+            ]
+        }
+    ]
+}

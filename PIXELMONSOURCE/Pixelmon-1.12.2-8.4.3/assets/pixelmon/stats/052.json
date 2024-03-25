@@ -1,0 +1,763 @@
+{
+  "pixelmonName": "Meowth",
+  "pokemon": "Meowth",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 35,
+    "Speed": 90,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 18,
+  "baseExp": 69,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 4.2,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.54,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 28,
+      "to": {
+        "name": "Persian",
+        "form": 0
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Power Gem"
+      ]
+    }
+  ],
+  "abilities": [
+    "Pickup",
+    "Technician",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out",
+      "Growl"
+    ],
+    "4": [
+      "Feint"
+    ],
+    "8": [
+      "Scratch"
+    ],
+    "12": [
+      "Pay Day"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Taunt"
+    ],
+    "24": [
+      "Assurance"
+    ],
+    "29": [
+      "Fury Swipes"
+    ],
+    "32": [
+      "Screech"
+    ],
+    "36": [
+      "Slash"
+    ],
+    "40": [
+      "Nasty Plot"
+    ],
+    "44": [
+      "Play Rough"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out"
+  ],
+  "eggMoves": [
+    "Covet",
+    "Flail",
+    "Hypnosis",
+    "Last Resort",
+    "Spite",
+    "Tail Whip"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Assist",
+    "Bide",
+    "Bubble Beam",
+    "Captivate",
+    "Confide",
+    "Curse",
+    "Cut",
+    "Defense Curl",
+    "Detect",
+    "Double Team",
+    "Double-Edge",
+    "Dream Eater",
+    "Echoed Voice",
+    "Feint Attack",
+    "Flash",
+    "Frustration",
+    "Happy Hour",
+    "Headbutt",
+    "Hidden Power",
+    "Hone Claws",
+    "Knock Off",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Night Slash",
+    "Nightmare",
+    "Odor Sleuth",
+    "Petal Dance",
+    "Psych Up",
+    "Punishment",
+    "Rage",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Sing",
+    "Skull Bash",
+    "Snatch",
+    "Swagger",
+    "Take Down",
+    "Torment",
+    "Toxic",
+    "Water Gun",
+    "Water Pulse",
+    "Zap Cannon"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Thunderbolt",
+    "Thunder",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Uproar",
+    "Taunt",
+    "Hyper Voice",
+    "Dark Pulse",
+    "Seed Bomb",
+    "Nasty Plot",
+    "Gunk Shot",
+    "Foul Play",
+    "Work Up",
+    "Play Rough",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Pay Day",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Shadow Claw",
+    "Round",
+    "Retaliate"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Payback",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Flash",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Snatch",
+    "Endure",
+    "Shadow Claw",
+    "Payback",
+    "Flash",
+    "Psych Up",
+    "Captivate",
+    "Dark Pulse",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Snatch"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Zap Cannon",
+    "Psych Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Icy Wind",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Iron Tail",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Defense Curl",
+    "Dream Eater",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Nightmare"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Water Gun",
+    "Pay Day",
+    "Rage",
+    "Thunderbolt",
+    "Thunder",
+    "Mimic",
+    "Double Team",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Rest",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 40,
+        "Attack": 35,
+        "Defence": 35,
+        "Speed": 90,
+        "SpecialAttack": 50,
+        "SpecialDefence": 40
+      },
+      "types": [
+        "Dark"
+      ],
+      "evolutions": [
+        {
+          "to": {
+            "name": "Persian",
+            "form": 1
+          },
+          "conditions": [
+            {
+              "friendship": 220,
+              "evoConditionType": "friendship"
+            }
+          ],
+          "evoType": "leveling",
+          "moves": [
+            "Power Gem"
+          ]
+        }
+      ],
+      "abilities": [
+        "Pickup",
+        "Technician",
+        "Rattled"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Fake Out",
+          "Growl"
+        ],
+        "4": [
+          "Feint"
+        ],
+        "8": [
+          "Scratch"
+        ],
+        "12": [
+          "Pay Day"
+        ],
+        "16": [
+          "Bite"
+        ],
+        "20": [
+          "Taunt"
+        ],
+        "24": [
+          "Assurance"
+        ],
+        "29": [
+          "Fury Swipes"
+        ],
+        "32": [
+          "Screech"
+        ],
+        "36": [
+          "Night Slash"
+        ],
+        "40": [
+          "Nasty Plot"
+        ],
+        "44": [
+          "Play Rough"
+        ]
+      },
+      "eggMoves": [
+        "Covet",
+        "Flail",
+        "Flatter",
+        "Hypnosis",
+        "Parting Shot",
+        "Spite"
+      ],
+      "trMoves": [
+        "Body Slam",
+        "Thunderbolt",
+        "Thunder",
+        "Amnesia",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Iron Tail",
+        "Shadow Ball",
+        "Uproar",
+        "Taunt",
+        "Hyper Voice",
+        "Dark Pulse",
+        "Seed Bomb",
+        "Nasty Plot",
+        "Gunk Shot",
+        "Foul Play",
+        "Work Up",
+        "Play Rough",
+        "Throat Chop"
+      ],
+      "tmMoves8": [
+        "Pay Day",
+        "Dig",
+        "Screech",
+        "Rest",
+        "Thief",
+        "Snore",
+        "Protect",
+        "Icy Wind",
+        "Charm",
+        "Attract",
+        "Rain Dance",
+        "Sunny Day",
+        "Facade",
+        "Swift",
+        "U-turn",
+        "Payback",
+        "Assurance",
+        "Shadow Claw",
+        "Round",
+        "Retaliate"
+      ],
+      "tmMoves7": [
+        "Work Up",
+        "Toxic",
+        "Hidden Power",
+        "Sunny Day",
+        "Taunt",
+        "Protect",
+        "Rain Dance",
+        "Frustration",
+        "Thunderbolt",
+        "Thunder",
+        "Return",
+        "Shadow Ball",
+        "Double Team",
+        "Aerial Ace",
+        "Torment",
+        "Facade",
+        "Rest",
+        "Attract",
+        "Thief",
+        "Round",
+        "Echoed Voice",
+        "Quash",
+        "Embargo",
+        "Shadow Claw",
+        "Payback",
+        "Psych Up",
+        "Dream Eater",
+        "Swagger",
+        "Sleep Talk",
+        "U-turn",
+        "Substitute",
+        "Dark Pulse",
+        "Confide"
+      ],
+      "transferMoves": [
+        "Aerial Ace",
+        "Assist",
+        "Captivate",
+        "Confide",
+        "Double Team",
+        "Dream Eater",
+        "Echoed Voice",
+        "Embargo",
+        "Feint Attack",
+        "Frustration",
+        "Headbutt",
+        "Hidden Power",
+        "Knock Off",
+        "Last Resort",
+        "Psych Up",
+        "Punishment",
+        "Quash",
+        "Return",
+        "Shock Wave",
+        "Slash",
+        "Snatch",
+        "Swagger",
+        "Torment",
+        "Toxic",
+        "Water Pulse"
+      ],
+      "tutorMoves": [
+        "Lash Out"
+      ]
+    },
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 50,
+        "Attack": 65,
+        "Defence": 55,
+        "Speed": 40,
+        "SpecialAttack": 40,
+        "SpecialDefence": 40
+      },
+      "types": [
+        "Steel"
+      ],
+      "evYields": {
+        "Attack": 1
+      },
+      "weight": 7.5,
+      "evolutions": [
+        {
+          "level": 28,
+          "to": {
+            "name": "Perrserker"
+          },
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Iron Head"
+          ]
+        }
+      ],
+      "abilities": [
+        "Pickup",
+        "ToughClaws",
+        "Unnerve"
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Fake Out",
+          "Growl"
+        ],
+        "4": [
+          "Hone Claws"
+        ],
+        "8": [
+          "Scratch"
+        ],
+        "12": [
+          "Pay Day"
+        ],
+        "16": [
+          "Metal Claw"
+        ],
+        "20": [
+          "Taunt"
+        ],
+        "24": [
+          "Swagger"
+        ],
+        "29": [
+          "Fury Swipes"
+        ],
+        "32": [
+          "Screech"
+        ],
+        "36": [
+          "Slash"
+        ],
+        "40": [
+          "Metal Sound"
+        ],
+        "44": [
+          "Thrash"
+        ]
+      },
+      "tutorMoves": [
+        "Lash Out",
+        "Steel Beam"
+      ],
+      "eggMoves": [
+        "Covet",
+        "Curse",
+        "Double-Edge",
+        "Flail",
+        "Night Slash",
+        "Spite"
+      ],
+      "trMoves": [
+        "Swords Dance",
+        "Body Slam",
+        "Thunderbolt",
+        "Thunder",
+        "Amnesia",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Iron Tail",
+        "Crunch",
+        "Shadow Ball",
+        "Uproar",
+        "Taunt",
+        "Hyper Voice",
+        "Iron Defense",
+        "Gyro Ball",
+        "Dark Pulse",
+        "Seed Bomb",
+        "Nasty Plot",
+        "Gunk Shot",
+        "Iron Head",
+        "Foul Play",
+        "Work Up",
+        "Play Rough",
+        "Throat Chop"
+      ],
+      "tmMoves8": [
+        "Pay Day",
+        "Dig",
+        "Screech",
+        "Rest",
+        "Thief",
+        "Snore",
+        "Protect",
+        "Attract",
+        "Rain Dance",
+        "Sunny Day",
+        "Facade",
+        "U-turn",
+        "Payback",
+        "Assurance",
+        "Shadow Claw",
+        "Round",
+        "Retaliate"
+      ]
+    },
+    "3": {
+      "bounding_box": {
+        "width": 0.4,
+        "height": 1.0,
+        "eye_height": 0.9
+      }
+    }
+  }
+}

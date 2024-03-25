@@ -1,0 +1,72 @@
+{
+    "skins": [
+        { 
+            "filename": "richboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Aldebert"
+        },
+        {
+            "name": "Pierre-Marie"
+        },
+        {
+            "name": "Charles-Antoine"
+        },
+        {
+            "name": "Jean-Eudes"
+        },
+        {
+            "name": "Philibert"
+        },
+        {
+            "name": "Armand"
+        },
+        {
+            "name": "Nicolas d'Aulnay des Charentes du Ventou"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mes Pokémon méritent le meilleur. Si l'un d'eux a une égratignure, je lui donne une Guérison."
+                },
+                {
+                    "text": "Je n'exige rien de moins."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai dépensé tellement d'argent en Pokéballs que mes Pokémon doivent être les plus puissants."
+                },
+                {
+                    "text": "Tout placement intelligent génère un retour sur investissement. Je vous défie de me prouver que j'ai tort."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Supposons que je ne prenne pas la peine d'aller à la chasse aux Pokémon, et que je rachète le Pokédex complet d'un enfant plus démuni."
+                },
+                {
+                    "text": "Deviendrais-je alors un Dresseur accompli, et ce, sans effort ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Père m'a envoyé faire le tour du monde pour faire de moi un Dresseur chevronné."
+                },
+                {
+                    "text": "Jusqu'ici, j'ai perdu tous mes combats, mais je suis quand même plus riche que vous. Hm !"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 203,
+  "setId": 3,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 75,
+  "code": "FOSS37",
+  "name": "card.FOSS37.name",
+  "description": "",
+  "previousPokemonId": 74,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS37",
+      "attackNumber": 1,
+      "name": "attack.FOSS37.1.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.FOSS37.1.text",
+      "effects": [
+        "HARDEN:30"
+      ]
+    },
+    {
+      "cardCode": "FOSS37",
+      "attackNumber": 2,
+      "name": "attack.FOSS37.2.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING",
+        "COLORLESS"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

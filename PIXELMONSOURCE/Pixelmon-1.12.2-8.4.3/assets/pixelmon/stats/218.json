@@ -1,0 +1,300 @@
+{
+  "pixelmonName": "Slugma",
+  "pokemon": "Slugma",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 40,
+    "Defence": 40,
+    "Speed": 20,
+    "SpecialAttack": 70,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 32,
+  "baseExp": 78,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 35.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.7,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 38,
+      "to": {
+        "name": "Magcargo"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Shell Smash"
+      ]
+    }
+  ],
+  "abilities": [
+    "MagmaArmor",
+    "FlameBody",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Smog",
+      "Yawn"
+    ],
+    "6": [
+      "Ember"
+    ],
+    "8": [
+      "Rock Throw"
+    ],
+    "13": [
+      "Harden"
+    ],
+    "15": [
+      "Incinerate"
+    ],
+    "20": [
+      "Clear Smog"
+    ],
+    "22": [
+      "Ancient Power"
+    ],
+    "27": [
+      "Flame Burst"
+    ],
+    "29": [
+      "Rock Slide"
+    ],
+    "34": [
+      "Lava Plume"
+    ],
+    "36": [
+      "Amnesia"
+    ],
+    "41": [
+      "Body Slam"
+    ],
+    "43": [
+      "Recover"
+    ],
+    "48": [
+      "Flamethrower"
+    ],
+    "50": [
+      "Earth Power"
+    ]
+  },
+  "tutorMoves": [
+    "After You",
+    "Earth Power",
+    "Heat Wave",
+    "Iron Defense",
+    "Pain Split",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Curse",
+    "Earth Power",
+    "Guard Swap",
+    "Heat Wave",
+    "Inferno",
+    "Memento",
+    "Rollout",
+    "Smokescreen",
+    "Spit Up",
+    "Stockpile",
+    "Swallow"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Defense Curl",
+    "Double-Edge",
+    "Endure",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Rock Smash",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Will-O-Wisp",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat",
+    "Endure",
+    "Will-O-Wisp",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Rollout",
+    "Toxic",
+    "Rock Smash",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Fire Blast",
+    "Defense Curl",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

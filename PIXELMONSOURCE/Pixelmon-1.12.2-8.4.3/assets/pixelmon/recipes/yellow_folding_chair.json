@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WWW",
+    " S ",
+    "S S"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wool",
+      "data": 4
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pixelmon:yellow_folding_chair",
+    "count": 1
+  }
+}

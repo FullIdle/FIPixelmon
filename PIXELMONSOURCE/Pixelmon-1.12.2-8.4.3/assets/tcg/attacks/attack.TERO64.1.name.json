@@ -1,0 +1,21 @@
+{
+  "cardCode": "TERO64",
+  "attackNumber": 1,
+  "name": "attack.TERO64.1.name",
+  "energy": [
+    "FIRE",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.TERO64.1.text",
+  "effectsString": "SELF_DISCARD:FIRE:1",
+  "effects": [
+    {
+      "onMe": true,
+      "energy": "FIRE",
+      "count": 1,
+      "needCoinSide": null
+    }
+  ]
+}

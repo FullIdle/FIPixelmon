@@ -1,0 +1,76 @@
+{
+    "skins": [
+        { 
+            "filename": "scientist_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Adam"
+        },
+        {
+            "name": "Archimedes"
+        },
+        {
+            "name": "Riff"
+        },
+        {
+            "name": "Theodore \"Sei Occhi\""
+        },
+        {
+            "name": "Cornelius"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I progressi tecnologici sono affascinanti! A volte parlo con l'orecchio di mia moglie."
+                },
+                {
+                    "text": "...Amore? Perché le persone con cui parlo sono sempre sorprese?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Attualmente sto studiando l'albinismo epidermico deviato in Pokémon!"
+                },
+                {
+                    "text": "Detti anche \"Cromatici\" per gli ignoranti."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Questo camice da laboratorio non è molto comodo, ma cos'altro posso indossare per fare ricerche?"
+                },
+                {
+                    "text": "Pantaloncini?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il Pokédex dice che la madre di Cubone è morta - ma se OGNI madre di Cubone fosse morta..."
+                },
+                {
+                    "text": "Non ha senso, ecco dove voglio arrivare!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La mia bambina vuole un Leafeon. Non ho il coraggio di dirle che una Pietra Foglia non funzionerà."
+                },
+                {
+                    "text": "Dovrei cercare perché è così..."
+                }
+            ]
+        }
+    ]
+}

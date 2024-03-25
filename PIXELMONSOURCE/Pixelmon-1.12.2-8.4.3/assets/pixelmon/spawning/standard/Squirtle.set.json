@@ -1,0 +1,38 @@
+{
+  "id": "Squirtle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Squirtle"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:beaches",
+          "gravel_beach",
+          "white_beach",
+          "rw_bombona_beach"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 10.0
+    }
+  ]
+}

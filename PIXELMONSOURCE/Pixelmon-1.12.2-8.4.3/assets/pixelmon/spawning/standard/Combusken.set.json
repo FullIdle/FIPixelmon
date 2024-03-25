@@ -1,0 +1,25 @@
+{
+  "id": "Combusken",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Combusken"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "savanna"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

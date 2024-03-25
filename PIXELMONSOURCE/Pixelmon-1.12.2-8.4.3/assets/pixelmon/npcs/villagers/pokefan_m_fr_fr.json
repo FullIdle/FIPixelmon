@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "pokefan_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Amadeus"
+        },
+        {
+            "name": "Ren"
+        },
+        {
+            "name": "Kealoha"
+        },
+        {
+            "name": "Carwyn"
+        },
+        {
+            "name": "Lubos"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Le dernier numéro du mensuel Lippouti sort aujourd'hui !"
+                },
+                {
+                    "text": "Il me le faut ! J'ai intérêt à me dépêcher de l'acheter avant qu'il soit en rupture de stock!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je viens de remporter une enchère sur un set de PokéPeluches."
+                },
+                {
+                    "text": "Bientôt, j'aurai terminé ma collection!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai hâte que mon fiston grandisse."
+                },
+                {
+                    "text": "Je lui ai fait un costume de Pikachu mais il est un peu large, pour le moment."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ma femme et moi, on adooooore les Pokémon."
+                },
+                {
+                    "text": "Ca énerve les gens quand on en parle pendant trop longtemps. Pff!"
+                }
+            ]
+        }
+    ]
+}

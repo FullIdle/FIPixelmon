@@ -1,0 +1,37 @@
+{
+    "skins": [
+        { 
+            "filename": "fisherman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Fisherman Joe"
+        },
+        {
+            "name": "Fred Fisher"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Shh! Don't scare off the fish!"
+                },
+                {
+                    "text": "Ah, Pokémon catching, are you? I prefer fish myself."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Do you know of any good lures? Apricorns don't work at all."
+                },
+                {
+                    "text": "I like to catch them and throw them back again."
+                }
+            ]
+        }
+    ]
+}

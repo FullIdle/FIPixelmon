@@ -1,0 +1,44 @@
+{
+  "id": 304,
+  "setId": 4,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 19,
+  "code": "TERO66",
+  "name": "card.TERO66.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO66",
+      "attackNumber": 1,
+      "name": "attack.TERO66.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": "Plus",
+      "text": "attack.TERO66.1.text",
+      "effects": [
+        "HEAD-OPP_DAMAGE:10"
+      ]
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "Trickery"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "Skiddo Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Skiddo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 19,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Skiddo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 19,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "ice_flats"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Gogoat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Gogoat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "ice_flats"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

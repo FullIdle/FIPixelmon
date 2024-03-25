@@ -1,0 +1,32 @@
+{
+  "id": "Vaporeon Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vaporeon"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2.5,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 7.0
+    }
+  ]
+}

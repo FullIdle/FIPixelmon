@@ -1,0 +1,24 @@
+{
+  "cardCode": "BASE16",
+  "attackNumber": 1,
+  "name": "attack.BASE16.1.name",
+  "energy": [
+    "LIGHTNING",
+    "LIGHTNING",
+    "LIGHTNING",
+    "COLORLESS"
+  ],
+  "damage": 60,
+  "modifier": null,
+  "text": "attack.BASE16.1.text",
+  "effectsString": "TAIL-SELF_DAMAGE:30",
+  "effects": [
+    {
+      "onMe": true,
+      "location": "Active",
+      "count": -1,
+      "amount": 30,
+      "needCoinSide": "Tail"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "attackIndex": 334,
+  "attackName": "Nature Power",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "NaturePower"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Nature Power",
+      "basePower": 0,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+    "data": {
+        "trainerType": "Miner",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Roggenrola"
+        },
+        {
+            "name": "Graveler"
+        },
+        {
+            "name": "Rhyhorn"
+        },
+        {
+            "name": "Dwebble"
+        },
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Cranidos"
+        },
+        {
+            "name": "Aron"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mac"
+        },
+        {
+            "name": "George"
+        },
+        {
+            "name": "Lucas"
+        },
+        {
+            "name": "Rocky"
+        },
+        {
+            "name": "Benjamine"
+        },
+        {
+            "name": "Claude"
+        },
+        {
+            "name": "Jo"
+        },
+        {
+            "name": "Louis"
+        },
+        {
+            "name": "Johanne"
+        },
+        {
+            "name": "Haruto"
+        },
+        {
+            "name": "Rui"
+        },
+        {
+            "name": "Pierre"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Mes rock-types Pokémons sont super forts!",
+            "win": "Je vous avez dit qu'ils etaitent forts!",
+            "lose": "Pas tant forts, alors..."
+        },
+        {
+            "opening": "J'ai trainé mes rock types à faire face à tout.",
+            "win": "Ils ont fait face à les votres!",
+            "lose": "Les votres étaitent plus durables, alors!"
+        },
+        {
+            "opening": "Croyez-vous que vous êtes capable à vaincre un trainer rock-type, hien?",
+            "win": "Pas encore! Trainez plus!",
+            "lose": "Je suppose que vous pouvez..."
+        },
+        {
+            "opening": "Donnez-moi un rock-type qu'un type electrique n'importe quel jour!",
+            "win": "Mes rock-types sont les meilleurs!",
+            "lose": "Hmm. On ne peut pas gagner tout..."
+        },
+        {
+            "opening": "Mes Pokémons rock-types ne sont pas timides, comme les autres.",
+            "win": "Bien fait, mais je vous avez prevu.",
+            "lose": "Moi, je suis timide! Mes pauvres Pokémons!"
+        }
+    ]
+}

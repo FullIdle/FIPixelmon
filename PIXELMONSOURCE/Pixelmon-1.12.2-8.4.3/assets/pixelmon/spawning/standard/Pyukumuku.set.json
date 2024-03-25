@@ -1,0 +1,60 @@
+{
+  "id": "Pyukumuku",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pyukumuku"
+      },
+      "stringLocationTypes": [
+        "Seafloor",
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "ocean"
+        ]
+      },
+      "rarity": 200.0
+    },
+    {
+      "spec": {
+        "name": "Pyukumuku",
+        "form": 107
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Pyukumuku",
+        "form": 102
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:infinite_ocean"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

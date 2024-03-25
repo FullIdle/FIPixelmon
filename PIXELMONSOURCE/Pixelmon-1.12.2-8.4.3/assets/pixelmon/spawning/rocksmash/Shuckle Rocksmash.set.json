@@ -1,0 +1,22 @@
+{
+  "id": "Shuckle Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shuckle"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 20,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

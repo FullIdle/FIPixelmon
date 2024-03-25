@@ -1,0 +1,25 @@
+{
+  "id": "Vigoroth",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vigoroth"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

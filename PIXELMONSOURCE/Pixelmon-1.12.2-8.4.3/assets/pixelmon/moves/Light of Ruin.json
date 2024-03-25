@@ -1,0 +1,50 @@
+{
+  "attackIndex": 593,
+  "attackName": "Light of Ruin",
+  "attackType": "Fairy",
+  "attackCategory": "SPECIAL",
+  "basePower": 140,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "percentRecoil": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 0.45,
+				"speed": 0.7
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fairium_z",
+      "attackName": "Twinkle Tackle",
+      "basePower": 200,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

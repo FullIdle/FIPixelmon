@@ -1,0 +1,27 @@
+{
+  "id": "Dragalge",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dragalge"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 48,
+      "maxLevel": 64,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "deep_ocean",
+          "kelp_forest"
+        ],
+        "maxY": 40
+      },
+      "rarity": 5.0
+    }
+  ]
+}

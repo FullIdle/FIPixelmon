@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TS",
+    "ST"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    "T": {
+      "item": "pixelmon:temple_block"
+    }
+  },
+  "result": {
+    "item": "pixelmon:ruins_wall",
+    "count": 4
+  }
+}

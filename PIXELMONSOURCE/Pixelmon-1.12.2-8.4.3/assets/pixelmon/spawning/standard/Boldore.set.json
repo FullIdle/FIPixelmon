@@ -1,0 +1,61 @@
+{
+  "id": "Boldore",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Boldore"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_savanna",
+          "mutated_savanna_rock",
+          "mesas",
+          "ultra_deep_sea"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Boldore"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 8.0
+    }
+  ]
+}

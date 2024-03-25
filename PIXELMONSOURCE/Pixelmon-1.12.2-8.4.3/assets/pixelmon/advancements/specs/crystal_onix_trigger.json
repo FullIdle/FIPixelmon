@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/095-crystal\"}"
+		},
+		"title": {
+			"translate": "advancements.crystal_onix.title"
+		},
+		"description": {
+			"translate": "advancements.crystal_onix.description"
+		},
+		"hidden": true
+	},
+    "parent" : "pixelmon:specs/spec_trigger",
+	"criteria": {
+		"crystal_onix_spec_trigger": {
+			"trigger": "pixelmon:spec_trigger",
+			"conditions" : {
+				"spec" : "f:110 Onix"
+			}
+		}
+	}
+}

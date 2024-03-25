@@ -1,0 +1,27 @@
+{
+  "id": "Komala",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Komala"
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "eucalyptus_forest"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

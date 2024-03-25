@@ -1,0 +1,52 @@
+{
+  "attackIndex": 212,
+  "attackName": "Rapid Spin",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 50,
+  "ppBase": 40,
+  "ppMax": 64,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "RapidSpin"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "tube",
+				"texture": "SPIRAL",
+				"rgb": [255, 255, 255],
+				"power": 25,
+				"scale": 0.1,
+				"radius": 0.9,
+				"conical": false
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

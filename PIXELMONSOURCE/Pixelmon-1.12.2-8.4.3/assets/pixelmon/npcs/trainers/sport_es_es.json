@@ -1,0 +1,66 @@
+{
+    "data": {
+        "trainerType": "Sport",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Sawk"
+        },
+        {
+            "name": "Throh"
+        },
+        {
+            "name": "Golem"
+        },
+        {
+            "name": "Passimian"
+        },
+        {
+            "name": "Oricorio",
+			"form": 1
+        },
+        {
+            "name": "Braviary"
+        },
+        {
+            "name": "Hariyama"
+        }
+    ],
+    "names": [
+        {
+            "name": "Beckham"
+        },
+		{
+			"name": "Rooney"
+		},
+		{
+			"name": "Messi"
+		},
+		{
+			"name": "Giggs"
+		},
+		{
+			"name": "Flintoff"
+		},
+		{
+			"name": "Redknapp"
+		}
+    ],
+    "chat": [
+        {
+            "opening": "Hike 1, Hike 2, ¡¡¡HIKE!!!",
+            "win": "¡¡¡¡¡TOUCHDOWN!!!!!",
+            "lose": "¡Buena jugada!"
+        },
+        {
+            "opening": "¡Adoro mis combates tanto como el fútbol!",
+            "win": "¡Mi devoción por el fútbol me dio el poder para ganar!",
+            "lose": "Parece que mi devoción por el fútbol no fue suficiente."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+  "attackIndex": 244,
+  "attackName": "Mud-Slap",
+  "attackType": "Ground",
+  "attackCategory": "SPECIAL",
+  "basePower": 20,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Accuracy",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 0.7,
+				"speed": 0.7
+			},
+			"2": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"segments": 6,
+				"power": 4,
+				"scale": 0.4,
+				"speed": 0.7
+			}
+			
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "groundium_z",
+      "attackName": "Tectonic Rage",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "engineer.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Joe"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "¡Bienvenido a nuestra zona de trabajo!"
+        },
+        {
+          "text": "¡Nuestro Líder de gimnasio está constantemente construyendo cosas!"
+        }
+      ]
+    }
+  ]
+}

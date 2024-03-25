@@ -1,0 +1,27 @@
+{
+  "id": "Inkay",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Inkay"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

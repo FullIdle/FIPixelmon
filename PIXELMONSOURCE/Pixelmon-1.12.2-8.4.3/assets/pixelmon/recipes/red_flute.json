@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "RPP",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "pixelmon:red_shard2"
+    },
+    "P": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "minecraft:reeds"
+    }
+  },
+  "result": {
+    "item": "pixelmon:red_flute",
+    "count": 1
+  }
+}

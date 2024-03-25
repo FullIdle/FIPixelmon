@@ -1,0 +1,27 @@
+{
+  "id": "Falinks Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Falinks"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "birches"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

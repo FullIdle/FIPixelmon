@@ -1,0 +1,27 @@
+{
+  "id": "Pincurchin",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pincurchin"
+      },
+      "stringLocationTypes": [
+        "Seafloor",
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "beaches",
+          "ocean"
+        ]
+      },
+      "rarity": 150.0
+    }
+  ]
+}

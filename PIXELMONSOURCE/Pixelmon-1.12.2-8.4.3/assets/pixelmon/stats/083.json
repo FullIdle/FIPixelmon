@@ -1,0 +1,511 @@
+{
+  "pixelmonName": "Farfetchd",
+  "pokemon": "Farfetchd",
+  "form": 0,
+  "stats": {
+    "HP": 52,
+    "Attack": 90,
+    "Defence": 55,
+    "Speed": 60,
+    "SpecialAttack": 58,
+    "SpecialDefence": 62
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 26,
+  "baseExp": 132,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 15.0,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.65,
+    "eye_height": 0.45
+  },
+  "evolutions": [],
+  "abilities": [
+    "KeenEye",
+    "InnerFocus",
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Sand Attack"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "10": [
+      "Fury Cutter"
+    ],
+    "15": [
+      "Cut"
+    ],
+    "20": [
+      "Aerial Ace"
+    ],
+    "25": [
+      "Air Cutter"
+    ],
+    "30": [
+      "Knock Off"
+    ],
+    "35": [
+      "False Swipe"
+    ],
+    "40": [
+      "Slash"
+    ],
+    "45": [
+      "Swords Dance"
+    ],
+    "50": [
+      "Air Slash"
+    ],
+    "55": [
+      "Leaf Blade"
+    ],
+    "60": [
+      "Agility"
+    ],
+    "65": [
+      "Brave Bird"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Covet",
+    "Curse",
+    "Feather Dance",
+    "Feint",
+    "Final Gambit",
+    "First Impression",
+    "Flail",
+    "Gust",
+    "Night Slash",
+    "Quick Attack",
+    "Roost",
+    "Simple Beam",
+    "Sky Attack"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Captivate",
+    "Confide",
+    "Defog",
+    "Detect",
+    "Double-Edge",
+    "Double Team",
+    "Foresight",
+    "Frustration",
+    "Fury Attack",
+    "Headbutt",
+    "Hidden Power",
+    "Laser Focus",
+    "Last Resort",
+    "Mimic",
+    "Mirror Move",
+    "Mud-Slap",
+    "Natural Gift",
+    "Ominous Wind",
+    "Pluck",
+    "Psych Up",
+    "Rage",
+    "Razor Leaf",
+    "Razor Wind",
+    "Reflect",
+    "Return",
+    "Secret Power",
+    "Skull Bash",
+    "Swagger",
+    "Tailwind",
+    "Take Down",
+    "Toxic",
+    "Trump Card",
+    "Twister",
+    "Whirlwind",
+    "Wish",
+    "Yawn"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Agility",
+    "Focus Energy",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Iron Tail",
+    "Uproar",
+    "Heat Wave",
+    "Leaf Blade",
+    "Close Combat",
+    "Poison Jab",
+    "Brave Bird",
+    "Work Up",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Solar Blade",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Steel Wing",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Revenge",
+    "U-turn",
+    "Round",
+    "Acrobatics",
+    "Retaliate",
+    "False Swipe",
+    "Air Slash",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "False Swipe",
+    "Brutal Swing",
+    "Acrobatics",
+    "Swords Dance",
+    "Fly",
+    "Psych Up",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "False Swipe",
+    "Acrobatics",
+    "Retaliate",
+    "Swords Dance",
+    "Psych Up",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Acrobatics",
+    "Retaliate",
+    "Swords Dance",
+    "Psych Up",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing",
+    "Roost",
+    "False Swipe",
+    "Endure",
+    "Swords Dance",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Psych Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing"
+  ],
+  "tmMoves1": [
+    "Razor Wind",
+    "Swords Dance",
+    "Whirlwind",
+    "Toxic",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Swift",
+    "Skull Bash",
+    "Rest",
+    "Substitute"
+  ],
+  "forms": {
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 52,
+        "Attack": 95,
+        "Defence": 55,
+        "Speed": 58,
+        "SpecialAttack": 62,
+        "SpecialDefence": 55
+      },
+      "types": [
+        "Fighting"
+      ],
+      "abilities": [
+        "Steadfast",
+        null,
+        "Scrappy"
+      ],
+      "evolutions": [
+        {
+          "to": {
+            "name": "Sirfetchd"
+          },
+          "conditions": [
+            {
+              "critical": 3.0,
+              "evoConditionType": "critical"
+            }
+          ],
+          "evoType": "ticking",
+          "moves": [
+            "Iron Defense"
+          ]
+        }
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Peck",
+          "Sand Attack"
+        ],
+        "5": [
+          "Leer"
+        ],
+        "10": [
+          "Fury Cutter"
+        ],
+        "15": [
+          "Rock Smash"
+        ],
+        "20": [
+          "Brutal Swing"
+        ],
+        "25": [
+          "Detect"
+        ],
+        "30": [
+          "Knock Off"
+        ],
+        "35": [
+          "Defog"
+        ],
+        "40": [
+          "Brick Break"
+        ],
+        "45": [
+          "Swords Dance"
+        ],
+        "50": [
+          "Slam"
+        ],
+        "55": [
+          "Leaf Blade"
+        ],
+        "60": [
+          "Final Gambit"
+        ],
+        "65": [
+          "Brave Bird"
+        ]
+      },
+      "tutorMoves": [
+        "Dual Wingbeat"
+      ],
+      "eggMoves": [
+        "Counter",
+        "Covet",
+        "Curse",
+        "Double-Edge",
+        "Feint",
+        "Flail",
+        "Night Slash",
+        "Quick Attack",
+        "Quick Guard",
+        "Simple Beam",
+        "Sky Attack"
+      ],
+      "trMoves": [
+        "Swords Dance",
+        "Body Slam",
+        "Focus Energy",
+        "Substitute",
+        "Endure",
+        "Sleep Talk",
+        "Superpower",
+        "Leaf Blade",
+        "Close Combat",
+        "Poison Jab",
+        "Brave Bird",
+        "Work Up",
+        "Throat Chop"
+      ],
+      "tmMoves8": [
+        "Solar Blade",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Steel Wing",
+        "Attract",
+        "Sunny Day",
+        "Facade",
+        "Helping Hand",
+        "Revenge",
+        "Brick Break",
+        "Assurance",
+        "Round",
+        "Retaliate",
+        "Brutal Swing"
+      ],
+      "bounding_box": {
+        "width": 0.8,
+        "height": 1.0,
+        "eye_height": 0.7
+      }
+    }
+  }
+}

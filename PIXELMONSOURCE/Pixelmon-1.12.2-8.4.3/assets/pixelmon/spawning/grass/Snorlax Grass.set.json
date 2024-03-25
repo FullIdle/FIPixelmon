@@ -1,0 +1,32 @@
+{
+  "id": "Snorlax Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Snorlax"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:leftovers",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "Corsola Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Corsola",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 18,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:luminous_moss",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Corsola",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 18,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:float_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Cursola"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 34,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:float_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

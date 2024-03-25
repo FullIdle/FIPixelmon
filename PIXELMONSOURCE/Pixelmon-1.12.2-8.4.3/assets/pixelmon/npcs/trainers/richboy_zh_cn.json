@@ -1,0 +1,73 @@
+{
+    "data": {
+        "trainerType": "RichBoy",
+        "minLevel": 25,
+        "maxLevel": 30,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 30
+    },
+    "pokemon": [
+        {
+            "name": "Wartortle"
+        },
+        {
+            "name": "Charmeleon"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Poliwhirl"
+        },
+        {
+            "name": "Ivysaur"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Raticate"
+        }
+    ],
+    "names": [
+        {
+            "name": "汉鑫"
+        },
+        {
+            "name": "爱格"
+        },
+        {
+            "name": "卡卡"
+        },
+        {
+            "name": "乔治"
+        },
+        {
+            "name": "金斯利"
+        },
+        {
+            "name": "查理"
+        },
+        {
+            "name": "草莓"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "你好。",
+            "win": "再见。",
+            "lose": "再见。"
+        },
+        {
+            "opening": "你今天感觉怎么样？",
+            "win": "等到我们再次见面。",
+            "lose": "等到我们再次见面。"
+        },
+        {
+            "opening": "最近怎样？",
+            "win": "等到下一次。",
+            "lose": "等到下一次。"
+        }
+    ]
+}

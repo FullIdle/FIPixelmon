@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "type": "forge:ore_dict",
+      "ore": "gemCrystal"
+    }
+  },
+  "result": {
+    "item": "pixelmon:plasma_boots",
+    "count": 1
+  }
+}

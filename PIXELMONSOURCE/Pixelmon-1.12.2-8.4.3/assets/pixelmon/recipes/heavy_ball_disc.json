@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pixelmon:cooked_blue_apricorn"
+    }
+  },
+  "result": {
+    "item": "pixelmon:heavy_ball_disc",
+    "count": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Seadra",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Seadra"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "ocean",
+          "kelp_forest",
+          "coral_reef"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2.5,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 5.0
+    }
+  ]
+}

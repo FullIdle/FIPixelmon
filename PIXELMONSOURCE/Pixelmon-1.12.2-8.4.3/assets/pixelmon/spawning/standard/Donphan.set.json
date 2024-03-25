@@ -1,0 +1,27 @@
+{
+  "id": "Donphan",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Donphan"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "maxY": 120
+      },
+      "rarity": 6.0
+    }
+  ]
+}

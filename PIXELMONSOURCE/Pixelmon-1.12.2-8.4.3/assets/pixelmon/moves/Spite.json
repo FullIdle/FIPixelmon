@@ -1,0 +1,49 @@
+{
+  "attackIndex": 238,
+  "attackName": "Spite",
+  "attackType": "Ghost",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Spite"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Z-Spite",
+      "basePower": 0,
+      "effects": [
+        {
+          "increment": 100,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Recover"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

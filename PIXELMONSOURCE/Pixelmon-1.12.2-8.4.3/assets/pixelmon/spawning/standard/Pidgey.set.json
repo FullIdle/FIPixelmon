@@ -1,0 +1,94 @@
+{
+  "id": "Pidgey",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pidgey",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 2,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "taigas"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Pidgey",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 2,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "taigas"
+        ]
+      },
+      "rarity": 200.0
+    },
+    {
+      "spec": {
+        "name": "Pidgey",
+        "form": 108
+      },
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 2,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "taigas"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Pidgey",
+        "form": 108
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 2,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "taigas"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

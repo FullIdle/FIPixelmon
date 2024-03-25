@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "punkgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Nomy"
+        },
+        {
+            "name": "Avril"
+        },
+        {
+            "name": "Joan"
+        },
+        {
+            "name": "Penelope"
+        },
+        {
+            "name": "Cherie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "My hair's hard to take care of, but I deal with it."
+                },
+                {
+                    "text": "Punkin' is making sacrifices sometimes."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Down with the system! Who needs Poké Balls!"
+                },
+                {
+                    "text": "I catch my Pokémon with my bare hands!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My wristband needs more spikes."
+                },
+                {
+                    "text": "You know where I can find that?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "You think I can train a Jigglypuff to sing punk rock songs?"
+                },
+                {
+                    "text": "Maybe I can even get it inked. Yeah, awesome."
+                }
+            ]
+        }
+    ]
+}

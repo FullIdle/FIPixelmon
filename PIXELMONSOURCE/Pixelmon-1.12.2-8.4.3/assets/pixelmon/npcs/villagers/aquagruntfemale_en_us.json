@@ -1,0 +1,53 @@
+{
+    "skins": [
+        {
+            "filename": "aquagruntfemale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Aqua Grunt"
+        },
+        {
+            "name": "Team Aqua Grunt"
+        },
+        {
+            "name": "Team Aqua Grunt"
+        },
+        {
+            "name": "Team Aqua Grunt"
+        },
+        {
+            "name": "Team Aqua Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Magma thinks they stand a chance against us!"
+                },
+                {
+                    "text": "The world is more ocean than land! Plus, we have the type advantage! We're the better team!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Groudon is cool and all, but nothing beats our Kyogre!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Our boss keeps telling us that he's going to use Kyogre to flood the land."
+                },
+                {
+                    "text": "But where would we live?! Last time I checked, us grunts can't breath water!"
+                }
+            ]
+        }
+    ]
+}

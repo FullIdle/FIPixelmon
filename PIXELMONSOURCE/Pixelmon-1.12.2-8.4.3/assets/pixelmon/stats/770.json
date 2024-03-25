@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Palossand",
+  "pokemon": "Palossand",
+  "form": -1,
+  "stats": {
+    "HP": 85,
+    "Attack": 75,
+    "Defence": 110,
+    "Speed": 35,
+    "SpecialAttack": 100,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 20,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Ground"
+  ],
+  "height": 1.3,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Sandygast"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.47
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.15,
+      "z": -0.47
+    }
+  },
+  "weight": 250.0,
+  "bounding_box": {
+    "width": 1.3,
+    "height": 1.0,
+    "eye_height": 0.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "WaterCompaction",
+    null,
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Astonish",
+      "Harden",
+      "Sand Tomb"
+    ],
+    "15": [
+      "Mega Drain"
+    ],
+    "20": [
+      "Sand Attack"
+    ],
+    "25": [
+      "Bulldoze"
+    ],
+    "30": [
+      "Hypnosis"
+    ],
+    "35": [
+      "Giga Drain"
+    ],
+    "40": [
+      "Iron Defense"
+    ],
+    "47": [
+      "Shadow Ball"
+    ],
+    "54": [
+      "Earth Power"
+    ],
+    "61": [
+      "Shore Up"
+    ],
+    "68": [
+      "Sandstorm"
+    ]
+  },
+  "tutorMoves": [
+    "Poltergeist",
+    "Scorching Sands",
+    "Terrain Pulse"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Curse",
+    "Destiny Bond",
+    "Spit Up",
+    "Stockpile",
+    "Swallow"
+  ],
+  "transferMoves": [
+    "After You",
+    "Block",
+    "Confide",
+    "Double Team",
+    "Embargo",
+    "Frustration",
+    "Gravity",
+    "Hidden Power",
+    "Infestation",
+    "Pain Split",
+    "Quash",
+    "Recycle",
+    "Return",
+    "Rock Polish",
+    "Role Play",
+    "Spite",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Psychic",
+    "Amnesia",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Trick",
+    "Skill Swap",
+    "Iron Defense",
+    "Energy Ball",
+    "Earth Power",
+    "Stone Edge",
+    "Stealth Rock"
+  ],
+  "tmMoves8": [
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Sandstorm",
+    "Facade",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Mud Shot",
+    "Brine",
+    "Fling",
+    "Round",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Quash",
+    "Embargo",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

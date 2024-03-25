@@ -1,0 +1,227 @@
+{
+  "pixelmonName": "Guzzlord",
+  "pokemon": "Guzzlord",
+  "form": -1,
+  "stats": {
+    "HP": 223,
+    "Attack": 101,
+    "Defence": 53,
+    "Speed": 43,
+    "SpecialAttack": 97,
+    "SpecialDefence": 53
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 5.9,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -5.5,
+      "z": 0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -5.5,
+      "z": 0.5
+    }
+  },
+  "weight": 888.0,
+  "bounding_box": {
+    "width": 5.0,
+    "height": 3.4,
+    "eye_height": 2.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "BeastBoost",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Dragon Tail"
+    ],
+    "5": [
+      "Stockpile",
+      "Swallow"
+    ],
+    "10": [
+      "Knock Off"
+    ],
+    "15": [
+      "Stomp"
+    ],
+    "20": [
+      "Stomping Tantrum"
+    ],
+    "25": [
+      "Wide Guard"
+    ],
+    "30": [
+      "Crunch"
+    ],
+    "35": [
+      "Body Slam"
+    ],
+    "40": [
+      "Gastro Acid"
+    ],
+    "45": [
+      "Hammer Arm"
+    ],
+    "50": [
+      "Heavy Slam"
+    ],
+    "55": [
+      "Dragon Rush"
+    ],
+    "60": [
+      "Belch"
+    ],
+    "65": [
+      "Thrash"
+    ],
+    "70": [
+      "Giga Impact"
+    ]
+  },
+  "tutorMoves": [
+    "Corrosive Gas",
+    "Draco Meteor",
+    "Lash Out",
+    "Steel Roller"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Double Team",
+    "Dragon Rage",
+    "Dual Chop",
+    "Frustration",
+    "Hidden Power",
+    "Last Resort",
+    "Magnet Rise",
+    "Return",
+    "Shock Wave",
+    "Smack Down",
+    "Steamroller",
+    "Toxic",
+    "Wring Out"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Earthquake",
+    "Fire Blast",
+    "Amnesia",
+    "Substitute",
+    "Sludge Bomb",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Heat Wave",
+    "Iron Defense",
+    "Dragon Claw",
+    "Gyro Ball",
+    "Poison Jab",
+    "Dark Pulse",
+    "Dragon Pulse",
+    "Iron Head",
+    "Stone Edge",
+    "Sludge Wave",
+    "Heavy Slam",
+    "Heat Crash",
+    "High Horsepower",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Payback",
+    "Fling",
+    "Drain Punch",
+    "Shadow Claw",
+    "Round",
+    "Bulldoze",
+    "Snarl",
+    "Brutal Swing",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Dragon Claw",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Flamethrower",
+    "Sludge Bomb",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Fling",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Gyro Ball",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Poison Jab",
+    "Sleep Talk",
+    "Substitute",
+    "Snarl",
+    "Dark Pulse"
+  ],
+  "forms": {}
+}

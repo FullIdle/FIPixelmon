@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:PokeGiftBlock" },
+    "facing=south": { "model": "pixelmon:PokeGiftBlock" },
+    "facing=north": { "model": "pixelmon:PokeGiftBlock" },
+    "facing=east": { "model": "pixelmon:PokeGiftBlock" },
+    "facing=west": { "model": "pixelmon:PokeGiftBlock" }
+  }
+}

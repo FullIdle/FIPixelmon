@@ -1,0 +1,41 @@
+{
+  "attackIndex": -1,
+  "attackName": "Clangorous Soulblaze",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 185,
+  "ppBase": 1,
+  "ppMax": 1,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "boosts": {
+        "atk": 1,
+        "def": 1,
+        "spa": 1,
+        "spd": 1,
+        "spe": 1
+      },
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "SelfBoost"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  }
+}

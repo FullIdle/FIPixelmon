@@ -1,0 +1,71 @@
+{
+  "id": "Paras Grass Line",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Paras"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "mushroom_island",
+          "roofed_forest",
+          "mutated_roofed_forest"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Parasect"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 24,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "mushroom_island",
+          "roofed_forest",
+          "mutated_roofed_forest"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 53,
+  "setId": 1,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 81,
+  "code": "BASE53",
+  "name": "card.BASE53.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE53",
+      "attackNumber": 1,
+      "name": "attack.BASE53.1.name",
+      "energy": [
+        "LIGHTNING"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.BASE53.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    },
+    {
+      "cardCode": "BASE53",
+      "attackNumber": 2,
+      "name": "attack.BASE53.2.name",
+      "energy": [
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.BASE53.2.text",
+      "effects": [
+        "SELF_DAMAGE:40",
+        "SELF_DAMAGE:BENCH:*:10",
+        "OPP_DAMAGE:BENCH:*:10"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

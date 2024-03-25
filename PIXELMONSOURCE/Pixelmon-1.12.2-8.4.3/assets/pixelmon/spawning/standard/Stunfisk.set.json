@@ -1,0 +1,79 @@
+{
+  "id": "Stunfisk",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Stunfisk",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Stunfisk",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Stunfisk",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

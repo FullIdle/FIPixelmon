@@ -1,0 +1,82 @@
+{
+  "data": {
+    "type": "Spawn",
+    "biomes": [
+      "Plains",
+      "ExtremeHills"
+    ]
+  },
+  "textures": [
+    {
+      "name": "gnome_trader.png"
+    },
+    {
+      "name": "spawntrader.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Jorlen"
+    },
+    {
+      "name": "Vincent"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Ehi, tu! Cacciatore di Pokémon! Ho degli oggetti preziosi da offrirti!",
+      "goodbye": "Se sarai fortunato, potresti vedermi di nuovo, Cacciatore di Pokémon."
+    },
+    {
+      "hello": "Ciao! Vedo che sei un intenditore di articoli Pokémon interessanti! Ho alcuni rari tesori in vendita qui.",
+      "goodbye": "È stato un piacere fare affari con te."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:sun_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:fire_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:water_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:moon_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:thunder_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:leaf_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:dawn_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:dusk_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:shiny_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    }
+  ]
+}

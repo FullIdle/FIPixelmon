@@ -1,0 +1,40 @@
+{
+  "attackIndex": 470,
+  "attackName": "Wood Hammer",
+  "attackType": "Grass",
+  "attackCategory": "PHYSICAL",
+  "basePower": 120,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "percentRecoil": 33,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

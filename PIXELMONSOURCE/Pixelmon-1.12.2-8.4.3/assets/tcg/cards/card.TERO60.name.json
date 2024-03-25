@@ -1,0 +1,60 @@
+{
+  "id": 298,
+  "setId": 4,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 81,
+  "code": "TERO60",
+  "name": "card.TERO60.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO60",
+      "attackNumber": 1,
+      "name": "attack.TERO60.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    },
+    {
+      "cardCode": "TERO60",
+      "attackNumber": 2,
+      "name": "attack.TERO60.2.name",
+      "energy": [
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": "Plus",
+      "text": "attack.TERO60.2.text",
+      "effects": [
+        "DAMAGE_BONUS:SELF:PER_POKEMON:81:10",
+        "DAMAGE_BONUS:SELF:PER_POKEMON:82:10"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

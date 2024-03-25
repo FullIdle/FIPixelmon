@@ -1,0 +1,28 @@
+{
+  "id": "Froslass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Froslass"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

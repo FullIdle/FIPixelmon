@@ -1,0 +1,359 @@
+{
+  "pixelmonName": "Marshtomp",
+  "pokemon": "Marshtomp",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 85,
+    "Defence": 70,
+    "Speed": 50,
+    "SpecialAttack": 60,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 19,
+  "baseExp": 143,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Mudkip"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 28.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.8,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Swampert"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "Damp"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Earthquake",
+      "Growl",
+      "Mud Shot",
+      "Rock Smash",
+      "Surf",
+      "Tackle",
+      "Water Gun"
+    ],
+    "9": [
+      "Rock Throw"
+    ],
+    "12": [
+      "Protect"
+    ],
+    "15": [
+      "Supersonic"
+    ],
+    "20": [
+      "Water Pulse"
+    ],
+    "25": [
+      "Rock Slide"
+    ],
+    "30": [
+      "Take Down"
+    ],
+    "35": [
+      "Amnesia"
+    ],
+    "40": [
+      "Muddy Water"
+    ],
+    "45": [
+      "Screech"
+    ],
+    "50": [
+      "Endeavor"
+    ],
+    "55": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Water Pledge"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Avalanche",
+    "Barrier",
+    "Bite",
+    "Counter",
+    "Curse",
+    "Double-Edge",
+    "Ice Ball",
+    "Mirror Coat",
+    "Mud Bomb",
+    "Refresh",
+    "Sludge",
+    "Stomp",
+    "Uproar",
+    "Whirlpool",
+    "Wide Guard",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Aqua Tail",
+    "Barrier",
+    "Bide",
+    "Captivate",
+    "Confide",
+    "Defense Curl",
+    "Double Team",
+    "Dynamic Punch",
+    "Echoed Voice",
+    "Foresight",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Ice Ball",
+    "Mimic",
+    "Mud Bomb",
+    "Mud Sport",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Refresh",
+    "Return",
+    "Rollout",
+    "Secret Power",
+    "Seismic Toss",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Low Kick",
+    "Earthquake",
+    "Waterfall",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Uproar",
+    "Superpower",
+    "Muddy Water",
+    "Earth Power",
+    "Stealth Rock",
+    "Sludge Wave",
+    "Scald",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Ice Punch",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Brick Break",
+    "Dive",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Mud Shot",
+    "Fling",
+    "Avalanche",
+    "Round",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Fling",
+    "Endure",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

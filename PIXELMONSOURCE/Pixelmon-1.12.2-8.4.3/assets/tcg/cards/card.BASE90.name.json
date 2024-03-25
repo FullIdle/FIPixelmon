@@ -1,0 +1,32 @@
+{
+  "id": 90,
+  "setId": 1,
+  "cardType": "TRAINER",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": null,
+  "energy2": null,
+  "pokemonId": 0,
+  "code": "BASE90",
+  "name": "card.BASE90.name",
+  "description": "card.BASE90.text",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 0,
+  "cardRarity": "UNCOMMON",
+  "customTexture": "pixelmon:textures/items/healingitems/superpotion.png",
+  "customTextureX": 16,
+  "customTextureY": 16,
+  "isHolo": true,
+  "effect": {
+  },
+  "cardAbility": null
+}

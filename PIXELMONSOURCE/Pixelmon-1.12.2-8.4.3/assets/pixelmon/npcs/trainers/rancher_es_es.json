@@ -1,0 +1,112 @@
+{
+    "data": {
+        "trainerType": "Rancher",
+        "minLevel": 15,
+        "maxLevel": 30,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Ponyta"
+        },
+        {
+            "name": "Rapidash"
+        },
+        {
+            "name": "Exeggcute"
+        },
+        {
+            "name": "Mareep"
+        },
+        {
+            "name": "Flaaffy"
+        },
+        {
+            "name": "Ampharos"
+        },
+        {
+            "name": "Psyduck"
+        },
+        {
+            "name": "Golduck"
+        },
+        {
+            "name": "Farfetchd"
+        },
+        {
+            "name": "Miltank"
+        },
+        {
+            "name": "Torchic"
+        },
+        {
+            "name": "Combusken"
+        },
+        {
+            "name": "Blaziken"
+        },
+        {
+            "name": "Tepig"
+        },
+        {
+            "name": "Pignite"
+        },
+        {
+            "name": "Emboar"
+        }
+    ],
+    "names": [
+        {
+            "name": "Abel"
+        },
+        {
+            "name": "Brody"
+        },
+        {
+            "name": "Brooks"
+        },
+        {
+            "name": "Clint"
+        },
+        {
+            "name": "Colt"
+        },
+        {
+            "name": "Garrett"
+        },
+        {
+            "name": "Grant"
+        },
+        {
+            "name": "Huck"
+        },
+        {
+            "name": "Maverick"
+        },
+        {
+            "name": "Wade"
+        },
+        {
+            "name": "Weston"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "¿Quiereh luchar?",
+            "win": "¡Síí! ¡Parece que he ganado!",
+            "lose": "Tieneh algún Pokémon mu' bueno por ahí."
+        },
+        {
+            "opening": "Nada como una batalla Pokémon despuéh de un duro día de curro.",
+            "win": "¡Perfecto! ¡Un trabajoh bien hecho, hora de irse a dormir!",
+            "lose": "Ganasteh porque estoy muy cansao."
+        },
+        {
+            "opening": "Eh agotador, mirah como pastan los Miltank. ¡Hora de luchar!",
+            "win": "¡Debería hacer esto más amenudo!",
+            "lose": "No debía habeh parado de mirar."
+        }
+    ]
+}

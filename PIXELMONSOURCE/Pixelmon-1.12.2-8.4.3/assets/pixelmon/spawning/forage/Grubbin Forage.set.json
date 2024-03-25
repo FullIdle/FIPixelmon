@@ -1,0 +1,22 @@
+{
+  "id": "Grubbin Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Grubbin"
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

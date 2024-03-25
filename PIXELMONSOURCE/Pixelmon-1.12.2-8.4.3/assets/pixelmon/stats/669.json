@@ -1,0 +1,188 @@
+{
+  "pixelmonName": "Flabebe",
+  "pokemon": "Flabebe",
+  "form": 0,
+  "stats": {
+    "HP": 44,
+    "Attack": 38,
+    "Defence": 39,
+    "Speed": 42,
+    "SpecialAttack": 61,
+    "SpecialDefence": 79
+  },
+  "catchRate": 225,
+  "malePercent": 0,
+  "spawnLevel": 6,
+  "spawnLevelRange": 12,
+  "baseExp": 61,
+  "baseFriendship": 0,
+  "types": [
+    "Fairy"
+  ],
+  "height": 0.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 0.1,
+  "bounding_box": {
+    "width": 0.2,
+    "height": 0.25,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 19,
+      "to": {
+        "name": "Floette"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "FlowerVeil",
+    null,
+    "Symbiosis"
+  ],
+  "eggGroups": [
+    "Fairy"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Vine Whip"
+    ],
+    "6": [
+      "Fairy Wind"
+    ],
+    "10": [
+      "Lucky Chant"
+    ],
+    "15": [
+      "Razor Leaf"
+    ],
+    "20": [
+      "Wish"
+    ],
+    "22": [
+      "Magical Leaf"
+    ],
+    "24": [
+      "Grassy Terrain"
+    ],
+    "28": [
+      "Petal Blizzard"
+    ],
+    "33": [
+      "Aromatherapy"
+    ],
+    "37": [
+      "Misty Terrain"
+    ],
+    "41": [
+      "Moonblast"
+    ],
+    "45": [
+      "Petal Dance"
+    ],
+    "48": [
+      "Solar Beam"
+    ]
+  },
+  "tutorMoves": [
+    "After You",
+    "Ally Switch",
+    "Covet",
+    "Endeavor",
+    "Giga Drain",
+    "Heal Bell",
+    "Helping Hand",
+    "Magic Coat",
+    "Seed Bomb",
+    "Snore",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Camouflage",
+    "Captivate",
+    "Copycat",
+    "Tearful Look"
+  ],
+  "transferMoves": [
+    "Flash",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Flash",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

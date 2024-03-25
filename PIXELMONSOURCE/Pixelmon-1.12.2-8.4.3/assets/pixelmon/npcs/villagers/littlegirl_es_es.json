@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littlegirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Betty"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Molly"
+        },
+        {
+            "name": "Tilly"
+        },
+        {
+            "name": "Holly"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¡No puede hablar contigo! ¡Eres un desconocido!"
+                },
+                {
+                    "text": "¿Qué se siente al ser un desconocido?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Hmmph! ¡Yo tengo mejores Pokémon en mi armario! ¡Yo tengo un Moltres!"
+                },
+                {
+                    "text": "¿Y qué pasa si mi Moltres es un juguete? ¡Tú no has conseguido ningún Moltres!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Has venido aquí para capturar Pokémon? ¿Dan miedo?"
+                },
+                {
+                    "text": "¡Seguro que puedo capturar un Pokémon aterrador si tuviera una mega súper mágica Poké Ball!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Te dan miedo los Pokémon? ¡A mí no me dan miedo! Bueno, un poco..."
+                },
+                {
+                    "text": "Algunos Pokémon da un poco de miedo. A mí sólo me gustan los que son adorables."
+                }
+            ]
+        }
+    ]
+}

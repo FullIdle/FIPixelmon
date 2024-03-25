@@ -1,0 +1,295 @@
+{
+  "pixelmonName": "Mareep",
+  "pokemon": "Mareep",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 40,
+    "Defence": 40,
+    "Speed": 35,
+    "SpecialAttack": 65,
+    "SpecialDefence": 45
+  },
+  "catchRate": 235,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 7.8,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 0.8,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 15,
+      "to": {
+        "name": "Flaaffy"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Static",
+    null,
+    "Plus"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "4": [
+      "Thunder Wave"
+    ],
+    "8": [
+      "Thunder Shock"
+    ],
+    "11": [
+      "Cotton Spore"
+    ],
+    "15": [
+      "Charge"
+    ],
+    "18": [
+      "Take Down"
+    ],
+    "22": [
+      "Electro Ball"
+    ],
+    "25": [
+      "Confuse Ray"
+    ],
+    "29": [
+      "Power Gem"
+    ],
+    "32": [
+      "Discharge"
+    ],
+    "36": [
+      "Cotton Guard"
+    ],
+    "39": [
+      "Signal Beam"
+    ],
+    "43": [
+      "Light Screen"
+    ],
+    "46": [
+      "Thunder"
+    ]
+  },
+  "tutorMoves": [
+    "After You",
+    "Electroweb",
+    "Heal Bell",
+    "Iron Tail",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore"
+  ],
+  "eggMoves": [
+    "After You",
+    "Agility",
+    "Body Slam",
+    "Charge",
+    "Eerie Impulse",
+    "Electric Terrain",
+    "Flatter",
+    "Iron Tail",
+    "Odor Sleuth",
+    "Sand Attack",
+    "Screech",
+    "Take Down"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Curse",
+    "Defense Curl",
+    "Double-Edge",
+    "Endure",
+    "Flash",
+    "Headbutt",
+    "Hold Back",
+    "Mimic",
+    "Natural Gift",
+    "Reflect",
+    "Secret Power",
+    "Swift",
+    "Zap Cannon"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Charge Beam",
+    "Endure",
+    "Flash",
+    "Thunder Wave",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Zap Cannon",
+    "Hidden Power",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Iron Tail",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Defense Curl",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

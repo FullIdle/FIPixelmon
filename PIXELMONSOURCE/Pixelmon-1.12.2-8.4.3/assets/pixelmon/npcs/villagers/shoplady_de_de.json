@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shoplady.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mrs. Green"
+        },
+        {
+            "name": "Margaret"
+        },
+        {
+            "name": "Miss Filigree"
+        },
+        {
+            "name": "Ms. Thrift"
+        },
+        {
+            "name": "Mrs. White"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Guten Tag, kann ich dir helfen??"
+                },
+                {
+                    "text": "Meine Güte, nein, so etwas verkaufen wir nicht! Schönen Tag!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Willkommen im Laden. Gibt es etwas Besonderes, das du brauchst??"
+                },
+                {
+                    "text": "Ich bin mir nicht sicher, ob ich Ihnen dabei helfen kann. Schönen Tag."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Kann ich helfen?"
+                },
+                {
+                    "text": "Lass mich wissen, wann du bereit bist, eine Entscheidung zu treffen. Ich bin ziemlich beschäftigt."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ja, ja? Bist du als nächstes dran? Beeile dich, andere warten auch noch!"
+                },
+                {
+                    "text": "Zu teuer? Ich fürchte, Sie sind in den falschen Laden gekommen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hallo, wollen Sie das kaufen?"
+                },
+                {
+                    "text": "Nun, leg es zurück. Sie dürfen die Ware nicht beschädigen."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "Druddigon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Druddigon"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 70
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Druddigon"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.5
+    }
+  ]
+}

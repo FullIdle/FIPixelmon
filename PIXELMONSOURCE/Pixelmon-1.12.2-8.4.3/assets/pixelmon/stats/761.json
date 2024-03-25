@@ -1,0 +1,173 @@
+{
+  "pixelmonName": "Bounsweet",
+  "pokemon": "Bounsweet",
+  "form": 0,
+  "stats": {
+    "HP": 42,
+    "Attack": 30,
+    "Defence": 38,
+    "Speed": 32,
+    "SpecialAttack": 30,
+    "SpecialDefence": 38
+  },
+  "catchRate": 235,
+  "malePercent": 0,
+  "spawnLevel": 4,
+  "spawnLevelRange": 14,
+  "baseExp": 42,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 3.2,
+  "bounding_box": {
+    "width": 0.3,
+    "height": 0.4,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Steenee"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "LeafGuard",
+    "Oblivious",
+    "SweetVeil"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Splash"
+    ],
+    "4": [
+      "Play Nice"
+    ],
+    "8": [
+      "Rapid Spin"
+    ],
+    "12": [
+      "Razor Leaf"
+    ],
+    "16": [
+      "Sweet Scent"
+    ],
+    "20": [
+      "Magical Leaf"
+    ],
+    "24": [
+      "Flail"
+    ],
+    "28": [
+      "Teeter Dance"
+    ],
+    "32": [
+      "Aromatic Mist"
+    ],
+    "36": [
+      "Aromatherapy"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Acupressure",
+    "Endeavor",
+    "Synthesis"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Covet",
+    "Double Team",
+    "Feint",
+    "Frustration",
+    "Grass Whistle",
+    "Hidden Power",
+    "Nature Power",
+    "Return",
+    "Swagger",
+    "Toxic",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Seed Bomb",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Grass Knot",
+    "Play Rough",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Magical Leaf",
+    "Solar Beam",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Charm",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Bounce",
+    "Round",
+    "Draining Kiss"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,255 @@
+{
+  "pixelmonName": "Shellos",
+  "pokemon": "Shellos",
+  "form": 0,
+  "stats": {
+    "HP": 76,
+    "Attack": 48,
+    "Defence": 48,
+    "Speed": 34,
+    "SpecialAttack": 57,
+    "SpecialDefence": 62
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 73,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 6.3,
+  "bounding_box": {
+    "width": 0.3,
+    "height": 0.3,
+    "eye_height": 0.15
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Gastrodon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "StickyHold",
+    "StormDrain",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Mud-Slap",
+      "Water Gun"
+    ],
+    "5": [
+      "Harden"
+    ],
+    "10": [
+      "Recover"
+    ],
+    "15": [
+      "Water Pulse"
+    ],
+    "20": [
+      "Ancient Power"
+    ],
+    "25": [
+      "Body Slam"
+    ],
+    "31": [
+      "Muddy Water"
+    ],
+    "35": [
+      "Earth Power"
+    ],
+    "40": [
+      "Rain Dance"
+    ],
+    "45": [
+      "Memento"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Clear Smog",
+    "Counter",
+    "Curse",
+    "Mirror Coat",
+    "Mist",
+    "Sludge",
+    "Spit Up",
+    "Stockpile",
+    "Swallow",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Fissure",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Infestation",
+    "Mud Bomb",
+    "Mud Sport",
+    "Natural Gift",
+    "Pain Split",
+    "Return",
+    "Secret Power",
+    "String Shot",
+    "Swagger",
+    "Toxic",
+    "Trump Card"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Muddy Water",
+    "Earth Power",
+    "Scald"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Dive",
+    "Mud Shot",
+    "Brine",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Brine",
+    "Endure",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

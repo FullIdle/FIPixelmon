@@ -1,0 +1,119 @@
+{
+  "id": "Castform",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Castform",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "anticondition": {
+        "temperature": "COLD"
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Castform",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:icy_rock",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Castform",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:damp_rock",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "arid",
+          "freezing"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Castform",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heat_rock",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

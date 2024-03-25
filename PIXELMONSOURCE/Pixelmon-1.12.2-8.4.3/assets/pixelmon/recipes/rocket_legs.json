@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "type": "forge:ore_dict",
+      "ore": "gemAmethyst"
+    }
+  },
+  "result": {
+    "item": "pixelmon:rocket_legs",
+    "count": 1
+  }
+}

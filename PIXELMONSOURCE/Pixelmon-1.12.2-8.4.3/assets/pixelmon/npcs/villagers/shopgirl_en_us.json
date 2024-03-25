@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shopgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Annabelle"
+        },
+        {
+            "name": "Zoe"
+        },
+        {
+            "name": "Chloe"
+        },
+        {
+            "name": "Babs"
+        },
+        {
+            "name": "Tasha"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Oh, were you waiting? Didn't see ya."
+                },
+                {
+                    "text": "Okay, okay, hang on! What do you want to buy, anyway?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Welcome to the store. Yawn..."
+                },
+                {
+                    "text": "How should I know if we have that size in stock? Can't you make do with the smaller one?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Can I be of service? ...Sigh."
+                },
+                {
+                    "text": "Yes, well, I'm kinda busy. Make up your mind and buy something, okay?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Yes, I know you have been waiting. We're all waiting for something!"
+                },
+                {
+                    "text": "What would I choose? Heck, I'd never shop here for a million dollars!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hello there, are you going to buy that?"
+                },
+                {
+                    "text": "Well, don't just leave it there! Put it back on the shelf yourself!"
+                }
+            ]
+        }
+    ]
+}

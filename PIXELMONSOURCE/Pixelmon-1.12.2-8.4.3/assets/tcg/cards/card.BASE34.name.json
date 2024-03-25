@@ -1,0 +1,63 @@
+{
+  "id": 34,
+  "setId": 1,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 67,
+  "code": "BASE34",
+  "name": "card.BASE34.name",
+  "description": "",
+  "previousPokemonId": 66,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE34",
+      "attackNumber": 1,
+      "name": "attack.BASE34.1.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING",
+        "COLORLESS"
+      ],
+      "damage": 50,
+      "modifier": "Minus",
+      "text": "attack.BASE34.1.text",
+      "effects": [
+        "DAMAGE_BONUS:SELF:PER_DAMAGE:-10"
+      ]
+    },
+    {
+      "cardCode": "BASE34",
+      "attackNumber": 2,
+      "name": "attack.BASE34.2.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 60,
+      "modifier": null,
+      "text": "attack.BASE34.2.text",
+      "effects": [
+        "SELF_DAMAGE:20"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

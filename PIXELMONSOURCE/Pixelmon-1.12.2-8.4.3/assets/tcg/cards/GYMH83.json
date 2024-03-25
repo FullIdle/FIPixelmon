@@ -1,0 +1,60 @@
+{
+  "id": 404,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 54,
+  "code": "GYMH83",
+  "name": "card.GYMH83.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH83",
+      "attackNumber": 1,
+      "name": "attack.GYMH83.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMH83.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH83",
+      "attackNumber": 2,
+      "name": "attack.GYMH83.2.name",
+      "energy": [
+        "WATER"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMH83.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

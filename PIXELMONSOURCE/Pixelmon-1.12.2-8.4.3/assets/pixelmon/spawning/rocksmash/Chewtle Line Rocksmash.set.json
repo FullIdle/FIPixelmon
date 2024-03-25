@@ -1,0 +1,41 @@
+{
+  "id": "Chewtle Line Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chewtle"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Drednaw"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

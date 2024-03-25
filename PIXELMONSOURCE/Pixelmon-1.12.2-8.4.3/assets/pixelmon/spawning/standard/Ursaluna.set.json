@@ -1,0 +1,32 @@
+{
+  "id": "Ursaluna",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ursaluna"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:peat_block",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ],
+        "moonPhase": 0
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "pixelmonName": "Corviknight",
+  "pokemon": "Corviknight",
+  "form": 0,
+  "stats": {
+    "HP": 98,
+    "Attack": 87,
+    "Defence": 105,
+    "SpecialAttack": 53,
+    "SpecialDefence": 85,
+    "Speed": 67
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 248,
+  "baseFriendship": 50,
+  "types": [
+    "Flying",
+    "Steel"
+  ],
+  "height": 2.2,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Corvisquire",
+    "Rookidee"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 5,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Defence": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.4,
+      "z": -0.1
+    }
+  },
+  "weight": 75.0,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.7,
+    "eye_height": 1.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    "Unnerve",
+    "MirrorArmor"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Hone Claws",
+      "Iron Defense",
+      "Leer",
+      "Metal Sound",
+      "Peck",
+      "Power Trip",
+      "Steel Wing"
+    ],
+    "12": [
+      "Fury Attack"
+    ],
+    "16": [
+      "Pluck"
+    ],
+    "22": [
+      "Taunt"
+    ],
+    "28": [
+      "Scary Face"
+    ],
+    "34": [
+      "Drill Peck"
+    ],
+    "42": [
+      "Swagger"
+    ],
+    "50": [
+      "Brave Bird"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Rock Smash",
+    "Roost",
+    "Sand Attack",
+    "Sky Attack",
+    "Spite",
+    "Tailwind"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Agility",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Iron Defense",
+    "Bulk Up",
+    "Brave Bird",
+    "Nasty Plot",
+    "Flash Cannon",
+    "Iron Head",
+    "Heavy Slam",
+    "Work Up",
+    "Hurricane",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Screech",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Steel Wing",
+    "Attract",
+    "Facade",
+    "Swift",
+    "Revenge",
+    "Fake Tears",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Round",
+    "Retaliate",
+    "Air Slash"
+  ],
+  "forms": {
+    "1": {
+      "bounding_box": {
+        "width": 1.2,
+        "height": 3.0,
+        "eye_height": 1.2
+      }
+    }
+  }
+}

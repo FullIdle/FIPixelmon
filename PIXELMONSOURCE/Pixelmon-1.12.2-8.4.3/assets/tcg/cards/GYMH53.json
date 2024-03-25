@@ -1,0 +1,61 @@
+{
+  "id": 374,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 125,
+  "code": "GYMH53",
+  "name": "card.GYMH53.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH53",
+      "attackNumber": 1,
+      "name": "attack.GYMH53.1.name",
+      "energy": [
+        "LIGHTNING"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMH53.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH53",
+      "attackNumber": 2,
+      "name": "attack.GYMH53.2.name",
+      "energy": [
+        "LIGHTNING",
+        "LIGHTNING"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH53.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

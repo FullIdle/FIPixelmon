@@ -1,0 +1,79 @@
+{
+  "id": "Qwilfish Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Qwilfish",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 18,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 15.0
+    },
+    {
+      "spec": {
+        "name": "Qwilfish",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 18,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Overqwil"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

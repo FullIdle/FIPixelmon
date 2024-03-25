@@ -1,0 +1,297 @@
+{
+  "pixelmonName": "Ferrothorn",
+  "pokemon": "Ferrothorn",
+  "form": 0,
+  "stats": {
+    "HP": 74,
+    "Attack": 94,
+    "Defence": 131,
+    "Speed": 20,
+    "SpecialAttack": 54,
+    "SpecialDefence": 116
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 41,
+  "spawnLevelRange": 12,
+  "baseExp": 171,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Steel"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Ferroseed"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.34,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.3
+    }
+  },
+  "weight": 110.0,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.0,
+    "eye_height": 0.85
+  },
+  "evolutions": [],
+  "abilities": [
+    "IronBarbs",
+    null,
+    "Anticipation"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Metal Claw",
+      "Pin Missile",
+      "Power Whip",
+      "Tackle"
+    ],
+    "15": [
+      "Ingrain"
+    ],
+    "20": [
+      "Flash Cannon"
+    ],
+    "25": [
+      "Iron Head"
+    ],
+    "30": [
+      "Self-Destruct"
+    ],
+    "35": [
+      "Iron Defense"
+    ],
+    "43": [
+      "Curse"
+    ],
+    "49": [
+      "Gyro Ball"
+    ],
+    "56": [
+      "Explosion"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [
+    "Acid Spray",
+    "Gravity",
+    "Knock Off",
+    "Leech Seed",
+    "Toxic"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Block",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Endeavor",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Hone Claws",
+    "Magnet Rise",
+    "Mirror Shot",
+    "Nature Power",
+    "Return",
+    "Rock Climb",
+    "Rock Polish",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Gyro Ball",
+    "Poison Jab",
+    "Seed Bomb",
+    "Energy Ball",
+    "Flash Cannon",
+    "Power Whip",
+    "Iron Head",
+    "Stealth Rock",
+    "Grass Knot",
+    "Heavy Slam",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Thunder Wave",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Revenge",
+    "Bullet Seed",
+    "Payback",
+    "Assurance",
+    "Shadow Claw",
+    "Round",
+    "Bulldoze",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Swords Dance",
+    "Bulldoze",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Swords Dance",
+    "Bulldoze",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Energy Ball",
+    "Explosion",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Swords Dance",
+    "Bulldoze",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

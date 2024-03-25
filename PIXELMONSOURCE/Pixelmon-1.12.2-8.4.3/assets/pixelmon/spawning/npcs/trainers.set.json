@@ -1,0 +1,802 @@
+{
+  "id": "Trainers",
+  "spawnInfos": [
+    {
+      "trainerType": "BugCatcher",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "jungles",
+          "flowery"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.2,
+          "anticondition": {
+            "times": [
+              "DAWN",
+              "DUSK"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 9.0
+    },
+    {
+      "trainerType": "BugManiac",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "jungles",
+          "flowery"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.2,
+          "anticondition": {
+            "times": [
+              "DAWN",
+              "DUSK"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 9.0
+    },
+    {
+      "trainerType": "Sport",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "savannas"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.2,
+          "anticondition": {
+            "times": [
+              "DAWN",
+              "DUSK"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 6.0
+    },
+    {
+      "trainerType": "FemaleRocketGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "taigas",
+          "evil"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "MaleRocketGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "taigas",
+          "evil"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "FemaleAquaGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "MaleAquaGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "FemaleMagmaGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "MaleAquaGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "FemaleFlareGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "MaleFlareGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "FemaleGalacticGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "MaleGalacticGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "FemalePlasmaGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "MalePlasmaGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "FemaleSkullGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "MaleSkullGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "FemaleTeamYellGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "MaleTeamYellGrunt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "FireBreather",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mesas",
+          "arid"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 6.0
+    },
+    {
+      "trainerType": "Youngster",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "forests"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 7.0
+    },
+    {
+      "trainerType": "Lass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "forests"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 7.0
+    },
+    {
+      "trainerType": "Gentleman",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "NIGHT"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 6.0
+    },
+    {
+      "trainerType": "Pokemaniac",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "forests"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 7.0
+    },
+    {
+      "trainerType": "Pokemaniacgirl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "forests"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 7.0
+    },
+    {
+      "trainerType": "Policeman",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "taigas",
+          "ice_flats",
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "PreschoolerGirl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "forests",
+          "birches"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 7.0
+    },
+    {
+      "trainerType": "RichBoy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "mushroom",
+          "redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 7.0
+    },
+    {
+      "trainerType": "MaleScientist",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "mountainous",
+          "swamps",
+          "forests",
+          "jungles",
+          "birches"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 6.0
+    },
+    {
+      "trainerType": "FemaleScientist",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "mountainous",
+          "swamps",
+          "forests",
+          "jungles",
+          "birches"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 6.0
+    },
+    {
+      "trainerType": "Swimmer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "beaches",
+          "river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "Swimmer",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "Fisherman",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "river",
+          "beaches"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "Pirate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "Rancher",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "savannas"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 7.0
+    },
+    {
+      "trainerType": "Miner",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "mesas"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "Miner",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 3.0
+    },
+    {
+      "trainerType": "Mountaineer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "Ornithologist",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "all forests"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    },
+    {
+      "trainerType": "Blacksmith",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "mesas",
+          "arid"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 0.3,
+          "anticondition": {
+            "times": [
+              "DAY"
+            ]
+          }
+        }
+      ],
+      "typeID": "trainer",
+      "rarity": 5.0
+    }
+  ]
+}

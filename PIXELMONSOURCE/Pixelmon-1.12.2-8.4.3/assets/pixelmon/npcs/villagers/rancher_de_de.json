@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "rancher.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Billy Bob"
+        },
+        {
+            "name": "Cowboy Roy"
+        },
+        {
+            "name": "Bubba Pete Jr."
+        },
+        {
+            "name": "Cletus Sr."
+        },
+        {
+            "name": "Zeb"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Miltank hat tausend Verwendungen, Kiddo."
+                },
+                {
+                    "text": "Daaaaaas ist der Grund warum hier überall Jungs arbeiten. Woher würdet ihr ohne uns Milch und Leder bekommen, hm?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ihr Stadtleute mögt die Bräune, oder?"
+                },
+                {
+                    "text": "Komm und arbeite mit mir auf meinem Hof. Das wird dir auch Farbe geben!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Es ist hart ein Bauer zu sein. Mein Rücken bringt mich noch um."
+                },
+                {
+                    "text": "Ich würde so gern in meinem Schaukelstuhl sitzen und mich ein paar Stunden ausruhen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ihr solltet alle mal aufs Land kommen."
+                },
+                {
+                    "text": "Ein wenig Landluft atmen."
+                }
+            ]
+        }
+    ]
+}

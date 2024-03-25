@@ -1,0 +1,53 @@
+{
+  "id": "Magmar Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Magmar"
+      },
+      "stringLocationTypes": [
+        "Good Rod Lava"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:magmarizer",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Magmar"
+      },
+      "stringLocationTypes": [
+        "Super Rod Lava"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:magmarizer",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "pixelmonName": "MissingNo",
+  "pokemon": "MissingNo",
+  "form": 0,
+  "stats": {
+    "Attack": 136,
+    "Defence": 0,
+    "HP": 33,
+    "SpecialAttack": 6,
+    "SpecialDefence": 6,
+    "Speed": 29
+  },
+  "catchRate": 1,
+  "malePercent": -1,
+  "spawnLevel": 10,
+  "spawnLevelRange": 6,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Flying",
+    "Normal"
+  ],
+  "height": 3.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "aggressive": 20,
+    "passive": 0,
+    "timid": 80
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {},
+  "weight": 1590.8,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 3.0,
+    "eye_height": 2.5
+  },
+  "evolutions": [],
+  "abilities": [
+    "Error",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Water Gun",
+      "Sky Attack",
+      "Pay Day",
+      "Bind"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [],
+  "forms": {}
+}

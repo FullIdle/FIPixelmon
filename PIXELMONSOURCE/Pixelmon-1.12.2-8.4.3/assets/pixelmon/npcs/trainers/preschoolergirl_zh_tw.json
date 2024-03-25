@@ -1,0 +1,70 @@
+{
+    "data": {
+        "trainerType": "PreschoolerGirl",
+        "minLevel": 5,
+        "maxLevel": 25,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 4,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Riolu"
+        },
+        {
+            "name": "Dratini"
+        },
+        {
+            "name": "Beldum"
+        },
+        {
+            "name": "Bagon"
+        },
+        {
+            "name": "Litwick"
+        },
+        {
+            "name": "Spheal"
+        },
+        {
+            "name": "Ralts"
+        },
+        {
+            "name": "Golett"
+        }
+    ],
+    "names": [
+        {
+            "name": "薩爾達"
+        },
+        {
+            "name": "蕾妮"
+        },
+        {
+            "name": "蓋比"
+        },
+        {
+            "name": "\"Twinkle Toes\""
+        },
+        {
+            "name": "珍妮Jr."
+        }
+    ],
+	"chat": [
+        {
+            "opening": "我要讓我的爸爸和媽媽感到驕傲！",
+            "win": "耶！我已經迫不及待地想要告訴他們我贏了！",
+            "lose": "雖然輸了，但是是一場好的對戰！他們會為我的表現感到自豪！"
+        },
+        {
+            "opening": "我是個大女孩！我要打贏你！",
+            "win": "別哭，你輸了！",
+            "lose": "大女孩... 不要哭... 大女孩... (啜泣)"
+        },
+        {
+            "opening": "我可是從來沒有輸過寶可夢對戰！",
+            "win": "耶！我第一次贏了對戰！",
+            "lose": "其實這是我第一次對戰..."
+        }
+    ]
+}

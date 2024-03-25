@@ -1,0 +1,40 @@
+{
+  "id": "Chandelure",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chandelure"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:torch"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Mega Latios",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Latios"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ],
+        "times": [
+          "NIGHT"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.1
+    }
+  ]
+}

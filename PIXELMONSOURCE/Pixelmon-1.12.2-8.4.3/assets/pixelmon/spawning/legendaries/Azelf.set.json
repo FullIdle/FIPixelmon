@@ -1,0 +1,28 @@
+{
+  "id": "Azelf",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Azelf",
+        "level": 50
+      },
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forest"
+        ]
+      },
+      "rarity": 2.0
+    }
+  ]
+}

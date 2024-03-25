@@ -1,0 +1,59 @@
+{
+  "id": "Wishiwashi Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wishiwashi"
+      },
+      "stringLocationTypes": [
+        "Old Rod"
+      ],
+      "minLevel": 11,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 160.0
+    },
+    {
+      "spec": {
+        "name": "Wishiwashi"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 11,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Wishiwashi"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

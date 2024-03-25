@@ -1,0 +1,112 @@
+{
+    "data": {
+        "trainerType": "Rancher",
+        "minLevel": 15,
+        "maxLevel": 30,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Ponyta"
+        },
+        {
+            "name": "Rapidash"
+        },
+        {
+            "name": "Exeggcute"
+        },
+        {
+            "name": "Mareep"
+        },
+        {
+            "name": "Flaaffy"
+        },
+        {
+            "name": "Ampharos"
+        },
+        {
+            "name": "Psyduck"
+        },
+        {
+            "name": "Golduck"
+        },
+        {
+            "name": "Farfetchd"
+        },
+        {
+            "name": "Miltank"
+        },
+        {
+            "name": "Torchic"
+        },
+        {
+            "name": "Combusken"
+        },
+        {
+            "name": "Blaziken"
+        },
+        {
+            "name": "Tepig"
+        },
+        {
+            "name": "Pignite"
+        },
+        {
+            "name": "Emboar"
+        }
+    ],
+    "names": [
+        {
+            "name": "Abel"
+        },
+        {
+            "name": "Brody"
+        },
+        {
+            "name": "Brooks"
+        },
+        {
+            "name": "Clint"
+        },
+        {
+            "name": "Colt"
+        },
+        {
+            "name": "Garrett"
+        },
+        {
+            "name": "Grant"
+        },
+        {
+            "name": "Huck"
+        },
+        {
+            "name": "Maverick"
+        },
+        {
+            "name": "Wade"
+        },
+        {
+            "name": "Weston"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Yer lookin' for a fight?",
+            "win": "Yipee! Looks like I win!",
+            "lose": "Tha's some healthy Pokémon y'got there."
+        },
+        {
+            "opening": "Nothin' like a Pokémon battle after a long day workin' th' ranch.",
+            "win": "All righty! Job well done, time t' hit the hay!",
+            "lose": "Y'all only won 'cuz I was tired."
+        },
+        {
+            "opening": "I'm tired o' lookin' at Miltank grazin'. Battle time!",
+            "win": "I should do that more often!",
+            "lose": "I should never have stopped lookin' at 'em."
+        }
+    ]
+}

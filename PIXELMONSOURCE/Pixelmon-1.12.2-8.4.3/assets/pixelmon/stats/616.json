@@ -1,0 +1,225 @@
+{
+  "pixelmonName": "Shelmet",
+  "pokemon": "Shelmet",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 40,
+    "Defence": 85,
+    "Speed": 25,
+    "SpecialAttack": 40,
+    "SpecialDefence": 65
+  },
+  "catchRate": 200,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Bug"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 7.7,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.5,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "with": "Karrablast",
+      "to": {
+        "name": "Accelgor"
+      },
+      "conditions": [],
+      "evoType": "trade"
+    }
+  ],
+  "abilities": [
+    "Hydration",
+    "ShellArmour",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Protect"
+    ],
+    "4": [
+      "Acid"
+    ],
+    "8": [
+      "Curse"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Struggle Bug"
+    ],
+    "20": [
+      "Yawn"
+    ],
+    "24": [
+      "Acid Armor"
+    ],
+    "28": [
+      "Giga Drain"
+    ],
+    "32": [
+      "Guard Swap"
+    ],
+    "36": [
+      "Body Slam"
+    ],
+    "40": [
+      "Recover"
+    ],
+    "44": [
+      "Bug Buzz"
+    ],
+    "48": [
+      "Final Gambit"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Feint",
+    "Guard Split",
+    "Mind Reader"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Bug Bite",
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Gastro Acid",
+    "Hidden Power",
+    "Infestation",
+    "Mud-Slap",
+    "Pursuit",
+    "Return",
+    "Secret Power",
+    "Signal Beam",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Leech Life",
+    "Substitute",
+    "Sludge Bomb",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Encore",
+    "Toxic Spikes",
+    "Bug Buzz",
+    "Energy Ball"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Mud Shot",
+    "Guard Swap",
+    "Venoshock",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Struggle Bug",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Struggle Bug",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

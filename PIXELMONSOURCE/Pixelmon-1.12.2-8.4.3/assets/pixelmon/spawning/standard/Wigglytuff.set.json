@@ -1,0 +1,36 @@
+{
+  "id": "Wigglytuff",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wigglytuff"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "plains",
+          "roofed_forest",
+          "grassland",
+          "grove",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

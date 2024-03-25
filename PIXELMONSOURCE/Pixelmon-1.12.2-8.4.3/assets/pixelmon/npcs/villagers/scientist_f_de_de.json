@@ -1,0 +1,76 @@
+{
+  "skins": [
+    {
+      "filename": "scientist_f.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Marie"
+    },
+    {
+      "name": "Ada"
+    },
+    {
+      "name": "Irène"
+    },
+    {
+      "name": "Harriet"
+    },
+    {
+      "name": "Sofia"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Fossile sind faszinierend."
+        },
+        {
+          "text": "Wusstest du, dass man sie in tiefen Höhlen im Kies finden kann?"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Fossile zu finden ist ne schwere Sache."
+        },
+        {
+          "text": "Aber wenn man ein Pokémon mit Taucher hat, findet man schnell welche."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Die meisten sagen man könne keine Fossilien beleben, diese Wissenschafft funktioniere nicht."
+        },
+        {
+          "text": "Was wissen die schon über Wissenschafft? Eines Tages werde ich es ihnen allen zeigen."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich fange an meine Wahl des Kleids als Kleidung zu überdenken."
+        },
+        {
+          "text": "Was wenn ich Säure draufschütte? Mit meinem Laborkittel wäre das nicht so schlimm."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Die Anatomie von Monozyto überwältigt mich."
+        },
+        {
+          "text": "Es sieht aus wie ein Einzeller und doch hat es Augen und das ist so arg... so... arghe!"
+        }
+      ]
+    }
+  ]
+}

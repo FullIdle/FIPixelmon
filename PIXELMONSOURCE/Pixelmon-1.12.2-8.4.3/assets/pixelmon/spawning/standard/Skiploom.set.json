@@ -1,0 +1,26 @@
+{
+  "id": "Skiploom",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Skiploom"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 18,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "plains"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

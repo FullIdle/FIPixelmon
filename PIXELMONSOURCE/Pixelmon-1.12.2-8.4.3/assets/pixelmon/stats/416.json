@@ -1,0 +1,328 @@
+{
+  "pixelmonName": "Vespiquen",
+  "pokemon": "Vespiquen",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 80,
+    "Defence": 102,
+    "Speed": 40,
+    "SpecialAttack": 80,
+    "SpecialDefence": 102
+  },
+  "catchRate": 45,
+  "malePercent": 0,
+  "spawnLevel": 26,
+  "spawnLevelRange": 18,
+  "baseExp": 188,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Combee"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 5,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.6
+    }
+  },
+  "weight": 38.5,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.3,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Bug Bite",
+      "Confuse Ray",
+      "Gust",
+      "Poison Sting",
+      "Slash",
+      "Struggle Bug",
+      "Sweet Scent"
+    ],
+    "4": [
+      "Fury Cutter"
+    ],
+    "8": [
+      "Aromatic Mist"
+    ],
+    "12": [
+      "Fell Stinger"
+    ],
+    "16": [
+      "Fury Swipes"
+    ],
+    "20": [
+      "Swagger"
+    ],
+    "24": [
+      "Aromatherapy"
+    ],
+    "28": [
+      "Air Slash"
+    ],
+    "32": [
+      "Power Gem"
+    ],
+    "36": [
+      "Toxic"
+    ],
+    "40": [
+      "Attack Order",
+      "Defend Order"
+    ],
+    "44": [
+      "Destiny Bond"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Aerial Ace",
+    "Air Cutter",
+    "Captivate",
+    "Confide",
+    "Cut",
+    "Defog",
+    "Double Team",
+    "Endeavor",
+    "Flash",
+    "Frustration",
+    "Heal Order",
+    "Hidden Power",
+    "Hone Claws",
+    "Infestation",
+    "Laser Focus",
+    "Mud-Slap",
+    "Natural Gift",
+    "Ominous Wind",
+    "Pursuit",
+    "Quash",
+    "Return",
+    "Roost",
+    "Secret Power",
+    "Signal Beam",
+    "Silver Wind",
+    "String Shot",
+    "Tailwind"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Substitute",
+    "Reversal",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Uproar",
+    "Toxic Spikes",
+    "X-Scissor",
+    "Bug Buzz",
+    "Power Gem"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Hyper Beam",
+    "Giga Impact",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Beat Up",
+    "Facade",
+    "Swift",
+    "Revenge",
+    "U-turn",
+    "Assurance",
+    "Fling",
+    "Cross Poison",
+    "Venoshock",
+    "Round",
+    "Hex",
+    "Acrobatics",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Quash",
+    "Acrobatics",
+    "Giga Impact",
+    "X-Scissor",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Quash",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Fling",
+    "Quash",
+    "Acrobatics",
+    "Giga Impact",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Roost",
+    "Fling",
+    "Endure",
+    "Silver Wind",
+    "Giga Impact",
+    "Flash",
+    "Captivate",
+    "X-Scissor",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "forms": {}
+}

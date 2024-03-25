@@ -1,0 +1,46 @@
+{
+  "id": 263,
+  "setId": 4,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 130,
+  "code": "TERO25",
+  "name": "card.TERO25.name",
+  "description": "",
+  "previousPokemonId": 129,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO25",
+      "attackNumber": 1,
+      "name": "attack.TERO25.1.name",
+      "energy": [
+        "WATER",
+        "WATER",
+        "WATER"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.TERO25.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "FinalBeam"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Emboar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Emboar"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

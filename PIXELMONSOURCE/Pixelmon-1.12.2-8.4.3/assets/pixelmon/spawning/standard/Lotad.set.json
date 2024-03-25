@@ -1,0 +1,42 @@
+{
+  "id": "Lotad",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lotad"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:waterlily"
+            ]
+          }
+        }
+      ],
+      "rarity": 130.0
+    }
+  ]
+}

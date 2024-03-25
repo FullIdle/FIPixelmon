@@ -1,0 +1,54 @@
+{
+  "attackIndex": 608,
+  "attackName": "Play Rough",
+  "attackType": "Fairy",
+  "attackCategory": "PHYSICAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Attack",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fairium_z",
+      "attackName": "Twinkle Tackle",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    },
+	{
+      "crystal": "mimikium_z",
+      "attackName": "Let's Snuggle Forever",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": ["Mimikyu"]
+    }
+  ]
+}

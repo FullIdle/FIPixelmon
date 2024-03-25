@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littleboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Billy"
+        },
+        {
+            "name": "Akihiko"
+        },
+        {
+            "name": "Robert"
+        },
+        {
+            "name": "Sammy"
+        },
+        {
+            "name": "Pip"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "When I grow up, I'm gonna be a Pokémon Master. And a fireman!"
+                },
+                {
+                    "text": "I sure wish I had a Pokémon like you do!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Wow, did you get your Pokémon at a shop, or did you catch them for real?"
+                },
+                {
+                    "text": "I made a Poké Ball outta paper and some glue. It doesn't work much though."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My dad is a famous Pokémon catcher!"
+                },
+                {
+                    "text": "Well, actually, he caught a Caterpie in the garden but he let it go..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Watch me catch Pokémon with a net! I nearly caught a Weedle the other day!"
+                },
+                {
+                    "text": "One day I'm gonna catch them all!"
+                }
+            ]
+        }
+    ]
+}

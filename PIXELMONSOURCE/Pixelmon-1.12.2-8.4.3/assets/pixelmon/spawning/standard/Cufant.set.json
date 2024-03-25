@@ -1,0 +1,32 @@
+{
+  "id": "Cufant",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cufant"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

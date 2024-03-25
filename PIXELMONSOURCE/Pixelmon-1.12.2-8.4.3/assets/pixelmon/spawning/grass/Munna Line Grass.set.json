@@ -1,0 +1,55 @@
+{
+  "id": "Munna Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Munna"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 6,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Musharna"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

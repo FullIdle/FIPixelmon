@@ -1,0 +1,331 @@
+{
+  "pixelmonName": "Torchic",
+  "pokemon": "Torchic",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 60,
+    "Defence": 40,
+    "Speed": 45,
+    "SpecialAttack": 70,
+    "SpecialDefence": 50
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 65,
+  "baseFriendship": 70,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 2.5,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.5,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Combusken"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Double Kick"
+      ]
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "SpeedBoost"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Scratch"
+    ],
+    "3": [
+      "Ember"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "9": [
+      "Flame Charge"
+    ],
+    "12": [
+      "Detect"
+    ],
+    "15": [
+      "Sand Attack"
+    ],
+    "18": [
+      "Aerial Ace"
+    ],
+    "21": [
+      "Slash"
+    ],
+    "24": [
+      "Bounce"
+    ],
+    "27": [
+      "Focus Energy"
+    ],
+    "30": [
+      "Flamethrower"
+    ],
+    "33": [
+      "Feather Dance"
+    ],
+    "36": [
+      "Reversal"
+    ],
+    "39": [
+      "Flare Blitz"
+    ]
+  },
+  "tutorMoves": [
+    "Fire Pledge"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Crush Claw",
+    "Curse",
+    "Feint",
+    "Last Resort",
+    "Night Slash",
+    "Peck"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Cut",
+    "Defog",
+    "Double Team",
+    "Double-Edge",
+    "Echoed Voice",
+    "Flame Burst",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Hone Claws",
+    "Incinerate",
+    "Mimic",
+    "Mirror Move",
+    "Mud-Slap",
+    "Natural Gift",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Seismic Toss",
+    "Smelling Salts",
+    "Strength",
+    "Swagger",
+    "Swift",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Flamethrower",
+    "Low Kick",
+    "Agility",
+    "Focus Energy",
+    "Fire Blast",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Heat Wave",
+    "Overheat",
+    "Flare Blitz",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Fire Spin",
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Helping Hand",
+    "Rock Tomb",
+    "Bounce",
+    "Assurance",
+    "Shadow Claw",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat",
+    "Endure",
+    "Will-O-Wisp",
+    "Shadow Claw",
+    "Swords Dance",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat"
+  ],
+  "forms": {}
+}

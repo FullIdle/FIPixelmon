@@ -1,0 +1,415 @@
+{
+  "id": "Headbutt Loot",
+  "spawnInfos": [
+    {
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "typeID": "collection",
+      "collectionLabel": "spawning.collections.items",
+      "collection": [
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "minecraft:feather"
+          },
+          "typeID": "item",
+          "minQuantity": 1,
+          "maxQuantity": 2,
+          "rarity": 80
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "minecraft:stick"
+          },
+          "typeID": "item",
+          "minQuantity": 1,
+          "maxQuantity": 2,
+          "rarity": 80
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "minecraft:leaves",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "minecraft:apple",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 50
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:energy_root",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 40
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:revival_herb",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 40
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:power_herb",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:white_herb",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:mental_herb",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:leek",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:big_root",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 30
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:sharp_beak",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:luminous_moss",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:leaf_stone_shard",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 10
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:pretty_feather",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:muscle_feather",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:health_feather",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:genius_feather",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:resist_feather",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:clever_feather",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:swift_feather",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:grassy_seed",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "forests"
+            ]
+          },
+          "rarity": 10
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:psychic_seed",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "taigas"
+            ]
+          },
+          "rarity": 10
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:electric_seed",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "redwoods"
+            ]
+          },
+          "rarity": 10
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:misty_seed",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "birches"
+            ]
+          },
+          "rarity": 10
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:tiny_mushroom",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "forests",
+              "mushroom"
+            ]
+          },
+          "rarity": 20
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:big_mushroom",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "forests",
+              "mushroom"
+            ]
+          },
+          "rarity": 10
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:balm_mushroom",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "forests",
+              "mushroom"
+            ]
+          },
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:sweet_apple",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "forests"
+            ]
+          },
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:tart_apple",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "forests"
+            ]
+          },
+          "rarity": 5
+        },
+        {
+          "stringLocationTypes": [
+            "Headbutt"
+          ],
+          "item": {
+            "itemID": "pixelmon:galarica_twig",
+            "quantity": 1
+          },
+          "typeID": "item",
+          "condition": {
+            "stringBiomes": [
+              "taigas",
+              "redwoods",
+              "mountainous forests",
+              "freezing forests"
+            ]
+          },
+          "rarity": 10
+        }
+      ],
+      "requiredSpace": 2,
+      "percentage": 15
+    }
+  ]
+}

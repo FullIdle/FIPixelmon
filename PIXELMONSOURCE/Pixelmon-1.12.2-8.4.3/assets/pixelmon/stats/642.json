@@ -1,0 +1,366 @@
+{
+  "pixelmonName": "Thundurus",
+  "pokemon": "Thundurus",
+  "form": 0,
+  "stats": {
+    "HP": 79,
+    "Attack": 115,
+    "Defence": 70,
+    "Speed": 111,
+    "SpecialAttack": 125,
+    "SpecialDefence": 80
+  },
+  "catchRate": 3,
+  "malePercent": 100,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 90,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "height": 2.0,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 20,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "weight": 65.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 2.0,
+    "eye_height": 1.7
+  },
+  "evolutions": [],
+  "abilities": [
+    "Prankster",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Thunder Shock"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "10": [
+      "Swagger"
+    ],
+    "15": [
+      "Bite"
+    ],
+    "20": [
+      "Shock Wave"
+    ],
+    "25": [
+      "Agility"
+    ],
+    "30": [
+      "Charge"
+    ],
+    "35": [
+      "Volt Switch"
+    ],
+    "40": [
+      "Crunch"
+    ],
+    "45": [
+      "Discharge"
+    ],
+    "50": [
+      "Uproar"
+    ],
+    "55": [
+      "Hammer Arm"
+    ],
+    "60": [
+      "Rain Dance"
+    ],
+    "65": [
+      "Thunder"
+    ],
+    "70": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out",
+    "Rising Voltage"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Charge Beam",
+    "Confide",
+    "Defog",
+    "Double Team",
+    "Embargo",
+    "Frustration",
+    "Heal Block",
+    "Hidden Power",
+    "Incinerate",
+    "Knock Off",
+    "Return",
+    "Rock Smash",
+    "Role Play",
+    "Secret Power",
+    "Sky Drop",
+    "Smack Down",
+    "Strength",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Thunderbolt",
+    "Thunder",
+    "Psychic",
+    "Agility",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Uproar",
+    "Taunt",
+    "Superpower",
+    "Bulk Up",
+    "Dark Pulse",
+    "Focus Blast",
+    "Nasty Plot",
+    "Flash Cannon",
+    "Grass Knot",
+    "Sludge Wave",
+    "Electro Ball",
+    "Foul Play",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Thunder Punch",
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Revenge",
+    "Brick Break",
+    "Weather Ball",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Round",
+    "Volt Switch",
+    "Electroweb",
+    "Eerie Impulse",
+    "Smart Strike",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Sky Drop",
+    "Brutal Swing",
+    "Embargo",
+    "Payback",
+    "Smart Strike",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Fly",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Sky Drop",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Charge Beam",
+    "Sky Drop",
+    "Incinerate",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Flash Cannon",
+    "Wild Charge",
+    "Rock Smash"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 79,
+        "Attack": 105,
+        "Defence": 70,
+        "Speed": 101,
+        "SpecialAttack": 145,
+        "SpecialDefence": 80
+      },
+      "height": 3.5,
+      "isRideable": true,
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.2,
+          "z": -0.4
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.2,
+          "z": -0.4
+        }
+      },
+      "weight": 61.0,
+      "abilities": [
+        "VoltAbsorb",
+        null,
+        null
+      ]
+    }
+  }
+}

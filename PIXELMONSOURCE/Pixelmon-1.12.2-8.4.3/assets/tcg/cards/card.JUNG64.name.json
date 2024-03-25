@@ -1,0 +1,32 @@
+{
+  "id": 166,
+  "setId": 2,
+  "cardType": "TRAINER",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": null,
+  "energy2": null,
+  "pokemonId": 0,
+  "code": "JUNG64",
+  "name": "card.JUNG64.name",
+  "description": "card.JUNG64.text",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": "pixelmon:textures/items/pokeballs/pokeball.png",
+  "customTextureX": 16,
+  "customTextureY": 16,
+  "isHolo": true,
+  "effect": {
+  },
+  "cardAbility": null
+}

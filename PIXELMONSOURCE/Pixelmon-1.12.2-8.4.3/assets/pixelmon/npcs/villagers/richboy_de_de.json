@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "richboy.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Kornelius"
+    },
+    {
+      "name": "Roland"
+    },
+    {
+      "name": "Sinan"
+    },
+    {
+      "name": "Ferdinand"
+    },
+    {
+      "name": "Torsten"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Für mein Pokémon nur das Beste. Verliert es nur ein KP, so setze ich Top-Genesung ein."
+        },
+        {
+          "text": "Was anderes gibt es nicht."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Meine Pokémon müssen die Stärksten sein, bei all den Amphitaminen, die ich ihnen kaufte."
+        },
+        {
+          "text": "Geld Geld Geld, regiert die Welt. Beweise mir erstmal das Gegenteil."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Angenommen ich beteiligte mich nicht an der Pokémon Jagd und kaufte alle Pokémon, die im Pokédex vermerkt sind."
+        },
+        {
+          "text": "Wäre ich, in jenem Falle, ein vollwertiger Trainer ohne Anstrengung ?"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Vater sand mich, ein angesagter Trainer zu werden."
+        },
+        {
+          "text": "Ich habe noch nie einen Pokémon Kampf gewonnen, bin aber immer noch reicher als du. Ätsch!"
+        }
+      ]
+    }
+  ]
+}

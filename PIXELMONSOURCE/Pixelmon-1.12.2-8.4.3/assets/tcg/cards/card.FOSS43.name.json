@@ -1,0 +1,45 @@
+{
+  "id": 209,
+  "setId": 3,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 80,
+  "code": "FOSS43",
+  "name": "card.FOSS43.name",
+  "description": "",
+  "previousPokemonId": 79,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS43",
+      "attackNumber": 1,
+      "name": "attack.FOSS43.1.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.FOSS43.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "DamageSwapToSelfOnly"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Mega Steelix",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Steelix"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "mesas"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 566,
+  "setId": 7,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 114,
+  "code": "GYMC113",
+  "name": "card.GYMC113.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC113",
+      "attackNumber": 1,
+      "name": "attack.GYMC113.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMC113.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC113",
+      "attackNumber": 2,
+      "name": "attack.GYMC113.2.name",
+      "energy": [
+        "GRASS",
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMC113.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Unown Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Unown"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

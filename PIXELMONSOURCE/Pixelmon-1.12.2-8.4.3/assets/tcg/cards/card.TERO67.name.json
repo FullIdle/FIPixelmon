@@ -1,0 +1,57 @@
+{
+  "id": 305,
+  "setId": 4,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 79,
+  "code": "TERO67",
+  "name": "card.TERO67.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO67",
+      "attackNumber": 1,
+      "name": "attack.TERO67.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.TERO67.1.text",
+      "effects": [
+        "ATTACHDECK:1:ENERGY:PSYCHIC"
+      ]
+    },
+    {
+      "cardCode": "TERO67",
+      "attackNumber": 2,
+      "name": "attack.TERO67.2.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

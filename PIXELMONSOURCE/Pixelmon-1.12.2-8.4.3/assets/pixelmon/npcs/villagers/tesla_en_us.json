@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "tesla.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Nikola Tesla"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Powering the world, one redstone lamp at a time!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Rotom can control electronic devices?! Now that's shocking!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Anyone who uses electric Pokemon to power their electronics is a monster."
+                },
+                {
+                    "text": "Who would use their Pokemon for such a purpose!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Know any good redstone circuits?"
+                },
+                {
+                    "text": "I'm trying to power a city here, not solve world peace."
+                }
+            ]
+        }
+    ]
+}

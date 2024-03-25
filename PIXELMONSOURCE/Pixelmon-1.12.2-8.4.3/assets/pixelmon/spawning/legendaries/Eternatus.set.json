@@ -1,0 +1,30 @@
+{
+  "id": "Eternatus",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Eternatus",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "end",
+          "swamps"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

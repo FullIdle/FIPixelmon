@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "schoolgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Madison"
+        },
+        {
+            "name": "Kaylee"
+        },
+        {
+            "name": "Audrey"
+        },
+        {
+            "name": "Grace"
+        },
+        {
+            "name": "Lily"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "We're learning a lot of interesting stuff at school, but I can't wait to become a Trainer."
+                },
+                {
+                    "text": "The next best thing is the summer activities with the Rangers!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I need to return home, or I'm going to miss \"My Little Ponyta\"!"
+                },
+                {
+                    "text": "And then my friends are going to spoil it before I can watch a rerun..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "If I have 2000 PokéDollars and Poké Balls are worth 200 PokéDollars each, how many Poké Balls can I get?"
+                },
+                {
+                    "text": "Eleven! It was a trick question, because I also get the free Premier Ball!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Today Cody from school got his Poké Ball taken away by the teacher."
+                },
+                {
+                    "text": "He kept playing with it and bothering everyone."
+                }
+            ]
+        }
+    ]
+}

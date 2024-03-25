@@ -1,0 +1,44 @@
+{
+  "id": "Sandaconda",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sandaconda"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Sandaconda"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

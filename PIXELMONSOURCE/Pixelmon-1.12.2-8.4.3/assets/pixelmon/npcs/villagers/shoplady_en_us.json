@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shoplady.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mrs. Green"
+        },
+        {
+            "name": "Margaret"
+        },
+        {
+            "name": "Miss Filigree"
+        },
+        {
+            "name": "Ms. Thrift"
+        },
+        {
+            "name": "Mrs. White"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Good day, can I help you?"
+                },
+                {
+                    "text": "Goodness, no, we don't sell anything like that! Good day!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Welcome to the store. Is there anything special you require?"
+                },
+                {
+                    "text": "Well, I'm not sure I can help you with that. Good day."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Can I be of service?"
+                },
+                {
+                    "text": "Let me know when you are ready to make a decision. I'm rather busy."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Yes, yes? Are you next? Hurry up now, others are waiting!"
+                },
+                {
+                    "text": "Too expensive? Well I'm afraid you have come to the wrong store."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hello there, are you intending to buy that?"
+                },
+                {
+                    "text": "Well, put it back then. You are not allowed to damage the merchandise."
+                }
+            ]
+        }
+    ]
+}

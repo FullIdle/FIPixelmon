@@ -1,0 +1,126 @@
+{
+  "data": {
+    "trainerType": "Lass",
+    "minLevel": 4,
+    "maxLevel": 20,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 6,
+    "winnings": 12
+  },
+  "pokemon": [
+    {
+      "name": "Rattata"
+    },
+    {
+      "name": "Pidgey"
+    },
+    {
+      "name": "Spearow"
+    },
+    {
+      "name": "Ekans"
+    },
+    {
+      "name": "Zubat"
+    },
+    {
+      "name": "Geodude"
+    },
+    {
+      "name": "Mankey"
+    },
+    {
+      "name": "Trapinch"
+    },
+    {
+      "name": "Slowpoke"
+    }
+  ],
+  "names": [
+    {
+      "name": "Alice"
+    },
+    {
+      "name": "Bridget"
+    },
+    {
+      "name": "Carrie"
+    },
+    {
+      "name": "Connie"
+    },
+    {
+      "name": "Dana"
+    },
+    {
+      "name": "Ellen"
+    },
+    {
+      "name": "Krise"
+    },
+    {
+      "name": "Laura"
+    },
+    {
+      "name": "Linda"
+    },
+    {
+      "name": "Michelle"
+    },
+    {
+      "name": "Shannon"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Oh, du bist auch ein Trainer? Lass uns unsere Pokémon ausprobieren!",
+      "win": "Ich wusste, dass meine Pokémon besser sind als deine!",
+      "lose": "Deine Pokémon sind besser als meine!?"
+    },
+    {
+      "opening": "Mein Team ist unschlagbar! Meinst du, du kommst damit klar?",
+      "win": "Ahahaha! Mein Team ist unschlagbar!",
+      "lose": "WAS!? Aber mein Team ist unbesiegbar!"
+    },
+    {
+      "opening": "Wird dies meine Pokémon verletzen?",
+      "win": "Supi! Meine Pokémon wurden nicht verletzt!",
+      "lose": "Meine armen Pokémon! Neeeeiin!"
+    },
+    {
+      "opening": "...Lass uns kämpfen.",
+      "win": "...Ich gewinnne.",
+      "lose": "...Ich verliere."
+    },
+    {
+      "opening": "Ich liebe Käse! Nichts ist schmackhafter! Oh, du möchtest kämpfen? Ich war gerade dabei etwas Käse zu essen aber ich denke das kann warten.",
+      "win": "Sieg! Und das verdanke ich dem Käse!",
+      "lose": "Och joa, dann werd ich mal diesen Käse essen."
+    },
+    {
+      "opening": "Du hast mir ins Gesicht gesehen! Der Kampf beginnt!",
+      "win": "Wer mir ins Gesicht sieht geht ins Verderben!",
+      "lose": "Ich wünschte du hättest mir nicht ins Gesicht gesehen..."
+    },
+    {
+      "opening": "Meine Eltern dachten ich könnte kein Trainer sein, doch nun bin ich unschlagbar!",
+      "win": "Ich wusste, dass ich ein Trainer sein kann!",
+      "lose": "Vielleicht hatten meine Eltern Recht. Ich kann kein Trainer sein..."
+    },
+    {
+      "opening": "Ha, du siehst schwach aus! Kämpf mit mir!",
+      "win": "Ha! Du bist schwach!",
+      "lose": "Was!? Du bist nicht schwach!?"
+    },
+    {
+      "opening": "Ich hab mich verlaufen. Wenn ich dich schlage, sag mir bitte wo die nächste Stadt liegt...",
+      "win": "Yupi! Nun, wo liegt die nächstgelegene Stadt? Was soll das heissen, du wirst es mir nicht sagen!?",
+      "lose": "Och nein... Ich werde niemals eine Stadt finden..."
+    },
+    {
+      "opening": "Du siehst seltsam aus. Ha, Ich wette du hast schwache Pokémon! Kämpfe Verlierer!",
+      "win": "Haha! Ich wusste du bist schwach! Du bist erbärmlich!",
+      "lose": "W-Wie! Das ist unmöglich! Woher hast du solch lässige Pokémon!?"
+    }
+  ]
+}

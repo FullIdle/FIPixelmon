@@ -1,0 +1,21 @@
+{
+  "cardCode": "JUNG36",
+  "attackNumber": 1,
+  "name": "attack.JUNG36.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.JUNG36.1.text",
+  "effectsString": "HEAD-SELF_IMMUNE:*",
+  "effects": [
+    {
+      "onMe": true,
+      "immuneType": "All",
+      "needCoinSide": "Head"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "Scatterbug Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Scatterbug",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 1,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Scatterbug"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 1,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Spewpa",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 9,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Spewpa"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 9,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

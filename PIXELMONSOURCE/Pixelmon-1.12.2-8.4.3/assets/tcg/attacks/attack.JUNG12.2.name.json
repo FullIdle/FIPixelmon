@@ -1,0 +1,25 @@
+{
+  "cardCode": "JUNG12",
+  "attackNumber": 2,
+  "name": "attack.JUNG12.2.name",
+  "energy": [
+    "WATER",
+    "WATER",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": "Plus",
+  "text": "attack.JUNG12.2.text",
+  "effectsString": "DAMAGE_BONUS:SELF:WATER:10:20",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerEnergy",
+      "energy": "WATER",
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": 20,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

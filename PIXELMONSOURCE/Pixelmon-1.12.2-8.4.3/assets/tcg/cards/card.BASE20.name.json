@@ -1,0 +1,60 @@
+{
+  "id": 20,
+  "setId": 1,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 125,
+  "code": "BASE20",
+  "name": "card.BASE20.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE20",
+      "attackNumber": 1,
+      "name": "attack.BASE20.1.name",
+      "energy": [
+        "LIGHTNING"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.BASE20.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    },
+    {
+      "cardCode": "BASE20",
+      "attackNumber": 2,
+      "name": "attack.BASE20.2.name",
+      "energy": [
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": "Plus",
+      "text": "attack.BASE20.2.text",
+      "effects": [
+        "HEAD-OPP_DAMAGE:10",
+        "TAIL-SELF_DAMAGE:10"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

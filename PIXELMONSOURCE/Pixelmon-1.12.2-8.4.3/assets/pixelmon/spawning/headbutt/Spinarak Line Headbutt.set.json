@@ -1,0 +1,137 @@
+{
+  "id": "Spinarak Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Spinarak",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 1,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "oak",
+          "sacred_oak",
+          "pine",
+          "redwood",
+          "spruce",
+          "birch"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Spinarak"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 1,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "oak",
+          "sacred_oak",
+          "pine",
+          "redwood",
+          "spruce",
+          "birch"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Ariados",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 26,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "oak",
+          "sacred_oak",
+          "pine",
+          "redwood",
+          "spruce",
+          "birch"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Ariados"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 26,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "oak",
+          "sacred_oak",
+          "pine",
+          "redwood",
+          "spruce",
+          "birch"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "flowery"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

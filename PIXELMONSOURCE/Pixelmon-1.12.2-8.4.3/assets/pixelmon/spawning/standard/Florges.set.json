@@ -1,0 +1,27 @@
+{
+  "id": "Florges",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Florges"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 34,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

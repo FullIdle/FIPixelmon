@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "punkgirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Nomy"
+        },
+        {
+            "name": "Abril"
+        },
+        {
+            "name": "Joan"
+        },
+        {
+            "name": "Penélope"
+        },
+        {
+            "name": "Cheri"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mi pelo es difícil de mantener, pero siempre intento cuidar bien de él."
+                },
+                {
+                    "text": "Ser Punk te hace tener sacrificios a veces."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Abajo con el sistema! ¡Quién necesita Poké Balls!"
+                },
+                {
+                    "text": "¡He capturado a mis Pokémon con mis propias manos!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mi pulsera necesita más pinchos."
+                },
+                {
+                    "text": "¿Sabes donde puedo encontrar?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Crees que puedo entrenar a un Jigglypuff cantando canciones punk-rock?"
+                },
+                {
+                    "text": "Tal vez pueda incluso hacerle famoso. Seh, increible."
+                }
+            ]
+        }
+    ]
+}

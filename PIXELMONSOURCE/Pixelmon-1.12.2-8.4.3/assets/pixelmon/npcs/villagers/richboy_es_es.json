@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "richboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Alistair"
+        },
+        {
+            "name": "Randolf"
+        },
+        {
+            "name": "Milton"
+        },
+        {
+            "name": "Fulbright"
+        },
+        {
+            "name": "Thurston"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mis Pokémon se merecen lo mejor. Si uno de ellos tiene algún rasguño, les daré un Restaurar Todo."
+                },
+                {
+                    "text": "Nada más me importa."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mis Pokémon tienen que ser los más fuertes, con todo el dinero que he gastado en sus Poké Balls."
+                },
+                {
+                    "text": "Invertir dinero, obtener beneficios. Demuestra que me equivoco."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Supongamos que no me apetece capturar Pokémon, y compro la Pokédex completa de un niño pobre."
+                },
+                {
+                    "text": "Entonces, ¿sería un entrenador experto sin ningún esfuerzo?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Padre me envió por el mundo para convertirme en un Entrenador experto."
+                },
+                {
+                    "text": "He perdido todos mis combates hasta ahora pero sigo siendo más rico que tú. ¡Hm!"
+                }
+            ]
+        }
+    ]
+}

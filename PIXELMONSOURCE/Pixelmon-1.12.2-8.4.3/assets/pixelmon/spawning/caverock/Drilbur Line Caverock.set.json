@@ -1,0 +1,35 @@
+{
+  "id": "Drilbur Line Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Drilbur"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 23,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Excadrill"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 32,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 6.0
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "pixelmonName": "Pincurchin",
+  "pokemon": "Pincurchin",
+  "form": 0,
+  "stats": {
+    "HP": 48,
+    "Attack": 101,
+    "Defence": 95,
+    "SpecialAttack": 91,
+    "SpecialDefence": 85,
+    "Speed": 15
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 13,
+  "spawnLevelRange": 29,
+  "baseExp": 152,
+  "baseFriendship": 50,
+  "types": [
+    "Electric"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 1.0,
+  "bounding_box": {
+    "width": 0.45,
+    "height": 0.45,
+    "eye_height": 0.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "LightningRod",
+    null,
+    "ElectricSurge"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Thunder Shock"
+    ],
+    "5": [
+      "Water Gun"
+    ],
+    "10": [
+      "Charge"
+    ],
+    "15": [
+      "Fury Attack"
+    ],
+    "20": [
+      "Spark"
+    ],
+    "25": [
+      "Bubble Beam"
+    ],
+    "30": [
+      "Recover"
+    ],
+    "35": [
+      "Curse"
+    ],
+    "40": [
+      "Electric Terrain"
+    ],
+    "45": [
+      "Poison Jab"
+    ],
+    "50": [
+      "Zing Zap"
+    ],
+    "55": [
+      "Acupressure"
+    ],
+    "60": [
+      "Discharge"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage"
+  ],
+  "eggMoves": [
+    "Memento",
+    "Sucker Punch"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Reversal",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Muddy Water",
+    "Toxic Spikes",
+    "Poison Jab",
+    "Scald",
+    "Venom Drench",
+    "Throat Chop",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Thunder Wave",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Brine",
+    "Payback",
+    "Assurance",
+    "Venoshock",
+    "Round",
+    "Hex",
+    "Electric Terrain"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "trainerType": "Fisherman",
+    "minLevel": 24,
+    "maxLevel": 36,
+    "minPartyPokemon": 1,
+    "maxPartyPokemon": 6,
+    "winnings": 36
+  },
+  "pokemon": [
+    {
+      "name": "Squirtle"
+    },
+    {
+      "name": "Wartortle"
+    },
+    {
+      "name": "Horsea"
+    },
+    {
+      "name": "Magikarp"
+    },
+    {
+      "name": "Gyarados"
+    },
+    {
+      "name": "Blastoise"
+    },
+    {
+      "name": "Tentacool"
+    },
+    {
+      "name": "Krabby"
+    },
+    {
+      "name": "Goldeen"
+    },
+    {
+      "name": "Seaking"
+    },
+    {
+      "name": "Staryu"
+    },
+    {
+      "name": "Starmie"
+    },
+    {
+      "name": "Lapras"
+    },
+    {
+      "name": "Shellder"
+    }
+  ],
+  "names": [
+    {
+      "name": "Wilton"
+    },
+    {
+      "name": "Fins"
+    },
+    {
+      "name": "Marvin"
+    },
+    {
+      "name": "Marlin"
+    },
+    {
+      "name": "Jack"
+    },
+    {
+      "name": "Jill"
+    },
+    {
+      "name": "David"
+    },
+    {
+      "name": "Zack"
+    },
+    {
+      "name": "Danny"
+    },
+    {
+      "name": "Stephan"
+    },
+    {
+      "name": "Scott"
+    },
+    {
+      "name": "Todd"
+    },
+    {
+      "name": "Tom"
+    },
+    {
+      "name": "Mitchell"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Wasser Pokémon sind die Besten!",
+      "win": "Ich sagte doch, dass Wasser Pokémon die besten sind!",
+      "lose": "Ich schätze Wasser Pokémon sind doch nicht die Besten."
+    },
+    {
+      "opening": "Versuch meine Wasser Pokémon zu besiegen!",
+      "win": "Meine Wasser Pokémon sind die Besten!",
+      "lose": "Verdammt! Meine Wasser Pokémon haben verloren!?"
+    },
+    {
+      "opening": "Ich wette du kannst mich nicht schlagen!",
+      "win": "Ich wusste, dass ich dich besiegen würde.",
+      "lose": "Du schlugst mich. Unmöglich."
+    },
+    {
+      "opening": "Haben Sie Pokémon des Types Wasser?",
+      "win": "Nun, ich schlug Sie. Zeigen Sie mir bitte jetzt ihre Wasser Pokémon.",
+      "lose": "Ich schätze Pokémon des Types Wasser sind letzendlich gar nicht so gut."
+    },
+    {
+      "opening": "Ich tausche meine Wasser Pokémon gegen irgendwas.",
+      "win": "Ich möchte nicht mehr tauschen! Mein Team ist das Beste!",
+      "lose": "So, wollen wa tausche?"
+    },
+    {
+      "opening": "Wollen wir kämpfen?",
+      "win": "Klasse Kampf. Du hast es mir nicht leicht gemacht.",
+      "lose": "Der bessere hat gewonnen."
+    },
+    {
+      "opening": "Zeit für mein Training?",
+      "win": "Zeit für mein Training.",
+      "lose": "Zeit für mein Training!"
+    },
+    {
+      "opening": "Meine Pokémon sind die Allerbesten!",
+      "win": "Siehste? Meine Pokémon sind die Allerbesten.",
+      "lose": "Nö, nö, nö. Das ist nicht gerecht! Du hast geschummelt!"
+    },
+    {
+      "opening": "Ich liebe das Fischen. Du nicht?",
+      "win": "Ich könnte dir das Fischen beibringen.",
+      "lose": "Och joa, Verloren. Ich schätze ich sollte lieber wieder fischen gehen."
+    },
+    {
+      "opening": "Ich wünschte ich könnte über den Ozean reisen.",
+      "win": "Gewonnen. Nun muss ich nur noch einen finden der die VM Surfer hat.",
+      "lose": "Guter Kampf. Wissen Sie woher ich Surfer bekomme?"
+    },
+    {
+      "opening": "Du siehst so aus als wärst du viel rumgekommen.",
+      "win": "Pech gehabt, Freund. Vielleicht beim nächsten mal.",
+      "lose": "Deine Pokémon sind die Besten. Vielleicht sollte ich auch mal in die Ferne ziehen statt den ganzen Tag zu fischen."
+    },
+    {
+      "opening": "Hast du dich jemals gefragt wie es wäre ein Karpador zu sein?",
+      "win": "Es muss ein großartiges Gefühl sein frei im Ozean zu schwimmen.",
+      "lose": "Ich bin ein mieser Trainer. Ich wünschte ich könnte ein Pokémon sein!"
+    },
+    {
+      "opening": "Glaubst du, du könntest meine Wasser Pokémon besiegen?",
+      "win": "Meine Wasser Pokémon sind unbesiegbar!",
+      "lose": "OH JE! Meine Wasser Pokémon sind besiegt!"
+    },
+    {
+      "opening": "Du bist mir vor die Füsse gelaufen, nun müssen wir kämpfen.",
+      "win": "Gewonnen. Nun musst du zum Pokécenter hasten.",
+      "lose": "Verloren. Nun muss ich zum Pokécenter hasten."
+    }
+  ]
+}

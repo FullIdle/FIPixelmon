@@ -1,0 +1,101 @@
+{
+  "id": "Sizzlipede Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sizzlipede"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 80.0
+    },
+    {
+      "spec": {
+        "name": "Sizzlipede",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 80.0
+    },
+    {
+      "spec": {
+        "name": "Centiskorch"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 3.0
+    },
+    {
+      "spec": {
+        "name": "Centiskorch",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

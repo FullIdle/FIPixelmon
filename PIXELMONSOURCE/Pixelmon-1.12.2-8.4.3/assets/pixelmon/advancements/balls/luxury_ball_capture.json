@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:luxury_ball"
+        },
+        "title": {
+            "translate": "advancements.luxury_ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.luxury_ball_capture.description"
+        },
+        "hidden": true
+    },
+    "parent": "pixelmon:balls/ball_capture_trigger",
+    "criteria": {
+        "luxury_ball_capture": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "luxury_ball"
+            }
+        }
+    }
+}

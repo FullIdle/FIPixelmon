@@ -1,0 +1,13 @@
+{
+  "cardCode": "TERO9",
+  "attackNumber": 1,
+  "name": "attack.TERO9.1.name",
+  "energy": [
+    "PSYCHIC"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

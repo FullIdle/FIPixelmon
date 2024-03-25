@@ -1,0 +1,48 @@
+{
+  "id": 379,
+  "setId": 6,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 90,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 62,
+  "code": "GYMH58",
+  "name": "card.GYMH58.name",
+  "description": "",
+  "previousPokemonId": 61,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH58",
+      "attackNumber": 1,
+      "name": "attack.GYMH58.1.name",
+      "energy": [
+        "WATER",
+        "WATER",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.GYMH58.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,254 @@
+{
+    "data": {
+        "trainerType": "BugCatcher",
+        "minLevel": 8,
+        "maxLevel": 16,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Caterpie"
+        },
+        {
+            "name": "Metapod"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Oddish"
+        },
+        {
+            "name": "Weedle"
+        },
+        {
+            "name": "Kakuna"
+        },
+        {
+            "name": "Beedrill"
+        },
+        {
+            "name": "Venonat"
+        },
+        {
+            "name": "Venomoth"
+        },
+        {
+            "name": "Paras"
+        },
+        {
+            "name": "Scyther"
+        }
+    ],
+    "names": [
+        {
+            "name": "Al"
+        },
+        {
+            "name": "Anthony"
+        },
+        {
+            "name": "Arnie"
+        },
+        {
+            "name": "Benny"
+        },
+        {
+            "name": "Brandon"
+        },
+        {
+            "name": "Brent"
+        },
+        {
+            "name": "Cale"
+        },
+        {
+            "name": "Charlie"
+        },
+        {
+            "name": "Colton"
+        },
+        {
+            "name": "Connor"
+        },
+        {
+            "name": "Davis"
+        },
+        {
+            "name": "Don"
+        },
+        {
+            "name": "Donald"
+        },
+        {
+            "name": "Doug"
+        },
+        {
+            "name": "Ed"
+        },
+        {
+            "name": "Elijah"
+        },
+        {
+            "name": "Garret"
+        },
+        {
+            "name": "Greg"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Jonah"
+        },
+        {
+            "name": "Jose"
+        },
+        {
+            "name": "Josh"
+        },
+        {
+            "name": "Keigo"
+        },
+        {
+            "name": "Ken"
+        },
+        {
+            "name": "Kent"
+        },
+        {
+            "name": "Lyle"
+        },
+        {
+            "name": "Phillip"
+        },
+        {
+            "name": "Rick"
+        },
+        {
+            "name": "Rob"
+        },
+        {
+            "name": "Robby"
+        },
+        {
+            "name": "Sammy"
+        },
+        {
+            "name": "Vance"
+        },
+        {
+            "name": "Wade"
+        },
+        {
+            "name": "Wayne"
+        },
+        {
+            "name": "Tai"
+        },
+        {
+            "name": "Matt"
+        },
+        {
+            "name": "Izzy"
+        },
+        {
+            "name": "Joe"
+        },
+        {
+            "name": "Borris"
+        },
+        {
+            "name": "Bret"
+        },
+        {
+            "name": "Bryan"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Theo"
+        },
+        {
+            "name": "Vance"
+        },
+        {
+            "name": "Tobby"
+        },
+        {
+            "name": "Wilton"
+        },
+        {
+            "name": "Darryl"
+        },
+        {
+            "name": "Bobby"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "J'aime les insects !",
+            "win": "Je te l'avais dit que les insectes étaient géniaux !",
+            "lose": "Les insectes sont quand même géniaux !"
+        },
+        {
+            "opening": "As-u vu un Papilusion ? J'aime les Papilusion.",
+            "win": "Je pense que je viens d'en voir un. Merci pour le combat.",
+            "lose": "Ok ... Si tu en vois un, dis-le moi !"
+        },
+        {
+            "opening": "Les insectes sont si beau. J'aimerais te voir essayer de battre mon équipe !",
+            "win": "Vois-tu maintenant la beauté de mes insectes ?",
+            "lose": "Tu m'as peut-être vaincu, mais ce sont mes insectes qui ont vraiment brillé."
+        },
+        {
+            "opening": "Peut-on combattre ? J'ai besoin de rendre mes insectes plus forts.",
+            "win": "Apparemment mes Pokémon étaient plus forts que je ne le pensais.",
+            "lose": "J'aurais dû savoir que mes Pokémon étaient trop faibles."
+        },
+        {
+            "opening": "J'ai entrainé mon équipe avec beaucoup de patience... Battons-nous !",
+            "win": "Apparemment mon entraînement a porté ses fruits.",
+            "lose": "Comment j'ai pu perdre après m'être tant entrainé ?"
+        },
+        {
+            "opening": "Combattre est quelque chose de sérieux. Faisons un match fun !",
+            "win": "C'était fun ! Rebattons-nous une prochaine fois !",
+            "lose": "C'était fun ! Merci pour le combat."
+        },
+        {
+            "opening": "Si je gagne, tu dois me donner tes Pokémon insectes !",
+            "win": "Haha ! Donne les moi !",
+            "lose": "Touche pas à mes Pokémon !"
+        },
+        {
+            "opening": "INSECTES !",
+            "win": "La loi des Insectes!",
+            "lose": "Pourquoi les Pokémon Insectes sont-ils si faibles ?"
+        },
+        {
+            "opening": "Il n'y a pas de bon Pokémon Insecte ! Si je perds, j'entraîne une nouvelle équipe !",
+            "win": "Apparemment j'avais tord ! Tous les Pokémon sont géniaux ! Je n'ai pas besoin d'une nouvelle équipe ! Celle-ci est géniale !",
+            "lose": "Voilà ! Je commence une nouvelle équipe !"
+        },
+        {
+            "opening": "Bonjour toi, jeune dresseur !",
+            "win": "Je t'ai battu ! Ha ha!",
+            "lose": "Pas possible, j'étais pourtant sûr de te battre..."
+        },
+        {
+            "opening": "Est-ce que je te fais bugger ?",
+            "win": "Les insectes sont les meilleurs.",
+            "lose": "Maintenant c'est toi qui me fait bugger..."
+        }
+    ]
+}

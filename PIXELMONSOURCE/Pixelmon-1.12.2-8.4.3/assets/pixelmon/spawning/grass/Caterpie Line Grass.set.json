@@ -1,0 +1,86 @@
+{
+  "id": "Caterpie Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Caterpie"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 2,
+      "maxLevel": 7,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Metapod"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 7,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Butterfree"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "jungles",
+          "magical"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

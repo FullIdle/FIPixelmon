@@ -1,0 +1,229 @@
+{
+  "pixelmonName": "Klefki",
+  "pokemon": "Klefki",
+  "form": 0,
+  "stats": {
+    "HP": 57,
+    "Attack": 80,
+    "Defence": 91,
+    "Speed": 75,
+    "SpecialAttack": 80,
+    "SpecialDefence": 87
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 12,
+  "baseExp": 165,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 3.0,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.8,
+    "eye_height": 0.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "Prankster",
+    null,
+    "Magician"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Fairy Lock"
+    ],
+    "4": [
+      "Tackle"
+    ],
+    "8": [
+      "Fairy Wind"
+    ],
+    "12": [
+      "Torment"
+    ],
+    "16": [
+      "Crafty Shield"
+    ],
+    "20": [
+      "Metal Sound"
+    ],
+    "24": [
+      "Draining Kiss"
+    ],
+    "28": [
+      "Recycle"
+    ],
+    "32": [
+      "Imprison"
+    ],
+    "36": [
+      "Flash Cannon"
+    ],
+    "40": [
+      "Play Rough"
+    ],
+    "44": [
+      "Magic Room"
+    ],
+    "48": [
+      "Foul Play"
+    ],
+    "52": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Magnet Rise",
+    "Switcheroo"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Covet",
+    "Cut",
+    "Defog",
+    "Double Team",
+    "Frustration",
+    "Heal Block",
+    "Hidden Power",
+    "Lock-On",
+    "Magic Coat",
+    "Mirror Shot",
+    "Psych Up",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Substitute",
+    "Spikes",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Calm Mind",
+    "Flash Cannon",
+    "Foul Play",
+    "Stored Power",
+    "Play Rough",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Imprison",
+    "Magic Room",
+    "Round",
+    "Draining Kiss",
+    "Misty Terrain"
+  ],
+  "tmMoves7": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

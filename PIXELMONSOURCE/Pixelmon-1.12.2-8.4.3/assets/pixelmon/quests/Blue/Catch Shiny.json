@@ -1,0 +1,55 @@
+{
+	"radiant": true,
+	"weight": 0,
+	"abandonable": true,
+	"repeatable": true,
+	"color": {
+		"r": 15,
+		"g": 131,
+		"b": 255
+	},
+	"activeStage": 10,
+	"stages": [
+		{
+			"stage": 0,
+			"nextStage": 10,
+			"icon": "SPEECH_BUBBLE",
+			"objectives": [
+				"NPC_TIMED_INSERTER NPC 0.05 100 0 12000",
+				"DIALOGUE ?NPC? npcName start startYes startNo - - - - - - - - - - - -",
+				"NPC_RESPOND ?NPC? 0",
+				"NPC_RESPOND ?NPC? 1",
+				"NAME_INSERTER NAME -1"
+			],
+			"actions": [
+				"2 DIALOGUE npcName accepted goodbye - - - - - - -",
+				"2 SET_STAGE 10 -",
+				"3 DIALOGUE npcName rejected goodbye - - - - - - -"
+			]
+		},
+		{
+			"stage": 10,
+			"nextStage": 20,
+			"icon": "POKEBALL",
+			"objectives": [
+				"POKEMON_CAPTURE shiny:true 1"
+			],
+			"actions": []
+		},
+		{
+			"stage": 20,
+			"nextStage": -1,
+			"objectives": [
+				"DIALOGUE ?NPC? npcName end goodbye - - - - - - -",
+				"NPC_TALK ?NPC?"
+			],
+			"actions": [
+				"1 ITEM_GIVE pixelmon:big_nugget 1",
+				"1 XP_GIVE - 500",
+				"1 END_DIALOGUE",
+				"1 COMPLETE_QUEST"
+			]
+		}
+	],
+	"strings": {}
+}

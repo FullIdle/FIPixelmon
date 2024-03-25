@@ -1,0 +1,219 @@
+{
+  "pixelmonName": "Bewear",
+  "pokemon": "Bewear",
+  "form": -1,
+  "stats": {
+    "HP": 120,
+    "Attack": 125,
+    "Defence": 80,
+    "Speed": 60,
+    "SpecialAttack": 55,
+    "SpecialDefence": 60
+  },
+  "catchRate": 70,
+  "malePercent": 50,
+  "spawnLevel": 28,
+  "spawnLevelRange": 40,
+  "baseExp": 175,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Fighting"
+  ],
+  "height": 2.1,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Stufful"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.6,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.6,
+      "z": 0.2
+    }
+  },
+  "weight": 135.0,
+  "bounding_box": {
+    "width": 2.1,
+    "height": 2.6,
+    "eye_height": 2.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Fluffy",
+    "Klutz",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Baby-Doll Eyes",
+      "Bind",
+      "Leer",
+      "Payback",
+      "Tackle"
+    ],
+    "12": [
+      "Brutal Swing"
+    ],
+    "16": [
+      "Endure"
+    ],
+    "20": [
+      "Strength"
+    ],
+    "24": [
+      "Take Down"
+    ],
+    "30": [
+      "Flail"
+    ],
+    "36": [
+      "Hammer Arm"
+    ],
+    "42": [
+      "Thrash"
+    ],
+    "48": [
+      "Pain Split"
+    ],
+    "54": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Superpower"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Force Palm",
+    "Rollout",
+    "Stomp"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Bide",
+    "Confide",
+    "Double Team",
+    "Dual Chop",
+    "Focus Punch",
+    "Frustration",
+    "Hidden Power",
+    "Return",
+    "Roar",
+    "Role Play",
+    "Swagger",
+    "Toxic",
+    "Wide Guard"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Low Kick",
+    "Earthquake",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Superpower",
+    "Dragon Claw",
+    "Bulk Up",
+    "Close Combat",
+    "Focus Blast",
+    "Zen Headbutt",
+    "Iron Head",
+    "Work Up",
+    "Darkest Lariat",
+    "High Horsepower",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Ice Punch",
+    "Thunder Punch",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Facade",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "Payback",
+    "Fling",
+    "Drain Punch",
+    "Shadow Claw",
+    "Low Sweep",
+    "Round",
+    "Bulldoze",
+    "Brutal Swing",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,80 @@
+{
+    "data": {
+        "trainerType": "Ornithologist",
+        "minLevel": 15,
+        "maxLevel": 45,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 45
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Fearow"
+        },
+        {
+            "name": "Charizard"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Farfetchd"
+        }
+    ],
+    "names": [
+        {
+            "name": "阿金"
+        },
+        {
+            "name": "沃尔特"
+        },
+        {
+            "name": "蒙哥马利"
+        },
+        {
+            "name": "迭戈"
+        },
+        {
+            "name": "亚瑟"
+        },
+        {
+            "name": "卡勒姆"
+        },
+        {
+            "name": "盖博"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "我要带着我的飞行系神奇宝贝周游世界。",
+            "win": "我的飞行系神奇宝贝是伟大的！",
+            "lose": "不，我完美的神奇宝贝！"
+        },
+        {
+            "opening": "我很乐意看到你有着什么类型的神奇宝贝。",
+            "win": "飞行系神奇宝贝是真正的强者，这也难怪你会输。",
+            "lose": "我想其他种类的神奇宝贝也都很酷。"
+        }
+    ]
+}

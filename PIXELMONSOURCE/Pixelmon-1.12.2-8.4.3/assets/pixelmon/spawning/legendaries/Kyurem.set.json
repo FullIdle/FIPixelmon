@@ -1,0 +1,35 @@
+{
+  "id": "Kyurem",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kyurem",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dna_splicers",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mutated_ice_flats"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

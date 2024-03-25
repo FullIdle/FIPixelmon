@@ -1,0 +1,546 @@
+{
+  "pixelmonName": "Zapdos",
+  "pokemon": "Zapdos",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 90,
+    "Defence": 85,
+    "Speed": 100,
+    "SpecialAttack": 125,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 216,
+  "baseFriendship": 35,
+  "types": [
+    "Electric",
+    "Flying"
+  ],
+  "height": 1.6,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 30,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "mountedFlying": {
+    "upperAngleLimit": 40,
+    "lowerAngleLimit": -40,
+    "maxFlySpeed": 2.3,
+    "decelerationRate": 0.17,
+    "hoverDecelerationRate": 0.09,
+    "accelerationRate": 0.1,
+    "strafeAccelerationRate": 0.9,
+    "strafeRollConversion": 30,
+    "turnRate": 1.1,
+    "pitchRate": 1
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.6
+    }
+  },
+  "weight": 52.6,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.6,
+    "eye_height": 1.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    "Static"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Peck",
+      "Thunder Shock"
+    ],
+    "5": [
+      "Thunder Shock"
+    ],
+    "10": [
+      "Light Screen"
+    ],
+    "15": [
+      "Pluck"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "25": [
+      "Ancient Power"
+    ],
+    "30": [
+      "Charge"
+    ],
+    "35": [
+      "Drill Peck"
+    ],
+    "40": [
+      "Roost"
+    ],
+    "45": [
+      "Discharge"
+    ],
+    "50": [
+      "Rain Dance"
+    ],
+    "55": [
+      "Thunder"
+    ],
+    "60": [
+      "Detect"
+    ],
+    "65": [
+      "Magnetic Flux"
+    ],
+    "70": [
+      "Zap Cannon"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Rising Voltage"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Aerial Ace",
+    "Air Cutter",
+    "Bide",
+    "Charge Beam",
+    "Confide",
+    "Curse",
+    "Defog",
+    "Double Team",
+    "Double-Edge",
+    "Extrasensory",
+    "Flash",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Laser Focus",
+    "Leer",
+    "Metal Sound",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Ominous Wind",
+    "Rage",
+    "Razor Wind",
+    "Reflect",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Sky Attack",
+    "Sky Drop",
+    "Swagger",
+    "Tailwind",
+    "Take Down",
+    "Toxic",
+    "Twister",
+    "Whirlwind"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Heat Wave",
+    "Brave Bird",
+    "Wild Charge",
+    "Hurricane"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Light Screen",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Steel Wing",
+    "Sandstorm",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Swift",
+    "Weather Ball",
+    "U-turn",
+    "Round",
+    "Volt Switch",
+    "Eerie Impulse"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Steel Wing",
+    "Charge Beam",
+    "Sky Drop",
+    "Giga Impact",
+    "Volt Switch",
+    "Thunder Wave",
+    "Fly",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Steel Wing",
+    "Charge Beam",
+    "Sky Drop",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Sky Drop",
+    "Giga Impact",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Shock Wave",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Steel Wing",
+    "Roost",
+    "Charge Beam",
+    "Endure",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Shock Wave",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Steel Wing"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Roar",
+    "Toxic",
+    "Zap Cannon",
+    "Rock Smash",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Thunder",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Sandstorm",
+    "Swift",
+    "Detect",
+    "Rest",
+    "Steel Wing"
+  ],
+  "tmMoves1": [
+    "Razor Wind",
+    "Whirlwind",
+    "Toxic",
+    "Take Down",
+    "Double-Edge",
+    "Hyper Beam",
+    "Rage",
+    "Thunderbolt",
+    "Thunder",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Swift",
+    "Sky Attack",
+    "Rest",
+    "Thunder Wave",
+    "Substitute"
+  ],
+  "forms": {
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 90,
+        "Attack": 125,
+        "Defence": 90,
+        "Speed": 100,
+        "SpecialAttack": 85,
+        "SpecialDefence": 90
+      },
+      "types": [
+        "Fighting",
+        "Flying"
+      ],
+      "spawnLocations": [
+        "Land"
+      ],
+      "evYields": {
+        "Attack": 3
+      },
+      "isRideable": false,
+      "canFly": false,
+      "canSurf": false,
+      "weight": 58.2,
+      "abilities": [
+        "Defiant",
+        null,
+        null
+      ],
+      "levelUpMoves": {
+        "0": [
+          "Peck",
+          "Focus Energy"
+        ],
+        "5": [
+          "Rock Smash"
+        ],
+        "10": [
+          "Light Screen"
+        ],
+        "15": [
+          "Pluck"
+        ],
+        "20": [
+          "Agility"
+        ],
+        "25": [
+          "Ancient Power"
+        ],
+        "30": [
+          "Brick Break"
+        ],
+        "35": [
+          "Drill Peck"
+        ],
+        "40": [
+          "Quick Guard"
+        ],
+        "45": [
+          "Thunderous Kick"
+        ],
+        "50": [
+          "Bulk Up"
+        ],
+        "55": [
+          "Counter"
+        ],
+        "60": [
+          "Detect"
+        ],
+        "65": [
+          "Close Combat"
+        ],
+        "70": [
+          "Reversal"
+        ]
+      },
+      "trMoves": [
+        "Low Kick",
+        "Agility",
+        "Focus Energy",
+        "Substitute",
+        "Reversal",
+        "Endure",
+        "Sleep Talk",
+        "Taunt",
+        "Superpower",
+        "Blaze Kick",
+        "Bulk Up",
+        "Close Combat",
+        "Brave Bird",
+        "Hurricane",
+        "Throat Chop"
+      ],
+      "tmMoves8": [
+        "Mega Kick",
+        "Fly",
+        "Hyper Beam",
+        "Giga Impact",
+        "Screech",
+        "Light Screen",
+        "Rest",
+        "Snore",
+        "Protect",
+        "Scary Face",
+        "Steel Wing",
+        "Facade",
+        "Swift",
+        "Revenge",
+        "Brick Break",
+        "Bounce",
+        "U-turn",
+        "Payback",
+        "Assurance",
+        "Low Sweep",
+        "Round",
+        "Acrobatics",
+        "Retaliate",
+        "Stomping Tantrum"
+      ],
+      "tutorMoves": [
+        "Coaching",
+        "Dual Wingbeat"
+      ]
+    }
+  }
+}

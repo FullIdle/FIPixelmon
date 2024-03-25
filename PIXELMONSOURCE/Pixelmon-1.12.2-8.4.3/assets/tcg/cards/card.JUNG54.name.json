@@ -1,0 +1,58 @@
+{
+  "id": 156,
+  "setId": 2,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 39,
+  "code": "JUNG54",
+  "name": "card.JUNG54.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG54",
+      "attackNumber": 1,
+      "name": "attack.JUNG54.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.JUNG54.1.text",
+      "effects": [
+        "OPP_CONDITION:ASLEEP"
+      ]
+    },
+    {
+      "cardCode": "JUNG54",
+      "attackNumber": 2,
+      "name": "attack.JUNG54.2.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

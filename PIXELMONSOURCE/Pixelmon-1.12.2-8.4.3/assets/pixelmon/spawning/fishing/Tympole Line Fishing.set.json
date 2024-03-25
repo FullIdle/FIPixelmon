@@ -1,0 +1,110 @@
+{
+  "id": "Tympole Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tympole"
+      },
+      "stringLocationTypes": [
+        "Old Rod"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Tympole"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Palpitoad"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Palpitoad"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Seismitoad"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 36,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 7.0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/250-rainbow\"}"
+		},
+		"title": {
+			"translate": "advancements.rainbow.title"
+		},
+		"description": {
+			"translate": "advancements.rainbow.description"
+		},
+		"hidden": true
+	},
+    "parent" : "pixelmon:specs/spec_trigger",
+	"criteria": {
+		"rainbow_spec_trigger": {
+			"trigger": "pixelmon:spec_trigger",
+			"conditions" : {
+				"spec" : "f:104"
+			}
+		}
+	}
+}

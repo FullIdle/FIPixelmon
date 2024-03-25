@@ -1,0 +1,263 @@
+{
+  "pixelmonName": "Minccino",
+  "pokemon": "Minccino",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 50,
+    "Defence": 40,
+    "Speed": 75,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 25,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 5.8,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.45,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:shiny_stone"
+      },
+      "to": {
+        "name": "Cinccino"
+      },
+      "conditions": [],
+      "evoType": "interact"
+    }
+  ],
+  "abilities": [
+    "CuteCharm",
+    "Technician",
+    "SkillLink"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Baby-Doll Eyes",
+      "Pound"
+    ],
+    "4": [
+      "Helping Hand"
+    ],
+    "8": [
+      "Echoed Voice"
+    ],
+    "12": [
+      "Sing"
+    ],
+    "16": [
+      "Charm"
+    ],
+    "20": [
+      "Swift"
+    ],
+    "24": [
+      "Encore"
+    ],
+    "28": [
+      "After You"
+    ],
+    "32": [
+      "Tail Slap"
+    ],
+    "36": [
+      "Tickle"
+    ],
+    "40": [
+      "Slam"
+    ],
+    "44": [
+      "Hyper Voice"
+    ],
+    "48": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [
+    "Triple Axel"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Flail",
+    "Knock Off",
+    "Tail Whip"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Covet",
+    "Double Slap",
+    "Double Team",
+    "Frustration",
+    "Growl",
+    "Hidden Power",
+    "Mud-Slap",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Swagger",
+    "Toxic",
+    "Wake-Up Slap"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Iron Tail",
+    "Uproar",
+    "Hyper Voice",
+    "Calm Mind",
+    "Seed Bomb",
+    "Gunk Shot",
+    "Grass Knot",
+    "Work Up",
+    "Play Rough",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Dig",
+    "Safeguard",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Fake Tears",
+    "U-turn",
+    "Fling",
+    "Round",
+    "Retaliate",
+    "Tail Slap"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Retaliate",
+    "Thunder Wave",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Fling",
+    "Retaliate",
+    "Thunder Wave",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "forms": {}
+}

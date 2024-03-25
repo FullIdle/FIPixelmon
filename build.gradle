@@ -1,0 +1,105 @@
+buildscript {
+    repositories {
+        maven { url = 'https://repo.mc9y.com/snapshots' }
+/*
+        maven { url = 'https://repo.spongepowered.org/maven' }
+*/
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'net.minecraftforge.gradle:ForgeGradle:6.0.+'
+        classpath 'org.spongepowered:mixingradle:0.7-SNAPSHOT'
+    }
+}
+apply plugin: 'net.minecraftforge.gradle'
+apply plugin: 'eclipse'
+apply plugin: 'java'
+apply plugin: 'org.spongepowered.mixin'
+
+java {
+    sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
+}
+
+//Forge
+minecraft {
+    mappings channel: 'snapshot', version: '20171003-1.12'
+    runs {
+        client {
+            workingDirectory project.file('run')
+            property 'forge.logging.markers', 'SCAN,REGISTRIES,REGISTRYDUMP'
+            property 'forge.logging.console.level', 'debug'
+        }
+        server {
+            property 'forge.logging.markers', 'SCAN,REGISTRIES,REGISTRYDUMP'
+            property 'forge.logging.console.level', 'debug'
+        }
+    }
+}
+
+group = 'com.fipixelmonmod.fipixelmon.FIPixelmon'
+version = '1.0'
+def modid = 'fipixelmon'
+
+//depend
+repositories {
+    mavenCentral()
+    mavenLocal()
+    maven { url 'https://raw.github.com/FullIdle/maven-repository/main/' }
+    maven { url "https://maven.cleanroommc.com" }
+}
+
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2860'
+
+    compileOnly 'com.pixelmonmod.pixelmon:Pixelmon:1.12.2-8.4.3'
+    annotationProcessor 'org.ow2.asm:asm-debug-all:5.2'
+    annotationProcessor 'com.google.guava:guava:32.1.2-jre'
+    annotationProcessor 'com.google.code.gson:gson:2.8.9'
+    implementation('zone.rong:mixinbooter:8.8') {
+        transitive = false
+    }
+    annotationProcessor('zone.rong:mixinbooter:8.8') {
+        transitive = false
+    }
+
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    compileOnly 'org.projectlombok:lombok:1.18.28'
+    annotationProcessor 'org.projectlombok:lombok:1.18.28'
+}
+//some setting
+test {
+    useJUnitPlatform()
+}
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+/*processResources {
+    setFilteringCharset("UTF-8")
+    expand project.properties
+}*/
+
+//mixin
+mixin {
+    add sourceSets.main, "mixins.${modid}.refmap.json"
+    config "mixins.${modid}.json"
+}
+
+
+//pack
+jar.finalizedBy('reobfJar')
+
+jar {
+    manifest {
+        attributes([
+                "Specification-Title"     : "fipixelmon",
+                "Specification-Version"   : "1",
+                "Implementation-Title"    : project.name,
+                "Implementation-Version"  : "${version}",
+                "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ"),
+                "FMLCorePlugin": "com.fipixelmonmod.fipixelmon.CorePlugin",
+                "FMLCorePluginContainsFMLMod": false
+        ])
+    }
+}

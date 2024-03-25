@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Rookidee",
+  "pokemon": "Rookidee",
+  "form": 0,
+  "stats": {
+    "HP": 38,
+    "Attack": 47,
+    "Defence": 35,
+    "SpecialAttack": 33,
+    "SpecialDefence": 35,
+    "Speed": 57
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 8,
+  "spawnLevelRange": 10,
+  "baseExp": 49,
+  "baseFriendship": 50,
+  "types": [
+    "Flying"
+  ],
+  "height": 0.2,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 1.8,
+  "bounding_box": {
+    "width": 0.35,
+    "height": 0.25,
+    "eye_height": 0.15
+  },
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Corvisquire"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "KeenEye",
+    "Unnerve",
+    "BigPecks"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Peck"
+    ],
+    "4": [
+      "Power Trip"
+    ],
+    "8": [
+      "Hone Claws"
+    ],
+    "12": [
+      "Fury Attack"
+    ],
+    "16": [
+      "Pluck"
+    ],
+    "20": [
+      "Taunt"
+    ],
+    "24": [
+      "Scary Face"
+    ],
+    "28": [
+      "Drill Peck"
+    ],
+    "32": [
+      "Swagger"
+    ],
+    "36": [
+      "Brave Bird"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Rock Smash",
+    "Roost",
+    "Sand Attack",
+    "Sky Attack",
+    "Spite",
+    "Tailwind"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Agility",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Brave Bird",
+    "Nasty Plot",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Facade",
+    "Swift",
+    "Revenge",
+    "Fake Tears",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Round",
+    "Retaliate",
+    "Air Slash"
+  ],
+  "forms": {}
+}

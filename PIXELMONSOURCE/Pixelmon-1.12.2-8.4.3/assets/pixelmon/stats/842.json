@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Appletun",
+  "pokemon": "Appletun",
+  "form": 0,
+  "stats": {
+    "HP": 110,
+    "Attack": 85,
+    "Defence": 80,
+    "SpecialAttack": 100,
+    "SpecialDefence": 80,
+    "Speed": 30
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 6,
+  "baseExp": 170,
+  "baseFriendship": 50,
+  "types": [
+    "Grass",
+    "Dragon"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Flapple",
+    "Applin"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "weight": 13.0,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.4,
+    "eye_height": 0.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "Ripen",
+    "Gluttony",
+    "ThickFat"
+  ],
+  "eggGroups": [
+    "Grass",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Growth",
+      "Headbutt",
+      "Recycle",
+      "Sweet Scent",
+      "Withdraw"
+    ],
+    "4": [
+      "Curse"
+    ],
+    "8": [
+      "Stomp"
+    ],
+    "12": [
+      "Leech Seed"
+    ],
+    "16": [
+      "Protect"
+    ],
+    "20": [
+      "Bullet Seed"
+    ],
+    "24": [
+      "Recover"
+    ],
+    "28": [
+      "Apple Acid"
+    ],
+    "32": [
+      "Body Slam"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "44": [
+      "Energy Ball"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Recycle",
+    "Rollout",
+    "Sucker Punch"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Earthquake",
+    "Amnesia",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Superpower",
+    "Iron Defense",
+    "Gyro Ball",
+    "Seed Bomb",
+    "Dragon Pulse",
+    "Energy Ball",
+    "Grass Knot",
+    "Heavy Slam",
+    "High Horsepower",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Bullet Seed",
+    "Payback",
+    "Round",
+    "Bulldoze"
+  ],
+  "forms": {
+    "1": {
+      "bounding_box": {
+        "width": 0.4,
+        "height": 0.5,
+        "eye_height": 0.1
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "Relicanth",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Relicanth",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "deep_ocean"
+        ],
+        "maxY": 32
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Relicanth",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "anticondition": {
+        "dimensions": [
+          "73"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Relicanth",
+        "form": 102
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:infinite_ocean"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

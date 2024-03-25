@@ -1,0 +1,23 @@
+{
+  "id": "Ursaring",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ursaring"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 30,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

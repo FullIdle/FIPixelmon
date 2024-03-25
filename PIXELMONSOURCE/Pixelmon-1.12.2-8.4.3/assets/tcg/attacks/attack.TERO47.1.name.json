@@ -1,0 +1,13 @@
+{
+  "cardCode": "TERO47",
+  "attackNumber": 1,
+  "name": "attack.TERO47.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

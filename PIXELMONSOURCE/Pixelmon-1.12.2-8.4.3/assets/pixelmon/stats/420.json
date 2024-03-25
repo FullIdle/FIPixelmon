@@ -1,0 +1,261 @@
+{
+  "pixelmonName": "Cherubi",
+  "pokemon": "Cherubi",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 35,
+    "Defence": 45,
+    "Speed": 35,
+    "SpecialAttack": 62,
+    "SpecialDefence": 53
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 10,
+  "baseExp": 68,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 3.3,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.4,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Cherrim"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Sunny Day"
+      ]
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Morning Sun",
+      "Tackle"
+    ],
+    "5": [
+      "Leafage"
+    ],
+    "10": [
+      "Growth"
+    ],
+    "15": [
+      "Helping Hand"
+    ],
+    "20": [
+      "Magical Leaf"
+    ],
+    "26": [
+      "Leech Seed"
+    ],
+    "30": [
+      "Take Down"
+    ],
+    "35": [
+      "Petal Blizzard"
+    ],
+    "40": [
+      "Worry Seed"
+    ],
+    "45": [
+      "Solar Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Aromatherapy",
+    "Defense Curl",
+    "Flower Shield",
+    "Heal Pulse",
+    "Healing Wish",
+    "Nature Power",
+    "Razor Leaf",
+    "Rollout",
+    "Sweet Scent",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Flash",
+    "Frustration",
+    "Grass Whistle",
+    "Hidden Power",
+    "Lucky Chant",
+    "Natural Gift",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Synthesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Seed Bomb",
+    "Energy Ball",
+    "Grass Knot",
+    "Dazzling Gleam",
+    "Pollen Puff"
+  ],
+  "tmMoves8": [
+    "Magical Leaf",
+    "Solar Beam",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Weather Ball",
+    "Bullet Seed",
+    "Round",
+    "Draining Kiss",
+    "Grassy Terrain"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Energy Ball",
+    "Endure",
+    "Flash",
+    "Swords Dance",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,47 @@
+{
+  "attackIndex": 588,
+  "attackName": "Hyperspace Hole",
+  "attackType": "Psychic",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Feint"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Shattered Psyche",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

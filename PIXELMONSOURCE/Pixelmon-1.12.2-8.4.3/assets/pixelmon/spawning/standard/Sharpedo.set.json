@@ -1,0 +1,28 @@
+{
+  "id": "Sharpedo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sharpedo"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

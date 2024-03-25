@@ -1,0 +1,73 @@
+{
+  "attackIndex": 6,
+  "attackName": "Poison Powder",
+  "attackType": "Poison",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 35,
+  "ppMax": 56,
+  "accuracy": 75,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Poison",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Poison"
+    }
+  ],
+  "animations": [
+      {
+          "id": "stationary",
+          "effects": {
+              "0": {
+                  "id": "RAIN",
+                  "texture": "ORB",
+                  "scale": 0.05,
+                  "durationTicks": 25,
+                  "power": 80,
+                  "heightAboveTarget": 1,
+                  "speed": 0.15,
+                  "rgb": [120, 0, 180]
+              },
+              "5": {
+                  "id": "RAIN",
+                  "texture": "ORB",
+                  "scale": 0.05,
+                  "durationTicks": 15,
+                  "power": 40,
+                  "heightAboveTarget": 1,
+                  "speed": 0.12,
+                  "rgb": [230, 0, 255]
+              }
+          }
+      }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Z-Poison Powder",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Defence",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

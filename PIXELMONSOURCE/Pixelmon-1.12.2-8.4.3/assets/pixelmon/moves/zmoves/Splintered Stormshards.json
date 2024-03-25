@@ -1,0 +1,30 @@
+{
+  "attackIndex": -1,
+  "attackName": "Splintered Stormshards",
+  "attackType": "Rock",
+  "attackCategory": "PHYSICAL",
+  "basePower": 190,
+  "ppBase": 1,
+  "ppMax": 1,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+  {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ClearTerrain"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

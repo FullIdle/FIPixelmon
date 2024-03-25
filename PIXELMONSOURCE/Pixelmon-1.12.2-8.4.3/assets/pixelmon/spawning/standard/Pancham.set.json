@@ -1,0 +1,35 @@
+{
+  "id": "Pancham",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pancham"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "rw_bur_oak_forest",
+          "bamboo_forest"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

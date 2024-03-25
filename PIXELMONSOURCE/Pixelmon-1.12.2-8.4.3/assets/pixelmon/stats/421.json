@@ -1,0 +1,274 @@
+{
+  "pixelmonName": "Cherrim",
+  "pokemon": "Cherrim",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 60,
+    "Defence": 70,
+    "Speed": 85,
+    "SpecialAttack": 87,
+    "SpecialDefence": 78
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 10,
+  "baseExp": 158,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cherubi"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 9.3,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.45,
+    "eye_height": 0.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "FlowerGift",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Flower Shield",
+      "Growth",
+      "Leafage",
+      "Morning Sun",
+      "Sunny Day",
+      "Tackle"
+    ],
+    "15": [
+      "Helping Hand"
+    ],
+    "20": [
+      "Magical Leaf"
+    ],
+    "28": [
+      "Leech Seed"
+    ],
+    "34": [
+      "Take Down"
+    ],
+    "41": [
+      "Petal Blizzard"
+    ],
+    "48": [
+      "Worry Seed"
+    ],
+    "55": [
+      "Solar Beam"
+    ],
+    "62": [
+      "Petal Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Aromatherapy",
+    "Defense Curl",
+    "Flower Shield",
+    "Heal Pulse",
+    "Healing Wish",
+    "Nature Power",
+    "Razor Leaf",
+    "Rollout",
+    "Sweet Scent",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Flash",
+    "Frustration",
+    "Grass Whistle",
+    "Hidden Power",
+    "Laser Focus",
+    "Lucky Chant",
+    "Natural Gift",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Synthesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Seed Bomb",
+    "Energy Ball",
+    "Grass Knot",
+    "Play Rough",
+    "Dazzling Gleam",
+    "Pollen Puff"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Magical Leaf",
+    "Solar Beam",
+    "Solar Blade",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Weather Ball",
+    "Bullet Seed",
+    "Round",
+    "Draining Kiss",
+    "Grassy Terrain"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Giga Drain",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Energy Ball",
+    "Endure",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "bounding_box": {
+        "width": 0.4,
+        "height": 0.6,
+        "eye_height": 0.3
+      }
+    }
+  }
+}

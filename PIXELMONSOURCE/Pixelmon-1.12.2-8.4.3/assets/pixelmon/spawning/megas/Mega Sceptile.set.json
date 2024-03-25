@@ -1,0 +1,22 @@
+{
+  "id": "Mega Sceptile",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sceptile"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

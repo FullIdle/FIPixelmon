@@ -1,0 +1,25 @@
+{
+  "id": "Clawitzer",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Clawitzer"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "pixelmonName": "Mienfoo",
+  "pokemon": "Mienfoo",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 85,
+    "Defence": 50,
+    "Speed": 65,
+    "SpecialAttack": 55,
+    "SpecialDefence": 50
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 11,
+  "baseExp": 70,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting"
+  ],
+  "height": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 20.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.9,
+    "eye_height": 0.66
+  },
+  "evolutions": [
+    {
+      "level": 50,
+      "to": {
+        "name": "Mienshao"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    "Regenerator",
+    "Reckless"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Detect",
+      "Pound"
+    ],
+    "5": [
+      "Fake Out"
+    ],
+    "10": [
+      "Reversal"
+    ],
+    "15": [
+      "Fury Swipes"
+    ],
+    "20": [
+      "Quick Guard"
+    ],
+    "25": [
+      "Force Palm"
+    ],
+    "30": [
+      "U-turn"
+    ],
+    "35": [
+      "Drain Punch"
+    ],
+    "40": [
+      "Hone Claws"
+    ],
+    "45": [
+      "Aura Sphere"
+    ],
+    "51": [
+      "Bounce"
+    ],
+    "55": [
+      "Calm Mind"
+    ],
+    "60": [
+      "High Jump Kick"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching"
+  ],
+  "eggMoves": [
+    "Feint",
+    "Focus Punch",
+    "Knock Off",
+    "Vital Throw"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Double Slap",
+    "Double Team",
+    "Dual Chop",
+    "Frustration",
+    "Hidden Power",
+    "Jump Kick",
+    "Me First",
+    "Meditate",
+    "Power-Up Punch",
+    "Psych Up",
+    "Return",
+    "Rock Smash",
+    "Role Play",
+    "Secret Power",
+    "Smelling Salts",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Low Kick",
+    "Agility",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Taunt",
+    "Bulk Up",
+    "Calm Mind",
+    "Close Combat",
+    "Aura Sphere",
+    "Poison Jab",
+    "Focus Blast",
+    "Stone Edge",
+    "Grass Knot",
+    "Ally Switch",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Dig",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "Bounce",
+    "U-turn",
+    "Payback",
+    "Fling",
+    "Drain Punch",
+    "Low Sweep",
+    "Round",
+    "Acrobatics",
+    "Retaliate"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Acrobatics",
+    "Payback",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Acrobatics",
+    "Payback",
+    "Retaliate",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Acrobatics",
+    "Payback",
+    "Retaliate",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Grass Knot",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

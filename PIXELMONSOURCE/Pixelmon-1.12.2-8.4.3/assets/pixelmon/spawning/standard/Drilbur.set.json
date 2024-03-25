@@ -1,0 +1,20 @@
+{
+  "id": "Drilbur",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Drilbur"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 23,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 80
+      },
+      "rarity": 130.0
+    }
+  ]
+}

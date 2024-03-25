@@ -1,0 +1,50 @@
+{
+  "attackIndex": 305,
+  "attackName": "Heal Bell",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "HealBell"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Heal Bell",
+      "basePower": 0,
+      "effects": [
+        {
+          "increment": 100,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Recover"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "pixelmonName": "Sewaddle",
+  "pokemon": "Sewaddle",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 53,
+    "Defence": 70,
+    "Speed": 42,
+    "SpecialAttack": 40,
+    "SpecialDefence": 60
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 62,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Grass"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 2.5,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.3,
+    "eye_height": 0.15
+  },
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Swadloon"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Protect"
+      ]
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "Chlorophyll",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "String Shot",
+      "Tackle"
+    ],
+    "8": [
+      "Bug Bite"
+    ],
+    "15": [
+      "Razor Leaf"
+    ],
+    "22": [
+      "Struggle Bug"
+    ],
+    "29": [
+      "Endure"
+    ],
+    "31": [
+      "Sticky Web"
+    ],
+    "36": [
+      "Bug Buzz"
+    ],
+    "43": [
+      "Flail"
+    ]
+  },
+  "tutorMoves": [
+    "Bug Bite",
+    "Electroweb",
+    "Giga Drain",
+    "Iron Defense",
+    "Magic Coat",
+    "Seed Bomb",
+    "Signal Beam",
+    "Snore",
+    "Synthesis",
+    "Worry Seed"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Air Slash",
+    "Baton Pass",
+    "Camouflage",
+    "Grassy Terrain",
+    "Me First",
+    "Mind Reader",
+    "Razor Wind",
+    "Screech",
+    "Silver Wind"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Flash",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Flash",
+    "Struggle Bug",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Flash",
+    "Struggle Bug",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

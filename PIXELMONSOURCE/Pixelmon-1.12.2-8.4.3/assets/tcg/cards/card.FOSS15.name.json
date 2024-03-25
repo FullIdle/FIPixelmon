@@ -1,0 +1,47 @@
+{
+  "id": 181,
+  "setId": 3,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 145,
+  "code": "FOSS15",
+  "name": "card.FOSS15.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS15",
+      "attackNumber": 1,
+      "name": "attack.FOSS15.1.name",
+      "energy": [
+        "LIGHTNING",
+        "LIGHTNING",
+        "LIGHTNING",
+        "LIGHTNING"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.FOSS15.1.text",
+      "effects": [
+        "THUNDERSTORM:20:10"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 2,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

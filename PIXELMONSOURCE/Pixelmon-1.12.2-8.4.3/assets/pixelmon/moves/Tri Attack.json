@@ -1,0 +1,90 @@
+{
+  "attackIndex": 191,
+  "attackName": "Tri Attack",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "TriAttack"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"atTarget": false,
+				"rgb": [255, 255, 0],
+				"scale": 0.25,
+				"segments": 3
+			},
+			"3": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"atTarget": false,
+				"rgb": [0, 255, 255],
+				"scale": 0.25,
+				"segments": 3
+			},
+			"6": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"atTarget": false,
+				"rgb": [255, 51, 51],
+				"scale": 0.25,
+				"segments": 3
+			},
+			"9": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 0],
+				"scale": 0.8
+			},
+			"16": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [0, 255, 255],
+				"scale": 0.8
+			},
+			"23": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [255, 51, 51],
+				"scale": 0.8
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

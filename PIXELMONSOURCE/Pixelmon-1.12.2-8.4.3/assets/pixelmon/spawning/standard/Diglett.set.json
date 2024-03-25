@@ -1,0 +1,156 @@
+{
+  "id": "Diglett",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Diglett",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ],
+        "maxY": 70
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Diglett",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ],
+        "maxY": 70
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Diglett",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Diglett",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Diglett",
+        "form": 108
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ],
+        "maxY": 70
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Diglett",
+        "form": 108
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 5.0
+    }
+  ]
+}

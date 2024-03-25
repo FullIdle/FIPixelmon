@@ -1,0 +1,63 @@
+{
+  "attackIndex": 207,
+  "attackName": "Will-O-Wisp",
+  "attackType": "Fire",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Burn",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Burn"
+    }
+  ],
+  "animations": [
+      {
+          "id": "stationary",
+          "effects": {
+              "0": {
+                  "id": "BEAM",
+                  "texture": "NORMAL",
+                  "power": -40,
+                  "scale": 0.3,
+                  "segments": 3,
+                  "speed": 0.2,
+                  "variation": 0.7,
+                  "rgb": [108, 0, 162]
+              }
+          }
+      }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "firium_z",
+      "attackName": "Z-Will-O-Wisp",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "type": "Attack",
+		  "amount": 1,
+		  "isUser": true,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "StatsEffect"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

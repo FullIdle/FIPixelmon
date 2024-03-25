@@ -1,0 +1,580 @@
+{
+  "allPossibleTrades": [
+    {
+      "offer": {
+        "name": "Abra"
+      },
+      "exchange": {
+        "name": "MrMime"
+      }
+    },
+    {
+      "offer": {
+        "name": "Nidoranmale"
+      },
+      "exchange": {
+        "name": "Nidoranfemale"
+      }
+    },
+    {
+      "offer": {
+        "name": "Nidorino"
+      },
+      "exchange": {
+        "name": "Nidorina"
+      }
+    },
+    {
+      "offer": {
+        "name": "Slowbro"
+      },
+      "exchange": {
+        "name": "Lickitung"
+      }
+    },
+    {
+      "offer": {
+        "name": "Poliwhirl"
+      },
+      "exchange": {
+        "name": "Jynx"
+      }
+    },
+    {
+      "offer": {
+        "name": "Spearow"
+      },
+      "exchange": {
+        "name": "Farfetchd"
+      }
+    },
+    {
+      "offer": {
+        "name": "Raichu"
+      },
+      "exchange": {
+        "name": "Electrode"
+      }
+    },
+    {
+      "offer": {
+        "name": "Venonat"
+      },
+      "exchange": {
+        "name": "Tangela"
+      }
+    },
+    {
+      "offer": {
+        "name": "Ponyta"
+      },
+      "exchange": {
+        "name": "Seel"
+      }
+    },
+    {
+      "offer": {
+        "name": "Jigglypuff"
+      },
+      "exchange": {
+        "name": "MrMime"
+      }
+    },
+    {
+      "offer": {
+        "name": "Rattata"
+      },
+      "exchange": {
+        "name": "Poliwag"
+      }
+    },
+    {
+      "offer": {
+        "name": "Rhydon"
+      },
+      "exchange": {
+        "name": "Kangaskhan"
+      }
+    },
+    {
+      "offer": {
+        "name": "Persian"
+      },
+      "exchange": {
+        "name": "Tauros"
+      }
+    },
+    {
+      "offer": {
+        "name": "Machoke"
+      },
+      "exchange": {
+        "name": "Haunter"
+      }
+    },
+    {
+      "offer": {
+        "name": "Pidgey"
+      },
+      "exchange": {
+        "name": "Farfetchd"
+      }
+    },
+    {
+      "offer": {
+        "name": "Kadabra"
+      },
+      "exchange": {
+        "name": "Graveler"
+      }
+    },
+    {
+      "offer": {
+        "name": "Seel"
+      },
+      "exchange": {
+        "name": "Slowpoke"
+      }
+    },
+    {
+      "offer": {
+        "name": "Growlithe"
+      },
+      "exchange": {
+        "name": "Krabby"
+      }
+    },
+    {
+      "offer": {
+        "name": "Clefairy"
+      },
+      "exchange": {
+        "name": "MrMime"
+      }
+    },
+    {
+      "offer": {
+        "name": "Cubone"
+      },
+      "exchange": {
+        "name": "Machoke"
+      }
+    },
+    {
+      "offer": {
+        "name": "Lickitung"
+      },
+      "exchange": {
+        "name": "Dugtrio"
+      }
+    },
+    {
+      "offer": {
+        "name": "Tangela"
+      },
+      "exchange": {
+        "name": "Parasect"
+      }
+    },
+    {
+      "offer": {
+        "name": "Golduck"
+      },
+      "exchange": {
+        "name": "Rhydon"
+      }
+    },
+    {
+      "offer": {
+        "name": "Growlithe"
+      },
+      "exchange": {
+        "name": "Dewgong"
+      }
+    },
+    {
+      "offer": {
+        "name": "Kangaskhan"
+      },
+      "exchange": {
+        "name": "Muk"
+      }
+    },
+    {
+      "offer": {
+        "name": "Bellsprout"
+      },
+      "exchange": {
+        "name": "Onix"
+      }
+    },
+    {
+      "offer": {
+        "name": "Drowzee"
+      },
+      "exchange": {
+        "name": "Machop"
+      }
+    },
+    {
+      "offer": {
+        "name": "Krabby"
+      },
+      "exchange": {
+        "name": "Voltorb"
+      }
+    },
+    {
+      "offer": {
+        "name": "Dragonair"
+      },
+      "exchange": {
+        "name": "Rhydon"
+      }
+    },
+    {
+      "offer": {
+        "name": "Chansey"
+      },
+      "exchange": {
+        "name": "Aerodactyl"
+      }
+    },
+    {
+      "offer": {
+        "name": "Gloom"
+      },
+      "exchange": {
+        "name": "Rapidash"
+      }
+    },
+    {
+      "offer": {
+        "name": "Abra"
+      },
+      "exchange": {
+        "name": "Machop"
+      }
+    },
+    {
+      "offer": {
+        "name": "Dragonair"
+      },
+      "exchange": {
+        "name": "Dodrio"
+      }
+    },
+    {
+      "offer": {
+        "name": "Haunter"
+      },
+      "exchange": {
+        "name": "Xatu"
+      }
+    },
+    {
+      "offer": {
+        "name": "Dugtrio"
+      },
+      "exchange": {
+        "name": "Magneton"
+      }
+    },
+    {
+      "offer": {
+        "name": "Slakoth"
+      },
+      "exchange": {
+        "name": "Makuhita"
+      }
+    },
+    {
+      "offer": {
+        "name": "Pikachu"
+      },
+      "exchange": {
+        "name": "Skitty"
+      }
+    },
+    {
+      "offer": {
+        "name": "Bellossom"
+      },
+      "exchange": {
+        "name": "Corsola"
+      }
+    },
+    {
+      "offer": {
+        "name": "Nidoranfemale"
+      },
+      "exchange": {
+        "name": "Nidoranmale"
+      }
+    },
+    {
+      "offer": {
+        "name": "Nidorina"
+      },
+      "exchange": {
+        "name": "Nidorino"
+      }
+    },
+    {
+      "offer": {
+        "name": "Golduck"
+      },
+      "exchange": {
+        "name": "Lickitung"
+      }
+    },
+    {
+      "offer": {
+        "name": "Ralts"
+      },
+      "exchange": {
+        "name": "Seedot"
+      }
+    },
+    {
+      "offer": {
+        "name": "Volbeat"
+      },
+      "exchange": {
+        "name": "Plusle"
+      }
+    },
+    {
+      "offer": {
+        "name": "Bagon"
+      },
+      "exchange": {
+        "name": "Horsea"
+      }
+    },
+    {
+      "offer": {
+        "name": "Skitty"
+      },
+      "exchange": {
+        "name": "Meowth"
+      }
+    },
+    {
+      "offer": {
+        "name": "Togepi"
+      },
+      "exchange": {
+        "name": "Elekid"
+      }
+    },
+    {
+      "offer": {
+        "name": "Togetic"
+      },
+      "exchange": {
+        "name": "Elekid"
+      }
+    },
+    {
+      "offer": {
+        "name": "Trapinch"
+      },
+      "exchange": {
+        "name": "Meditite"
+      }
+    },
+    {
+      "offer": {
+        "name": "Surskit"
+      },
+      "exchange": {
+        "name": "Shuckle"
+      }
+    },
+    {
+      "offer": {
+        "name": "Wooper"
+      },
+      "exchange": {
+        "name": "Larvitar"
+      }
+    },
+    {
+      "offer": {
+        "name": "Machop"
+      },
+      "exchange": {
+        "name": "Abra"
+      }
+    },
+    {
+      "offer": {
+        "name": "Buizel"
+      },
+      "exchange": {
+        "name": "Chatot"
+      }
+    },
+    {
+      "offer": {
+        "name": "Medicham"
+      },
+      "exchange": {
+        "name": "Haunter"
+      }
+    },
+    {
+      "offer": {
+        "name": "Finneon"
+      },
+      "exchange": {
+        "name": "Magikarp"
+      }
+    },
+    {
+      "offer": {
+        "name": "Forretress"
+      },
+      "exchange": {
+        "name": "Beldum"
+      }
+    },
+    {
+      "offer": {
+        "name": "Bonsly"
+      },
+      "exchange": {
+        "name": "Rhyhorn"
+      }
+    },
+    {
+      "offer": {
+        "name": "Onix"
+      },
+      "exchange": {
+        "name": "Steelix"
+      }
+    },
+    {
+      "offer": {
+        "name": "Cottonee"
+      },
+      "exchange": {
+        "name": "Petilil"
+      }
+    },
+    {
+      "offer": {
+        "name": "Petilil"
+      },
+      "exchange": {
+        "name": "Cottonee"
+      }
+    },
+    {
+      "offer": {
+        "name": "Minccino"
+      },
+      "exchange": {
+        "name": "Basculin"
+      }
+    },
+    {
+      "offer": {
+        "name": "Boldore"
+      },
+      "exchange": {
+        "name": "Emolga"
+      }
+    },
+    {
+      "offer": {
+        "name": "Ditto"
+      },
+      "exchange": {
+        "name": "Rotom"
+      }
+    },
+    {
+      "offer": {
+        "name": "Cinccino"
+      },
+      "exchange": {
+        "name": "Munchlax"
+      }
+    },
+    {
+      "offer": {
+        "name": "Emolga"
+      },
+      "exchange": {
+        "name": "Gigalith"
+      }
+    },
+    {
+      "offer": {
+        "name": "Mantine"
+      },
+      "exchange": {
+        "name": "Tangrowth"
+      }
+    },
+    {
+      "offer": {
+        "name": "Excadrill"
+      },
+      "exchange": {
+        "name": "Ambipom"
+      }
+    },
+    {
+      "offer": {
+        "name": "Hippowdon"
+      },
+      "exchange": {
+        "name": "Alakazam"
+      }
+    },
+    {
+      "offer": {
+        "name": "Luvdisc"
+      },
+      "exchange": {
+        "name": "Steelix"
+      }
+    },
+    {
+      "offer": {
+        "name": "Jigglypuff"
+      },
+      "exchange": {
+        "name": "Bisharp"
+      }
+    },
+    {
+      "offer": {
+        "name": "Gyarados"
+      },
+      "exchange": {
+        "name": "Magikarp"
+      }
+    },
+    {
+      "offer": {
+        "name": "Butterfree"
+      },
+      "exchange": {
+        "name": "Beedrill"
+      }
+    },
+    {
+      "offer": {
+        "name": "Beedrill"
+      },
+      "exchange": {
+        "name": "Butterfree"
+      }
+    }
+  ]
+}

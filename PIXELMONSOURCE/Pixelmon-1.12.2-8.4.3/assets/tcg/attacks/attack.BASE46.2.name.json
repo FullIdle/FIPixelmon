@@ -1,0 +1,21 @@
+{
+  "cardCode": "BASE46",
+  "attackNumber": 2,
+  "name": "attack.BASE46.2.name",
+  "energy": [
+    "FIRE",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.BASE46.2.text",
+  "effectsString": "SELF_DISCARD:FIRE:1",
+  "effects": [
+    {
+      "onMe": true,
+      "energy": "FIRE",
+      "count": 1,
+      "needCoinSide": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Tepig",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tepig"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

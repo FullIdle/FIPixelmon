@@ -1,0 +1,80 @@
+{
+  "id": "Deerling",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Deerling",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "birches"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Deerling",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "magical"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Deerling",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "redwoods",
+          "taigas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Deerling",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

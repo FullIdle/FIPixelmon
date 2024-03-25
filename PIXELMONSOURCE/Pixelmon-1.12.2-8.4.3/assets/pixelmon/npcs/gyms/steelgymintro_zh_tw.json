@@ -1,0 +1,25 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "engineer.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "喬"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "歡迎來到我們的施工現場！"
+        },
+        {
+          "text": "我們的到館館主喜歡不斷地建設東西！"
+        }
+      ]
+    }
+  ]
+}

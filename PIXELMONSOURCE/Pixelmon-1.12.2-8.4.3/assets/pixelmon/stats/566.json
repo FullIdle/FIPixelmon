@@ -1,0 +1,298 @@
+{
+  "pixelmonName": "Archen",
+  "pokemon": "Archen",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 112,
+    "Defence": 45,
+    "Speed": 70,
+    "SpecialAttack": 74,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 20,
+  "spawnLevelRange": 17,
+  "baseExp": 71,
+  "baseFriendship": 70,
+  "types": [
+    "Rock",
+    "Flying"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 9.5,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Archeops"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Defeatist",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Flying",
+    "Water3"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Quick Attack"
+    ],
+    "3": [
+      "Rock Throw"
+    ],
+    "6": [
+      "Wing Attack"
+    ],
+    "9": [
+      "Dragon Breath"
+    ],
+    "12": [
+      "Ancient Power"
+    ],
+    "15": [
+      "Pluck"
+    ],
+    "18": [
+      "Quick Guard"
+    ],
+    "21": [
+      "U-turn"
+    ],
+    "24": [
+      "Rock Slide"
+    ],
+    "27": [
+      "Scary Face"
+    ],
+    "30": [
+      "Crunch"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "36": [
+      "Tailwind"
+    ],
+    "39": [
+      "Dragon Claw"
+    ],
+    "42": [
+      "Thrash"
+    ],
+    "45": [
+      "Endeavor"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Lash Out",
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Bite",
+    "Defog",
+    "Double Team",
+    "Head Smash",
+    "Knock Off",
+    "Switcheroo"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Aqua Tail",
+    "Confide",
+    "Cut",
+    "Frustration",
+    "Hidden Power",
+    "Hone Claws",
+    "Return",
+    "Roar",
+    "Rock Polish",
+    "Rock Smash",
+    "Roost",
+    "Secret Power",
+    "Smack Down",
+    "Swagger",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Uproar",
+    "Heat Wave",
+    "Taunt",
+    "Iron Defense",
+    "Dragon Claw",
+    "Dragon Pulse",
+    "Earth Power",
+    "Zen Headbutt",
+    "Stone Edge",
+    "Stealth Rock",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Steel Wing",
+    "Attract",
+    "Sandstorm",
+    "Facade",
+    "Swift",
+    "Rock Tomb",
+    "Bounce",
+    "Rock Blast",
+    "U-turn",
+    "Assurance",
+    "Shadow Claw",
+    "Round",
+    "Acrobatics",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Acrobatics",
+    "Shadow Claw",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Acrobatics",
+    "Shadow Claw",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Acrobatics",
+    "Shadow Claw",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Pluck",
+    "U-turn",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

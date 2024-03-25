@@ -1,0 +1,26 @@
+{
+  "id": "Gastrodon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gastrodon"
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

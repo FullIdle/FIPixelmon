@@ -1,0 +1,39 @@
+{
+  "id": "Binacle Line Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Binacle"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 19,
+      "maxLevel": 28,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Barbaracle"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 40,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "pixelmonName": "Regieleki",
+  "pokemon": "Regieleki",
+  "form": 0,
+  "stats": {
+    "HP": 80,
+    "Attack": 100,
+    "Defence": 50,
+    "SpecialAttack": 100,
+    "SpecialDefence": 50,
+    "Speed": 200
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.6,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "aggressive": 0,
+    "passive": 100,
+    "timid": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.65,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.65,
+      "z": -0.3
+    }
+  },
+  "weight": 145.0,
+  "bounding_box": {
+    "width": 3.0,
+    "height": 5.0,
+    "eye_height": 3.5
+  },
+  "evolutions": [],
+  "abilities": [
+    "Transistor",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Rapid Spin",
+      "Thunder Shock"
+    ],
+    "6": [
+      "Electroweb"
+    ],
+    "12": [
+      "Ancient Power"
+    ],
+    "18": [
+      "Shock Wave"
+    ],
+    "24": [
+      "Thunder Wave"
+    ],
+    "30": [
+      "Extreme Speed"
+    ],
+    "36": [
+      "Thunder Cage"
+    ],
+    "42": [
+      "Thunderbolt"
+    ],
+    "48": [
+      "Magnet Rise"
+    ],
+    "54": [
+      "Thrash"
+    ],
+    "60": [
+      "Lock-On"
+    ],
+    "66": [
+      "Zap Cannon"
+    ],
+    "72": [
+      "Hyper Beam"
+    ],
+    "78": [
+      "Explosion"
+    ]
+  },
+  "tutorMoves": [
+    "Rising Voltage"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Thunderbolt",
+    "Thunder",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Electro Ball",
+    "Wild Charge"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Screech",
+    "Light Screen",
+    "Reflect",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Facade",
+    "Swift",
+    "Bounce",
+    "Assurance",
+    "Round",
+    "Acrobatics",
+    "Volt Switch",
+    "Electroweb",
+    "Electric Terrain",
+    "Eerie Impulse"
+  ],
+  "tmMoves7": [],
+  "tmMoves6": [],
+  "tmMoves5": [],
+  "tmMoves4": [],
+  "tmMoves3": [],
+  "tmMoves2": [],
+  "tmMoves1": []
+}

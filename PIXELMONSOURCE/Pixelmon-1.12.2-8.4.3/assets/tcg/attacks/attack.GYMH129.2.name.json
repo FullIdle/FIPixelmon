@@ -1,0 +1,16 @@
+{
+  "cardCode": "GYMH129",
+  "attackNumber": 2,
+  "name": "attack.GYMH129.2.name",
+  "energy": [
+    "PSYCHIC",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.GYMH129.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

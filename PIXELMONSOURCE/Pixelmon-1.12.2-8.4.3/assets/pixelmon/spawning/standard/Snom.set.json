@@ -1,0 +1,32 @@
+{
+  "id": "Snom",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Snom"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:snowball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

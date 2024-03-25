@@ -1,0 +1,18 @@
+{
+  "cardCode": "JUNG14",
+  "attackNumber": 2,
+  "name": "attack.JUNG14.2.name",
+  "energy": [
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.JUNG14.2.text",
+  "effectsString": "ACID",
+  "effects": [
+    {
+      "needCoinSide": "Head"
+    }
+  ]
+}

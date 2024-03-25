@@ -1,0 +1,27 @@
+{
+  "id": "Cramorant Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cramorant"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps",
+          "beaches"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 528,
+  "setId": 7,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 14,
+  "code": "GYMC75",
+  "name": "card.GYMC75.name",
+  "description": "",
+  "previousPokemonId": 13,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC75",
+      "attackNumber": 1,
+      "name": "attack.GYMC75.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMC75.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

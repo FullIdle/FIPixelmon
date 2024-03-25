@@ -1,0 +1,37 @@
+{
+    "skins": [
+        { 
+            "filename": "npcchat1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Old Man Tom"
+        },
+        {
+            "name": "Fred the Librarian"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Hello there young Trainer!"
+                },
+                {
+                    "text": "When I was your age I had a beautiful little Bulbasaur."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Do you really think you should be hanging around with Pokémon?"
+                },
+                {
+                    "text": "I think they're scary."
+                }
+            ]
+        }
+    ]
+}

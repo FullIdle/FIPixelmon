@@ -1,0 +1,152 @@
+{
+  "pixelmonName": "Arctovish",
+  "pokemon": "Arctovish",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 90,
+    "Defence": 100,
+    "SpecialAttack": 80,
+    "SpecialDefence": 90,
+    "Speed": 55
+  },
+  "catchRate": 45,
+  "malePercent": -1.0,
+  "spawnLevel": 20,
+  "spawnLevelRange": 20,
+  "baseExp": 177,
+  "baseFriendship": 50,
+  "types": [
+    "Water",
+    "Ice"
+  ],
+  "height": 2.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    }
+  },
+  "weight": 175.0,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.5,
+    "eye_height": 1.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "WaterAbsorb",
+    "IceBody",
+    "SlushRush"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Powder Snow",
+      "Water Gun"
+    ],
+    "7": [
+      "Protect"
+    ],
+    "14": [
+      "Icy Wind"
+    ],
+    "21": [
+      "Ancient Power"
+    ],
+    "28": [
+      "Bite"
+    ],
+    "35": [
+      "Aurora Veil"
+    ],
+    "42": [
+      "Freeze-Dry"
+    ],
+    "49": [
+      "Super Fang"
+    ],
+    "56": [
+      "Crunch"
+    ],
+    "63": [
+      "Fishious Rend"
+    ],
+    "70": [
+      "Icicle Crash"
+    ],
+    "77": [
+      "Blizzard"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Waterfall",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Iron Defense",
+    "Zen Headbutt",
+    "Iron Head",
+    "Stone Edge",
+    "Psychic Fangs",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Dive",
+    "Rock Tomb",
+    "Icicle Spear",
+    "Rock Blast",
+    "Brine",
+    "Avalanche",
+    "Ice Fang",
+    "Round"
+  ]
+}

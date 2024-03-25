@@ -1,0 +1,30 @@
+{
+  "cardCode": "WBSP6",
+  "attackNumber": 2,
+  "name": "attack.WBSP6.2.name",
+  "energy": [
+    "FIRE",
+    "FIRE"
+  ],
+  "damage": 40,
+  "modifier": "Plus",
+  "text": "attack.WBSP6.2.text",
+  "effectsString": "SELF_DISCARD:FIRE:2 DAMAGE_BONUS:SELF:PER_DAMAGE:10",
+  "effects": [
+    {
+      "onMe": true,
+      "energy": "FIRE",
+      "count": 2,
+      "needCoinSide": null
+    },
+    {
+      "conditionOnMe": true,
+      "type": "PerDamage",
+      "energy": null,
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": null,
+      "ignoreBaseDamage": false
+    }
+  ]
+}

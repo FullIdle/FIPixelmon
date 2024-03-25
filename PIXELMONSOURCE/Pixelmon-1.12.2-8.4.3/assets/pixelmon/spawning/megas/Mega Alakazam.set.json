@@ -1,0 +1,23 @@
+{
+  "id": "Mega Alakazam",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Alakazam"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "end",
+          "forests"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

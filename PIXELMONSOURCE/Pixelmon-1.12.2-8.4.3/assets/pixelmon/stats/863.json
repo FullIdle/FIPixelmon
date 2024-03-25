@@ -1,0 +1,161 @@
+{
+  "pixelmonName": "Perrserker",
+  "pokemon": "Perrserker",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 110,
+    "Defence": 100,
+    "SpecialAttack": 50,
+    "SpecialDefence": 60,
+    "Speed": 50
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 37,
+  "spawnLevelRange": 15,
+  "baseExp": 154,
+  "baseFriendship": 50,
+  "types": [
+    "Steel"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Meowth f:2"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 28.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.2,
+    "eye_height": 0.85
+  },
+  "evolutions": [],
+  "abilities": [
+    "BattleArmour",
+    "ToughClaws",
+    "SteelySpirit"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out",
+      "Growl",
+      "Hone Claws",
+      "Iron Defense",
+      "Iron Head",
+      "Metal Burst",
+      "Scratch"
+    ],
+    "12": [
+      "Pay Day"
+    ],
+    "16": [
+      "Metal Claw"
+    ],
+    "20": [
+      "Taunt"
+    ],
+    "24": [
+      "Swagger"
+    ],
+    "31": [
+      "Fury Swipes"
+    ],
+    "36": [
+      "Screech"
+    ],
+    "42": [
+      "Slash"
+    ],
+    "48": [
+      "Metal Sound"
+    ],
+    "54": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out",
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Covet",
+    "Curse",
+    "Double-Edge",
+    "Flail",
+    "Night Slash",
+    "Spite"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Thunderbolt",
+    "Thunder",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Iron Tail",
+    "Crunch",
+    "Shadow Ball",
+    "Uproar",
+    "Taunt",
+    "Hyper Voice",
+    "Iron Defense",
+    "Gyro Ball",
+    "Close Combat",
+    "Dark Pulse",
+    "Seed Bomb",
+    "Nasty Plot",
+    "Gunk Shot",
+    "Iron Head",
+    "Heavy Slam",
+    "Foul Play",
+    "Work Up",
+    "Play Rough",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Pay Day",
+    "Hyper Beam",
+    "Giga Impact",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Shadow Claw",
+    "Round",
+    "Retaliate"
+  ]
+}

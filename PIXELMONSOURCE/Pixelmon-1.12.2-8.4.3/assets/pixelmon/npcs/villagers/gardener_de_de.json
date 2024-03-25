@@ -1,0 +1,66 @@
+{
+    "skins": [
+        {
+            "filename": "gardenermale2.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Christopher Lee"
+        },
+        {
+            "name": "José"
+        },
+        {
+            "name": "Mr. McGregor"
+        },
+        {
+            "name": "Percy"
+        },
+        {
+            "name": "Robert"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich muss vorsichtig sein, wo ich mähe, besonders in der Nähe von hohem Gras."
+                },
+                {
+                    "text": "Ich habe das einmal aus Versehen getan... es wurde unordentlich..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ein Garten wächst nicht über Nacht, es braucht Zeit."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich verstehe nicht, wie Leute Safcon hassen können."
+                },
+                {
+                    "text": "Irgendwann wird jeder Safcon zu einem Schmetterling."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Die Leute denken, dass Käfer-Pokémon schwach sind."
+                },
+                {
+                    "text": "ch glaube, sie haben noch nie einen Sichlor oder einen Pinsir oder einen Bibor gesehen..."
+				},
+				{
+					"text": "Darf ich weitermachen??"
+                }
+            ]
+        }
+    ]
+}

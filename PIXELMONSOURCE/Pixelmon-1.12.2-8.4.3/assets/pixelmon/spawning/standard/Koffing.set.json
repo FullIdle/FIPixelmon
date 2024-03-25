@@ -1,0 +1,34 @@
+{
+  "id": "Koffing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Koffing"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "visceral_heap",
+          "evil"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

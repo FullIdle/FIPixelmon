@@ -1,0 +1,137 @@
+{
+  "pixelmonName": "Rolycoly",
+  "pokemon": "Rolycoly",
+  "form": 0,
+  "stats": {
+    "HP": 30,
+    "Attack": 40,
+    "Defence": 50,
+    "SpecialAttack": 40,
+    "SpecialDefence": 50,
+    "Speed": 30
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 12,
+  "spawnLevelRange": 6,
+  "baseExp": 48,
+  "baseFriendship": 50,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 12.0,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.4,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 18,
+      "to": {
+        "name": "Carkol"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Flame Charge"
+      ]
+    }
+  ],
+  "abilities": [
+    "SteamEngine",
+    "Heatproof",
+    "FlashFire"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Smokescreen",
+      "Tackle"
+    ],
+    "5": [
+      "Rapid Spin"
+    ],
+    "10": [
+      "Smack Down"
+    ],
+    "15": [
+      "Rock Polish"
+    ],
+    "20": [
+      "Ancient Power"
+    ],
+    "25": [
+      "Incinerate"
+    ],
+    "30": [
+      "Stealth Rock"
+    ],
+    "35": [
+      "Heat Crash"
+    ],
+    "40": [
+      "Rock Blast"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Block",
+    "Explosion",
+    "Mud-Slap"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Substitute",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Gyro Ball",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heat Crash"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Reflect",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Will-O-Wisp",
+    "Facade",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Rock Blast",
+    "Round"
+  ],
+  "forms": {}
+}

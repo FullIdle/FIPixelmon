@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shoplady.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mme Loseille"
+        },
+        {
+            "name": "Marguerite"
+        },
+        {
+            "name": "Mlle Filigrane"
+        },
+        {
+            "name": "Mme Peuchère"
+        },
+        {
+            "name": "Mme Leblanc"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, en quoi puis-je vous aider?"
+                },
+                {
+                    "text": "Grands dieux, non ! Nous ne vendons rien de tel ! Adieu !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bienvenue dans notre magasin. Désirez-vous quelque chose en particulier ?"
+                },
+                {
+                    "text": "Eh bien, je ne suis pas sûre de pouvoir vous aider. Bonne journée."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Puis-je vous aider ?"
+                },
+                {
+                    "text": "Quand vous vous serez décidé, faites-moi signe. J'ai beaucoup à faire."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Oui, oui ? C'est à vous ? Dépêchez-vous alors, il y en a qui attendent après vous !"
+                },
+                {
+                    "text": "Trop cher ? J'ai l'impression que vous vous êtes trompé de magasin."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, vous comptez acheter ça?"
+                },
+                {
+                    "text": "Alors remettez-le à sa place. Je ne vous laisserai pas abîmer la marchandise."
+                }
+            ]
+        }
+    ]
+}

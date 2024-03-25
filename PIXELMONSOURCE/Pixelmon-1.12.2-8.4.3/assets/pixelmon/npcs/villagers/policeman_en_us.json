@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "policeman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Captain Benny"
+        },
+        {
+            "name": "Inspector Kenny"
+        },
+        {
+            "name": "Deputy Lenny"
+        },
+        {
+            "name": "Corporal Vinnie"
+        },
+        {
+            "name": "Lieutenant Ronnie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Hey now, no using Dig to break into people's houses, understood?"
+                },
+                {
+                    "text": "Or using Thief on other trainers for that matter. Says so right in the name!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'm not completely fine with that business of earning money through Pokémon battles."
+                },
+                {
+                    "text": "That sounds vaguely illegal."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Those dang criminal teams! I wish I could take them down myself."
+                },
+                {
+                    "text": "But nooooooo, a kid steals our thunder every time. Let the police do their job!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'm part of the K-9 section. I really like my Houndour."
+                },
+                {
+                    "text": "Chasing burglars, sniffing out dangerous stuff, she does it all."
+                }
+            ]
+        }
+    ]
+}

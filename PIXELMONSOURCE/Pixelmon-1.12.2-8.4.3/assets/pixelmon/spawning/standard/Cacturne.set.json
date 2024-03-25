@@ -1,0 +1,43 @@
+{
+  "id": "Cacturne",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cacturne"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesa"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:cactus"
+            ]
+          }
+        }
+      ],
+      "rarity": 6.0
+    }
+  ]
+}

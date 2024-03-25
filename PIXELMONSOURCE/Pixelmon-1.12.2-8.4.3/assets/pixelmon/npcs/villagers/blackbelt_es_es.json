@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "blackbelt.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bruce"
+        },
+        {
+            "name": "Jacky"
+        },
+        {
+            "name": "Jet"
+        },
+        {
+            "name": "Jean-Claud"
+        },
+        {
+            "name": "Steven"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Puede que sea Cinturón Negro, ¡pero debo seguir entrenando!"
+                },
+                {
+                    "text": "Necesito tablas de madera, bloques de cemento, y Cascada. ¡Rápido!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Huah! ¡Sho! ¡OooooooOOOOOOOOO!"
+                },
+                {
+                    "text": "¿Te ha impresionado? ¿Te he parado el corazón del susto?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Con mi nivel de habilidad, podría usar cualquier cosa como arma."
+                },
+                {
+                    "text": "Puedo parar hordas enteras de furiosos Raticate con mi dedo meñique."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "De pequeño fui criado por un Machoke."
+                },
+                {
+                    "text": "Si me hubiese criado un Machamp, tal vez ahora sería incluso más fuerte."
+                }
+            ]
+        }
+    ]
+}

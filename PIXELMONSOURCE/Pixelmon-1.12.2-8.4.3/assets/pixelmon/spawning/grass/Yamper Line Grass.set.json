@@ -1,0 +1,45 @@
+{
+  "id": "Yamper Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Yamper"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 7,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Boltund"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Shelmet Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shelmet"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "bamboo_forest"
+        ]
+      },
+      "rarity": 150.0
+    }
+  ]
+}

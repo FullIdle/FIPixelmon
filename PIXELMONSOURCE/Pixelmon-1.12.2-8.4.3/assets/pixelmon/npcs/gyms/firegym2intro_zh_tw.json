@@ -1,0 +1,25 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "firebreather5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "涅茲"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "歡迎來到烽火道館。"
+        },
+        {
+          "text": "我們的道館館主正在泡溫泉！"
+        }
+      ]
+    }
+  ]
+}

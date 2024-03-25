@@ -1,0 +1,31 @@
+{
+  "id": "Luvdisc",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Luvdisc"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

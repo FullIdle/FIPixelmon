@@ -1,0 +1,290 @@
+{
+  "pixelmonName": "Keldeo",
+  "pokemon": "Keldeo",
+  "form": 0,
+  "stats": {
+    "HP": 91,
+    "Attack": 72,
+    "Defence": 90,
+    "Speed": 108,
+    "SpecialAttack": 129,
+    "SpecialDefence": 90
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 261,
+  "baseFriendship": 35,
+  "types": [
+    "Water",
+    "Fighting"
+  ],
+  "height": 1.4,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.25,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.25,
+      "z": -0.4
+    }
+  },
+  "weight": 48.5,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.2,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Justified",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 81,
+  "levelUpMoves": {
+    "0": [
+      "Aqua Jet",
+      "Helping Hand",
+      "Leer",
+      "Secret Sword",
+      "Work Up"
+    ],
+    "7": [
+      "Bubble Beam"
+    ],
+    "14": [
+      "Quick Guard"
+    ],
+    "21": [
+      "Double Kick"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "35": [
+      "Aqua Tail"
+    ],
+    "42": [
+      "Take Down"
+    ],
+    "49": [
+      "Sacred Sword"
+    ],
+    "56": [
+      "Swords Dance"
+    ],
+    "63": [
+      "Hydro Pump"
+    ],
+    "70": [
+      "Close Combat"
+    ]
+  },
+  "tutorMoves": [
+    "Coaching",
+    "Flip Turn"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Covet",
+    "Cut",
+    "Double Team",
+    "Endeavor",
+    "Frustration",
+    "Hidden Power",
+    "Last Resort",
+    "Psych Up",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Hydro Pump",
+    "Surf",
+    "Low Kick",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Megahorn",
+    "Taunt",
+    "Superpower",
+    "Muddy Water",
+    "Calm Mind",
+    "Close Combat",
+    "Aura Sphere",
+    "Poison Jab",
+    "X-Scissor",
+    "Focus Blast",
+    "Stone Edge",
+    "Scald",
+    "Work Up",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Revenge",
+    "Brick Break",
+    "Bounce",
+    "Round",
+    "Retaliate",
+    "False Swipe",
+    "Air Slash",
+    "Smart Strike"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Scald",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Scald",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Round",
+    "Focus Blast",
+    "False Swipe",
+    "Scald",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Psych Up",
+    "X-Scissor",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {
+    "1": {
+      "form": 1
+    }
+  }
+}

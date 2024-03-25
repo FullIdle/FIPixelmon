@@ -1,0 +1,53 @@
+{
+  "id": "Regieleki",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Regieleki",
+        "form": 0,
+        "level": 40
+      },
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Regieleki",
+        "form": 114,
+        "level": 40
+      },
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "dimensions": [
+          "72"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

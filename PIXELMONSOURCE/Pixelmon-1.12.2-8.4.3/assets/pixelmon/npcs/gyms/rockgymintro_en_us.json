@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "blacksmith.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Ilfred"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Welcome to the Rock Gym."
+        },
+        {
+          "text": "Our Gym Leader will make you fall!"
+        },
+        {
+          "text": "When you think you're done, the battle will have just begun."
+        }
+      ]
+    }
+  ]
+}

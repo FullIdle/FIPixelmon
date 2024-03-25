@@ -1,0 +1,31 @@
+{
+  "id": "Toucannon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Toucannon"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 28,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rawst_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

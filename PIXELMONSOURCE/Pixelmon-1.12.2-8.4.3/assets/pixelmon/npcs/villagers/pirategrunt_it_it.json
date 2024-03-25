@@ -1,0 +1,70 @@
+{
+    "skins": [
+        {
+            "filename": "pirategrunt1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Pirata"
+        },
+        {
+            "name": "Pegleg Pete"
+        },
+        {
+            "name": "PallaDiCannone"
+        },
+        {
+            "name": "Calico Jack"
+        },
+        {
+            "name": "Scuz"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Sono stato licenziato dal cannone quando abbiamo finito le palle da lanciare."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hai visto il mio pappagallo?"
+                },
+                {
+                    "text": "L'ho fatto sedere da qualche parte e non riesco più a trovarlo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Un mare calmo non ha mai fatto un marinaio esperto."
+                },
+                {
+                    "text": "Ma io sono un pirata, quindi non so come ciò si applica a me."
+                }
+            ]
+        },
+		{
+            "lines": [
+                {
+                    "text": "Stai per salire sull'asse!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non tutti i pirati hanno bende per gli occhi, zampe di maiale e denti marci."
+                },
+                {
+                    "text": "Vado dal dentista due volte l'anno!"
+                }
+            ]
+        }
+    ]
+}

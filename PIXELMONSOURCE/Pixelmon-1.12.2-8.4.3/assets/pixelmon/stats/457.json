@@ -1,0 +1,270 @@
+{
+  "pixelmonName": "Lumineon",
+  "pokemon": "Lumineon",
+  "form": 0,
+  "stats": {
+    "HP": 69,
+    "Attack": 69,
+    "Defence": 76,
+    "Speed": 91,
+    "SpecialAttack": 69,
+    "SpecialDefence": 86
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 32,
+  "spawnLevelRange": 11,
+  "baseExp": 156,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Finneon"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.9
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.9,
+      "z": -0.9
+    }
+  },
+  "weight": 24.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.0,
+    "eye_height": 0.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    "StormDrain",
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Attract",
+      "Gust",
+      "Pound",
+      "Soak",
+      "Water Gun"
+    ],
+    "6": [
+      "Water Gun"
+    ],
+    "10": [
+      "Attract"
+    ],
+    "13": [
+      "Rain Dance"
+    ],
+    "17": [
+      "Gust"
+    ],
+    "22": [
+      "Water Pulse"
+    ],
+    "26": [
+      "Captivate"
+    ],
+    "29": [
+      "Safeguard"
+    ],
+    "35": [
+      "Aqua Ring"
+    ],
+    "42": [
+      "Whirlpool"
+    ],
+    "48": [
+      "U-turn"
+    ],
+    "53": [
+      "Bounce"
+    ],
+    "59": [
+      "Silver Wind"
+    ],
+    "66": [
+      "Soak"
+    ]
+  },
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bounce",
+    "Defog",
+    "Icy Wind",
+    "Signal Beam",
+    "Snore",
+    "Tailwind",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Aqua Tail",
+    "Aurora Beam",
+    "Brine",
+    "Charm",
+    "Confuse Ray",
+    "Flail",
+    "Psybeam",
+    "Signal Beam",
+    "Splash",
+    "Sweet Kiss",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Air Cutter",
+    "Dive",
+    "Endure",
+    "Flash",
+    "Natural Gift",
+    "Ominous Wind",
+    "Secret Power",
+    "Swift",
+    "Twister"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Payback",
+    "Giga Impact",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Brine",
+    "Endure",
+    "Silver Wind",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "forms": {}
+}

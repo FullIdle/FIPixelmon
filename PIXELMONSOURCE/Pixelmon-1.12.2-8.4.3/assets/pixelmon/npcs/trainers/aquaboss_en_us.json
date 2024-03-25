@@ -1,0 +1,69 @@
+{
+    "data": {
+        "trainerType": "Bosses",
+        "minLevel": 40,
+        "maxLevel": 60,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 100
+    },
+    "models":[
+        {
+            "name": "aquaboss"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Mightyena"
+        },
+        {
+            "name": "Sharpedo"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Crobat"
+        },
+        {
+            "name": "Muk"
+        },
+        {
+            "name": "Wailord"
+        },
+        {
+            "name": "Crawdaunt"
+        },
+		{
+			"name": "Walrein"
+		},
+        {
+            "name": "Tentacruel"
+        },
+        {
+            "name": "Kyogre"
+        }
+    ],
+    "names": [
+        {
+            "name": "Archie"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "To flood the land to make more room for the ocean...that's my plan!",
+            "win": "Surfing the wave of losing, eh?",
+            "lose": "Urgh, how did you beat me!"
+        },
+        {
+            "opening": "What are you doing here?!",
+            "win": "Get out of here.",
+            "lose": "Oh no! I lost!"
+        },
+        {
+            "opening": "Team Aqua is the best!",
+            "win": "I told you we are the best!",
+            "lose": "Nooooo!"
+        }
+    ]
+}

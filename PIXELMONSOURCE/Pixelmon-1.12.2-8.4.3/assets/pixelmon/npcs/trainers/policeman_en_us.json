@@ -1,0 +1,100 @@
+{
+    "data": {
+        "trainerType": "Policeman",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Arcanine"
+        },
+        {
+            "name": "Snubbull"
+        },
+        {
+            "name": "Granbull"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        },
+        {
+            "name": "Golett"
+        },
+        {
+            "name": "Golurk"
+        },
+        {
+            "name": "Hoothoot"
+        },
+        {
+            "name": "Noctowl"
+        },
+        {
+            "name": "Machop"
+        },
+        {
+            "name": "Machoke"
+        },
+        {
+            "name": "Machamp"
+        },
+        {
+            "name": "Lillipup"
+        },
+        {
+            "name": "Herdier"
+        },
+        {
+            "name": "Stoutland"
+        },
+        {
+            "name": "Yamper"
+        },
+        {
+            "name": "Boltund"
+        }
+    ],
+    "names": [
+        {
+            "name": "Captain Benny"
+        },
+        {
+            "name": "Inspector Kenny"
+        },
+        {
+            "name": "Deputy Lenny"
+        },
+        {
+            "name": "Corporal Vinnie"
+        },
+        {
+            "name": "Lieutenant Ronnie"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Are you provoking me, citizen?",
+            "win": "The law triumphs!",
+            "lose": "You won't get away with this!"
+        },
+        {
+            "opening": "Aw come on! I was on a case!",
+            "win": "Where are my handcuffs?",
+            "lose": "Good job, kid. I'll get you a donut."
+        },
+        {
+            "opening": "Ouch! Hey now, that's going on your record!",
+            "win": "Let this be a lesson to you.",
+            "lose": "Requesting backup, please respond."
+        }
+    ]
+}

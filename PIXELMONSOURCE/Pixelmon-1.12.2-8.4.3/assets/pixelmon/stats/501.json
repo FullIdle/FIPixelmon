@@ -1,0 +1,233 @@
+{
+  "pixelmonName": "Oshawott",
+  "pokemon": "Oshawott",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 55,
+    "Defence": 45,
+    "Speed": 45,
+    "SpecialAttack": 63,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 11,
+  "baseExp": 28,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 5.9,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 17,
+      "to": {
+        "name": "Dewott"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "11": [
+      "Water Sport"
+    ],
+    "13": [
+      "Focus Energy"
+    ],
+    "17": [
+      "Razor Shell"
+    ],
+    "19": [
+      "Fury Cutter"
+    ],
+    "23": [
+      "Water Pulse"
+    ],
+    "25": [
+      "Revenge"
+    ],
+    "29": [
+      "Aqua Jet"
+    ],
+    "31": [
+      "Encore"
+    ],
+    "35": [
+      "Aqua Tail"
+    ],
+    "37": [
+      "Retaliate"
+    ],
+    "41": [
+      "Swords Dance"
+    ],
+    "43": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Helping Hand",
+    "Icy Wind",
+    "Iron Tail",
+    "Snore",
+    "Water Pledge",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Air Slash",
+    "Assurance",
+    "Brine",
+    "Copycat",
+    "Detect",
+    "Night Slash",
+    "Sacred Sword",
+    "Screech",
+    "Trump Card"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Dig",
+    "Dive",
+    "Rock Smash",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Retaliate",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Retaliate",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

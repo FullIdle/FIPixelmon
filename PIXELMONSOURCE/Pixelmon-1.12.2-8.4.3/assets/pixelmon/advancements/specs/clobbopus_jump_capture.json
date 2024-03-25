@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/852-starry\"}"
+		},
+		"title": {
+			"translate": "advancements.clobbopus_jump.title"
+		},
+		"description": {
+			"translate": "advancements.clobbopus_jump.description"
+		},
+		"hidden": true
+	},
+    "parent" : "pixelmon:specs/spec_trigger",
+	"criteria": {
+		"clobbopus_jump_spec_trigger": {
+			"trigger": "pixelmon:spec_trigger",
+			"conditions" : {
+				"spec" : "f:!0 Clobbopus"
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Mamoswine",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mamoswine"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "weathers": [
+          "STORM"
+        ],
+        "stringBiomes": [
+          "ice_flats"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

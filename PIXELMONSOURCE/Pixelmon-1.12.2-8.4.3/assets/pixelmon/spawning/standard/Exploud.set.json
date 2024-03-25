@@ -1,0 +1,35 @@
+{
+  "id": "Exploud",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Exploud"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:gravel"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    }
+  ]
+}

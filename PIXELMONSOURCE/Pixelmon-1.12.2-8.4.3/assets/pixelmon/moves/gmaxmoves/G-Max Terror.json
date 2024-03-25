@@ -1,0 +1,30 @@
+{
+  "attackIndex": 11017,
+  "attackName": "G-Max Terror",
+  "attackType": "Ghost",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 10,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "MeanLook",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MeanLook"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

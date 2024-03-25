@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "schoolboy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Ethan"
+        },
+        {
+            "name": "Matt"
+        },
+        {
+            "name": "Liam"
+        },
+        {
+            "name": "Tailer"
+        },
+        {
+            "name": "Ryan"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Me pregunto si podré trabajar en un Centro Pokémon cuando sea mayor."
+                },
+                {
+                    "text": "¿A qué tipo de colegio tienes que ir si quieres trabajar en eso? Debería preguntarlo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hoy tengo actividades extraescolares después del colegio."
+                },
+                {
+                    "text": "¡No puedo esperar a que terminen las clases!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Estamos estudiando sobre una región muy lejana en clase de geografía."
+                },
+                {
+                    "text": "¡Hay un montón de volcanes por ahí! ¡Impresionante!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Mi profesor nos va a llevar de viaje de estudios el mes que viene!"
+                },
+                {
+                    "text": "Iremos a visitar una granja Pokémon. ¡Segúramente veremos a un precioso bebé Pokémon!"
+                }
+            ]
+        }
+    ]
+}

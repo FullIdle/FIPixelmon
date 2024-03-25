@@ -1,0 +1,25 @@
+{
+  "id": "Appletun",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Appletun"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

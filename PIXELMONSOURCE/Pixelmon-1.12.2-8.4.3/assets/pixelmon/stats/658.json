@@ -1,0 +1,359 @@
+{
+  "pixelmonName": "Greninja",
+  "pokemon": "Greninja",
+  "form": 0,
+  "stats": {
+    "HP": 72,
+    "Attack": 95,
+    "Defence": 67,
+    "Speed": 122,
+    "SpecialAttack": 103,
+    "SpecialDefence": 71
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 239,
+  "baseFriendship": 0,
+  "types": [
+    "Water",
+    "Dark"
+  ],
+  "height": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Frogadier",
+    "Froakie"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.2,
+      "z": 0.0
+    }
+  },
+  "weight": 40.0,
+  "bounding_box": {
+    "width": 1.5,
+    "height": 1.9,
+    "eye_height": 1.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "Torrent",
+    null,
+    "Protean"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bubble",
+      "Growl",
+      "Haze",
+      "Mat Block",
+      "Night Slash",
+      "Pound",
+      "Quick Attack",
+      "Role Play",
+      "Water Shuriken"
+    ],
+    "5": [
+      "Bubble"
+    ],
+    "8": [
+      "Quick Attack"
+    ],
+    "10": [
+      "Lick"
+    ],
+    "14": [
+      "Water Pulse"
+    ],
+    "19": [
+      "Smokescreen"
+    ],
+    "23": [
+      "Shadow Sneak"
+    ],
+    "28": [
+      "Spikes"
+    ],
+    "33": [
+      "Feint Attack"
+    ],
+    "42": [
+      "Substitute"
+    ],
+    "49": [
+      "Extrasensory"
+    ],
+    "56": [
+      "Double Team"
+    ],
+    "68": [
+      "Hydro Pump"
+    ],
+    "70": [
+      "Haze"
+    ],
+    "77": [
+      "Night Slash"
+    ]
+  },
+  "tutorMoves": [
+    "Bounce",
+    "Gunk Shot",
+    "Hydro Cannon",
+    "Ice Punch",
+    "Icy Wind",
+    "Low Kick",
+    "Role Play",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Water Pledge",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Bestow",
+    "Camouflage",
+    "Mind Reader",
+    "Mud Sport",
+    "Power-Up Punch",
+    "Toxic Spikes",
+    "Water Sport"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Dig",
+    "Dive",
+    "Happy Hour",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Brutal Swing",
+    "Acrobatics",
+    "Giga Impact",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Surf",
+    "Dark Pulse",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Acrobatics",
+    "Giga Impact",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "abilities": [
+        "BattleBond",
+        null,
+        null
+      ],
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "tutorMoves": [
+        "Bounce",
+        "Gunk Shot",
+        "Happy Hour",
+        "Hydro Cannon",
+        "Low Kick",
+        "Role Play",
+        "Spite",
+        "Water Pledge",
+        "Water Shuriken"
+      ]
+    },
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 72,
+        "Attack": 145,
+        "Defence": 67,
+        "Speed": 132,
+        "SpecialAttack": 153,
+        "SpecialDefence": 71
+      },
+      "abilities": [
+        "BattleBond",
+        null,
+        null
+      ],
+      "eggGroups": [
+        "Undiscovered"
+      ]
+    },
+    "3": {
+      "form": 3,
+      "abilities": [
+        "BattleBond",
+        null,
+        null
+      ],
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "tutorMoves": [
+        "Bounce",
+        "Gunk Shot",
+        "Happy Hour",
+        "Hydro Cannon",
+        "Low Kick",
+        "Role Play",
+        "Spite",
+        "Water Pledge",
+        "Water Shuriken"
+      ]
+    },
+    "5": {
+      "form": 5,
+      "abilities": [
+        "BattleBond",
+        null,
+        null
+      ],
+      "stats": {
+        "HP": 72,
+        "Attack": 145,
+        "Defence": 67,
+        "Speed": 132,
+        "SpecialAttack": 153,
+        "SpecialDefence": 71
+      },
+      "eggGroups": [
+        "Undiscovered"
+      ]
+    },
+    "6": {
+      "form": 6,
+      "abilities": [
+        "BattleBond",
+        null,
+        null
+      ],
+      "eggGroups": [
+        "Undiscovered"
+      ],
+      "tutorMoves": [
+        "Bounce",
+        "Gunk Shot",
+        "Happy Hour",
+        "Hydro Cannon",
+        "Low Kick",
+        "Role Play",
+        "Spite",
+        "Water Pledge",
+        "Water Shuriken"
+      ]
+    },
+    "8": {
+      "form": 8,
+      "abilities": [
+        "BattleBond",
+        null,
+        null
+      ],
+      "stats": {
+        "HP": 72,
+        "Attack": 145,
+        "Defence": 67,
+        "Speed": 132,
+        "SpecialAttack": 153,
+        "SpecialDefence": 71
+      },
+      "eggGroups": [
+        "Undiscovered"
+      ]
+    }
+  }
+}

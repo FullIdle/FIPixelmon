@@ -1,0 +1,23 @@
+{
+  "cardCode": "BASE35",
+  "attackNumber": 2,
+  "name": "attack.BASE35.2.name",
+  "energy": [
+    "WATER"
+  ],
+  "damage": 10,
+  "modifier": "Multiply",
+  "text": "attack.BASE35.2.text",
+  "effectsString": "DAMAGE_BONUS:SELF:PER_DAMAGE:*10",
+  "effects": [
+    {
+      "conditionOnMe": true,
+      "type": "PerDamage",
+      "energy": null,
+      "pokedexNumber": 0,
+      "value": 10,
+      "maximumBonus": null,
+      "ignoreBaseDamage": true
+    }
+  ]
+}

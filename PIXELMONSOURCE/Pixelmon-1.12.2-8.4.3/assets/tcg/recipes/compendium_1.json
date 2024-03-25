@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PLP",
+    "LXL",
+	  "PLP"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+	"X": {
+	  "item": "pixelmon:up-grade"
+	}
+  },
+  "result": {
+    "item": "tcg:compendium",
+    "count": 1
+  }
+}

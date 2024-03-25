@@ -1,0 +1,372 @@
+{
+  "pixelmonName": "Arbok",
+  "pokemon": "Arbok",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 95,
+    "Defence": 69,
+    "Speed": 80,
+    "SpecialAttack": 65,
+    "SpecialDefence": 79
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 28,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Poison"
+  ],
+  "height": 1.8,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Ekans"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 60,
+    "passive": 0,
+    "aggressive": 40
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.9
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.6,
+      "z": -0.9
+    }
+  },
+  "weight": 65.0,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.4,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "ShedSkin",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Crunch",
+      "Fire Fang",
+      "Ice Fang",
+      "Leer",
+      "Poison Sting",
+      "Thunder Fang",
+      "Wrap"
+    ],
+    "4": [
+      "Poison Sting"
+    ],
+    "9": [
+      "Bite"
+    ],
+    "12": [
+      "Glare"
+    ],
+    "17": [
+      "Screech"
+    ],
+    "20": [
+      "Acid"
+    ],
+    "27": [
+      "Spit Up",
+      "Stockpile",
+      "Swallow"
+    ],
+    "32": [
+      "Acid Spray"
+    ],
+    "39": [
+      "Mud Bomb"
+    ],
+    "44": [
+      "Gastro Acid"
+    ],
+    "48": [
+      "Belch"
+    ],
+    "51": [
+      "Haze"
+    ],
+    "56": [
+      "Coil"
+    ],
+    "63": [
+      "Gunk Shot"
+    ]
+  },
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Gastro Acid",
+    "Giga Drain",
+    "Gunk Shot",
+    "Iron Tail",
+    "Seed Bomb",
+    "Snatch",
+    "Snore",
+    "Spite",
+    "Stomping Tantrum",
+    "Throat Chop"
+  ],
+  "eggMoves": [
+    "Beat Up",
+    "Disable",
+    "Iron Tail",
+    "Poison Fang",
+    "Poison Tail",
+    "Pursuit",
+    "Scary Face",
+    "Slam",
+    "Snatch",
+    "Spite",
+    "Sucker Punch",
+    "Switcheroo"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Body Slam",
+    "Captivate",
+    "Curse",
+    "Double-Edge",
+    "Endure",
+    "Fissure",
+    "Mimic",
+    "Natural Gift",
+    "Rage",
+    "Refresh",
+    "Secret Power",
+    "Skull Bash",
+    "Strength",
+    "Take Down"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Brutal Swing",
+    "Payback",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Payback",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Payback",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Snatch",
+    "Endure",
+    "Payback",
+    "Giga Impact",
+    "Captivate",
+    "Dark Pulse",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Snatch"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Hyper Beam",
+    "Protect",
+    "Giga Drain",
+    "Endure",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Hyper Beam",
+    "Rage",
+    "Mega Drain",
+    "Earthquake",
+    "Fissure",
+    "Dig",
+    "Mimic",
+    "Double Team",
+    "Bide",
+    "Skull Bash",
+    "Rest",
+    "Rock Slide",
+    "Substitute"
+  ],
+  "forms": {}
+}

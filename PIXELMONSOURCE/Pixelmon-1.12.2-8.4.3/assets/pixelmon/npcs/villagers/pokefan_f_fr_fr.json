@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "pokefan_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Fancy"
+        },
+        {
+            "name": "Carys"
+        },
+        {
+            "name": "Ljubica"
+        },
+        {
+            "name": "Noa"
+        },
+        {
+            "name": "Yua"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "J'aime TELLEMENT les Nosférapti."
+                },
+                {
+                    "text": "Parfois je m'aventure dans les grottes pour qu'ils me fassent plein de Nosfé-câlins !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai gagné un concours, un jour."
+                },
+                {
+                    "text": "Mes Pokémon, c'est officiellement les plus choupis de tous les Pokémon!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tu vois ce pin's sur ma veste? Je l'ai acheté à la boutique officielle du Pokéfan Club mondial..."
+                },
+                {
+                    "text": "J'avais essayé de m'en fabriquer un mais il n'était pas aussi joli."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je suis la présidente du Pokéfan Club local."
+                },
+                {
+                    "text": "Tu devrais adhérer. Tu as l'air d'adorer tes Pokémon."
+                }
+            ]
+        }
+    ]
+}

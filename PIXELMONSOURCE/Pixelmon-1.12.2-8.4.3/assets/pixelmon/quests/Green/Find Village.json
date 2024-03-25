@@ -1,0 +1,31 @@
+{
+	"radiant": true,
+	"weight": 0,
+	"abandonable": false,
+	"repeatable": false,
+	"color": {
+		"r": 167,
+		"g": 255,
+		"b": 66
+	},
+	"activeStage": 0,
+	"stages": [
+		{
+			"stage": 0,
+			"nextStage": -1,
+			"icon": "FOUR_POINTED_STAR",
+			"objectives": [
+				"STRUCTURE Village"
+			],
+			"actions": [
+				"0 LOCALIZED_MESSAGE quest.find_village.message",
+				"0 ITEM_GIVE minecraft:bed 1 14 - - - - - -",
+				"0 XP_GIVE - 100",
+				"0 SET_STAGE 10 Pick_Apricorn",
+				"0 SET_STAGE 10 Heal_Team",
+				"0 SET_STAGE 10 Talk_To_NPC"
+			]
+		}
+	],
+	"strings": {}
+}

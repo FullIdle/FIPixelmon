@@ -1,0 +1,31 @@
+{
+  "attackIndex": 10003,
+  "attackName": "Max Flare",
+  "attackType": "Fire",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 10,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "weatherRock": "heatRock",
+      "type": "Sunny",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Sunny"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hexmaniac.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bellatrix"
+        },
+        {
+            "name": "Gytha"
+        },
+        {
+            "name": "Samantha"
+        },
+        {
+            "name": "Piper"
+        },
+        {
+            "name": "Sabrina"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Aw look, my Gastly cursed me."
+                },
+                {
+                    "text": "I expected soul-rending agony, but it just tickles."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I can never get my Litwick to stand still around my occult circles."
+                },
+                {
+                    "text": "They ruin all my rituals."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No..."
+                },
+                {
+                    "text": "Still not the one..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My friends don't believe I can do dark magic."
+                },
+                {
+                    "text": "They used to not believe me, anyway. I no longer have any friends."
+                }
+            ]
+        }
+    ]
+}

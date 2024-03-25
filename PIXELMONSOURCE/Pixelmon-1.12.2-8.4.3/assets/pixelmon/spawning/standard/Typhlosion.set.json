@@ -1,0 +1,25 @@
+{
+  "id": "Typhlosion",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Typhlosion"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "cardCode": "FOSS23",
+  "attackNumber": 1,
+  "name": "attack.FOSS23.1.name",
+  "energy": [
+    "PSYCHIC"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS23.1.text",
+  "effectsString": "PROPHECY:3",
+  "effects": [
+    {
+      "count": 3
+    }
+  ]
+}

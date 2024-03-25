@@ -1,0 +1,27 @@
+{
+  "id": "Bouffalant Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bouffalant"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 46,
+      "maxLevel": 58,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "plains",
+          "savanna_rock"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

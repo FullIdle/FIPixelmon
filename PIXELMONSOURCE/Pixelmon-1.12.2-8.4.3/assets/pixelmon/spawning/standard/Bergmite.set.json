@@ -1,0 +1,29 @@
+{
+  "id": "Bergmite",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bergmite"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 23,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river",
+          "ice_flats",
+          "mutated_ice_flats",
+          "freezing mountains",
+          "biomesoplenty:glacier",
+          "traverse:glacier",
+          "cold_desert"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

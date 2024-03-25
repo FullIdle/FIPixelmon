@@ -1,0 +1,46 @@
+{
+  "id": 115,
+  "setId": 2,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 49,
+  "code": "JUNG13",
+  "name": "card.JUNG13.name",
+  "description": "",
+  "previousPokemonId": 48,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG13",
+      "attackNumber": 1,
+      "name": "attack.JUNG13.1.name",
+      "energy": [
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.JUNG13.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:CONFUSED",
+        "HEAD-OPP_CONDITION:POISONED"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "Shift"
+}

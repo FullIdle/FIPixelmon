@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pixelmon:friend_ball_lid"
+    },
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "#POKEBALL_BASE"
+    }
+  ],
+  "result": {
+    "item": "pixelmon:friend_ball",
+    "count": 1
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 223,
+  "setId": 3,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 41,
+  "code": "FOSS57",
+  "name": "card.FOSS57.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS57",
+      "attackNumber": 1,
+      "name": "attack.FOSS57.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.FOSS57.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:CONFUSED"
+      ]
+    },
+    {
+      "cardCode": "FOSS57",
+      "attackNumber": 2,
+      "name": "attack.FOSS57.2.name",
+      "energy": [
+        "GRASS",
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.FOSS57.2.text",
+      "effects": [
+        "LEECHSEED:DAMAGE"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

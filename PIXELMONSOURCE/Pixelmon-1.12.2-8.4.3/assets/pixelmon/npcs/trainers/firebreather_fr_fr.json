@@ -1,0 +1,88 @@
+{
+    "data": {
+        "trainerType": "FireBreather",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Flareon"
+        },
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Vulpix"
+        },
+        {
+            "name": "Camerupt"
+        },
+        {
+            "name": "Charmeleon"
+        }
+    ],
+    "names": [
+        {
+            "name": "Greg"
+        },
+        {
+            "name": "Daniel"
+        },
+        {
+            "name": "Nick"
+        },
+        {
+            "name": "Shoru"
+        },
+        {
+            "name": "Nicholas"
+        },
+        {
+            "name": "Berter"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Jay"
+        },
+        {
+            "name": "Ike"
+        },
+        {
+            "name": "Yumi"
+        },
+        {
+            "name": "Leo"
+        },
+        {
+            "name": "Garett"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Du feu ?",
+            "win": "Du feu !",
+            "lose": "Du feu ..."
+        },
+        {
+            "opening": "C'est vraiment un drôle de métier.",
+            "win": "Mais je l'aime bien en quelque sorte.",
+            "lose": "Et je n'en suis pas vraiment fan"
+        },
+        {
+            "opening": "Entrainer mes Pokémon est ma passion.",
+            "win": "Ma passion brûle plus intensément que jamais !",
+            "lose": "Ma passion est complètement cramée ..."
+        }
+    ]
+}

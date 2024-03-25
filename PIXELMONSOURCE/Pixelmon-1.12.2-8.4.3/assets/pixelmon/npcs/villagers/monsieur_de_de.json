@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "monsieur.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Reginald"
+        },
+        {
+            "name": "Herbert"
+        },
+        {
+            "name": "Edward"
+        },
+        {
+            "name": "Richard"
+        },
+        {
+            "name": "Ernest"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Meine Familie ließ ein Pokémon-Center bauen, als ich noch ein junger Mann war."
+                },
+                {
+                    "text": "Wenn du genau hinschaust, findest du unser Wappen irgendwo an den Wänden."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich bin ein Mäzen. Daher sponsere ich die Zucht von Farbeagle."
+                },
+                {
+                    "text": "Ich habe einige gesehen, die in fünf verschiedenen Stilen von Geburt an malen konnten!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich bin sehr spät für Mittagessen!"
+                },
+                {
+                    "text": "Nein, ein Mittagessen ist KEINE Entwicklung von Evoli. Wie primitiv!"
+                }
+            ]
+        }
+    ]
+}

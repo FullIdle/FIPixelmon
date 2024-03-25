@@ -1,0 +1,58 @@
+{
+  "attackIndex": 398,
+  "attackName": "Magical Leaf",
+  "attackType": "Grass",
+  "attackCategory": "SPECIAL",
+  "basePower": 60,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "PETAL",
+				"atTarget": false,
+				"scale": 0.7,
+				"rgb": [255,204,255]
+			},
+			"13": {
+				"id": "beam",
+				"texture": "PETAL",
+				"scale": 0.7,
+				"rgb": [255,204,255],
+				"power": 5,
+				"segments": 4
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

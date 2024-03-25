@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "preschooler_f1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Renee"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "\"Twinkle Toes\""
+        },
+        {
+            "name": "Jenni Jr."
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I hear math and writing are super boring. I just want to learn about Pokémon!"
+                },
+                {
+                    "text": "I can't wait to be done with school when I'm 10!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "One of the boys in my class keeps asking if I like Mudkips."
+                },
+                {
+                    "text": "NO! I think they're gross!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My Mommy likes Cubone and my Daddy likes Charmander."
+                },
+                {
+                    "text": "I think they look pretty much the same..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My Mommy got me an Eevee for my birthday!"
+                },
+                {
+                    "text": "I'm gonna use one of my Daddy's Leaf Stones on it when I get home!"
+                }
+            ]
+        }
+    ]
+}

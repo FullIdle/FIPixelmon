@@ -1,0 +1,240 @@
+{
+  "pixelmonName": "Roggenrola",
+  "pokemon": "Roggenrola",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 75,
+    "Defence": 85,
+    "Speed": 15,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 3,
+  "spawnLevelRange": 12,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Rock"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 18.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.6,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Boldore"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    "WeakArmor",
+    "SandForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Sand Attack",
+      "Tackle"
+    ],
+    "4": [
+      "Harden"
+    ],
+    "8": [
+      "Stealth Rock"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Smack Down"
+    ],
+    "20": [
+      "Iron Defense"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "28": [
+      "Rock Slide"
+    ],
+    "32": [
+      "Rock Blast"
+    ],
+    "36": [
+      "Sandstorm"
+    ],
+    "40": [
+      "Stone Edge"
+    ],
+    "44": [
+      "Explosion"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam"
+  ],
+  "eggMoves": [
+    "Autotomize",
+    "Curse",
+    "Gravity",
+    "Take Down",
+    "Wide Guard"
+  ],
+  "transferMoves": [
+    "Block",
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Lock-On",
+    "Magnitude",
+    "Nature Power",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Earth Power",
+    "Flash Cannon",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heavy Slam",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Facade",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Rock Blast",
+    "Round",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Rock Polish",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

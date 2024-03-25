@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "c  ",
+        "www",
+        "www"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:dye",
+            "data": 5
+        },
+        "w": {
+			"type": "forge:ore_dict",
+            "ore": "plankWood"
+        }
+    },
+    "result": {
+        "item": "pixelmon:letterbox_standing_purple",
+        "count": 1
+    }
+}

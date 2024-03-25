@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "monsieur.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Reginald"
+        },
+        {
+            "name": "Herbert"
+        },
+        {
+            "name": "Edward"
+        },
+        {
+            "name": "Ricardo"
+        },
+        {
+            "name": "Ernesto"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mi familia tiene un Centro Pokémon desde que yo aún era joven."
+                },
+                {
+                    "text": "Si te fijas bien, puedes ver nuestro simbolo tallado por las paredes."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Soy un patrocinador de las artes. Tanto que, patrocino a crías de Smeargle."
+                },
+                {
+                    "text": "¡He visto a algunos que podían pintar en cinco diferentes estilos desde que nacieron!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Es muy tarde para el ágape!"
+                },
+                {
+                    "text": "No, 'ágape' no es ningún Pokémon. ¡Que poco sofisticado eres!"
+                }
+            ]
+        }
+    ]
+}

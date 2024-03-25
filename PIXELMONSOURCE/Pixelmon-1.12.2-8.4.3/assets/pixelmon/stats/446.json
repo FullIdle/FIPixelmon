@@ -1,0 +1,360 @@
+{
+  "pixelmonName": "Munchlax",
+  "pokemon": "Munchlax",
+  "form": -1,
+  "stats": {
+    "HP": 135,
+    "Attack": 85,
+    "Defence": 40,
+    "Speed": 5,
+    "SpecialAttack": 40,
+    "SpecialDefence": 85
+  },
+  "catchRate": 50,
+  "malePercent": 87,
+  "spawnLevel": 5,
+  "spawnLevelRange": 15,
+  "baseExp": 94,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 105.0,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.6,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Snorlax"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Pickup",
+    "ThickFat",
+    "Gluttony"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Lick",
+      "Tackle"
+    ],
+    "4": [
+      "Defense Curl"
+    ],
+    "8": [
+      "Recycle"
+    ],
+    "12": [
+      "Covet"
+    ],
+    "16": [
+      "Bite"
+    ],
+    "20": [
+      "Stockpile",
+      "Swallow"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Body Slam"
+    ],
+    "32": [
+      "Fling"
+    ],
+    "36": [
+      "Amnesia"
+    ],
+    "40": [
+      "Metronome"
+    ],
+    "44": [
+      "Flail"
+    ],
+    "48": [
+      "Belly Drum"
+    ],
+    "52": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Belch",
+    "Counter",
+    "Curse",
+    "Double-Edge",
+    "Fissure"
+  ],
+  "transferMoves": [
+    "After You",
+    "Captivate",
+    "Chip Away",
+    "Confide",
+    "Double Team",
+    "Focus Punch",
+    "Frustration",
+    "Happy Hour",
+    "Headbutt",
+    "Hidden Power",
+    "Hold Back",
+    "Incinerate",
+    "Mud-Slap",
+    "Natural Gift",
+    "Odor Sleuth",
+    "Power-Up Punch",
+    "Pursuit",
+    "Return",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Shock Wave",
+    "Snatch",
+    "Strength",
+    "Swagger",
+    "Toxic",
+    "Water Pulse",
+    "Whirlwind"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Psychic",
+    "Metronome",
+    "Fire Blast",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Shadow Ball",
+    "Uproar",
+    "Superpower",
+    "Hyper Voice",
+    "Seed Bomb",
+    "Zen Headbutt",
+    "Gunk Shot",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Pay Day",
+    "Fire Punch",
+    "Ice Punch",
+    "Thunder Punch",
+    "Solar Beam",
+    "Screech",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Charm",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Sunny Day",
+    "Whirlpool",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Fling",
+    "Round",
+    "Retaliate",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Fling",
+    "Incinerate",
+    "Retaliate",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Sandstorm",
+    "Fire Blast",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Fling",
+    "Endure",
+    "Recycle",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

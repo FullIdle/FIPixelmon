@@ -1,0 +1,34 @@
+{
+  "attackIndex": 740,
+  "attackName": "Eerie Spell",
+  "attackType": "Psychic",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "EerieSpell"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

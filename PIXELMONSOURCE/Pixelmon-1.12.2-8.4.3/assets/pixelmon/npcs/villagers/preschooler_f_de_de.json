@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "preschooler_f1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Renee"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "\"Twinkle Toes\""
+        },
+        {
+            "name": "Jenni Jr."
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich habe gehört, dass Mathe und Deutsch super langweilig ist. Ich möchte nur etwas über Pokémon lernen!"
+                },
+                {
+                    "text": "Ich kann es kaum erwarten, mit der Schule fertig zu werden, wenn ich 10 bin!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Einer der Jungen in meiner Klasse fragt ständig, ob ich Hydropi mag."
+                },
+                {
+                    "text": "NEIN! Ich finde, dass sie grob sind!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Meine Mama mag Tragosso und mein Daddy mag Glumanda."
+                },
+                {
+                    "text": "Ich finde, dass sie ziemlich gleich aussehen..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Meine Mama hat mir zum Geburtstag ein Evoli geschenkt!"
+                },
+                {
+                    "text": "Ich werde einen von Papas Blattsteinen verwenden, wenn ich nach Hause komme!"
+                }
+            ]
+        }
+    ]
+}

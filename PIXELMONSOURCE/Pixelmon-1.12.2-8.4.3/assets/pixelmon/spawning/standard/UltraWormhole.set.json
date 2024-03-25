@@ -1,0 +1,41 @@
+{
+  "id": "UltraWormhole",
+  "spawnInfos": [
+    {
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minMaxAge": 800,
+      "maxMaxAge": 1400,
+      "minY": 100,
+      "maxY": 140,
+      "interval": "wormhole_ultra_space",
+      "typeID": "wormhole",
+      "requiredSpace": 7,
+      "condition": {
+        "dimensions": [
+          72
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minMaxAge": 800,
+      "maxMaxAge": 1400,
+      "minY": 100,
+      "maxY": 140,
+      "interval": "wormhole_overworld",
+      "typeID": "wormhole",
+      "requiredSpace": 7,
+      "condition": {
+        "dimensions": [
+          0
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

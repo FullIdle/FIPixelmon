@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "jonsnow.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jon Snow"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "L'inverno sta arrivando..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tutti sapevano cosa fosse questo posto, e nessuno me lo ha detto."
+                },
+                {
+                    "text": "Nessuno a parte te."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Anche le tormente più forti iniziano con un singolo fiocco di neve."
+                },
+                {
+                    "text": "O un Cryogonal. Lui provoca anche bufere di neve..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Infuria la tempesta, il freddo non mi ha mai infastidito."
+                }
+            ]
+        }
+    ]
+}

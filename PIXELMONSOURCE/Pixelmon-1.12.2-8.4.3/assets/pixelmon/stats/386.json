@@ -1,0 +1,761 @@
+{
+  "pixelmonName": "Deoxys",
+  "pokemon": "Deoxys",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 150,
+    "Defence": 50,
+    "Speed": 150,
+    "SpecialAttack": 150,
+    "SpecialDefence": 50
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.5,
+      "z": -0.1
+    }
+  },
+  "weight": 60.8,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.7,
+    "eye_height": 1.445
+  },
+  "evolutions": [],
+  "abilities": [
+    "Pressure",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Wrap"
+    ],
+    "7": [
+      "Night Shade"
+    ],
+    "13": [
+      "Teleport"
+    ],
+    "19": [
+      "Knock Off"
+    ],
+    "25": [
+      "Pursuit"
+    ],
+    "31": [
+      "Psychic"
+    ],
+    "37": [
+      "Snatch"
+    ],
+    "43": [
+      "Psycho Shift"
+    ],
+    "49": [
+      "Zen Headbutt"
+    ],
+    "55": [
+      "Cosmic Power"
+    ],
+    "61": [
+      "Recover"
+    ],
+    "67": [
+      "Psycho Boost"
+    ],
+    "73": [
+      "Hyper Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Ally Switch",
+    "Bind",
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Gravity",
+    "Ice Punch",
+    "Icy Wind",
+    "Knock Off",
+    "Laser Focus",
+    "Low Kick",
+    "Magic Coat",
+    "Recycle",
+    "Role Play",
+    "Shock Wave",
+    "Signal Beam",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Telekinesis",
+    "Throat Chop",
+    "Thunder Punch",
+    "Trick",
+    "Water Pulse",
+    "Wonder Room",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Avalanche",
+    "Body Slam",
+    "Cut",
+    "Double-Edge",
+    "Endure",
+    "Extreme Speed",
+    "Flash",
+    "Headbutt",
+    "Iron Defense",
+    "Mimic",
+    "Mud-Slap",
+    "Nasty Plot",
+    "Natural Gift",
+    "Nightmare",
+    "Power-Up Punch",
+    "Rock Smash",
+    "Secret Power",
+    "Seismic Toss",
+    "Strength",
+    "Swift",
+    "Zap Cannon"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Brutal Swing",
+    "Giga Impact",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Low Sweep",
+    "Round",
+    "Ally Switch",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Water Pulse",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Skill Swap",
+    "Snatch",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Drain Punch",
+    "Recycle",
+    "Giga Impact",
+    "Flash",
+    "Avalanche",
+    "Thunder Wave",
+    "Stealth Rock",
+    "Psych Up",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room"
+  ],
+  "tmMoves3": [
+    "Focus Punch",
+    "Water Pulse",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Shock Wave",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Skill Swap",
+    "Snatch"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 50,
+        "Attack": 180,
+        "Defence": 20,
+        "Speed": 150,
+        "SpecialAttack": 180,
+        "SpecialDefence": 20
+      },
+      "width": 1.7,
+      "length": 1.7,
+      "evYields": {
+        "Attack": 2,
+        "SpecialAttack": 1
+      },
+      "levelUpMoves": {
+        "0": [
+          "Leer",
+          "Wrap"
+        ],
+        "7": [
+          "Night Shade"
+        ],
+        "13": [
+          "Teleport"
+        ],
+        "19": [
+          "Taunt"
+        ],
+        "25": [
+          "Pursuit"
+        ],
+        "31": [
+          "Psychic"
+        ],
+        "37": [
+          "Superpower"
+        ],
+        "43": [
+          "Psycho Shift"
+        ],
+        "49": [
+          "Zen Headbutt"
+        ],
+        "55": [
+          "Cosmic Power"
+        ],
+        "61": [
+          "Zap Cannon"
+        ],
+        "67": [
+          "Psycho Boost"
+        ],
+        "73": [
+          "Hyper Beam"
+        ]
+      },
+      "tutorMoves": [
+        "Ally Switch",
+        "Bind",
+        "Drain Punch",
+        "Focus Punch",
+        "Gravity",
+        "Laser Focus",
+        "Low Kick",
+        "Magic Coat",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Telekinesis",
+        "Throat Chop",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ]
+    },
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 50,
+        "Attack": 70,
+        "Defence": 160,
+        "Speed": 90,
+        "SpecialAttack": 70,
+        "SpecialDefence": 160
+      },
+      "width": 1.7,
+      "length": 1.7,
+      "evYields": {
+        "Defence": 2,
+        "SpecialDefence": 1
+      },
+      "levelUpMoves": {
+        "0": [
+          "Leer",
+          "Wrap"
+        ],
+        "7": [
+          "Night Shade"
+        ],
+        "13": [
+          "Teleport"
+        ],
+        "19": [
+          "Knock Off"
+        ],
+        "25": [
+          "Spikes"
+        ],
+        "31": [
+          "Psychic"
+        ],
+        "37": [
+          "Snatch"
+        ],
+        "43": [
+          "Psycho Shift"
+        ],
+        "49": [
+          "Zen Headbutt"
+        ],
+        "55": [
+          "Amnesia",
+          "Iron Defense"
+        ],
+        "61": [
+          "Recover"
+        ],
+        "67": [
+          "Psycho Boost"
+        ],
+        "73": [
+          "Counter",
+          "Mirror Coat"
+        ]
+      },
+      "tutorMoves": [
+        "Ally Switch",
+        "Bind",
+        "Drain Punch",
+        "Focus Punch",
+        "Gravity",
+        "Iron Defense",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Magic Coat",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Throat Chop",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ]
+    },
+    "3": {
+      "form": 3,
+      "stats": {
+        "HP": 50,
+        "Attack": 95,
+        "Defence": 90,
+        "Speed": 180,
+        "SpecialAttack": 95,
+        "SpecialDefence": 95
+      },
+      "width": 1.7,
+      "length": 1.7,
+      "evYields": {
+        "Speed": 3
+      },
+      "levelUpMoves": {
+        "0": [
+          "Leer",
+          "Wrap"
+        ],
+        "7": [
+          "Night Shade"
+        ],
+        "13": [
+          "Double Team"
+        ],
+        "19": [
+          "Knock Off"
+        ],
+        "25": [
+          "Pursuit"
+        ],
+        "31": [
+          "Psychic"
+        ],
+        "37": [
+          "Swift"
+        ],
+        "43": [
+          "Psycho Shift"
+        ],
+        "49": [
+          "Zen Headbutt"
+        ],
+        "55": [
+          "Agility"
+        ],
+        "61": [
+          "Recover"
+        ],
+        "67": [
+          "Psycho Boost"
+        ],
+        "73": [
+          "Extreme Speed"
+        ]
+      },
+      "tutorMoves": [
+        "Ally Switch",
+        "Bind",
+        "Drain Punch",
+        "Fire Punch",
+        "Focus Punch",
+        "Gravity",
+        "Ice Punch",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Magic Coat",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ]
+    },
+    "4": {
+      "pixelmonName": "deoxsus",
+      "_comment": "Stats are a copy of defense form",
+      "form": 2,
+      "stats": {
+        "HP": 50,
+        "Attack": 70,
+        "Defence": 160,
+        "Speed": 90,
+        "SpecialAttack": 70,
+        "SpecialDefence": 160
+      },
+      "width": 1.7,
+      "length": 1.7,
+      "evYields": {
+        "Defence": 2,
+        "SpecialDefence": 1
+      },
+      "levelUpMoves": {
+        "0": [
+          "Leer",
+          "Wrap"
+        ],
+        "7": [
+          "Night Shade"
+        ],
+        "13": [
+          "Teleport"
+        ],
+        "19": [
+          "Knock Off"
+        ],
+        "25": [
+          "Spikes"
+        ],
+        "31": [
+          "Psychic"
+        ],
+        "37": [
+          "Snatch"
+        ],
+        "43": [
+          "Psycho Shift"
+        ],
+        "49": [
+          "Zen Headbutt"
+        ],
+        "55": [
+          "Amnesia",
+          "Iron Defense"
+        ],
+        "61": [
+          "Recover"
+        ],
+        "67": [
+          "Psycho Boost"
+        ],
+        "73": [
+          "Counter",
+          "Mirror Coat"
+        ]
+      },
+      "tutorMoves": [
+        "Ally Switch",
+        "Bind",
+        "Drain Punch",
+        "Focus Punch",
+        "Gravity",
+        "Iron Defense",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Magic Coat",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Throat Chop",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ]
+    }
+  }
+}

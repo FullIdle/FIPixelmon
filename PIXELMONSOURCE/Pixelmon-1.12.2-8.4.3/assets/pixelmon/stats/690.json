@@ -1,0 +1,214 @@
+{
+  "pixelmonName": "Skrelp",
+  "pokemon": "Skrelp",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 60,
+    "Defence": 60,
+    "Speed": 30,
+    "SpecialAttack": 60,
+    "SpecialDefence": 60
+  },
+  "catchRate": 225,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 14,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Water"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 7.3,
+  "bounding_box": {
+    "width": 0.3,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 48,
+      "to": {
+        "name": "Dragalge"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "PoisonPoint",
+    "PoisonTouch",
+    "Adaptability"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Smokescreen",
+      "Tackle"
+    ],
+    "5": [
+      "Acid"
+    ],
+    "10": [
+      "Water Gun"
+    ],
+    "15": [
+      "Tail Whip"
+    ],
+    "20": [
+      "Double Team"
+    ],
+    "25": [
+      "Poison Tail"
+    ],
+    "30": [
+      "Water Pulse"
+    ],
+    "35": [
+      "Toxic"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "45": [
+      "Aqua Tail"
+    ],
+    "50": [
+      "Sludge Bomb"
+    ],
+    "55": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Flip Turn",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Dragon Tail",
+    "Haze",
+    "Twister"
+  ],
+  "transferMoves": [
+    "Bubble",
+    "Camouflage",
+    "Confide",
+    "Feint Attack",
+    "Frustration",
+    "Hidden Power",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Swagger"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Thunderbolt",
+    "Waterfall",
+    "Substitute",
+    "Sludge Bomb",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Toxic Spikes",
+    "Dragon Pulse",
+    "Gunk Shot",
+    "Sludge Wave",
+    "Scald",
+    "Play Rough",
+    "Venom Drench"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Dive",
+    "Bounce",
+    "Venoshock",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Venoshock",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {}
+}

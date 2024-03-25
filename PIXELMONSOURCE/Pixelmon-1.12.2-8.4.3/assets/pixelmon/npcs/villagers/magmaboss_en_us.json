@@ -1,0 +1,47 @@
+{
+    "skins": [
+        {
+            "filename": "magmaboss.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Maxie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Of course global warming is real!"
+                },
+                {
+                    "text": "What did you think, it was Groudon using its drought ability?"
+                }
+            ]
+        },
+	{
+            "lines": [
+                {
+                    "text": "Blue orbs, Red orbs, whichever expands the landmasses works for me!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pff, Archie wants there to be more ocean..."
+                },
+		{
+                    "text": "It's just a bunch of seaweed and some subpar fish Pokemon."
+                },
+		{
+                    "text": "Not to mention that HUMANS LIVE ON LAND! We need land to live, Archie!"
+                },
+                {
+                    "text": "*Sigh* If you see him, could you knock some sense into him for me?"
+                }
+            ]
+        }
+    ]
+}

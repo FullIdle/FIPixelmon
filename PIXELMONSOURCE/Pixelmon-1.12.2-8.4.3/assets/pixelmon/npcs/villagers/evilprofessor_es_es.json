@@ -1,0 +1,60 @@
+{
+    "skins": [
+        {
+            "filename": "evilprofessor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Victor"
+        },
+        {
+            "name": "Doofenshmirtz"
+        },
+        {
+            "name": "Gregorio"
+        },
+        {
+            "name": "Dr. Henry Wu"
+        },
+        {
+            "name": "Dr. Trayaurus"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¡Mi sujeto de pruebas ha escapado!"
+                },
+                {
+                    "text": "¡Supe que debía haber cogido los lingotes de hierro extra fuertes!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Los Pokémon no son más que objetos, atrapados hasta soltarlos, usados sólo para la destrucción."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡No intentes detenerme, entrenador!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Llegaste demasiado tarde, entrenador!"
+                },
+                {
+                    "text": "¡Mi plan está casi terminado!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "Eevee Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Eevee"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Vaporeon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "minecraft:beaches"
+        ],
+        "stringBiomes": [
+          "minecraft:beaches",
+          "rw_bombona_beach"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Jolteon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Flareon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Espeon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "plains",
+          "magical"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Umbreon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:plains"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Leafeon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:mossyrock"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "anticondition": {
+        "temperature": "COLD"
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Glaceon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:icyrock"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Sylveon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 32,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

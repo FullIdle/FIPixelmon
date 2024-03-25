@@ -1,0 +1,98 @@
+{
+  "id": "Staryu Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Staryu"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ],
+        "times": [
+          "NIGHT"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Staryu"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ],
+        "times": [
+          "NIGHT"
+        ]
+      },
+      "rarity": 80.0
+    },
+    {
+      "spec": {
+        "name": "Starmie"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ],
+        "times": [
+          "NIGHT"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

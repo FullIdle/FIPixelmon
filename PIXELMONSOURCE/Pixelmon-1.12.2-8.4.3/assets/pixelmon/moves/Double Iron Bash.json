@@ -1,0 +1,52 @@
+{
+  "attackIndex": 676,
+  "attackName": "Double Iron Bash",
+  "attackType": "Steel",
+  "attackCategory": "PHYSICAL",
+  "basePower": 60,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "minHits": 2,
+      "maxHits": 0,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MultipleHit"
+    },
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Corkscrew Crash",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "skins": [
+        {
+            "filename": "aquagruntfemale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Aqua Grunt"
+        },
+        {
+            "name": "Team Aqua Grunt"
+        },
+        {
+            "name": "Team Aqua Grunt"
+        },
+        {
+            "name": "Team Aqua Grunt"
+        },
+        {
+            "name": "Team Aqua Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Magma glaubt, dass sie gegen uns eine Chance haben!"
+                },
+                {
+                    "text": "Die Welt ist mehr Ozean als Land! Außerdem haben wir den Typvorteil! Wir sind das bessere Team!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Groudon ist cool und alles, aber nichts ist besser als unser Kyogre!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Unser Chef sagt uns immer wieder, dass er Kyogre benutzen wird, um das Land zu überfluten."
+                },
+                {
+                    "text": "Aber wo würden wir leben?! Das letzte Mal, als ich nachgesehen habe, konnten wir kein Wasser atmen!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "baker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "M. Croissant"
+        },
+        {
+            "name": "Mr. Souffle"
+        },
+        {
+            "name": "Bertie le Boulanger"
+        },
+        {
+            "name": "M. Tarte"
+        },
+        {
+            "name": "M. Pâtisserie"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Si vous avez besoin de pain, passez donc à ma boulangerie."
+                },
+                {
+                    "text": "Je n'utilise que la farine de qualité supérieure."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bonjour, cet après-midi, nous vendons du pain frais et croustillant à moitié prix."
+                },
+                {
+                    "text": "Vous en prendrez bien une douzaine ?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Quand mes gâteaux ne lèvent pas, je me sens raplapla."
+                },
+                {
+                    "text": "La pâtisserie, c'est un art exigeant ! Il faut du cran ! "
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il faudrait que tu grossisses un peu ! Allez, viens acheter de délicieuses tartes à ma boulangerie."
+                },
+                {
+                    "text": "Tu n'aimes pas les tartes ? Alors ça en fera plus pour moi !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Si seulement je pouvais m'empêcher de manger une si grande part du pain que je prépare."
+                },
+                {
+                    "text": "Tu crois que je devrais me mettre au régime?"
+                }
+            ]
+        }
+    ]
+}

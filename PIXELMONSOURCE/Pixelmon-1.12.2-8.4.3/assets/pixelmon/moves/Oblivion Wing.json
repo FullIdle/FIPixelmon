@@ -1,0 +1,53 @@
+{
+  "attackIndex": 601,
+  "attackName": "Oblivion Wing",
+  "attackType": "Flying",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "drainPercent": 75,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [182, 12, 74],
+				"scale": 0.5,
+				"segments": 25,
+				"power": 30,
+				"speed": 0.8
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Supersonic Skystrike",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

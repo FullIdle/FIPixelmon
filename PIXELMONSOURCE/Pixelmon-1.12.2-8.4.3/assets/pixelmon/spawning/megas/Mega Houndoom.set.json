@@ -1,0 +1,23 @@
+{
+  "id": "Mega Houndoom",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Houndoom"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "mesas",
+          "arid"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

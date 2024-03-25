@@ -1,0 +1,104 @@
+{
+  "pixelmonName": "Cosmoem",
+  "pokemon": "Cosmoem",
+  "form": 0,
+  "stats": {
+    "HP": 43,
+    "Attack": 29,
+    "Defence": 131,
+    "Speed": 37,
+    "SpecialAttack": 29,
+    "SpecialDefence": 131
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 45,
+  "spawnLevelRange": 0,
+  "baseExp": 80,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Cosmog"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 1
+  },
+  "weight": 999.9,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 1.0,
+    "eye_height": 0.85
+  },
+  "evolutions": [
+    {
+      "level": 53,
+      "to": {
+        "name": "Solgaleo"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Sunsteel Strike"
+      ]
+    },
+    {
+      "level": 53,
+      "to": {
+        "name": "Lunala"
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Moongeist Beam"
+      ]
+    }
+  ],
+  "abilities": [
+    "Sturdy",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Cosmic Power",
+      "Teleport"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Cosmic Power"
+  ],
+  "tmMoves8": [],
+  "forms": {}
+}

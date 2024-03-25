@@ -1,0 +1,47 @@
+{
+  "id": "Hippopotas Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hippopotas"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 170.0
+    },
+    {
+      "spec": {
+        "name": "Hippowdon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 8.0
+    }
+  ]
+}

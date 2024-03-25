@@ -1,0 +1,13 @@
+{
+  "type": "pixelmon:infusion",
+  
+  "input1": {
+    "item": "pixelmon:chople_berry"
+  },
+  "input2": {
+    "item": "pixelmon:crystal_block"
+  },
+  "result": {
+    "item": "pixelmon:fighting_gem"
+  }
+}

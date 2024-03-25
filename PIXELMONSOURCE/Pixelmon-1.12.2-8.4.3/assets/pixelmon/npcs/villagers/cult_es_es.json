@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "cult.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Miembro Sectario"
+        },
+        {
+            "name": "Miembro Sectario"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Alabad todos a nuestro Señor y Salvador, Bidoo... ¡Quiero decir, Arceus!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La guerra entre la tierra y el mar pronto destruirá nuestro mundo, a menos de que el cielo se interponga."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Te gustaría unirte a nuestro culto?"
+                },
+                {
+                    "text": "Hacemos reuniones cada Viernes, ¡y siempre hay aperitivos!"
+                }
+            ]
+        }
+    ]
+}

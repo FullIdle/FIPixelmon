@@ -1,0 +1,77 @@
+{
+  "id": "Salandit Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Salandit"
+      },
+      "stringLocationTypes": [
+        "Good Rod Lava"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "mesas"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": {
+        "name": "Salandit"
+      },
+      "stringLocationTypes": [
+        "Super Rod Lava"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "mesas"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Salazzle"
+      },
+      "stringLocationTypes": [
+        "Super Rod Lava"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "mesas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

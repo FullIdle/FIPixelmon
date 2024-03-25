@@ -1,0 +1,49 @@
+{
+  "attackIndex": 230,
+  "attackName": "Psych Up",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PsychUp"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Psych Up",
+      "basePower": 0,
+      "effects": [
+        {
+          "increment": 100,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Recover"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

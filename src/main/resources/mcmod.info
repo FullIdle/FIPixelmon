@@ -1,0 +1,17 @@
+[
+{
+  "modid": "fipixelmon",
+  "name": "FIPixelmon Mod",
+  "description": "A Pixelmon extend mod",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "forgeversion": "Forge 14.23.5.2860",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FullIdle"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["pixelmon"]
+}
+]

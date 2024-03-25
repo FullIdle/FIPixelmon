@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "hexmaniac.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Bellatrix"
+    },
+    {
+      "name": "Gytha"
+    },
+    {
+      "name": "Samantha"
+    },
+    {
+      "name": "Piper"
+    },
+    {
+      "name": "Sabrina"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Sieh nur, mein Nebulak hat mich verflucht."
+        },
+        {
+          "text": "Ich erwartete schreckliche Höllenqualen, aber es kitzelt nur ein wenig."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich schaffe es nicht, dass meine Lichtel an ihren Stellen im Ritualkreis stehen bleiben."
+        },
+        {
+          "text": "Sie ruinieren mir meine Rituale."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Nein..."
+        },
+        {
+          "text": "Immer noch nicht der Eine..."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Keiner meiner Freunde glaubt mir, dass ich dunkle Magie behersche."
+        },
+        {
+          "text": "Sie glaubten mir sowieso nicht. Nun habe ich keine Freunde mehr."
+        }
+      ]
+    }
+  ]
+}

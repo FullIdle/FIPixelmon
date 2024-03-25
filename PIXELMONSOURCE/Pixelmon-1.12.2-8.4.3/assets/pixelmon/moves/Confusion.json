@@ -1,0 +1,45 @@
+{
+  "attackIndex": 128,
+  "attackName": "Confusion",
+  "attackType": "Psychic",
+  "attackCategory": "SPECIAL",
+  "basePower": 50,
+  "ppBase": 25,
+  "ppMax": 40,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Confusion",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Confusion"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Shattered Psyche",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

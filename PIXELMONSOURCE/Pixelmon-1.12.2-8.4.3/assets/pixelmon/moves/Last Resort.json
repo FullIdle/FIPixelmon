@@ -1,0 +1,46 @@
+{
+  "attackIndex": 256,
+  "attackName": "Last Resort",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 140,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "LastResort"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 200,
+      "effects": [],
+      "allowedPokemon": []
+    },
+	{
+      "crystal": "eevium_z",
+      "attackName": "Extreme Evoboost",
+      "basePower": 0,
+      "effects": [],
+      "allowedPokemon": ["Eevee"]
+    }
+  ]
+}

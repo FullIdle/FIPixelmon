@@ -1,0 +1,58 @@
+{
+  "id": "Rayquaza",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rayquaza",
+        "form": 0,
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Rayquaza",
+        "form": 107,
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "partyHeadSpecies": [
+          "Mismagius"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

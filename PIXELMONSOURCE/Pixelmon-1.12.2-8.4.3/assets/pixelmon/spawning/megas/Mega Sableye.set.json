@@ -1,0 +1,20 @@
+{
+  "id": "Mega Sableye",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sableye"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "maxY": 60
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

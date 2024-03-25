@@ -1,0 +1,184 @@
+{
+    "data": {
+        "trainerType": "FemaleRocketGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 60
+    },
+    "models":[
+        {
+            "name": "FemaleRocketGrunt"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jessie"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Butch"
+        },
+        {
+            "name": "Cassidy"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Paul"
+        },
+        {
+            "name": "Chazz"
+        },
+        {
+            "name": "Jayden"
+        },
+        {
+            "name": "Zain"
+        },
+        {
+            "name": "Attila"
+        },
+        {
+            "name": "Hun"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "Oakley"
+        },
+        {
+            "name": "Gideon"
+        },
+        {
+            "name": "Rolf"
+        },
+        {
+            "name": "Jessie"
+        },
+        {
+            "name": "Cassidy"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Attila"
+        },
+        {
+            "name": "Hun"
+        },
+        {
+            "name": "Annie"
+        },
+        {
+            "name": "Oakley"
+        },
+        {
+            "name": "Gideon"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Hey gamin, donne-moi ton pokémon !",
+            "win": "J'ai gagné. Maintenant donne moi ton pokémon.",
+            "lose": "Urgh, Comment as-tu fait pour me battre ?!"
+        },        
+        {
+            "opening": "Tu ne peux pas passer sans me battre !",
+            "win": "Vous ne passerez pas !",
+            "lose": "Passe, si tu l'oses."
+        },
+        {
+            "opening": "Que fais tu là ?!",
+            "win": "Dégage d'ici!",
+            "lose": "Oh non ! J'ai perdu !"
+        },
+        {
+            "opening": "C'est une opération important. On a pas besoin que tu traines dans le coin !",
+            "win": "Dégage maintenant !",
+            "lose": "Impossible!"
+        },
+        {
+            "opening": "La Team Rocket est la meilleure !",
+            "win": "Je te l'avais dit qu'on était les meilleurs !",
+            "lose": "J'aurais du rejoindre la Team Magma."
+        },
+        {
+            "opening": "Prépare toi à avoir des ennuis!",
+            "win": "Et je peux faire deux fois pire.",
+            "lose": "Les Pokémon sont des ordures !"
+        },
+        {
+            "opening": "Les Pokémon sont des outils. A quoi pourrait-il servir le plus ?",
+            "win": "Tu vois ? Ils sont complètement inutiles.",
+            "lose": "Ce sont des chosees inutiles !"
+        },
+        {
+            "opening": "On est la Team Rocket!",
+            "win": "Qui somme nous !?",
+            "lose": "Mais pourquoi t'es là ?"
+        },
+        {
+            "opening": "Que penses-tu faire ici ?",
+            "win": "Pars maintenant !",
+            "lose": "Pars avant que je ne le dise au boss !"
+        },
+        {
+            "opening": "Dégage de mon chemin !",
+            "win": "J'ai dit dégage !",
+            "lose": "Pas croyable !"
+        },
+        {
+            "opening": "Tu as du cran de penser que tu pourrais me battre",
+            "win": "Tu ne me batteras jamais.",
+            "lose": "Tu m'as battu !? Noooooon!"
+        },       
+        {
+            "opening": "Tu ne peux pas me battre. Je suis le 27ème plus fort sbire !",
+            "win": "Oui, maintenant je suis sûr que je serais le 26ème plus fort !",
+            "lose": "Oh non, ils vont m'appeller le 28ème plus fort maintenant!"
+        },
+        {
+            "opening": "Tes Pokémon va valloir une jolie petite somme sur le marché noir !",
+            "win": "Tes Pokémon sont null !",
+            "lose": "Ils vallent peut-être même plus que ce que je ne le pensais !"
+        },       
+        {
+            "opening": "Rien de suspect ici, passez votre chemin !",
+            "win": "Tu ne sais pas à qui tu as affaire gamin !",
+            "lose": "Le boss ne sera pas content avec toi."
+        }
+    ]
+}

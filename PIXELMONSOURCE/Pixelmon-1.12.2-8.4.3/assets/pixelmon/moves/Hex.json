@@ -1,0 +1,54 @@
+{
+  "attackIndex": 271,
+  "attackName": "Hex",
+  "attackType": "Ghost",
+  "attackCategory": "SPECIAL",
+  "basePower": 65,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "basePower": 65,
+      "statusPower": 130,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Hex"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"rgb": [178, 102, 255],
+				"radius": 1.4,
+				"power": 2,
+				"scale": 0.4,
+				"segments": 4
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Never-Ending Nightmare",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

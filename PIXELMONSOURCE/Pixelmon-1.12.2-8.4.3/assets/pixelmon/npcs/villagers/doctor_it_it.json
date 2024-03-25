@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "doctor.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Dottore"
+    },
+    {
+      "name": "Dott. Pill"
+    },
+    {
+      "name": "Dott. Smith"
+    },
+    {
+      "name": "Dott. Holiday"
+    },
+    {
+      "name": "Dott. Feelbetter"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Tira fuori la lingua e dì aahh."
+        },
+        {
+          "text": "Stai sembrando piuttosto pallido. Hai bisogno di qualcosa?"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Oh mio Dio, dovresti prendere più sole. Fa bene alle tue ossa, lo sai."
+        },
+        {
+          "text": "Sei il mio prossimo paziente? Sono così impegnato..."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ho solo medicine buone. Le preparo personalmente!"
+        },
+        {
+          "text": "Avrei dovuto studiare per diventare un dottore Pokémon. Molto più interessante."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Non dimenticare di prendere il ricostituente due volte al giorno. Forse tre volte. O quattro..."
+        },
+        {
+          "text": "Il miglior ricostituente è una risata! Conosci qualche barzelletta?"
+        }
+      ]
+    }
+  ]
+}

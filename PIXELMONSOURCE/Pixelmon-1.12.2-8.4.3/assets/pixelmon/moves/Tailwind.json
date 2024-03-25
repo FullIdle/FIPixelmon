@@ -1,0 +1,46 @@
+{
+  "attackIndex": 412,
+  "attackName": "Tailwind",
+  "attackType": "Flying",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Tailwind",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Tailwind"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Z-Tailwind",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "FocusEnergy"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

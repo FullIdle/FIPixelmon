@@ -1,0 +1,44 @@
+{
+  "attackIndex": 722,
+  "attackName": "Meteor Beam",
+  "attackType": "Rock",
+  "attackCategory": "SPECIAL",
+  "basePower": 120,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "message": "pixelmon.effect.meteorbeam",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "MeteorBeam"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255],
+				"variation": 0.6,
+				"speed": 0.6,
+				"scale": 0.4,
+				"segments": 20
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

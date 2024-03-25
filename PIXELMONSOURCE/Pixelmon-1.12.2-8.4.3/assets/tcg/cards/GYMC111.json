@@ -1,0 +1,47 @@
+{
+  "id": 564,
+  "setId": 7,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 53,
+  "code": "GYMC111",
+  "name": "card.GYMC111.name",
+  "description": "",
+  "previousPokemonId": 52,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC111",
+      "attackNumber": 1,
+      "name": "attack.GYMC111.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMC111.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": "30",
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

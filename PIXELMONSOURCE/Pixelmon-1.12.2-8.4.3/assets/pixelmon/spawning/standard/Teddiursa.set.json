@@ -1,0 +1,23 @@
+{
+  "id": "Teddiursa",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Teddiursa"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

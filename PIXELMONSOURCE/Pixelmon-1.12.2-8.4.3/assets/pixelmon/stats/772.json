@@ -1,0 +1,212 @@
+{
+  "pixelmonName": "TypeNull",
+  "pokemon": "TypeNull",
+  "form": 0,
+  "stats": {
+    "HP": 95,
+    "Attack": 95,
+    "Defence": 95,
+    "Speed": 59,
+    "SpecialAttack": 95,
+    "SpecialDefence": 95
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 107,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.4,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.11
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.11
+    }
+  },
+  "weight": 120.5,
+  "bounding_box": {
+    "width": 1.5,
+    "height": 1.6,
+    "eye_height": 1.2
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Silvally"
+      },
+      "conditions": [
+        {
+          "friendship": 220,
+          "evoConditionType": "friendship"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Multi-Attack"
+      ]
+    }
+  ],
+  "abilities": [
+    "BattleArmour",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Imprison",
+      "Tackle"
+    ],
+    "5": [
+      "Aerial Ace"
+    ],
+    "10": [
+      "Scary Face"
+    ],
+    "15": [
+      "Double Hit"
+    ],
+    "20": [
+      "Metal Sound"
+    ],
+    "25": [
+      "Crush Claw"
+    ],
+    "30": [
+      "Air Slash"
+    ],
+    "35": [
+      "Tri Attack"
+    ],
+    "40": [
+      "X-Scissor"
+    ],
+    "45": [
+      "Iron Head"
+    ],
+    "50": [
+      "Take Down"
+    ],
+    "55": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Terrain Pulse"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Flame Charge",
+    "Frustration",
+    "Heal Block",
+    "Hidden Power",
+    "Last Resort",
+    "Magic Coat",
+    "Punishment",
+    "Pursuit",
+    "Rage",
+    "Razor Wind",
+    "Return",
+    "Roar",
+    "Signal Beam",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Tri Attack",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Dragon Claw",
+    "X-Scissor",
+    "Iron Head",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Icy Wind",
+    "Sandstorm",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Swift",
+    "Imprison",
+    "U-turn",
+    "Payback",
+    "Shadow Claw",
+    "Round",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Round",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swords Dance",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

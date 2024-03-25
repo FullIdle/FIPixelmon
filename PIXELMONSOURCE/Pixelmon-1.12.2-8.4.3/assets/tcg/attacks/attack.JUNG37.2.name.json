@@ -1,0 +1,27 @@
+{
+  "cardCode": "JUNG37",
+  "attackNumber": 2,
+  "name": "attack.JUNG37.2.name",
+  "energy": [
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.JUNG37.2.text",
+  "effectsString": "SELF_CONDITION:CONFUSED OPP_CONDITION:CONFUSED",
+  "effects": [
+    {
+      "condition": "CONFUSED",
+      "onMe": true,
+      "modifier": null,
+      "needCoinSide": null
+    },
+    {
+      "condition": "CONFUSED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": null
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "pixelmonName": "Purugly",
+  "pokemon": "Purugly",
+  "form": 0,
+  "stats": {
+    "HP": 71,
+    "Attack": 82,
+    "Defence": 64,
+    "Speed": 112,
+    "SpecialAttack": 64,
+    "SpecialDefence": 59
+  },
+  "catchRate": 75,
+  "malePercent": 25,
+  "spawnLevel": 39,
+  "spawnLevelRange": 11,
+  "baseExp": 183,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Glameow"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.6
+    }
+  },
+  "weight": 43.8,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.3,
+    "eye_height": 0.9
+  },
+  "evolutions": [],
+  "abilities": [
+    "ThickFat",
+    "OwnTempo",
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fake Out",
+      "Growl",
+      "Scratch",
+      "Swagger"
+    ],
+    "5": [
+      "Scratch"
+    ],
+    "8": [
+      "Growl"
+    ],
+    "13": [
+      "Hypnosis"
+    ],
+    "17": [
+      "Feint Attack"
+    ],
+    "20": [
+      "Fury Swipes"
+    ],
+    "25": [
+      "Charm"
+    ],
+    "29": [
+      "Assist"
+    ],
+    "32": [
+      "Captivate"
+    ],
+    "37": [
+      "Slash"
+    ],
+    "45": [
+      "Body Slam"
+    ],
+    "52": [
+      "Attract"
+    ],
+    "60": [
+      "Hone Claws"
+    ]
+  },
+  "tutorMoves": [
+    "Covet",
+    "Foul Play",
+    "Hyper Voice",
+    "Iron Tail",
+    "Knock Off",
+    "Last Resort",
+    "Shock Wave",
+    "Snatch",
+    "Snore",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Throat Chop",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Bite",
+    "Fake Tears",
+    "Flail",
+    "Last Resort",
+    "Quick Attack",
+    "Sand Attack",
+    "Snatch",
+    "Tail Whip",
+    "Wake-Up Slap"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Dig",
+    "Endure",
+    "Flash",
+    "Fury Cutter",
+    "Headbutt",
+    "Mud-Slap",
+    "Natural Gift",
+    "Retaliate",
+    "Rollout",
+    "Secret Power",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Psych Up",
+    "Bulldoze",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Bulldoze",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Shadow Claw",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Bulldoze",
+    "Work Up",
+    "Dream Eater",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Snatch",
+    "Endure",
+    "Shadow Claw",
+    "Payback",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "forms": {}
+}

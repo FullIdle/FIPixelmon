@@ -1,0 +1,71 @@
+{
+  "attackIndex": 550,
+  "attackName": "Blue Flare",
+  "attackType": "Fire",
+  "attackCategory": "SPECIAL",
+  "basePower": 130,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Burn",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Burn"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [51, 51, 255],
+				"scale": 0.8
+			},
+			"10": {
+				"id": "tube",
+				"texture": "FLAME",
+				"rgb": [51, 51, 255],
+				"conical": false,
+				"radius": 0.8,
+				"scale": 0.4
+			},
+			"20": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [51, 51, 255],
+				"conical": false,
+				"scale": 0.8,
+				"segments": 5
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "firium_z",
+      "attackName": "Inferno Overdrive",
+      "basePower": 195,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

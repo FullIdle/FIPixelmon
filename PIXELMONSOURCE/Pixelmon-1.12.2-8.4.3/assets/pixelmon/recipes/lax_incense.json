@@ -1,0 +1,14 @@
+{
+  "type": "pixelmon:infusion",
+  
+  "input1": {
+    "item": "pixelmon:cornn_berry",
+	"count": 3
+  },
+  "input2": {
+    "item": "pixelmon:incense_burner"
+  },
+  "result": {
+    "item": "pixelmon:lax_incense"
+  }
+}

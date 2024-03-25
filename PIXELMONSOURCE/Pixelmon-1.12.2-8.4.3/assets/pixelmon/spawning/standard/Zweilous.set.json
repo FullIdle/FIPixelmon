@@ -1,0 +1,44 @@
+{
+  "id": "Zweilous",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zweilous"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous forests",
+          "ultra_deep_sea"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Zweilous"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "maxLightLevel": 0
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Enamorus",
+  "pokemon": "Enamorus",
+  "form": 0,
+  "stats": {
+    "HP": 74,
+    "Attack": 115,
+    "Defence": 70,
+    "SpecialAttack": 135,
+    "SpecialDefence": 80,
+    "Speed": 106
+  },
+  "_comment_catchRate": "Catch rate unknown 5/14/22",
+  "catchRate": 3,
+  "malePercent": 0,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "_comment_baseExp": "baseExp unknown 5/14/22",
+  "baseExp": 261,
+  "baseFriendship": 90,
+  "types": [
+    "Fairy",
+    "Flying"
+  ],
+  "height": 1.6,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 20,
+    "flyHeightMax": 50,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "weight": 48.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 2.0,
+    "eye_height": 1.7
+  },
+  "evolutions": [],
+  "abilities": [
+    "Healer",
+    null,
+    "Contrary"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "1": [
+      "Tackle"
+    ],
+    "7": [
+      "Bite"
+    ],
+    "11": [
+      "Twister"
+    ],
+    "14": [
+      "Draining Kiss"
+    ],
+    "22": [
+      "Iron Defense"
+    ],
+    "31": [
+      "Extrasensory"
+    ],
+    "41": [
+      "Crunch"
+    ],
+    "47": [
+      "Moonblast"
+    ],
+    "52": [
+      "Springtide Storm"
+    ]
+  },
+  "tutorMoves": [
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Rock Smash",
+    "Power Shift",
+    "Calm Mind",
+    "Rest",
+    "Zen Headbutt",
+    "Mystical Fire",
+    "Sludge Bomb",
+    "Earth Power",
+    "Dazzling Gleam",
+    "Giga Impact",
+    "Play Rough",
+    "Hyper Beam",
+    "Psychic"
+  ],
+  "hmMoves": [],
+  "trMoves": [],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 74,
+        "Attack": 115,
+        "Defence": 110,
+        "SpecialAttack": 135,
+        "SpecialDefence": 100,
+        "Speed": 46
+      },
+      "height": 3.5,
+      "isRideable": true,
+      "canFly": false,
+      "evYields": {
+        "Attack": 3
+      },
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.2,
+          "z": -0.4
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.2,
+          "z": -0.4
+        }
+      },
+      "abilities": [
+        "Overcoat",
+        null,
+        null
+      ]
+    }
+  }
+}

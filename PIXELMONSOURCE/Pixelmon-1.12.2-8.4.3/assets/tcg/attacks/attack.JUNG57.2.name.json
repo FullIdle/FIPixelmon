@@ -1,0 +1,24 @@
+{
+  "cardCode": "JUNG57",
+  "attackNumber": 2,
+  "name": "attack.JUNG57.2.name",
+  "energy": [
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG57.2.text",
+  "effectsString": "FIND_POKEMON:1:POKEMON:29,32",
+  "effects": [
+    {
+      "count": 1,
+      "type": "ByPokemon",
+      "pokedexNumbers": [
+        29,
+        32
+      ],
+      "energy": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "attackIndex": 135,
+  "attackName": "Teleport",
+  "attackType": "Psychic",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "priority": -6,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Teleport"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Teleport",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "increment": 100,
+		  "modifiers": [],
+		  "persists": false,
+		  "effectTypeID": "Recover"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

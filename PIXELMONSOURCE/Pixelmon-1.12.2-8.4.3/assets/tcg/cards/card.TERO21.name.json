@@ -1,0 +1,58 @@
+{
+  "id": 259,
+  "setId": 4,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "FIRE",
+  "energy2": null,
+  "pokemonId": 6,
+  "code": "TERO21",
+  "name": "card.TERO21.name",
+  "description": "",
+  "previousPokemonId": 5,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO21",
+      "attackNumber": 1,
+      "name": "attack.TERO21.1.name",
+      "energy": [
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    },
+    {
+      "cardCode": "TERO21",
+      "attackNumber": 2,
+      "name": "attack.TERO21.2.name",
+      "energy": [
+        "FIRE",
+        "FIRE"
+      ],
+      "damage": 50,
+      "modifier": "Multiply",
+      "text": "attack.TERO21.2.text",
+      "effects": [
+        "FLIPS_MULTIPLY:ENERGY:FIRE:DISCARD"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "WATER",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,26 @@
+{
+  "cardCode": "TERO9",
+  "attackNumber": 2,
+  "name": "attack.TERO9.2.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": "Multiply",
+  "text": "attack.TERO9.2.text",
+  "effectsString": "FLIPS_MULTIPLY:PER_OPP_BENCH IGNORESTATS",
+  "effects": [
+    {
+      "flipCount": 0,
+      "type": "PerOppBench",
+      "counter": 0
+    },
+    {
+      "applyOn": null,
+      "weakness": null,
+      "resistance": null
+    }
+  ]
+}

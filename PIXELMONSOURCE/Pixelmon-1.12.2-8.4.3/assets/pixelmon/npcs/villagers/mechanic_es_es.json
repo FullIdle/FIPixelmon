@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "mechanic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sucio Jockey Joe"
+        },
+        {
+            "name": "Mac Llave Inglesa"
+        },
+        {
+            "name": "Bob el Conductor"
+        },
+        {
+            "name": "Angus"
+        },
+        {
+            "name": "Pit Stop Pete"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¿La rueda de tu vehículo chirria?"
+                },
+                {
+                    "text": "Deberías de traer tu vehículo a mi taller para una revisión."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Para qué quiero ir por ahí persiguiendo Pokémon? Tengo unos bonitos coches que arreglar aquí."
+                },
+                {
+                    "text": "¡No hay nada mejor que un día bajo el capó de un coche estropeado!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Necesito unas vacaciones. Arrastrarse bajo los coches todos los días es un poco agotador."
+                },
+                {
+                    "text": "¿Qué tal si te haces cargo de mi taller un tiempo? Necesito descansar."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Adoro el olor de la grasa por las mañanas!"
+                },
+                {
+                    "text": "Vuelve algún día con un vehículo tuyo. ¡Le cantaré dulcemente!"
+                }
+            ]
+        }
+    ]
+}

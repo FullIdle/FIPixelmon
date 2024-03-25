@@ -1,0 +1,145 @@
+{
+  "pixelmonName": "Arrokuda",
+  "pokemon": "Arrokuda",
+  "form": 0,
+  "stats": {
+    "HP": 41,
+    "Attack": 63,
+    "Defence": 40,
+    "SpecialAttack": 40,
+    "SpecialDefence": 30,
+    "Speed": 66
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 8,
+  "baseExp": 56,
+  "baseFriendship": 50,
+  "types": [
+    "Water"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 10,
+    "swimSpeed": 0.6,
+    "decayRate": 0.99,
+    "refreshRate": 100
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 1.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 0.3,
+    "eye_height": 0.15
+  },
+  "evolutions": [
+    {
+      "level": 26,
+      "to": {
+        "name": "Barraskewda"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "PropellerTail"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Aqua Jet",
+      "Peck"
+    ],
+    "6": [
+      "Fury Attack"
+    ],
+    "12": [
+      "Bite"
+    ],
+    "18": [
+      "Agility"
+    ],
+    "24": [
+      "Dive"
+    ],
+    "30": [
+      "Laser Focus"
+    ],
+    "36": [
+      "Crunch"
+    ],
+    "42": [
+      "Liquidation"
+    ],
+    "48": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Acupressure",
+    "Night Slash",
+    "Slash",
+    "Thrash"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Agility",
+    "Focus Energy",
+    "Waterfall",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Close Combat",
+    "Poison Jab",
+    "Scald",
+    "Drill Run",
+    "Throat Chop",
+    "Psychic Fangs",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Brick Break",
+    "Dive",
+    "Bounce",
+    "Assurance",
+    "Ice Fang",
+    "Round"
+  ],
+  "forms": {}
+}

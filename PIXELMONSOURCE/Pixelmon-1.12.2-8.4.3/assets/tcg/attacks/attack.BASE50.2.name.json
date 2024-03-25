@@ -1,0 +1,22 @@
+{
+  "cardCode": "BASE50",
+  "attackNumber": 2,
+  "name": "attack.BASE50.2.name",
+  "energy": [
+    "PSYCHIC",
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.BASE50.2.text",
+  "effectsString": "SELF_DISCARD:PSYCHIC:1 DESTINYBOND",
+  "effects": [
+    {
+      "onMe": true,
+      "energy": "PSYCHIC",
+      "count": 1,
+      "needCoinSide": null
+    },
+    {}
+  ]
+}

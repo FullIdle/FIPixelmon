@@ -1,0 +1,51 @@
+{
+    "skins": [
+        {
+            "filename": "monk2.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Monk"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Meditating on mountains sure is peaceful, except when nosey trainers come up here to catch Pokemon!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Enlightenment is so overrated."
+                },
+                {
+                    "text": "Why waste time sitting on a mountain thinking when you can catch Pokemon!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "It does not matter if the glass is half empty or half full."
+                },
+                {
+                    "text": "As long as there is something to drink, I'm fine with it!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Yesterday is history, tomorrow is a mystery. Today is a gift."
+                },
+                {
+                    "text": "That's why they call it the present."
+                }
+            ]
+        }
+    ]
+}

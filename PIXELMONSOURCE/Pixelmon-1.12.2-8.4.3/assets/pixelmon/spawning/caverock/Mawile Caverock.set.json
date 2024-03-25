@@ -1,0 +1,28 @@
+{
+  "id": "Mawile Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mawile"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:iron_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

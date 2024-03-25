@@ -1,0 +1,28 @@
+{
+  "id": "Milotic",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Milotic"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "deep_ocean",
+          "coral_reef"
+        ],
+        "maxY": 45
+      },
+      "rarity": 0.5
+    }
+  ]
+}

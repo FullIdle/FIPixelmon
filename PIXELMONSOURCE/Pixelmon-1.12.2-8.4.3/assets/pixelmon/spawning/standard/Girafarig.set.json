@@ -1,0 +1,26 @@
+{
+  "id": "Girafarig",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Girafarig"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "grassland"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

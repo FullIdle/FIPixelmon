@@ -1,0 +1,14 @@
+{
+  "cardCode": "TERO14",
+  "attackNumber": 1,
+  "name": "attack.TERO14.1.name",
+  "energy": [
+    "GRASS",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": "Multiply",
+  "text": "attack.TERO14.1.text",
+  "effectsString": "MASSEXPLOSION:20:109:110",
+  "effects": []
+}

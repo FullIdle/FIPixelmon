@@ -1,0 +1,26 @@
+{
+  "id": "Sceptile",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sceptile"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

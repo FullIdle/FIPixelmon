@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hiker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Hermann"
+        },
+        {
+            "name": "Zsolt"
+        },
+        {
+            "name": "Gaston"
+        },
+        {
+            "name": "Willi"
+        },
+        {
+            "name": "Marek"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Je vais rester un peu dans cette ville."
+                },
+                {
+                    "text": "J'ai besoin de me reposer et de me réapprovisionner, puis je reprendrai ma randonnée !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "De bonnes chaussures, c'est vital pour l'alpinisme."
+                },
+                {
+                    "text": "Vitalpinisme."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Si tu finis tes légumes et si tu trimbales un gros sac à dos, tu deviendras grand et fort comme moi !"
+                },
+                {
+                    "text": "Se battre dans les montagnes avec des Ursaring, ça aide aussi."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il y a quelques semaines, un de mes Pokémon a lancé Eboulement pendant que je gravissais une pente."
+                },
+                {
+                    "text": "Je l'ai échangé."
+                }
+            ]
+        }
+    ]
+}

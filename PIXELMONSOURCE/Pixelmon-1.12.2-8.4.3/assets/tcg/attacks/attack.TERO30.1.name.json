@@ -1,0 +1,15 @@
+{
+  "cardCode": "TERO30",
+  "attackNumber": 1,
+  "name": "attack.TERO30.1.name",
+  "energy": [
+    "GRASS",
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 30,
+  "modifier": "Multiply",
+  "text": "attack.TERO30.1.text",
+  "effectsString": "FLIPS_MULTIPLY_EXTRA:3:2:SELF:CONFUSED",
+  "effects": []
+}

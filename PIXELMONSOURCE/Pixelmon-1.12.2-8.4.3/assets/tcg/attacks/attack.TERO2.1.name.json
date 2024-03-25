@@ -1,0 +1,14 @@
+{
+  "cardCode": "TERO2",
+  "attackNumber": 1,
+  "name": "attack.TERO2.1.name",
+  "energy": [
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.TERO2.1.text",
+  "effectsString": "STARE:10:1",
+  "effects": []
+}

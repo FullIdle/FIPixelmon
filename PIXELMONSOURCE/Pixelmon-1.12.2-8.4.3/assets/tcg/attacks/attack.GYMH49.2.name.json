@@ -1,0 +1,16 @@
+{
+  "cardCode": "GYMH49",
+  "attackNumber": 2,
+  "name": "attack.GYMH49.2.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.GYMH49.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

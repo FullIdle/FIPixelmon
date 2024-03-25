@@ -1,0 +1,37 @@
+{
+	"radiant": true,
+	"weight": 0,
+	"abandonable": false,
+	"repeatable": false,
+	"color": {
+		"r": 167,
+		"g": 255,
+		"b": 66
+	},
+	"activeStage": 10,
+	"stages": [
+		{
+			"stage": 0,
+			"nextStage": 10,
+			"icon": "FOUR_POINTED_STAR",
+			"objectives": [
+				"BLOCKER"
+			],
+			"actions": []
+		},
+		{
+			"stage": 10,
+			"nextStage": -1,
+			"icon": "FOUR_POINTED_STAR",
+			"objectives": [
+				"ITEM_PICKUP pixelmon:master_ball 1 - - - -"
+			],
+			"actions": [
+				"0 LOCALIZED_MESSAGE quest.find_master_ball.message",
+				"0 ITEM_GIVE minecraft:diamond 5 - - - - - - -",
+				"0 XP_GIVE - 500"
+			]
+		}
+	],
+	"strings": {}
+}

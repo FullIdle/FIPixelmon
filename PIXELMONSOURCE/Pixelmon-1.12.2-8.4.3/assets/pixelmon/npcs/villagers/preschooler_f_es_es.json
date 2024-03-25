@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "preschooler_f1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Zelda"
+        },
+        {
+            "name": "Renee"
+        },
+        {
+            "name": "Gabby"
+        },
+        {
+            "name": "\"Pies Ligeros\""
+        },
+        {
+            "name": "Jenni Jr."
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "He oído que las matemáticas y lengua son súper aburridas. ¡Yo sólo quiero aprender de los Pokémon!"
+                },
+                {
+                    "text": "¡No puedo esperar a terminar el colegio cuando tenga 10 años!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Uno de los chicos de mi clase siempre me pregunta si me gustan los Mudkips."
+                },
+                {
+                    "text": "¡NO! ¡Yo creo que son feos!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "A mi Mamá le gustan los Cubone y a mi Papá le gustan los Charmander."
+                },
+                {
+                    "text": "Creo que más o menos se parecen mucho..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Mi Mamá me regaló un Eevee por mi cumpleaños!"
+                },
+                {
+                    "text": "¡Usaré una de las Piedras Hojas de mi Papá en él cuando llege a casa!"
+                }
+            ]
+        }
+    ]
+}

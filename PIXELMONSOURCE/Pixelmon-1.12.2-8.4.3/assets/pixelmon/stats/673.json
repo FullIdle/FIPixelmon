@@ -1,0 +1,219 @@
+{
+  "pixelmonName": "Gogoat",
+  "pokemon": "Gogoat",
+  "form": 0,
+  "stats": {
+    "HP": 123,
+    "Attack": 100,
+    "Defence": 62,
+    "Speed": 68,
+    "SpecialAttack": 97,
+    "SpecialDefence": 81
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 13,
+  "baseExp": 186,
+  "baseFriendship": 0,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Skiddo"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.3
+    }
+  },
+  "weight": 91.0,
+  "bounding_box": {
+    "width": 1.7,
+    "height": 1.7,
+    "eye_height": 1.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "SapSipper",
+    null,
+    "GrassPelt"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Aerial Ace",
+      "Earthquake",
+      "Growth",
+      "Tackle",
+      "Tail Whip",
+      "Vine Whip"
+    ],
+    "7": [
+      "Vine Whip"
+    ],
+    "9": [
+      "Tail Whip"
+    ],
+    "12": [
+      "Leech Seed"
+    ],
+    "13": [
+      "Razor Leaf"
+    ],
+    "16": [
+      "Worry Seed"
+    ],
+    "20": [
+      "Synthesis"
+    ],
+    "22": [
+      "Take Down"
+    ],
+    "26": [
+      "Bulldoze"
+    ],
+    "30": [
+      "Seed Bomb"
+    ],
+    "34": [
+      "Bulk Up"
+    ],
+    "40": [
+      "Double-Edge"
+    ],
+    "47": [
+      "Horn Leech"
+    ],
+    "55": [
+      "Leaf Blade"
+    ],
+    "58": [
+      "Milk Drink"
+    ]
+  },
+  "tutorMoves": [
+    "Bounce",
+    "Giga Drain",
+    "Iron Tail",
+    "Seed Bomb",
+    "Snore",
+    "Stomping Tantrum",
+    "Superpower",
+    "Synthesis",
+    "Worry Seed",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Grassy Terrain",
+    "Milk Drink",
+    "Rollout"
+  ],
+  "transferMoves": [
+    "Dig",
+    "Retaliate",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Surf",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "forms": {}
+}

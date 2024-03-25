@@ -1,0 +1,16 @@
+{
+  "cardCode": "GYMC104",
+  "attackNumber": 2,
+  "name": "attack.GYMC104.2.name",
+  "energy": [
+    "WATER",
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.GYMC104.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

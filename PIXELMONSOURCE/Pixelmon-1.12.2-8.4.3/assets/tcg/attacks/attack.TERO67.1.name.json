@@ -1,0 +1,13 @@
+{
+  "cardCode": "TERO67",
+  "attackNumber": 1,
+  "name": "attack.TERO67.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.TERO67.1.text",
+  "effectsString": "ATTACHDECK:1:ENERGY:PSYCHIC",
+  "effects": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": "Jangmoo Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Jangmo-o"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:razor_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Hakamo-o"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:razor_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Kommo-o"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 45,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:razor_claw",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.1
+    }
+  ]
+}

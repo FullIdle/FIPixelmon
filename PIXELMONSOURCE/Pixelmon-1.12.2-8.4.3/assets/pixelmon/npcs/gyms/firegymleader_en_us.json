@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "fireleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Kasai"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Hey, kid! I'm the Gym Leader around these parts. You think you can put out this fire? We'll see!",
+      "win": "Sorry for your plan of beating me going up in flames!",
+      "lose": "No way! I guess I wasn't bright enough..."
+    }
+  ]
+}

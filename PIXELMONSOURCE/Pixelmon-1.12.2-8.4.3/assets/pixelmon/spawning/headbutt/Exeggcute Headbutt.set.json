@@ -1,0 +1,63 @@
+{
+  "id": "Exeggcute Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Exeggcute"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "variant": [
+          "jungle",
+          "palm"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "beaches"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Exeggcute",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "variant": [
+          "jungle",
+          "palm"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "beaches"
+        ]
+      },
+      "rarity": 60.0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "attackIndex": 77,
+  "attackName": "Slam",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 80,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 75,
+  "makesContact": true,
+  "effects": [],
+  "animations": [
+      {
+          "id": "run"
+      }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

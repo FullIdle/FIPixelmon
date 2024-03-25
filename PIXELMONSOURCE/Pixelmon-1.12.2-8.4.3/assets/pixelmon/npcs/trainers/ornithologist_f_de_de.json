@@ -1,0 +1,80 @@
+{
+    "data": {
+        "trainerType": "Ornithologist",
+        "minLevel": 15,
+        "maxLevel": 45,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 45
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Fearow"
+        },
+        {
+            "name": "Charizard"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Farfetchd"
+        }
+    ],
+    "names": [
+        {
+            "name": "Miss Bird"
+        },
+        {
+            "name": "Lucy"
+        },
+        {
+            "name": "Amelia"
+        },
+        {
+            "name": "Annette"
+        },
+        {
+            "name": "Cassie"
+        },
+        {
+            "name": "Jane"
+        },
+        {
+            "name": "Gloria"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Flugpokemon sind Liebenswert, oder nicht?",
+            "win": "Ha! Meine Flugpokemon und ich haben hart Trainiert!",
+            "lose": "Oh nein, meine armen Pokemon! Es macht nichts.."
+        },
+        {
+            "opening": "Hast du alle arten von Pokemon bei dir?",
+            "win": "Viel Glück das nächste mal, vergiss nicht zu Trainieren!",
+            "lose": "Naja, ich kann nicht alle besiegen oder?"
+        }
+    ]
+}

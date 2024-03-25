@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "lighthousekeeper.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Guardiano del faro"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Sai il detto non fissare il sole?"
+                },
+                {
+                    "text": "Bene, lo stesso vale per le luci del faro..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Chi ha bisogno di una luce di notte quando hai un Lanturn?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "E me ne sarei anche andato via, se non fosse stato per quei bambini che si intromettevano!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "L'aria è salata oggi ..."
+                },
+                {
+                    "text": "Qualcuno deve aver perso una lotta in palestra."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 151,
+  "setId": 2,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 69,
+  "code": "JUNG49",
+  "name": "card.JUNG49.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG49",
+      "attackNumber": 1,
+      "name": "attack.JUNG49.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    },
+    {
+      "cardCode": "JUNG49",
+      "attackNumber": 2,
+      "name": "attack.JUNG49.2.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.JUNG49.2.text",
+      "effects": [
+        "FIND_POKEMON:1:POKEMON:69"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

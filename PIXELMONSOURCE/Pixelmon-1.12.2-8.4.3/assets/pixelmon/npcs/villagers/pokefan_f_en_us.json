@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "pokefan_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Fancy"
+        },
+        {
+            "name": "Carys"
+        },
+        {
+            "name": "Ljubica"
+        },
+        {
+            "name": "Noa"
+        },
+        {
+            "name": "Yua"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I love Zubat SO MUCH."
+                },
+                {
+                    "text": "Sometimes I venture into caves just to get hundreds of little Zubat hugs!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I won a contest once."
+                },
+                {
+                    "text": "My Pokémon are officially the cutest patootiest!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "You see that pin on my jacket? It's from the official World Pokéfan Club store..."
+                },
+                {
+                    "text": "I tried making one myself but it wasn't as nice."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'm the president of the local Pokéfan club."
+                },
+                {
+                    "text": "You should join us. You seem to love your Pokémon."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "attackIndex": 91,
+  "attackName": "Poison Sting",
+  "attackType": "Poison",
+  "attackCategory": "PHYSICAL",
+  "basePower": 15,
+  "ppBase": 35,
+  "ppMax": 56,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Poison",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Poison"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "poisonium_z",
+      "attackName": "Acid Downpour",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Mega Blaziken",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Blaziken"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

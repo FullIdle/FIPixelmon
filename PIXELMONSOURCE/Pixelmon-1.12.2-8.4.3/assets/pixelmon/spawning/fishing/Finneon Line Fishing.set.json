@@ -1,0 +1,73 @@
+{
+  "id": "Finneon Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Finneon"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Finneon"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 10,
+      "maxLevel": 28,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Lumineon"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 32,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 7.0
+    },
+    {
+      "spec": {
+        "name": "Lumineon"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

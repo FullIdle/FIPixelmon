@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "ranger_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Woody"
+        },
+        {
+            "name": "Cody"
+        },
+        {
+            "name": "Smith"
+        },
+        {
+            "name": "Rubeus"
+        },
+        {
+            "name": "Ursaring Grylls"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Avant, je patrouillais en forêt, mais en ce moment, je suis surtout en ville."
+                },
+                {
+                    "text": "La jungle urbaine ! C'est comme la jungle, mais urbaine."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je sais reconnaître toutes les plantes et tous les animaux locaux."
+                },
+                {
+                    "text": "Vas-y, pose-moi des questions !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tout le monde ne le sait pas, mais les Rangers sont aussi utiles en ville."
+                },
+                {
+                    "text": "Il suffit d'un jardinier négligent, et boum ! Soudain, tout un tas de bestioles se baladent dans le quartier !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "TOI SEUL peux éviter les feux de forêt !"
+                },
+                {
+                    "text": "Garde un oeil sur tes Pokémon de type Feu, et n'utilise pas Flammèche dans les sous-bois."
+                }
+            ]
+        }
+    ]
+}

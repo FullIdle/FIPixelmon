@@ -1,0 +1,64 @@
+{
+    "data": {
+        "trainerType": "Policeman",
+        "minLevel": 10,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 40
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Arcanine"
+        },
+        {
+            "name": "Snubbull"
+        },
+        {
+            "name": "Granbull"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        }
+    ],
+    "names": [
+        {
+            "name": "Captain Benny"
+        },
+        {
+            "name": "Inspector Kenny"
+        },
+        {
+            "name": "Deputy Lenny"
+        },
+        {
+            "name": "Corporal Vinnie"
+        },
+        {
+            "name": "Officer Stein"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Provozierst du mich, Bürger?",
+            "win": "Das Gesetz triumphiert!",
+            "lose": "Du kommst damit nicht durch!"
+        },
+        {
+            "opening": "Aw komm schon! Ich hatte einen Fall!",
+            "win": "Wo sind meine Handschellen?",
+            "lose": "Gute Arbeit, Junge. Ich hole dir einen Donut."
+        },
+        {
+            "opening": "Autsch! Hey du, das geht auf deine Kappe!",
+            "win": "Lass dir dies eine Lektion sein.",
+            "lose": "Bitte fordern Sie Verstärkung an."
+        }
+    ]
+}

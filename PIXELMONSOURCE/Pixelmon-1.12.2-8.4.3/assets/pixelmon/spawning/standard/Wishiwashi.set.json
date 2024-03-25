@@ -1,0 +1,23 @@
+{
+  "id": "Wishiwashi",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wishiwashi"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 19,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ],
+        "minY": 50
+      },
+      "rarity": 250.0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "Natu Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Natu"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "mesa_rock"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Xatu"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "mesa_rock"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

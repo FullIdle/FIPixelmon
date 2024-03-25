@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "ornithologist.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "George"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Benvenuto nella Palestra Resort."
+        },
+        {
+          "text": "Il nostro Capopalestra ti farà cadere!"
+        },
+        {
+          "text": "Quando pensi di aver finito; in realtà è tutto appena iniziato."
+        }
+      ]
+    }
+  ]
+}

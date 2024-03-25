@@ -1,0 +1,47 @@
+{
+  "id": "Octillery",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Octillery",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 25,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "ocean",
+          "deep_ocean",
+          "coral_reef",
+          "kelp_forest"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": {
+        "name": "Octillery",
+        "form": 102
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 25,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:infinite_ocean"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

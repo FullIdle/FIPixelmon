@@ -1,0 +1,29 @@
+{
+  "id": "Charizard",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Charizard"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mutated_mesa"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

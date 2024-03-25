@@ -1,0 +1,35 @@
+{
+  "id": "Electivire",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Electivire",
+        "form": 112
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:electirizer",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "STORM"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

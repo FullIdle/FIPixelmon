@@ -1,0 +1,56 @@
+{
+  "skins": [
+    {
+      "filename": "battlegirl.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Yuen"
+    },
+    {
+      "name": "Théa"
+    },
+    {
+      "name": "Ronda"
+    },
+    {
+      "name": "Graciella"
+    },
+    {
+      "name": "Lucia"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Mein Meister lehrte mich, dass rohe Kraft nichts ohne Geschwindigkeit ist. Sie ergänzen sich."
+        },
+        {
+          "text": "Flieg wie ein Smettbo, stich wie ein Bibor, sagte er."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich habe meinen Sprungtritt zur Perfektion gebracht."
+        },
+        {
+          "text": "Ich kann so weit springen, dass du schwörest ich lande nie mehr! Yaaaaaaa!"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich mag Capoeira; Kampfsport und Tanzkunst vereint."
+        },
+        {
+          "text": "Ich wundere mich nur, warum nie jemand auf einer Feier mit mir tanzen mag."
+        }
+      ]
+    }
+  ]
+}

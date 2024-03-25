@@ -1,0 +1,151 @@
+{
+  "pixelmonName": "Raboot",
+  "pokemon": "Raboot",
+  "form": 0,
+  "stats": {
+    "HP": 65,
+    "Attack": 86,
+    "Defence": 60,
+    "SpecialAttack": 55,
+    "SpecialDefence": 60,
+    "Speed": 94
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 16,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 50,
+  "types": [
+    "Fire"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Scorbunny"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 9.0,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.7,
+    "eye_height": 0.45
+  },
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Cinderace"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Pyro Ball"
+      ]
+    }
+  ],
+  "abilities": [
+    "Blaze",
+    null,
+    "Libero"
+  ],
+  "eggGroups": [
+    "Field",
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Growl",
+      "Quick Attack",
+      "Tackle"
+    ],
+    "12": [
+      "Double Kick"
+    ],
+    "19": [
+      "Flame Charge"
+    ],
+    "24": [
+      "Agility"
+    ],
+    "30": [
+      "Headbutt"
+    ],
+    "36": [
+      "Counter"
+    ],
+    "42": [
+      "Bounce"
+    ],
+    "48": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Fire Pledge"
+  ],
+  "eggMoves": [
+    "High Jump Kick",
+    "Sand Attack",
+    "Sucker Punch",
+    "Super Fang"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Flamethrower",
+    "Low Kick",
+    "Agility",
+    "Focus Energy",
+    "Fire Blast",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Heat Wave",
+    "Taunt",
+    "Blaze Kick",
+    "Overheat",
+    "Bulk Up",
+    "Flare Blitz",
+    "Gunk Shot",
+    "Electro Ball",
+    "Ally Switch",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Mega Kick",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Bounce",
+    "Mud Shot",
+    "U-turn",
+    "Assurance",
+    "Fire Fang",
+    "Low Sweep",
+    "Round",
+    "Acrobatics"
+  ],
+  "forms": {}
+}

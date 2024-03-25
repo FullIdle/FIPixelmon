@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "jonsnow.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Jon Snow"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Der Winter kommt..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Jeder wusste, was dieser Ort war, und niemand hat es mir erzählt."
+                },
+                {
+                    "text": "Keiner außer dir."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Selbst die stärksten Schneestürme beginnen mit einer einzigen Schneeflocke."
+                },
+                {
+                    "text": "Oder mit einem Frigometri. Das verursacht auch Schneestürme..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Lass den Sturm toben, die Kälte hat mich sowieso nie gestört."
+                }
+            ]
+        }
+    ]
+}

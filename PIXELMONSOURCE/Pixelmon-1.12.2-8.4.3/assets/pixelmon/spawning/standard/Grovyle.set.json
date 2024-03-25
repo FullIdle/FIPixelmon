@@ -1,0 +1,26 @@
+{
+  "id": "Grovyle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Grovyle"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 17,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

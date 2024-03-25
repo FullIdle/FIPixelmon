@@ -1,0 +1,90 @@
+{
+  "id": "Onix",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Onix"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mesas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Onix"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Onix",
+        "form": 110
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mesas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": {
+        "name": "Onix",
+        "form": 110
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.05
+    }
+  ]
+}

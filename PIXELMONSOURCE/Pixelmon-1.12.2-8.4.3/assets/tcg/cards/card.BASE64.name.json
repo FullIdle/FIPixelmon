@@ -1,0 +1,62 @@
+{
+  "id": 64,
+  "setId": 1,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 121,
+  "code": "BASE64",
+  "name": "card.BASE64.name",
+  "description": "",
+  "previousPokemonId": 120,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE64",
+      "attackNumber": 1,
+      "name": "attack.BASE64.1.name",
+      "energy": [
+        "WATER",
+        "WATER"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.BASE64.1.text",
+      "effects": [
+        "SELF_DISCARD:WATER:1",
+        "SELF_HEAL:DAMAGE"
+      ]
+    },
+    {
+      "cardCode": "BASE64",
+      "attackNumber": 2,
+      "name": "attack.BASE64.2.name",
+      "energy": [
+        "WATER",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.BASE64.2.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

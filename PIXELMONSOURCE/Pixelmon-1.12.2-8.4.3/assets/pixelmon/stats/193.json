@@ -1,0 +1,303 @@
+{
+  "pixelmonName": "Yanma",
+  "pokemon": "Yanma",
+  "form": 0,
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defence": 45,
+    "Speed": 95,
+    "SpecialAttack": 75,
+    "SpecialDefence": 45
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Flying"
+  ],
+  "height": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 38.0,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.2,
+    "eye_height": 0.6
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Yanmega"
+      },
+      "conditions": [
+        {
+          "attackIndex": 320,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SpeedBoost",
+    "CompoundEyes",
+    "Frisk"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Foresight",
+      "Tackle"
+    ],
+    "6": [
+      "Quick Attack"
+    ],
+    "11": [
+      "Double Team"
+    ],
+    "14": [
+      "Sonic Boom"
+    ],
+    "17": [
+      "Detect"
+    ],
+    "22": [
+      "Supersonic"
+    ],
+    "27": [
+      "Uproar"
+    ],
+    "30": [
+      "Pursuit"
+    ],
+    "33": [
+      "Ancient Power"
+    ],
+    "38": [
+      "Hypnosis"
+    ],
+    "43": [
+      "Wing Attack"
+    ],
+    "46": [
+      "Screech"
+    ],
+    "49": [
+      "U-turn"
+    ],
+    "54": [
+      "Air Slash"
+    ],
+    "57": [
+      "Bug Buzz"
+    ]
+  },
+  "tutorMoves": [
+    "Bug Bite",
+    "Defog",
+    "Giga Drain",
+    "Signal Beam",
+    "Snore",
+    "Tailwind",
+    "Uproar"
+  ],
+  "eggMoves": [
+    "Double-Edge",
+    "Feint",
+    "Feint Attack",
+    "Leech Life",
+    "Pursuit",
+    "Reversal",
+    "Secret Power",
+    "Signal Beam",
+    "Silver Wind",
+    "Whirlwind"
+  ],
+  "transferMoves": [
+    "Air Cutter",
+    "Captivate",
+    "Curse",
+    "Endure",
+    "Flash",
+    "Headbutt",
+    "Mimic",
+    "Natural Gift",
+    "Ominous Wind",
+    "String Shot",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "Flash",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Flash",
+    "Dream Eater",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing",
+    "Roost",
+    "Endure",
+    "Silver Wind",
+    "Flash",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Steel Wing"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Endure",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Swift",
+    "Detect",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "forms": {}
+}

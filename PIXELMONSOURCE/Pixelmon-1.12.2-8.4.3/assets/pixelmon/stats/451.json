@@ -1,0 +1,347 @@
+{
+  "pixelmonName": "Skorupi",
+  "pokemon": "Skorupi",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 50,
+    "Defence": 90,
+    "Speed": 65,
+    "SpecialAttack": 30,
+    "SpecialDefence": 55
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 20,
+  "baseExp": 114,
+  "baseFriendship": 70,
+  "types": [
+    "Poison",
+    "Bug"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 12.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.4,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Drapion"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "BattleArmour",
+    "Sniper",
+    "KeenEye"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Water3"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Poison Sting"
+    ],
+    "3": [
+      "Hone Claws"
+    ],
+    "6": [
+      "Fell Stinger"
+    ],
+    "9": [
+      "Poison Fang"
+    ],
+    "12": [
+      "Bite"
+    ],
+    "15": [
+      "Toxic Spikes"
+    ],
+    "18": [
+      "Bug Bite"
+    ],
+    "21": [
+      "Venoshock"
+    ],
+    "24": [
+      "Knock Off"
+    ],
+    "27": [
+      "Scary Face"
+    ],
+    "30": [
+      "Pin Missile"
+    ],
+    "33": [
+      "Toxic"
+    ],
+    "36": [
+      "Night Slash"
+    ],
+    "39": [
+      "Cross Poison"
+    ],
+    "42": [
+      "X-Scissor"
+    ],
+    "45": [
+      "Acupressure"
+    ],
+    "48": [
+      "Crunch"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Confuse Ray",
+    "Sand Attack",
+    "Slash",
+    "Whirlwind"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Aqua Tail",
+    "Captivate",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Feint Attack",
+    "Flash",
+    "Frustration",
+    "Fury Cutter",
+    "Headbutt",
+    "Hidden Power",
+    "Infestation",
+    "Mud-Slap",
+    "Natural Gift",
+    "Poison Tail",
+    "Pursuit",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Struggle Bug",
+    "Swagger",
+    "Torment",
+    "Twineedle"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Agility",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Shadow Ball",
+    "Taunt",
+    "Toxic Spikes",
+    "Poison Jab",
+    "Dark Pulse",
+    "X-Scissor",
+    "Bug Buzz"
+  ],
+  "tmMoves8": [
+    "Pin Missile",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Cross Poison",
+    "Venoshock",
+    "Round",
+    "False Swipe"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Payback",
+    "Swords Dance",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Payback",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Payback",
+    "Flash",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Sludge Bomb",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "False Swipe",
+    "Fling",
+    "Endure",
+    "Payback",
+    "Flash",
+    "Swords Dance",
+    "Captivate",
+    "Dark Pulse",
+    "X-Scissor",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

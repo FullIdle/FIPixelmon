@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "C C",
+    "S S"
+  ],
+  "key": {
+    "C": {
+      "type": "forge:ore_dict",
+      "ore": "gemCrystal"
+    },
+	"S": {
+      "item": "pixelmon:silicon"
+    }
+  },
+  "result": {
+    "item": "pixelmon:neo_plasma_legs",
+    "count": 1
+  }
+}

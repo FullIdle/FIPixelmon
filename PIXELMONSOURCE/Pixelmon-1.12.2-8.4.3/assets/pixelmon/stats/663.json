@@ -1,0 +1,258 @@
+{
+  "pixelmonName": "Talonflame",
+  "pokemon": "Talonflame",
+  "form": 0,
+  "stats": {
+    "HP": 78,
+    "Attack": 81,
+    "Defence": 71,
+    "Speed": 126,
+    "SpecialAttack": 74,
+    "SpecialDefence": 69
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 36,
+  "spawnLevelRange": 13,
+  "baseExp": 175,
+  "baseFriendship": 0,
+  "types": [
+    "Fire",
+    "Flying"
+  ],
+  "height": 2.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Fletchinder",
+    "Fletchling"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 1.0,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 6,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "Speed": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.15
+    }
+  },
+  "weight": 24.5,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 2.4,
+    "eye_height": 1.6
+  },
+  "evolutions": [],
+  "abilities": [
+    "FlameBody",
+    null,
+    "GaleWings"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Feint",
+      "Flame Charge",
+      "Flare Blitz",
+      "Growl",
+      "Peck",
+      "Quick Attack"
+    ],
+    "15": [
+      "Flail"
+    ],
+    "22": [
+      "Acrobatics"
+    ],
+    "29": [
+      "Agility"
+    ],
+    "38": [
+      "Aerial Ace"
+    ],
+    "47": [
+      "Tailwind"
+    ],
+    "56": [
+      "Steel Wing"
+    ],
+    "65": [
+      "Roost"
+    ],
+    "74": [
+      "Fly"
+    ],
+    "83": [
+      "Brave Bird"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Flame Charge",
+    "Quick Guard"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Hone Claws",
+    "Incinerate",
+    "Me First",
+    "Natural Gift",
+    "Razor Wind",
+    "Return",
+    "Secret Power",
+    "Snatch",
+    "Swagger",
+    "Tackle",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Flamethrower",
+    "Agility",
+    "Fire Blast",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Heat Wave",
+    "Taunt",
+    "Overheat",
+    "Bulk Up",
+    "Flare Blitz",
+    "Brave Bird",
+    "Work Up",
+    "Hurricane"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Fire Spin",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Steel Wing",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "U-turn",
+    "Round",
+    "Acrobatics"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Steel Wing",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Giga Impact",
+    "Swords Dance",
+    "Fly",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Aerial Ace",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Overheat",
+    "Steel Wing",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Giga Impact",
+    "Swords Dance",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {}
+}

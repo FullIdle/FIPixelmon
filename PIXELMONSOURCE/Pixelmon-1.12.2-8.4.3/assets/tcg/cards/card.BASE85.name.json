@@ -1,0 +1,32 @@
+{
+  "id": 85,
+  "setId": 1,
+  "cardType": "TRAINER",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": null,
+  "energy2": null,
+  "pokemonId": 0,
+  "code": "BASE85",
+  "name": "card.BASE85.name",
+  "description": "card.BASE85.text",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 0,
+  "cardRarity": "UNCOMMON",
+  "customTexture": "gui/cards/foreground/pokemoncenter.png",
+  "customTextureX": 32,
+  "customTextureY": 32,
+  "isHolo": true,
+  "effect": {
+  },
+  "cardAbility": null
+}

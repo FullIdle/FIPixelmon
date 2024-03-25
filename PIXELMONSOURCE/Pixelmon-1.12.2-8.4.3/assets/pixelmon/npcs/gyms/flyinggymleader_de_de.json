@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "flyingleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Icarus"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "So... Ein Herausforderer erreicht die Spitze... nur um wieder nach unten gekickt zu werden!",
+      "win": "Ja, gewonnen! Viel Spaß beim Klettern, Kind!",
+      "lose": "Wow... Sieht aus als wäre ich der, der herunterfällt..."
+    }
+  ]
+}

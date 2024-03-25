@@ -1,0 +1,67 @@
+{
+  "id": "Jigglypuff Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Jigglypuff"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "plains",
+          "roofed_forest",
+          "grassland",
+          "grove",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Wigglytuff"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "plains",
+          "roofed_forest",
+          "grassland",
+          "grove",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

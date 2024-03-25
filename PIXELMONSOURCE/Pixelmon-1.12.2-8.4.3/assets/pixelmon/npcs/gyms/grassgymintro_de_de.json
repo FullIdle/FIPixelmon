@@ -1,0 +1,28 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "artist.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Greg"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Willkommen im Ivy Gym."
+        },
+        {
+          "text": "Unser Trainingsleiter liebt es, seine Gegner in Knoten zu binden!"
+        },
+        {
+          "text": "Versuche, dich nicht zu sehr im hohen Gras zu verlaufen; Man kann nie wissen, was dort lauern könnte..."
+        }
+      ]
+    }
+  ]
+}

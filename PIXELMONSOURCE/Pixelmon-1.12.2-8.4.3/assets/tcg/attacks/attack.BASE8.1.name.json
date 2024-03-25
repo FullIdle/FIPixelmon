@@ -1,0 +1,16 @@
+{
+  "cardCode": "BASE8",
+  "attackNumber": 1,
+  "name": "attack.BASE8.1.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING",
+    "FIGHTING",
+    "COLORLESS"
+  ],
+  "damage": 60,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

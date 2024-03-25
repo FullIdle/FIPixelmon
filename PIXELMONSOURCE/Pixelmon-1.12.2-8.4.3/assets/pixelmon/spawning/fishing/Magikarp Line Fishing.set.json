@@ -1,0 +1,109 @@
+{
+  "id": "Magikarp Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Magikarp"
+      },
+      "stringLocationTypes": [
+        "Oas Rod"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "anticondition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Magikarp"
+      },
+      "stringLocationTypes": [
+        "Old Rod"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "anticondition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Magikarp"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "anticondition": {
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Gyarados"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 50.0
+    },
+    {
+      "spec": {
+        "name": "Gyarados"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "spawnSpecificShinyRate": 100,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ],
+        "weathers": [
+          "STORM"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Magikarp"
+      },
+      "stringLocationTypes": [
+        "Old Rod Lava"
+      ],
+      "minLevel": 2,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "rarity": 0.05
+    }
+  ]
+}

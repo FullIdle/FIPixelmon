@@ -1,0 +1,254 @@
+{
+  "pixelmonName": "Delphox",
+  "pokemon": "Delphox",
+  "form": 0,
+  "stats": {
+    "HP": 75,
+    "Attack": 69,
+    "Defence": 72,
+    "Speed": 104,
+    "SpecialAttack": 114,
+    "SpecialDefence": 100
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 240,
+  "baseFriendship": 0,
+  "types": [
+    "Fire",
+    "Psychic"
+  ],
+  "height": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Braixen",
+    "Fennekin"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.75,
+      "z": -0.23
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.75,
+      "z": -0.23
+    }
+  },
+  "weight": 39.0,
+  "bounding_box": {
+    "width": 1.5,
+    "height": 1.5,
+    "eye_height": 1.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "Blaze",
+    null,
+    "Magician"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Ember",
+      "Future Sight",
+      "Howl",
+      "Mystical Fire",
+      "Role Play",
+      "Scratch",
+      "Shadow Ball",
+      "Switcheroo",
+      "Tail Whip"
+    ],
+    "5": [
+      "Ember"
+    ],
+    "11": [
+      "Howl"
+    ],
+    "14": [
+      "Flame Charge"
+    ],
+    "18": [
+      "Psybeam"
+    ],
+    "22": [
+      "Fire Spin"
+    ],
+    "28": [
+      "Lucky Chant"
+    ],
+    "31": [
+      "Light Screen"
+    ],
+    "38": [
+      "Psyshock"
+    ],
+    "45": [
+      "Flamethrower"
+    ],
+    "51": [
+      "Will-O-Wisp"
+    ],
+    "57": [
+      "Psychic"
+    ],
+    "62": [
+      "Sunny Day"
+    ],
+    "68": [
+      "Magic Room"
+    ],
+    "74": [
+      "Fire Blast"
+    ],
+    "80": [
+      "Future Sight"
+    ]
+  },
+  "tutorMoves": [
+    "Ally Switch",
+    "Blast Burn",
+    "Covet",
+    "Fire Pledge",
+    "Fire Punch",
+    "Foul Play",
+    "Heat Wave",
+    "Iron Tail",
+    "Laser Focus",
+    "Low Kick",
+    "Magic Coat",
+    "Magic Room",
+    "Recycle",
+    "Role Play",
+    "Shock Wave",
+    "Signal Beam",
+    "Skill Swap",
+    "Snatch",
+    "Snore",
+    "Telekinesis",
+    "Thunder Punch",
+    "Trick",
+    "Wonder Room",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Heat Wave",
+    "Hypnosis",
+    "Magic Coat",
+    "Psychic Terrain",
+    "Wish"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Incinerate",
+    "Power-Up Punch",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Will-O-Wisp",
+    "Embargo",
+    "Giga Impact",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Embargo",
+    "Giga Impact",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Power-Up Punch",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

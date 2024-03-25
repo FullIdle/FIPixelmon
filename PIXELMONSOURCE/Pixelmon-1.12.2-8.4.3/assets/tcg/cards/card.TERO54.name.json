@@ -1,0 +1,45 @@
+{
+  "id": 292,
+  "setId": 4,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 96,
+  "code": "TERO54",
+  "name": "card.TERO54.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO54",
+      "attackNumber": 1,
+      "name": "attack.TERO54.1.name",
+      "energy": [
+        "PSYCHIC",
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.TERO54.1.text",
+      "effects": [
+        "OPP_CONDITION:ASLEEP"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "LongDistanceHypnosis"
+}

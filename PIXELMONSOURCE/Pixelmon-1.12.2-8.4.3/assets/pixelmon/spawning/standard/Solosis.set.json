@@ -1,0 +1,25 @@
+{
+  "id": "Solosis",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Solosis"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

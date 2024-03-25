@@ -1,0 +1,126 @@
+{
+    "data": {
+        "trainerType": "Lass",
+        "minLevel": 4,
+        "maxLevel": 20,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Rattata"
+        },
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Ekans"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Mankey"
+        },
+        {
+            "name": "Trapinch"
+        },
+        {
+            "name": "Slowpoke"
+        }
+    ],
+    "names": [
+        {
+            "name": "Alicia"
+        },
+        {
+            "name": "Bridget"
+        },
+        {
+            "name": "Carrie"
+        },
+        {
+            "name": "Connie"
+        },
+        {
+            "name": "Dana"
+        },
+        {
+            "name": "Ellen"
+        },
+        {
+            "name": "Krise"
+        },
+        {
+            "name": "Laura"
+        },
+        {
+            "name": "Linda"
+        },
+        {
+            "name": "Michelle"
+        },
+        {
+            "name": "Shannon"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "¿Tú también eres entrenador? ¡Pongamos a prueba nuestros Pokémon!",
+            "win": "¡Sabía que mis Pokémon eran mejores que los tuyos!",
+            "lose": "¿¡Tus Pokémon son mejores que los míos!?"
+        },
+        {
+            "opening": "¡Mi equipo es invencible! ¿Crees que podrás hacerles algo?",
+            "win": "¡Ajajaja! ¡Mi equipo es invencible!",
+            "lose": "¿¡Qué!? ¡Pero si mi equipo es invencible!"
+        },
+        {
+            "opening": "¿Haré daño a mis Pokémon?",
+            "win": "¡Sí! ¡Mis Pokémon no han resultado heridos!",
+            "lose": "¡Mis Pokémon! ¡No!"
+        },
+        {
+            "opening": "...Luchmos.",
+            "win": "...He ganado.",
+            "lose": "...He perdido."
+        },
+        {
+            "opening": "¡Me encanta el queso! ¡No hay nada más sabroso! Oh, ¿quieres luchar? Me apetecía algo de queso pero supongo que puedo esperar.",
+            "win": "¡Victoria! ¡Se lo debo todo al queso!",
+            "lose": "Oh bueno, me apetece algo de queso."
+        },
+        {
+            "opening": "¡Me has mirado fijamente! ¡Luchémos!",
+            "win": "¡Te has condenado al fijar tu mirada!",
+            "lose": "Ojalá no me hubieras mirado..."
+        },
+        {
+            "opening": "Mis padres pensaban que no podía llegar a ser una Entrenadora, ¡pero ahora soy invencible!",
+            "win": "¡Sabía que podía llegar a ser Entrenadora!",
+            "lose": "Tal vez mis padres tenían razón. No podré llegar a ser Entrenadora..."
+        },
+        {
+            "opening": "¡Já, te veo muy débil! ¡Lucha contra mí!",
+            "win": "¡Já! ¡Eres débil!",
+            "lose": "¿¡Qué!? ¿¡No eres débil!?"
+        },
+        {
+            "opening": "Me he perdido. Si te gano, por favor, dime donde está el pueblo más cercano...",
+            "win": "¡Sí! Ahora, ¿dónde está el pueblo más cercano? ¿¡No me lo vas a decir!?",
+            "lose": "Oh no... Ahora nunca podré llegar a ningún pueblo..."
+        },
+        {
+            "opening": "Eres un entrenador de aspecto extraño. Já, ¡apuesto a que tus Pokémon son débiles! ¡Lucha contra mí perdedor!",
+            "win": "¡Jaja! ¡Sabía que eras débil! ¡Eres patético!",
+            "lose": "¡Q-qué! ¡No es posible! ¿¡De dónde has sacado esos Pokémon!?"
+        }
+    ]
+}

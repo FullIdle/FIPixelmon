@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "ornithologist.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sr. Pájaro"
+        },
+        {
+            "name": "Wilfred Warbler"
+        },
+        {
+            "name": "Geoffrey Twirp"
+        },
+        {
+            "name": "Bertram Amante de Pájaros"
+        },
+        {
+            "name": "Profesor Pájaro"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¡Ah, no hay nada como observar un Spearow en pleno vuelo!"
+                },
+                {
+                    "text": "¡Ojalá me hubiese acordado de traer semillas para pájaros!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "El método de nidificar del Pidgeot de cresta roja es notablemente similar al del Hoothoot ocre."
+                },
+                {
+                    "text": "¡Es tan interesante observar Pokémon pájaros! Podrías probarlo alguna vez."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Aveces me escondo durante semanas en los bosques sólo para poder ver un Noctowl."
+                },
+                {
+                    "text": "Es un poco incómodo, dormir en el suelo. Oh bueno, ¡ pero alguien tiene que hacerlo!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Mi trabajo es muy importante, sabías! Puedo darte toda la información sobre los Pokémon voladores que necesitas para entrenarlos."
+                },
+                {
+                    "text": "Si, los pobres ornitólogos son unos héroes anónimos en el campo del estudio Pokémon."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Disculpe, ¿tiene algo de pan? Me he quedado sin semillas de pájaros intentando atraer a un Starly."
+                },
+                {
+                    "text": "Mis prismáticos son de lo mejor ahora mismo disponible. ¡Puedo ver a un Starly enano desde 16 Km de distancia!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "attackIndex": 602,
+  "attackName": "Origin Pulse",
+  "attackType": "Water",
+  "attackCategory": "SPECIAL",
+  "basePower": 110,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
+      "basePower": 185,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

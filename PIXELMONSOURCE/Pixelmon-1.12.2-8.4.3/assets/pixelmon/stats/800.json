@@ -1,0 +1,370 @@
+{
+  "pixelmonName": "Necrozma",
+  "pokemon": "Necrozma",
+  "form": 0,
+  "stats": {
+    "HP": 97,
+    "Attack": 107,
+    "Defence": 101,
+    "Speed": 79,
+    "SpecialAttack": 127,
+    "SpecialDefence": 89
+  },
+  "catchRate": 45,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 70,
+  "baseExp": 120,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic"
+  ],
+  "height": 5.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 1,
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.2
+    }
+  },
+  "weight": 230.0,
+  "bounding_box": {
+    "width": 2.4,
+    "height": 5.5,
+    "eye_height": 4.2
+  },
+  "evolutions": [],
+  "abilities": [
+    "PrismArmor",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 120,
+  "levelUpMoves": {
+    "0": [
+      "Charge Beam",
+      "Confusion",
+      "Gravity",
+      "Metal Claw",
+      "Moonlight",
+      "Morning Sun"
+    ],
+    "8": [
+      "Stealth Rock"
+    ],
+    "16": [
+      "Slash"
+    ],
+    "24": [
+      "Night Slash"
+    ],
+    "32": [
+      "Psycho Cut"
+    ],
+    "40": [
+      "Stored Power"
+    ],
+    "48": [
+      "Rock Blast"
+    ],
+    "56": [
+      "Iron Defense"
+    ],
+    "64": [
+      "Power Gem"
+    ],
+    "72": [
+      "Photon Geyser"
+    ],
+    "80": [
+      "Autotomize"
+    ],
+    "88": [
+      "Prismatic Laser"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force",
+    "Meteor Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Double Team",
+    "Embargo",
+    "Frustration",
+    "Hidden Power",
+    "Knock Off",
+    "Magnet Rise",
+    "Mirror Shot",
+    "Recycle",
+    "Return",
+    "Rock Polish",
+    "Shock Wave",
+    "Signal Beam",
+    "Swagger",
+    "Telekinesis",
+    "Toxic",
+    "Wring Out"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Earthquake",
+    "Psychic",
+    "Substitute",
+    "Outrage",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Future Sight",
+    "Heat Wave",
+    "Hyper Voice",
+    "Cosmic Power",
+    "Iron Defense",
+    "Calm Mind",
+    "Dragon Dance",
+    "Gyro Ball",
+    "Dark Pulse",
+    "X-Scissor",
+    "Dragon Pulse",
+    "Power Gem",
+    "Earth Power",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Stored Power",
+    "Ally Switch",
+    "Psychic Fangs"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Facade",
+    "Brick Break",
+    "Imprison",
+    "Rock Tomb",
+    "Rock Blast",
+    "Fling",
+    "Shadow Claw",
+    "Psycho Cut",
+    "Trick Room",
+    "Round",
+    "Bulldoze",
+    "Smart Strike",
+    "Brutal Swing",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Thief",
+    "Round",
+    "Fling",
+    "Charge Beam",
+    "Brutal Swing",
+    "Embargo",
+    "Shadow Claw",
+    "Smart Strike",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 97,
+        "Attack": 157,
+        "Defence": 127,
+        "Speed": 77,
+        "SpecialAttack": 113,
+        "SpecialDefence": 109
+      },
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "height": 3.8,
+      "width": 3.8,
+      "length": 3.8,
+      "evYields": {
+        "Attack": 3
+      },
+      "weight": 460.0,
+      "bounding_box": {
+        "width": 2.4,
+        "height": 2.6,
+        "eye_height": 1.6
+      }
+    },
+    "2": {
+      "form": 2,
+      "stats": {
+        "HP": 97,
+        "Attack": 113,
+        "Defence": 109,
+        "Speed": 77,
+        "SpecialAttack": 157,
+        "SpecialDefence": 127
+      },
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "height": 4.2,
+      "width": 4.2,
+      "length": 4.2,
+      "evYields": {
+        "SpecialAttack": 3
+      },
+      "weight": 350.0,
+      "bounding_box": {
+        "width": 2.8,
+        "height": 4.6,
+        "eye_height": 2.8
+      },
+      "levelUpMoves": {
+        "1": [
+          "Moonlight",
+          "Morning Sun",
+          "Charge Beam",
+          "Gravity",
+          "Metal Claw",
+          "Confusion"
+        ],
+        "8": [
+          "Stealth Rock"
+        ],
+        "16": [
+          "Slash"
+        ],
+        "24": [
+          "Night Slash"
+        ],
+        "32": [
+          "Psycho Cut"
+        ],
+        "40": [
+          "Stored Power"
+        ],
+        "48": [
+          "Rock Blast"
+        ],
+        "56": [
+          "Iron Defense"
+        ],
+        "64": [
+          "Power Gem"
+        ],
+        "72": [
+          "Photon Geyser"
+        ],
+        "60": [
+          "Autotomize"
+        ],
+        "66": [
+          "Prismatic Laser"
+        ]
+      }
+    },
+    "3": {
+      "form": 3,
+      "stats": {
+        "HP": 97,
+        "Attack": 167,
+        "Defence": 97,
+        "Speed": 129,
+        "SpecialAttack": 167,
+        "SpecialDefence": 97
+      },
+      "types": [
+        "Psychic",
+        "Dragon"
+      ],
+      "height": 7.5,
+      "width": 7.5,
+      "length": 7.5,
+      "evYields": {
+        "Attack": 1,
+        "SpecialAttack": 1,
+        "Speed": 1
+      },
+      "abilities": [
+        "Neuroforce",
+        null,
+        null
+      ],
+      "bounding_box": {
+        "width": 2.8,
+        "height": 5.8,
+        "eye_height": 4.8
+      }
+    }
+  }
+}

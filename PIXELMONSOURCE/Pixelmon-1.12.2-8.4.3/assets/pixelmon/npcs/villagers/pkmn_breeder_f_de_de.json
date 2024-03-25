@@ -1,0 +1,79 @@
+{
+    "skins": [
+        { 
+            "filename": "pkmn_breeder_f.png"
+        },
+        { 
+            "filename": "breedergreen_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Corinne"
+        },
+        {
+            "name": "Elyse"
+        },
+        {
+            "name": "Zoey"
+        },
+        {
+            "name": "Gabriella"
+        },
+        {
+            "name": "\"Mama Teddiursa\""
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mein Pokédex spricht über Tragossos verstorbene Mutter... das ist absurd!"
+                },
+                {
+                    "text": "Ich habe mein Tragosso gezüchtet. Ihrer Mutter geht es gut!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich kann den ganzen Tag damit verbringen, mich um das süße kleine Baby Pokémon zu kümmern..."
+                },
+                {
+                    "text": "Es ist mein Traumberuf!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ditto! Bist du das?"
+                },
+                {
+                    "text": "Oh! Sorry... Mein Ditto spielt manchmal gerne Spiele."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mein Mann nutzt meine Züchtung zu Forschungszwecken, die er an \"Shiny\" Pokémon durchführt."
+                },
+                {
+                    "text": "Ich bin sicher, es ist sehr faszinierend, aber manchmal geht er zu weit..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mein kleines Mädchen wollte wissen, warum ihr Blattstein nicht bei Evoli arbeitete..."
+                },
+                {
+                    "text": "Ich hatte noch nie darüber nachgedacht- aber ich bin mir auch nicht sicher, warum!?"
+                }
+            ]
+        }
+    ]
+}

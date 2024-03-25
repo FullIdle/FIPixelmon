@@ -1,0 +1,65 @@
+{
+  "id": "Honedge Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Honedge"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Doublade"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Aegislash"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

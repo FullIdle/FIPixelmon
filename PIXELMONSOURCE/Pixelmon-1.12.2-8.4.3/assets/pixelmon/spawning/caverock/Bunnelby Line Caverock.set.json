@@ -1,0 +1,35 @@
+{
+  "id": "Bunnelby Line Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bunnelby"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 5
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Diggersby"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 21,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 5
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "pixelmonName": "Petilil",
+  "pokemon": "Petilil",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 35,
+    "Defence": 50,
+    "Speed": 30,
+    "SpecialAttack": 70,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 0,
+  "spawnLevel": 13,
+  "spawnLevelRange": 14,
+  "baseExp": 56,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 6.6,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.9,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Lilligant"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        },
+        {
+          "condition": {
+            "time": "DAWN",
+            "evoConditionType": "time"
+          },
+          "evoConditionType": "invert"
+        }
+      ],
+      "evoType": "interact",
+      "moves": [
+        "Petal Dance"
+      ]
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:sun_stone"
+      },
+      "to": {
+        "name": "Lilligant",
+        "form": 3
+      },
+      "conditions": [
+        {
+          "time": "DAWN",
+          "evoConditionType": "time"
+        }
+      ],
+      "evoType": "interact",
+      "moves": [
+        "Rock Smash"
+      ]
+    }
+  ],
+  "abilities": [
+    "Chlorophyll",
+    "OwnTempo",
+    "LeafGuard"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Growth"
+    ],
+    "3": [
+      "Helping Hand"
+    ],
+    "6": [
+      "Stun Spore"
+    ],
+    "9": [
+      "Mega Drain"
+    ],
+    "12": [
+      "Aromatherapy"
+    ],
+    "15": [
+      "Magical Leaf"
+    ],
+    "18": [
+      "Sleep Powder"
+    ],
+    "21": [
+      "Giga Drain"
+    ],
+    "24": [
+      "Leech Seed"
+    ],
+    "27": [
+      "After You"
+    ],
+    "30": [
+      "Energy Ball"
+    ],
+    "33": [
+      "Synthesis"
+    ],
+    "36": [
+      "Sunny Day"
+    ],
+    "39": [
+      "Entrainment"
+    ],
+    "42": [
+      "Leaf Storm"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Healing Wish",
+    "Ingrain",
+    "Sweet Scent",
+    "Worry Seed"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Confide",
+    "Covet",
+    "Cut",
+    "Double Team",
+    "Dream Eater",
+    "Flash",
+    "Frustration",
+    "Grass Whistle",
+    "Heal Bell",
+    "Hidden Power",
+    "Laser Focus",
+    "Natural Gift",
+    "Nature Power",
+    "Return",
+    "Secret Power",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Seed Bomb",
+    "Energy Ball",
+    "Leaf Storm",
+    "Grass Knot",
+    "Pollen Puff"
+  ],
+  "tmMoves8": [
+    "Magical Leaf",
+    "Solar Beam",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Charm",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Flash",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,300 @@
+{
+	"pools": 
+	[
+		{
+		"name": "artifacts",
+		"rolls": 1,
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:red_shard",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:blue_shard",
+				"weight": 1
+				},
+				{
+				"type": "empty",
+				"weight": 50
+				}
+			]
+		},
+		{
+		"name": "treasure",
+		"rolls": 1,
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:relic_band",
+				"weight": 2
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:relic_crown",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:relic_copper",
+				"weight": 3
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:relic_gold",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:relic_silver",
+				"weight": 3
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:relic_statue",
+				"weight": 2
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:relic_vase",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:rare_bone",
+				"weight": 3
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:nugget",
+				"weight": 2
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:big_nugget",
+				"weight": 1
+				},
+				{
+				"type": "empty",
+				"weight": 50
+				}
+			]
+		},
+		{
+		"name": "evostones",
+		"rolls": 2,
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:fire_stone",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:water_stone",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:moon_stone",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:thunder_stone",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:leaf_stone",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:sun_stone",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:dawn_stone",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:dusk_stone",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:shiny_stone",
+				"weight": 1
+				},
+				{
+				"type": "empty",
+				"weight": 15
+				}
+			]
+		},
+		{
+		"name": "fossils",
+		"rolls": 1,
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_0",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_1",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_2",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_3",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_4",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_5",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_6",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_7",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_8",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_9",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_10",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_11",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_12",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_13",
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:covered_fossil_14",
+				"weight": 1
+				},
+				{
+				"type": "empty",
+				"weight": 20
+				}
+			]
+		},
+		{
+		"name": "gems",
+		"rolls": { "min": 2, "max": 5 },
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:crystal",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 3 }
+                        }
+                    ],
+				"weight": 3
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:amethyst",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 3 }
+                        }
+                    ],
+				"weight": 2
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:sapphire",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 3 }
+                        }
+                    ],
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:ruby",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 3 }
+                        }
+                    ],
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:silicon",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 3 }
+                        }
+                    ],
+				"weight": 3
+				},
+				{
+				"type": "empty",
+				"weight": 15
+				}
+			]
+		}
+	]
+}

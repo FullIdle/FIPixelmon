@@ -1,0 +1,26 @@
+{
+  "id": "Surskit",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Surskit"
+      },
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

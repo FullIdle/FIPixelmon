@@ -1,0 +1,97 @@
+{
+  "pixelmonName": "Tynamo",
+  "pokemon": "Tynamo",
+  "form": 0,
+  "stats": {
+    "HP": 35,
+    "Attack": 55,
+    "Defence": 40,
+    "Speed": 60,
+    "SpecialAttack": 45,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 24,
+  "spawnLevelRange": 14,
+  "baseExp": 55,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 0,
+    "depthRangeEnd": 25,
+    "swimSpeed": 0.5,
+    "decayRate": 0.99,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.3,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.6,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 39,
+      "to": {
+        "name": "Eelektrik"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Crunch"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Charge Beam",
+      "Spark",
+      "Tackle",
+      "Thunder Wave"
+    ]
+  },
+  "tutorMoves": [
+    "Magnet Rise"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Charge Beam",
+    "Thunder Wave"
+  ],
+  "tmMoves6": [
+    "Charge Beam",
+    "Thunder Wave"
+  ],
+  "forms": {}
+}

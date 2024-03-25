@@ -1,0 +1,346 @@
+{
+  "pixelmonName": "Bronzor",
+  "pokemon": "Bronzor",
+  "form": 0,
+  "stats": {
+    "HP": 57,
+    "Attack": 24,
+    "Defence": 86,
+    "Speed": 23,
+    "SpecialAttack": 24,
+    "SpecialDefence": 86
+  },
+  "catchRate": 255,
+  "malePercent": -1,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 72,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Psychic"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 60.5,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.8,
+    "eye_height": 0.425
+  },
+  "evolutions": [
+    {
+      "level": 33,
+      "to": {
+        "name": "Bronzong"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Block"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    "Heatproof",
+    "HeavyMetal"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Confusion",
+      "Tackle"
+    ],
+    "4": [
+      "Confuse Ray"
+    ],
+    "8": [
+      "Payback"
+    ],
+    "12": [
+      "Imprison"
+    ],
+    "16": [
+      "Gyro Ball"
+    ],
+    "20": [
+      "Hypnosis"
+    ],
+    "24": [
+      "Safeguard"
+    ],
+    "28": [
+      "Extrasensory"
+    ],
+    "32": [
+      "Heavy Slam"
+    ],
+    "36": [
+      "Iron Defense"
+    ],
+    "40": [
+      "Metal Sound"
+    ],
+    "44": [
+      "Future Sight"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force",
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Ancient Power",
+    "Charge Beam",
+    "Confide",
+    "Double Team",
+    "Dream Eater",
+    "Feint Attack",
+    "Flash",
+    "Frustration",
+    "Gravity",
+    "Heal Block",
+    "Hidden Power",
+    "Natural Gift",
+    "Psych Up",
+    "Psywave",
+    "Recycle",
+    "Return",
+    "Rock Polish",
+    "Rollout",
+    "Secret Power",
+    "Signal Beam",
+    "Swagger",
+    "Telekinesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Psychic",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Future Sight",
+    "Trick",
+    "Skill Swap",
+    "Iron Defense",
+    "Calm Mind",
+    "Gyro Ball",
+    "Flash Cannon",
+    "Stealth Rock",
+    "Grass Knot",
+    "Heavy Slam",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Solar Beam",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Sandstorm",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Imprison",
+    "Rock Tomb",
+    "Payback",
+    "Power Swap",
+    "Guard Swap",
+    "Speed Swap",
+    "Trick Room",
+    "Wonder Room",
+    "Round",
+    "Hex",
+    "Bulldoze"
+  ],
+  "tmMoves7": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Payback",
+    "Rock Polish",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Payback",
+    "Rock Polish",
+    "Flash",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Charge Beam",
+    "Payback",
+    "Rock Polish",
+    "Flash",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room"
+  ],
+  "tmMoves4": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Skill Swap",
+    "Charge Beam",
+    "Endure",
+    "Payback",
+    "Recycle",
+    "Rock Polish",
+    "Flash",
+    "Gyro Ball",
+    "Stealth Rock",
+    "Psych Up",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room"
+  ],
+  "forms": {}
+}

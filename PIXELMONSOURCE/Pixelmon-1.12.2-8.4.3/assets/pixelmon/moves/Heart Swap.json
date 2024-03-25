@@ -1,0 +1,58 @@
+{
+  "attackIndex": 428,
+  "attackName": "Heart Swap",
+  "attackType": "Psychic",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "langString": "pixelmon.effect.heartswap",
+      "swapStats": [
+        "Accuracy",
+        "Evasion",
+        "Attack",
+        "Defence",
+        "SpecialAttack",
+        "SpecialDefence",
+        "Speed"
+      ],
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "HeartSwap"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "psychium_z",
+      "attackName": "Z-Heart Swap",
+      "basePower": 0,
+      "effects": [
+        {
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "FocusEnergy"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

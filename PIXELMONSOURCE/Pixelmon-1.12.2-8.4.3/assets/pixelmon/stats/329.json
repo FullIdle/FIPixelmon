@@ -1,0 +1,356 @@
+{
+  "pixelmonName": "Vibrava",
+  "pokemon": "Vibrava",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 70,
+    "Defence": 50,
+    "Speed": 70,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 35,
+  "spawnLevelRange": 10,
+  "baseExp": 126,
+  "baseFriendship": 70,
+  "types": [
+    "Ground",
+    "Dragon"
+  ],
+  "height": 1.4,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Trapinch"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Speed": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -2.55,
+      "z": -0.57
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.2,
+      "z": -0.57
+    }
+  },
+  "weight": 15.3,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 0.5,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 45,
+      "to": {
+        "name": "Flygon"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dragon Claw"
+      ]
+    }
+  ],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Bite",
+      "Bulldoze",
+      "Crunch",
+      "Dig",
+      "Dragon Breath",
+      "Fissure",
+      "Laser Focus",
+      "Sand Attack",
+      "Superpower",
+      "Supersonic"
+    ],
+    "12": [
+      "Mud-Slap"
+    ],
+    "16": [
+      "Sand Tomb"
+    ],
+    "20": [
+      "Dragon Tail"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Bug Buzz"
+    ],
+    "32": [
+      "Sandstorm"
+    ],
+    "38": [
+      "Earth Power"
+    ],
+    "44": [
+      "Earthquake"
+    ],
+    "50": [
+      "Uproar"
+    ],
+    "56": [
+      "Dragon Rush"
+    ],
+    "62": [
+      "Boomburst"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dual Wingbeat",
+    "Scorching Sands"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Feint",
+    "First Impression",
+    "Flail",
+    "Fury Cutter",
+    "Gust",
+    "Quick Attack"
+  ],
+  "transferMoves": [
+    "Air Cutter",
+    "Bide",
+    "Captivate",
+    "Confide",
+    "Defog",
+    "Double Team",
+    "Double-Edge",
+    "Feint Attack",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Mimic",
+    "Natural Gift",
+    "Ominous Wind",
+    "Return",
+    "Rock Smash",
+    "Roost",
+    "Secret Power",
+    "Signal Beam",
+    "Silver Wind",
+    "Sonic Boom",
+    "Strength",
+    "Struggle Bug",
+    "Swagger",
+    "Tailwind",
+    "Toxic",
+    "Twister"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Earthquake",
+    "Focus Energy",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Uproar",
+    "Heat Wave",
+    "Superpower",
+    "Bug Buzz",
+    "Dragon Pulse",
+    "Earth Power",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Solar Beam",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Steel Wing",
+    "Attract",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Mud Shot",
+    "U-turn",
+    "Round",
+    "Bulldoze",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Fly",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Struggle Bug",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "U-turn",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Steel Wing",
+    "Roost",
+    "Endure",
+    "Dragon Pulse",
+    "Silver Wind",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "U-turn",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Steel Wing"
+  ],
+  "forms": {}
+}

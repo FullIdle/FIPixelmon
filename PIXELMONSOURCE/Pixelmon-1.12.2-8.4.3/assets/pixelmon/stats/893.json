@@ -1,0 +1,192 @@
+{
+  "pixelmonName": "Zarude",
+  "pokemon": "Zarude",
+  "form": 0,
+  "stats": {
+    "HP": 105,
+    "Attack": 120,
+    "Defence": 105,
+    "SpecialAttack": 70,
+    "SpecialDefence": 95,
+    "Speed": 105
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Dark",
+    "Grass"
+  ],
+  "height": 0.6,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "aggressive": 100,
+    "passive": 0,
+    "timid": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.15
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.15
+    }
+  },
+  "weight": 70.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.4,
+    "eye_height": 1.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "LeafGuard",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "0": [
+      "Bind",
+      "Scratch"
+    ],
+    "6": [
+      "Leer"
+    ],
+    "12": [
+      "Vine Whip"
+    ],
+    "18": [
+      "Growth"
+    ],
+    "24": [
+      "Fury Swipes"
+    ],
+    "30": [
+      "Scary Face"
+    ],
+    "36": [
+      "Grass Knot"
+    ],
+    "42": [
+      "Bite"
+    ],
+    "48": [
+      "U-turn"
+    ],
+    "54": [
+      "Swagger"
+    ],
+    "60": [
+      "Energy Ball"
+    ],
+    "66": [
+      "Synthesis"
+    ],
+    "72": [
+      "Hammer Arm"
+    ],
+    "78": [
+      "Thrash"
+    ],
+    "84": [
+      "Power Whip"
+    ],
+    "90": [
+      "Jungle Healing"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide",
+    "Lash Out"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Low Kick",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Iron Tail",
+    "Crunch",
+    "Taunt",
+    "Superpower",
+    "Hyper Voice",
+    "Bulk Up",
+    "Close Combat",
+    "Dark Pulse",
+    "Seed Bomb",
+    "Energy Ball",
+    "Nasty Plot",
+    "Power Whip",
+    "Grass Knot",
+    "Darkest Lariat",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Mega Punch",
+    "Mega Kick",
+    "Hyper Beam",
+    "Giga Impact",
+    "Magical Leaf",
+    "Solar Beam",
+    "Solar Blade",
+    "Dig",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Giga Drain",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Revenge",
+    "Brick Break",
+    "Rock Tomb",
+    "Bullet Seed",
+    "Mud Shot",
+    "U-turn",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Drain Punch",
+    "Round",
+    "Acrobatics",
+    "Snarl",
+    "Grassy Terrain",
+    "Brutal Swing",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [],
+  "tmMoves6": [],
+  "tmMoves5": [],
+  "tmMoves4": [],
+  "tmMoves3": [],
+  "tmMoves2": [],
+  "tmMoves1": []
+}

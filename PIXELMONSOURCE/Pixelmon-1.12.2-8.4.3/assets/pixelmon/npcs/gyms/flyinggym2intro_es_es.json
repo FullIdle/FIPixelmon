@@ -1,0 +1,31 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "hiker.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Greg"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "¿Qué tenemos aquí? ¡Un campeón formándose! ¡Bienvenido a Helium Heights!"
+        },
+        {
+          "text": "¡Si estás buscando el Gimnasio Volador, lo has encontrado - literalmente! ¡Este gimnasio vuela!"
+        },
+        {
+          "text": "¡El Lider es un legendario piloto! ¡Las historias cuentan que solía hacer combates Pokémon en las alas de su avión en pleno vuelo!"
+        },
+        {
+          "text": "¡No dejes que los globos de aire caliente te engañen - son para sus nietos! Fue un gran piloto, y ahora es un gran oponente."
+        }
+      ]
+    }
+  ]
+}

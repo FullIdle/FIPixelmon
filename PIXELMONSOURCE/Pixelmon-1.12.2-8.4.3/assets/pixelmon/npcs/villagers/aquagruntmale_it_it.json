@@ -1,0 +1,53 @@
+{
+    "skins": [
+        {
+            "filename": "aquagruntmale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Recluta Team Idro"
+        },
+        {
+            "name": "Recluta Team Idro"
+        },
+        {
+            "name": "Recluta Team Idro"
+        },
+        {
+            "name": "Recluta Team Idro"
+        },
+        {
+            "name": "Recluta Team Idro"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Il Team Magma pensa di avere una possibilità contro di noi!"
+                },
+                {
+                    "text": "Il mondo è più oceano che terra! Inoltre, abbiamo il vantaggio del tipo! Siamo la squadra migliore!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Groudon è bello e tutto, ma niente batte il nostro Kyogre!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il nostro capo continua a dirci che userà Kyogre per inondare la Terra."
+                },
+                {
+                    "text": "Ma dove potremmo vivere ?! L'ultima volta che ho controllato, noi reclute non possiamo respirare l'acqua!"
+                }
+            ]
+        }
+    ]
+}

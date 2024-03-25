@@ -1,0 +1,20 @@
+{
+  "cardCode": "TERO22",
+  "attackNumber": 1,
+  "name": "attack.TERO22.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 70,
+  "modifier": null,
+  "text": "attack.TERO22.1.text",
+  "effectsString": "TAIL-SELF_MISSED",
+  "effects": [
+    {
+      "needCoinSide": "Tail"
+    }
+  ]
+}

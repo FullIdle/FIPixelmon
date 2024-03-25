@@ -1,0 +1,206 @@
+{
+  "pixelmonName": "Jangmo-o",
+  "pokemon": "Jangmoo",
+  "form": -1,
+  "stats": {
+    "HP": 45,
+    "Attack": 55,
+    "Defence": 65,
+    "Speed": 45,
+    "SpecialAttack": 45,
+    "SpecialDefence": 45
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 25,
+  "baseExp": 60,
+  "baseFriendship": 70,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 29.7,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.75,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Hakamo-o"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Bulletproof",
+    "Soundproof",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 40,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Tackle"
+    ],
+    "4": [
+      "Protect"
+    ],
+    "8": [
+      "Dragon Tail"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "16": [
+      "Headbutt"
+    ],
+    "20": [
+      "Work Up"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Iron Defense"
+    ],
+    "32": [
+      "Dragon Claw"
+    ],
+    "36": [
+      "Noble Roar"
+    ],
+    "40": [
+      "Dragon Dance"
+    ],
+    "44": [
+      "Outrage"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Dragon Breath",
+    "Focus Punch"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Aqua Tail",
+    "Bide",
+    "Confide",
+    "Double Team",
+    "Dual Chop",
+    "Echoed Voice",
+    "Frustration",
+    "Hidden Power",
+    "Return",
+    "Roar",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Low Kick",
+    "Earthquake",
+    "Substitute",
+    "Reversal",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Uproar",
+    "Taunt",
+    "Iron Defense",
+    "Dragon Claw",
+    "Bulk Up",
+    "Dragon Dance",
+    "X-Scissor",
+    "Dragon Pulse",
+    "Focus Blast",
+    "Iron Head",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Screech",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Sandstorm",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Payback",
+    "Fling",
+    "Shadow Claw",
+    "Round",
+    "Bulldoze",
+    "False Swipe"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Focus Blast",
+    "False Swipe",
+    "Shadow Claw",
+    "Payback",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "X-Scissor",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

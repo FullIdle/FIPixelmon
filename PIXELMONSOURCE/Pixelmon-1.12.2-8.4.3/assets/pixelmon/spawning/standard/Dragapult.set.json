@@ -1,0 +1,52 @@
+{
+  "id": "Dragapult",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dragapult",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "evil"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Dragapult",
+        "form": 114
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "evil"
+        ],
+        "dimensions": [
+          "72"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "blackbelt.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bruce"
+        },
+        {
+            "name": "Jackie"
+        },
+        {
+            "name": "Jet"
+        },
+        {
+            "name": "Jean-Claude"
+        },
+        {
+            "name": "Steven"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Potrei essere una cintura nera, ma devo continuare ad allenarmi!"
+                },
+                {
+                    "text": "Trovami tavole, blocchi di cemento e una cascata. Presto!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Huah! Sho! OooooooOOOOOOOOO!"
+                },
+                {
+                    "text": "Sei ancora colpito? Ho colpito il tuo cuore con terrore?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Con il mio livello di abilità, tutto è un'arma."
+                },
+                {
+                    "text": "Posso respingere orde di Raticate rabbiosi con il mignolo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sono stato cresciuto da un Machoke."
+                },
+                {
+                    "text": "Se fosse stato un Machamp, forse sarei stato ancora più forte."
+                }
+            ]
+        }
+    ]
+}

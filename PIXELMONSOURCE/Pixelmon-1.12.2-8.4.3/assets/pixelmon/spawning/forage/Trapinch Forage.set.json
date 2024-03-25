@@ -1,0 +1,28 @@
+{
+  "id": "Trapinch Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Trapinch"
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

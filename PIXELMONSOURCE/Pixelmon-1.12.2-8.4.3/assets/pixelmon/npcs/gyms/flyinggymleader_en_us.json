@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "flyingleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Icarus"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "So... a challenger reaches the top... only to be kicked back down!",
+      "win": "Yes, victory! Have fun climbing back up, kid!",
+      "lose": "Wow... looks like I am the one that is falling down..."
+    }
+  ]
+}

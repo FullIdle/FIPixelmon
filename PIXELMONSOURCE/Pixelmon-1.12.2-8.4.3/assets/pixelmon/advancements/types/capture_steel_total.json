@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lead"
+		},
+		"title": {
+			"translate": "advancements.capture_steel_total.title"
+		},
+		"description": {
+			"translate": "advancements.capture_steel_total.description"
+		},
+		"background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+		"hidden": true
+	},
+	"parent": "pixelmon:types/capture_steel_25",
+	"criteria": {
+		"capture_steel_total": {
+			"trigger": "pixelmon:capture_type_trigger",
+			"conditions" : {
+				"type" : "Steel",
+				"count" : 54
+			}
+		}
+	}
+}

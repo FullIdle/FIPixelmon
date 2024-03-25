@@ -1,0 +1,38 @@
+{
+	"radiant": true,
+	"weight": 0,
+	"abandonable": false,
+	"repeatable": false,
+	"color": {
+		"r": 167,
+		"g": 255,
+		"b": 66
+	},
+	"activeStage": 10,
+	"stages": [
+		{
+			"stage": 0,
+			"nextStage": 10,
+			"icon": "FOUR_POINTED_STAR",
+			"objectives": [
+				"BLOCKER"
+			],
+			"actions": []
+		},
+		{
+			"stage": 10,
+			"nextStage": -1,
+			"icon": "FOUR_POINTED_STAR",
+			"objectives": [
+				"ENTITY_INTERACT NPCQuestGiver 1",
+				"ENTITY_INTERACT NPCChatting 1"
+			],
+			"actions": [
+				"0,1 LOCALIZED_MESSAGE quest.talk_to_npc.message",
+				"0,1 XP_GIVE - 50",
+				"0,1 COMPLETE_QUEST"
+			]
+		}
+	],
+	"strings": {}
+}

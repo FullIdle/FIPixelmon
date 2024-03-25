@@ -1,0 +1,27 @@
+{
+  "id": "Zebstrika",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zebstrika"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

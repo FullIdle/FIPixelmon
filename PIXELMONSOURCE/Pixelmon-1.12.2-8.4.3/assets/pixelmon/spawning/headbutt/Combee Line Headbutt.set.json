@@ -1,0 +1,117 @@
+{
+  "id": "Combee Line Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Combee",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 6,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ],
+        "variant": [
+          "oak",
+          "birch"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Combee"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 6,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ],
+        "variant": [
+          "oak",
+          "birch"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Vespiquen",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ],
+        "variant": [
+          "oak",
+          "birch"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vespiquen"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "flowery"
+        ],
+        "variant": [
+          "oak",
+          "birch"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 551,
+  "setId": 7,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 74,
+  "code": "GYMC98",
+  "name": "card.GYMC98.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC98",
+      "attackNumber": 1,
+      "name": "attack.GYMC98.1.name",
+      "energy": [
+        "FIGHTING"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMC98.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

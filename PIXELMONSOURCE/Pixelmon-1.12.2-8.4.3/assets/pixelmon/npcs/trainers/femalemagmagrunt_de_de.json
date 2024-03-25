@@ -1,0 +1,130 @@
+{
+    "data": {
+        "trainerType": "FemaleMagmaGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 60
+    },
+    "models":[
+        {
+            "name": "FemaleMagmaGrunt"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Numel"
+        },
+        {
+            "name": "Camerupt"
+        },
+        {
+            "name": "Poochyena"
+        },
+        {
+            "name": "Mightyena"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Houndoom"
+        },
+        {
+            "name": "Baltoy"
+        },
+		{
+			"name": "Claydol"
+		}
+    ],
+    "names": [
+        {
+            "name": "Courtney"
+        },
+        {
+            "name": "Jessica"
+		},
+		{
+			"name": "Martha"
+		},
+		{
+			"name": "Elizabeth"
+		},
+		{
+			"name": "Britney"
+		}
+    ],
+    "chat": [
+        {
+            "opening": "Hey kleiner, gib uns deine Pokemon!",
+            "win": "Ich hab gewonnen! Gib mir deine Pokemon!",
+            "lose": "Ah! Wie konntest du mich besiegen?!"
+        },        
+        {
+            "opening": "Du kannst nicht vorbei ohne mich zu besiegen!",
+            "win": "Du kommst nicht vorbei!",
+            "lose": "Geh vorbei, wenn du willst."
+        },
+        {
+            "opening": "Was machst du hier?!",
+            "win": "Verschwinde hier!.",
+            "lose": "Oh Nein! Ich hab verloren!"
+        },
+        {
+            "opening": "Das ist eine wichtige Operation! Du kannst hier nicht rumlaufen!",
+            "win": "Verschwinde jetzt!",
+            "lose": "Unmöglich!"
+        },
+        {
+            "opening": "Team Magma is das beste!",
+            "win": "Ich sagte das wir die Besten sind!",
+            "lose": "Vielleicht möchtest du ja Team Skull beitreten.."
+        },
+        {
+            "opening": "Mach dich bereit für Ärger!",
+            "win": "Und ich kann den Ärger machen.",
+            "lose": "Pokemon sind Müll!"
+        },
+        {
+            "opening": "Pokémon sind Werkzeuge. Was nützt es, sie gut zu behandeln?",
+            "win": "Siehst du, Nutzlos",
+            "lose": "Nutzlose Dinger!"
+        },
+        {
+            "opening": "Wir sind Team Magma!",
+            "win": "Wer bist du?",
+            "lose": "Wieso bist du hier?"
+        },
+        {
+            "opening": "Was denkst du was du hier machst?",
+            "win": "Geh jetzt!",
+            "lose": "Geh bevor ich es dem Boss sage!"
+        },
+        {
+            "opening": "Geh mir aus dem Weg!",
+            "win": "Ich sagte beweg dich!",
+            "lose": "Niemals!"
+        },
+        {
+            "opening": "Du hast echt Mut wenn du dich mit mir anlegst!",
+            "win": "Du wirst mich niemals besiegen!",
+            "lose": "Du hast mich besiegt? Neiiiiiin!"
+        },       
+        {
+            "opening": "Du kannst mich nicht besiegen!",
+            "win": "Ja, jetzt bin ich noch stärker!",
+            "lose": "Oh nein, jetzt bin ich bestimmt schwächer!"
+        },
+        {
+            "opening": "Deine Pokemon bringen bestimmt eine nette Summe auf dem Schwarzmarkt!",
+            "win": "Deine Pokemon sind schrecklich!!",
+            "lose": "Sie könnten mehr wert sein, als ich dachte!"
+        },       
+        {
+            "opening": "Nichts verdächtiges hier, weitergehen!",
+            "win": "Du weißt nicht mit wem du es zu tun hast!",
+            "lose": "Der Boss wird nicht glücklich sein mit dir!"
+        }
+    ]
+}

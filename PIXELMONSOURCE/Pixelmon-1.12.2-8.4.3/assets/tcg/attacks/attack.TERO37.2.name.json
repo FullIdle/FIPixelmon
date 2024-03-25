@@ -1,0 +1,15 @@
+{
+  "cardCode": "TERO37",
+  "attackNumber": 2,
+  "name": "attack.TERO37.2.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC",
+    "COLORLESS"
+  ],
+  "damage": 50,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

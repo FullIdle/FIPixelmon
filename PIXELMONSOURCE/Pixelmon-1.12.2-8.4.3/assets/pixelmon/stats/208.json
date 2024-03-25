@@ -1,0 +1,470 @@
+{
+  "pixelmonName": "Steelix",
+  "pokemon": "Steelix",
+  "form": 0,
+  "stats": {
+    "HP": 75,
+    "Attack": 85,
+    "Defence": 200,
+    "Speed": 30,
+    "SpecialAttack": 55,
+    "SpecialDefence": 65
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 30,
+  "baseExp": 196,
+  "baseFriendship": 70,
+  "types": [
+    "Steel",
+    "Ground"
+  ],
+  "height": 1.5,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Onix"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": -0.6,
+      "y": -0.2,
+      "z": 0.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.6
+    }
+  },
+  "weight": 400.0,
+  "bounding_box": {
+    "width": 3.0,
+    "height": 2.0,
+    "eye_height": 1.2750001
+  },
+  "evolutions": [],
+  "abilities": [
+    "RockHead",
+    "Sturdy",
+    "SheerForce"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Bind",
+      "Crunch",
+      "Fire Fang",
+      "Harden",
+      "Ice Fang",
+      "Rock Polish",
+      "Rock Throw",
+      "Tackle",
+      "Thunder Fang"
+    ],
+    "4": [
+      "Smack Down"
+    ],
+    "8": [
+      "Autotomize"
+    ],
+    "12": [
+      "Dragon Breath"
+    ],
+    "16": [
+      "Curse"
+    ],
+    "20": [
+      "Rock Slide"
+    ],
+    "24": [
+      "Screech"
+    ],
+    "28": [
+      "Sand Tomb"
+    ],
+    "32": [
+      "Stealth Rock"
+    ],
+    "36": [
+      "Slam"
+    ],
+    "40": [
+      "Sandstorm"
+    ],
+    "44": [
+      "Dig"
+    ],
+    "48": [
+      "Iron Tail"
+    ],
+    "52": [
+      "Stone Edge"
+    ],
+    "56": [
+      "Double-Edge"
+    ],
+    "60": [
+      "Magnet Rise"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam",
+    "Scorching Sands",
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [
+    "Block",
+    "Defense Curl",
+    "Dragon Tail",
+    "Flail",
+    "Head Smash",
+    "Rollout",
+    "Wide Guard"
+  ],
+  "transferMoves": [
+    "Ancient Power",
+    "Aqua Tail",
+    "Bide",
+    "Captivate",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Explosion",
+    "Fissure",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Mimic",
+    "Mud Sport",
+    "Mud-Slap",
+    "Natural Gift",
+    "Nature Power",
+    "Psych Up",
+    "Rage",
+    "Return",
+    "Roar",
+    "Rock Climb",
+    "Rock Smash",
+    "Rototiller",
+    "Secret Power",
+    "Skull Bash",
+    "Strength",
+    "Swagger",
+    "Take Down",
+    "Torment",
+    "Toxic",
+    "Twister"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Earthquake",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Taunt",
+    "Iron Defense",
+    "Dragon Dance",
+    "Gyro Ball",
+    "Dark Pulse",
+    "Dragon Pulse",
+    "Earth Power",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heavy Slam",
+    "Drill Run",
+    "High Horsepower",
+    "Psychic Fangs",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Dig",
+    "Screech",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Sandstorm",
+    "Sunny Day",
+    "Facade",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Rock Blast",
+    "Payback",
+    "Thunder Fang",
+    "Ice Fang",
+    "Fire Fang",
+    "Round",
+    "Bulldoze",
+    "Brutal Swing",
+    "Stomping Tantrum",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Brutal Swing",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Nature Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Nature Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Smack Down",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Endure",
+    "Dragon Pulse",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Stealth Rock",
+    "Psych Up",
+    "Captivate",
+    "Dark Pulse",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "tmMoves3": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sandstorm",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Roar",
+    "Toxic",
+    "Rock Smash",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Hyper Beam",
+    "Protect",
+    "Endure",
+    "Frustration",
+    "Iron Tail",
+    "Dragon Breath",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Sandstorm",
+    "Defense Curl",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 75,
+        "Attack": 125,
+        "Defence": 230,
+        "Speed": 30,
+        "SpecialAttack": 55,
+        "SpecialDefence": 95
+      },
+      "height": 3.5,
+      "width": 4.0,
+      "length": 5.0,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": -1.6,
+          "z": -0.6
+        }
+      },
+      "weight": 740.0,
+      "abilities": [
+        "SandForce",
+        null,
+        null
+      ]
+    }
+  }
+}

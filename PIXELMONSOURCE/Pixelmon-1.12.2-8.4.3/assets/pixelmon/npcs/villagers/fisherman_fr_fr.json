@@ -1,0 +1,37 @@
+{
+    "skins": [
+        { 
+            "filename": "fisherman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Fisherman Joe"
+        },
+        {
+            "name": "Pierre le Pêcheur"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Shh! Ne faites pas peur aux poissons !"
+                },
+                {
+                    "text": "Ah, vous cherchez des Pokémon, non ? Moi, je préfère les poissons."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Vous pourriez me conseiller un appât ? Les Noigrumes ne marchent pas du tout."
+                },
+                {
+                    "text": "J'aime attraper les poissons, et puis les relâcher. Ça m'amuse."
+                }
+            ]
+        }
+    ]
+}

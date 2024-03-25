@@ -1,0 +1,63 @@
+{
+  "id": "Natu Headbutt",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Natu",
+        "extraSpecs": [
+          {
+            "key": "status",
+            "value": "Sleep"
+          }
+        ]
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 6,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "variant": [
+          "jungle",
+          "oak"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "mesa_rock"
+        ]
+      },
+      "rarity": 160.0
+    },
+    {
+      "spec": {
+        "name": "Natu"
+      },
+      "stringLocationTypes": [
+        "Headbutt"
+      ],
+      "minLevel": 6,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "variant": [
+          "jungle",
+          "oak"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "mesa_rock"
+        ]
+      },
+      "rarity": 160.0
+    }
+  ]
+}

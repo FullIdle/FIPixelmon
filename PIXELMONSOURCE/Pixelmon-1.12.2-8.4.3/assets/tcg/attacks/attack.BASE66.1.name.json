@@ -1,0 +1,21 @@
+{
+  "cardCode": "BASE66",
+  "attackNumber": 1,
+  "name": "attack.BASE66.1.name",
+  "energy": [
+    "GRASS",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.BASE66.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:PARALYZED",
+  "effects": [
+    {
+      "condition": "PARALYZED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

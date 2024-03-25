@@ -1,0 +1,331 @@
+{
+  "pixelmonName": "Empoleon",
+  "pokemon": "Empoleon",
+  "form": 0,
+  "stats": {
+    "HP": 84,
+    "Attack": 86,
+    "Defence": 88,
+    "Speed": 60,
+    "SpecialAttack": 111,
+    "SpecialDefence": 101
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 36,
+  "spawnLevelRange": 14,
+  "baseExp": 210,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Steel"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Prinplup",
+    "Piplup"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.1,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "weight": 84.5,
+  "bounding_box": {
+    "width": 1.8,
+    "height": 2.8,
+    "eye_height": 2.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Torrent",
+    null,
+    "Defiant"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Aqua Jet",
+      "Bubble",
+      "Growl",
+      "Metal Claw",
+      "Tackle"
+    ],
+    "4": [
+      "Growl"
+    ],
+    "8": [
+      "Bubble"
+    ],
+    "11": [
+      "Swords Dance"
+    ],
+    "15": [
+      "Peck"
+    ],
+    "19": [
+      "Bubble Beam"
+    ],
+    "24": [
+      "Swagger"
+    ],
+    "28": [
+      "Fury Attack"
+    ],
+    "33": [
+      "Brine"
+    ],
+    "39": [
+      "Whirlpool"
+    ],
+    "46": [
+      "Mist"
+    ],
+    "52": [
+      "Drill Peck"
+    ],
+    "59": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Covet",
+    "Defog",
+    "Hydro Cannon",
+    "Icy Wind",
+    "Iron Defense",
+    "Knock Off",
+    "Laser Focus",
+    "Liquidation",
+    "Signal Beam",
+    "Snore",
+    "Stealth Rock",
+    "Throat Chop",
+    "Water Pledge",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Agility",
+    "Aqua Ring",
+    "Bide",
+    "Double Hit",
+    "Feather Dance",
+    "Flail",
+    "Hydro Pump",
+    "Icy Wind",
+    "Mud Sport",
+    "Mud-Slap",
+    "Power Trip",
+    "Snore",
+    "Supersonic",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Avalanche",
+    "Captivate",
+    "Cut",
+    "Dig",
+    "Dive",
+    "Endure",
+    "Fury Cutter",
+    "Headbutt",
+    "Hone Claws",
+    "Natural Gift",
+    "Pluck",
+    "Rock Smash",
+    "Secret Power",
+    "Sing",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Scald",
+    "Fling",
+    "Quash",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Scald",
+    "Fling",
+    "Quash",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Quash",
+    "Shadow Claw",
+    "Giga Impact",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Grass Knot",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Roar",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Steel Wing",
+    "Brine",
+    "Fling",
+    "Endure",
+    "Shadow Claw",
+    "Giga Impact",
+    "Avalanche",
+    "Swords Dance",
+    "Stealth Rock",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "forms": {}
+}

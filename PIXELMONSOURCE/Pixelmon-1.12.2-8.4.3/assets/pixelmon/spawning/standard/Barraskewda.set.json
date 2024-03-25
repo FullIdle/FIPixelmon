@@ -1,0 +1,23 @@
+{
+  "id": "Barraskewda",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Barraskewda"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 26,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "river"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

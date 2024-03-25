@@ -1,0 +1,37 @@
+{
+  "attackIndex": 563,
+  "attackName": "Boomburst",
+  "attackType": "Normal",
+  "attackCategory": "SPECIAL",
+  "basePower": 140,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 200,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

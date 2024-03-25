@@ -1,0 +1,33 @@
+{
+  "attackIndex": 5,
+  "attackName": "Vine Whip",
+  "attackType": "Grass",
+  "attackCategory": "PHYSICAL",
+  "basePower": 45,
+  "ppBase": 25,
+  "ppMax": 40,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

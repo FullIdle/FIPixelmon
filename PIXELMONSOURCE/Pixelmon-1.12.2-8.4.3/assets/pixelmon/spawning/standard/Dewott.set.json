@@ -1,0 +1,35 @@
+{
+  "id": "Dewott",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dewott"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 17,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "stone_beach"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

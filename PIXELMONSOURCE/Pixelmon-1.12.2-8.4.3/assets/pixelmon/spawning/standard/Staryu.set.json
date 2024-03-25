@@ -1,0 +1,38 @@
+{
+  "id": "Staryu",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Staryu"
+      },
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

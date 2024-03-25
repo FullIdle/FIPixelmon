@@ -1,0 +1,63 @@
+{
+  "id": 514,
+  "setId": 7,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 75,
+  "code": "GYMC61",
+  "name": "card.GYMC61.name",
+  "description": "",
+  "previousPokemonId": 74,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC61",
+      "attackNumber": 1,
+      "name": "attack.GYMC61.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMC61.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC61",
+      "attackNumber": 2,
+      "name": "attack.GYMC61.2.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING",
+        "FIGHTING"
+      ],
+      "damage": 50,
+      "modifier": null,
+      "text": "attack.GYMC61.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "madame.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Liliane"
+        },
+        {
+            "name": "Christy"
+        },
+        {
+            "name": "Abigail"
+        },
+        {
+            "name": "Jacqueline"
+        },
+        {
+            "name": "Charlene"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Quelle petite ville rustique. Regardez donc ces prolétaires vaquer à leurs affaires."
+                },
+                {
+                    "text": "J'ai des choses bien plus importantes à faire. Je vais aller m'acheter un diamant."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je me demande où est passé mon chauffeur. Il est parti garer la voiture il y a déjà plusieurs MINUTES."
+                },
+                {
+                    "text": "Je ne pourrai pas rester à attendre bien longtemps avec ces chaussures."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Des Super Balls? Ah, mon enfant, vous vous contentez de si peu. Mes Poké Balls sont en or massif."
+                },
+                {
+                    "text": "Mais elles s'abîment tellement vite, ce qui m'oblige à les remplacer souvent. C'est la vie !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai laissé mon petit-fils partir en voyage avec si peu. Il n'a qu'un Rattata."
+                },
+                {
+                    "text": "Et un beau costume bleu. Et à peine cinq millions de PokéDollars en liquide. J'espère qu'il s'en sortira. Oh..."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+  "cardCode": "JUNG14",
+  "attackNumber": 1,
+  "name": "attack.JUNG14.1.name",
+  "energy": [
+    "GRASS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG14.1.text",
+  "effectsString": "OPP_SWITCH:BY_SELF",
+  "effects": [
+    {
+      "myAction": true,
+      "myPokemons": false,
+      "isOptional": false,
+      "needCoinSide": null
+    }
+  ]
+}

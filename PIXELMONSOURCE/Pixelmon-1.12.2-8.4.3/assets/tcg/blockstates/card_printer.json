@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "normal": { "model": "tcg:card_printer" },
+    "facing=north": { "model": "tcg:card_printer" },
+    "facing=east":  { "model": "tcg:card_printer" },
+    "facing=south": { "model": "tcg:card_printer" },
+    "facing=west":  { "model": "tcg:card_printer" }
+  }
+}

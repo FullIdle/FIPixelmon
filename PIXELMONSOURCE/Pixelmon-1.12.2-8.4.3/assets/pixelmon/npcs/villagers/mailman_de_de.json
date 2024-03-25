@@ -1,0 +1,63 @@
+{
+    "skins": [
+        {
+            "filename": "mailman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "George"
+        },
+        {
+            "name": "Mailman Abraham"
+        },
+        {
+            "name": "Mailman"
+        },
+        {
+            "name": "Postworker Pete"
+        },
+        {
+            "name": "Craig"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Wir liefern immer die Post, Regen oder Sonnenschein, Schneesturm oder Sandsturm!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Post zuzustellen ist ohne Pokémon schwer."
+                },
+                {
+                    "text": "Besonders wenn Menschen am Himmel oder unter Wasser leben."
+				},
+				{	
+					"text": "Die schwersten Lieferungen erfolgen bei Team Magma und Team Aqua."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tut mir leid, Trainer, ich habe heute keine Post für dich."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Träger Dusselgurrs sind die besten!"
+                },
+                {
+                    "text": "Außer, wenn sie auf höherstufige Pokémon treffen..."
+                }
+            ]
+        }
+    ]
+}

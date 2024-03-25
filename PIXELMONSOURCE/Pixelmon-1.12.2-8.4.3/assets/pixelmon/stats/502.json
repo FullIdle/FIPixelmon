@@ -1,0 +1,260 @@
+{
+  "pixelmonName": "Dewott",
+  "pokemon": "Dewott",
+  "form": 0,
+  "stats": {
+    "HP": 75,
+    "Attack": 75,
+    "Defence": 60,
+    "Speed": 60,
+    "SpecialAttack": 83,
+    "SpecialDefence": 60
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 17,
+  "spawnLevelRange": 18,
+  "baseExp": 145,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Oshawott"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "weight": 24.5,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Samurott"
+      },
+      "conditions": [
+        {
+          "time": "DAY",
+          "evoConditionType": "time"
+        }
+	  ],
+      "evoType": "leveling",
+      "moves": [
+        "Slash"
+      ]
+    },
+    {
+      "level": 36,
+      "to": {
+        "name": "Samurott",
+		"form": 3
+      },
+      "conditions": [
+        {
+          "time": "NIGHT",
+          "evoConditionType": "time"
+        }
+	  ],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Torrent",
+    null,
+    "ShellArmour"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tackle",
+      "Tail Whip",
+      "Water Gun",
+      "Water Sport"
+    ],
+    "5": [
+      "Tail Whip"
+    ],
+    "7": [
+      "Water Gun"
+    ],
+    "11": [
+      "Water Sport"
+    ],
+    "13": [
+      "Focus Energy"
+    ],
+    "18": [
+      "Razor Shell"
+    ],
+    "21": [
+      "Fury Cutter"
+    ],
+    "26": [
+      "Water Pulse"
+    ],
+    "29": [
+      "Revenge"
+    ],
+    "34": [
+      "Aqua Jet"
+    ],
+    "37": [
+      "Encore"
+    ],
+    "42": [
+      "Aqua Tail"
+    ],
+    "45": [
+      "Retaliate"
+    ],
+    "50": [
+      "Swords Dance"
+    ],
+    "53": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Helping Hand",
+    "Icy Wind",
+    "Iron Tail",
+    "Snore",
+    "Water Pledge",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Air Slash",
+    "Assurance",
+    "Brine",
+    "Copycat",
+    "Detect",
+    "Night Slash",
+    "Sacred Sword",
+    "Screech",
+    "Trump Card"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Dig",
+    "Dive",
+    "Rock Smash",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Retaliate",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Scald",
+    "Fling",
+    "Retaliate",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

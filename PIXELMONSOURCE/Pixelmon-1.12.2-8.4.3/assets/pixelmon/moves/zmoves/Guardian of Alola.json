@@ -1,0 +1,31 @@
+{
+  "attackIndex": -1,
+  "attackName": "Guardian of Alola",
+  "attackType": "Fairy",
+  "attackCategory": "SPECIAL",
+  "basePower": 0,
+  "ppBase": 1,
+  "ppMax": 1,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+	  "percent": 0.75,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "NaturesMadness"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Clobbopus",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Clobbopus"
+      },
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lucky_punch",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

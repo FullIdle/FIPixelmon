@@ -1,0 +1,48 @@
+{
+  "id": "Spoink Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Spoink"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mutated_taiga",
+          "rw_spruce_mountains"
+        ]
+      },
+      "rarity": 110.0
+    },
+    {
+      "spec": {
+        "name": "Grumpig"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "mutated_taiga",
+          "rw_spruce_mountains"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

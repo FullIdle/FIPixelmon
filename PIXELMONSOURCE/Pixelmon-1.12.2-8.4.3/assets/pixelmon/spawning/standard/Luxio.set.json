@@ -1,0 +1,25 @@
+{
+  "id": "Luxio",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Luxio"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

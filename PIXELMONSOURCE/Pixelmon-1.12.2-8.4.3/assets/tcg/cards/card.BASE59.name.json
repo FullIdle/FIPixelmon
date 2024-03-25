@@ -1,0 +1,44 @@
+{
+  "id": 59,
+  "setId": 1,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 60,
+  "code": "BASE59",
+  "name": "card.BASE59.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE59",
+      "attackNumber": 1,
+      "name": "attack.BASE59.1.name",
+      "energy": [
+        "WATER"
+      ],
+      "damage": 10,
+      "modifier": "Plus",
+      "text": "attack.BASE59.1.text",
+      "effects": [
+        "DAMAGE_BONUS:SELF:WATER:10:20"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

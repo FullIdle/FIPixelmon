@@ -1,0 +1,42 @@
+{
+  "id": "Finneon",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Finneon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 19,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Finneon",
+        "form": 102
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 19,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:infinite_ocean"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

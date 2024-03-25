@@ -1,0 +1,237 @@
+{
+  "pixelmonName": "Vanillite",
+  "pokemon": "Vanillite",
+  "form": 0,
+  "stats": {
+    "HP": 36,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 44,
+    "SpecialAttack": 65,
+    "SpecialDefence": 60
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 14,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 5.7,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.65,
+    "eye_height": 0.35
+  },
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Vanillish"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "IceBody",
+    "SnowCloak",
+    "WeakArmor"
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Harden"
+    ],
+    "4": [
+      "Taunt"
+    ],
+    "8": [
+      "Mist"
+    ],
+    "12": [
+      "Icy Wind"
+    ],
+    "16": [
+      "Avalanche"
+    ],
+    "20": [
+      "Hail"
+    ],
+    "24": [
+      "Icicle Spear"
+    ],
+    "28": [
+      "Uproar"
+    ],
+    "32": [
+      "Acid Armor"
+    ],
+    "36": [
+      "Mirror Coat"
+    ],
+    "40": [
+      "Ice Beam"
+    ],
+    "44": [
+      "Blizzard"
+    ],
+    "48": [
+      "Sheer Cold"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Aurora Veil",
+    "Autotomize",
+    "Explosion",
+    "Ice Shard",
+    "Icicle Crash",
+    "Magnet Rise"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Frost Breath",
+    "Frustration",
+    "Hidden Power",
+    "Magic Coat",
+    "Mirror Shot",
+    "Natural Gift",
+    "Powder Snow",
+    "Return",
+    "Secret Power",
+    "Signal Beam",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Uproar",
+    "Taunt",
+    "Hyper Voice",
+    "Iron Defense",
+    "Flash Cannon",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Light Screen",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Imprison",
+    "Icicle Spear",
+    "Avalanche",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Frost Breath",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Frost Breath",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Explosion",
+    "Frost Breath",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "forms": {}
+}

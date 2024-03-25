@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "pokefan_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Amadeus"
+        },
+        {
+            "name": "Ren"
+        },
+        {
+            "name": "Kealoha"
+        },
+        {
+            "name": "Carwyn"
+        },
+        {
+            "name": "Lubos"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "The newest issue of Smoochum Monthly is out today!"
+                },
+                {
+                    "text": "I need it! I'd better hurry and get it before it's out of stock!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I've just won an auction for a PokéPlush bundle."
+                },
+                {
+                    "text": "Soon my collection will be complete!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I can't wait for my kid to grow a little taller."
+                },
+                {
+                    "text": "I've made him a Pikachu costume but it's a bit loose on him."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My wife and I love Pokémon to bits."
+                },
+                {
+                    "text": "It annoys some people when we talk about them a lot. Feh!"
+                }
+            ]
+        }
+    ]
+}

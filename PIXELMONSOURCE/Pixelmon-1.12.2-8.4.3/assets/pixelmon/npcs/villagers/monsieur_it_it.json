@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "monsieur.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Reginald"
+        },
+        {
+            "name": "Herbert"
+        },
+        {
+            "name": "Edward"
+        },
+        {
+            "name": "Richard"
+        },
+        {
+            "name": "Ernest"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "La mia famiglia ha costruito un Centro Pokémon quando ero ancora un giovane."
+                },
+                {
+                    "text": "Se guardi da vicino, troverai il nostro stemma scolpito da qualche parte sulle pareti."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sono un patrono delle arti. Come tale, sponsorizzo l'allevamento di Smeargle."
+                },
+                {
+                    "text": "Ne ho visti alcuni che potrebbero dipingere in cinque stili diversi dalla nascita!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sono in ritardo per un pranzeon!"
+                },
+                {
+                    "text": "No, un pranzeon NON E' un'evoluzione di Eevee. Che sempliciotto che sei!"
+                }
+            ]
+        }
+    ]
+}

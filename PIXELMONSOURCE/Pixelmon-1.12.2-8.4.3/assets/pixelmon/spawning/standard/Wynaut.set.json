@@ -1,0 +1,22 @@
+{
+  "id": "Wynaut",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wynaut"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

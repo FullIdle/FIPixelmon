@@ -1,0 +1,22 @@
+{
+  "cardCode": "WBSP4",
+  "attackNumber": 2,
+  "name": "attack.WBSP4.2.name",
+  "energy": [
+    "LIGHTNING",
+    "LIGHTNING",
+    "LIGHTNING"
+  ],
+  "damage": 50,
+  "modifier": null,
+  "text": "attack.WBSP4.2.text",
+  "effectsString": "SELF_DISCARD:*:*",
+  "effects": [
+    {
+      "onMe": true,
+      "energy": null,
+      "count": -1,
+      "needCoinSide": null
+    }
+  ]
+}

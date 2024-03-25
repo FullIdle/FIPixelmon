@@ -1,0 +1,19 @@
+{
+  "cardCode": "BASE48",
+  "attackNumber": 1,
+  "name": "attack.BASE48.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": "Multiply",
+  "text": "attack.BASE48.1.text",
+  "effectsString": "FLIPS_MULTIPLY:2",
+  "effects": [
+    {
+      "flipCount": 2,
+      "type": "Exact",
+      "counter": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 104,
+  "setId": 2,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 90,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 101,
+  "code": "JUNG2",
+  "name": "card.JUNG2.name",
+  "description": "",
+  "previousPokemonId": 100,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG2",
+      "attackNumber": 1,
+      "name": "attack.JUNG2.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    },
+    {
+      "cardCode": "JUNG2",
+      "attackNumber": 2,
+      "name": "attack.JUNG2.2.name",
+      "energy": [
+        "LIGHTNING",
+        "LIGHTNING",
+        "LIGHTNING"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.JUNG2.2.text",
+      "effects": [
+        "CHAINLIGHTNING"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

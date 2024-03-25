@@ -1,0 +1,31 @@
+{
+  "id": 253,
+  "setId": 4,
+  "cardType": "TRAINER",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": null,
+  "energy2": null,
+  "pokemonId": 0,
+  "code": "TERO15",
+  "name": "card.TERO15.name",
+  "description": "card.TERO15.text",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 0,
+  "cardRarity": "HOLORARE",
+  "customTexture": "gui/cards/foreground/herecomesteamrocket.png",
+  "customTextureX": 32,
+  "customTextureY": 32,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

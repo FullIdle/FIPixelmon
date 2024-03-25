@@ -1,0 +1,33 @@
+{
+  "id": "Tranquill",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tranquill"
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats",
+          "mutated_ice_flats"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

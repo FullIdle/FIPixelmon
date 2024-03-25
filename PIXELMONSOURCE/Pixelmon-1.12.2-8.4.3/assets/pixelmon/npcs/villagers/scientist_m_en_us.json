@@ -1,0 +1,76 @@
+{
+    "skins": [
+        { 
+            "filename": "scientist_m.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Adam"
+        },
+        {
+            "name": "Archimedes"
+        },
+        {
+            "name": "Riff"
+        },
+        {
+            "name": "Theodore \"Six Eyes\""
+        },
+        {
+            "name": "Cornelius"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Technological advances are fascinating! Sometimes I talk my wife's ear off."
+                },
+                {
+                    "text": "...Yes, my wife! Why are people always surprised by that?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'm currently researching deviated epidermal albinism in Pokémon!"
+                },
+                {
+                    "text": "Or \"Shinies\" for the layman."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "This lab coat is not very comfy,  but what else can I wear to do research?"
+                },
+                {
+                    "text": "Shorts?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "The Pokédex says Cubone's mother died - but if EVERY Cubone's mother died..."
+                },
+                {
+                    "text": "That math doesn't add up at all!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My little girl wants a Leafeon so badly. I don't have the heart to tell her a Leaf Stone won't work."
+                },
+                {
+                    "text": "I should research why that is..."
+                }
+            ]
+        }
+    ]
+}

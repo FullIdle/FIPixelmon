@@ -1,0 +1,46 @@
+{
+  "id": 271,
+  "setId": 4,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "COLORLESS",
+  "energy2": null,
+  "pokemonId": 148,
+  "code": "TERO33",
+  "name": "card.TERO33.name",
+  "description": "",
+  "previousPokemonId": 147,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO33",
+      "attackNumber": 1,
+      "name": "attack.TERO33.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": "Plus",
+      "text": "attack.TERO33.1.text",
+      "effects": [
+        "HEAD-OPP_DAMAGE:20"
+      ]
+    }
+  ],
+  "energyResistance": "PSYCHIC",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 2,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "EvolutionaryLight"
+}

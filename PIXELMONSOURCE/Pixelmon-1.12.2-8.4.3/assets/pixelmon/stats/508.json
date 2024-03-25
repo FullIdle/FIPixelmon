@@ -1,0 +1,279 @@
+{
+  "pixelmonName": "Stoutland",
+  "pokemon": "Stoutland",
+  "form": 0,
+  "stats": {
+    "HP": 85,
+    "Attack": 110,
+    "Defence": 90,
+    "Speed": 80,
+    "SpecialAttack": 45,
+    "SpecialDefence": 90
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 33,
+  "spawnLevelRange": 13,
+  "baseExp": 221,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Herdier",
+    "Lillipup"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": -0.2
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.65,
+      "z": -0.2
+    }
+  },
+  "weight": 61.0,
+  "bounding_box": {
+    "width": 1.6,
+    "height": 1.5,
+    "eye_height": 1.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    "SandRush",
+    "Scrappy"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Fire Fang",
+      "Ice Fang",
+      "Leer",
+      "Tackle",
+      "Thunder Fang",
+      "Work Up"
+    ],
+    "12": [
+      "Retaliate"
+    ],
+    "19": [
+      "Baby-Doll Eyes"
+    ],
+    "24": [
+      "Play Rough"
+    ],
+    "30": [
+      "Crunch"
+    ],
+    "38": [
+      "Take Down"
+    ],
+    "46": [
+      "Helping Hand"
+    ],
+    "54": [
+      "Reversal"
+    ],
+    "62": [
+      "Roar"
+    ],
+    "70": [
+      "Last Resort"
+    ],
+    "78": [
+      "Giga Impact"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "After You",
+    "Covet",
+    "Howl",
+    "Lick",
+    "Mud-Slap",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Odor Sleuth",
+    "Pursuit",
+    "Return",
+    "Rock Smash",
+    "Sand Attack",
+    "Secret Power",
+    "Shock Wave",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Surf",
+    "Thunderbolt",
+    "Thunder",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Shadow Ball",
+    "Uproar",
+    "Superpower",
+    "Hyper Voice",
+    "Iron Head",
+    "Work Up",
+    "Wild Charge",
+    "Play Rough",
+    "Psychic Fangs"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Dig",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Rock Tomb",
+    "Payback",
+    "Thunder Fang",
+    "Ice Fang",
+    "Fire Fang",
+    "Round",
+    "Retaliate",
+    "Snarl",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Surf",
+    "Snarl",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Snarl",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash",
+    "Snarl"
+  ],
+  "forms": {}
+}

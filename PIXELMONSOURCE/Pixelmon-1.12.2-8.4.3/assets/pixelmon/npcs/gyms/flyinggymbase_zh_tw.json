@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 32,
+
+  "skins": [
+    {
+      "filename": "psychic_f.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "訓練師女孩"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "你永遠不會達到巔峰！",
+      "win": "齁齁！怎麼了？無法得到勝利？",
+      "lose": "你只是運氣好才贏我的！"
+    }
+  ]
+}

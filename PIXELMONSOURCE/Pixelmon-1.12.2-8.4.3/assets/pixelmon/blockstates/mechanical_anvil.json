@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"normal": { "model": "pixelmon:MechanicalAnvil" },
+		"inventory": { "model": "pixelmon:MechanicalAnvil" }
+	}
+}

@@ -1,0 +1,262 @@
+{
+  "pixelmonName": "Cryogonal",
+  "pokemon": "Cryogonal",
+  "form": 0,
+  "stats": {
+    "HP": 80,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 105,
+    "SpecialAttack": 95,
+    "SpecialDefence": 135
+  },
+  "catchRate": 25,
+  "malePercent": -1,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 170,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.1,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 0,
+    "passive": 50,
+    "aggressive": 50
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": 0.0
+    }
+  },
+  "weight": 148.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.4,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Levitate",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Bind",
+      "Ice Shard"
+    ],
+    "4": [
+      "Confuse Ray"
+    ],
+    "8": [
+      "Rapid Spin"
+    ],
+    "12": [
+      "Laser Focus"
+    ],
+    "16": [
+      "Icy Wind"
+    ],
+    "20": [
+      "Haze",
+      "Mist"
+    ],
+    "24": [
+      "Ancient Power"
+    ],
+    "28": [
+      "Aurora Beam"
+    ],
+    "32": [
+      "Night Slash",
+      "Slash"
+    ],
+    "36": [
+      "Freeze-Dry"
+    ],
+    "40": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "44": [
+      "Recover"
+    ],
+    "48": [
+      "Ice Beam"
+    ],
+    "52": [
+      "Acid Armor"
+    ],
+    "56": [
+      "Solar Beam"
+    ],
+    "60": [
+      "Sheer Cold"
+    ]
+  },
+  "tutorMoves": [
+    "Triple Axel"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Attract",
+    "Aurora Veil",
+    "Confide",
+    "Defog",
+    "Double Team",
+    "Explosion",
+    "Frost Breath",
+    "Frustration",
+    "Hidden Power",
+    "Knock Off",
+    "Magic Coat",
+    "Return",
+    "Secret Power",
+    "Sharpen",
+    "Signal Beam",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Ice Beam",
+    "Blizzard",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Poison Jab",
+    "Flash Cannon"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Solar Beam",
+    "Light Screen",
+    "Reflect",
+    "Self-Destruct",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Icicle Spear",
+    "Avalanche",
+    "Round",
+    "Acrobatics"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Acrobatics",
+    "Explosion",
+    "Aurora Veil",
+    "Frost Breath",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Acrobatics",
+    "Explosion",
+    "Frost Breath",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Acrobatics",
+    "Explosion",
+    "Frost Breath",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "forms": {}
+}

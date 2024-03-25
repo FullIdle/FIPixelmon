@@ -1,0 +1,65 @@
+{
+  "id": "Frillish Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Frillish"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 24,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Frillish"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 24,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Jellicent"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 40,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 7.0
+    }
+  ]
+}

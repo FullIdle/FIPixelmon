@@ -1,0 +1,51 @@
+{
+    "skins": [
+        {
+            "filename": "monk2.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Monaco"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Meditare sulle montagne è sicuro, tranne quando gli allenatori ficcanaso vengono qui per prendere i Pokemon!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "L'illuminazione è così sopravvalutata."
+                },
+                {
+                    "text": "Perché sprecare tempo seduto su una montagna a pensare quando puoi catturare Pokemon!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non importa se il bicchiere è mezzo vuoto o mezzo pieno."
+                },
+                {
+                    "text": "Finché c'è qualcosa da bere, ci sto bene!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ieri è storia, domani è un mistero. Oggi è un dono."
+                },
+                {
+                    "text": "Ecco perché si chiama presente."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "Doduo Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Doduo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sharp_beak",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Dodrio"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 31,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sharp_beak",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY",
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

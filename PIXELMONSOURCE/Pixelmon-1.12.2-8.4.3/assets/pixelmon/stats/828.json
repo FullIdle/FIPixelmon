@@ -1,0 +1,157 @@
+{
+  "pixelmonName": "Thievul",
+  "pokemon": "Thievul",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 58,
+    "Defence": 58,
+    "SpecialAttack": 87,
+    "SpecialDefence": 92,
+    "Speed": 90
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 18,
+  "spawnLevelRange": 20,
+  "baseExp": 159,
+  "baseFriendship": 50,
+  "types": [
+    "Dark"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Nickit"
+  ],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.25
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.95,
+      "z": -0.25
+    }
+  },
+  "weight": 19.9,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.0,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "RunAway",
+    "Unburden",
+    "Stakeout"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Beat Up",
+      "Hone Claws",
+      "Quick Attack",
+      "Tail Whip",
+      "Thief"
+    ],
+    "12": [
+      "Snarl"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "22": [
+      "Nasty Plot"
+    ],
+    "28": [
+      "Sucker Punch"
+    ],
+    "34": [
+      "Night Slash"
+    ],
+    "40": [
+      "Tail Slap"
+    ],
+    "46": [
+      "Foul Play"
+    ],
+    "52": [
+      "Parting Shot"
+    ]
+  },
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Lash Out"
+  ],
+  "eggMoves": [
+    "Howl",
+    "Knock Off",
+    "Quick Guard",
+    "Torment"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Agility",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Crunch",
+    "Shadow Ball",
+    "Taunt",
+    "Dark Pulse",
+    "Nasty Plot",
+    "Grass Knot",
+    "Foul Play",
+    "Play Rough"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Beat Up",
+    "Facade",
+    "Swift",
+    "Fake Tears",
+    "Mud Shot",
+    "U-turn",
+    "Assurance",
+    "Shadow Claw",
+    "Thunder Fang",
+    "Ice Fang",
+    "Fire Fang",
+    "Round",
+    "Acrobatics",
+    "Tail Slap",
+    "Snarl"
+  ],
+  "forms": {}
+}

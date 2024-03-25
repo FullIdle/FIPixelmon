@@ -1,0 +1,47 @@
+{
+  "attackIndex": 164,
+  "attackName": "Constrict",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 10,
+  "ppBase": 35,
+  "ppMax": 56,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Speed",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

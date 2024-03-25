@@ -1,0 +1,59 @@
+{
+  "id": 212,
+  "setId": 3,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 23,
+  "code": "FOSS46",
+  "name": "card.FOSS46.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS46",
+      "attackNumber": 1,
+      "name": "attack.FOSS46.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.FOSS46.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:POISONED"
+      ]
+    },
+    {
+      "cardCode": "FOSS46",
+      "attackNumber": 2,
+      "name": "attack.FOSS46.2.name",
+      "energy": [
+        "GRASS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.FOSS46.2.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

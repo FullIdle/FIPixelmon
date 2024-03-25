@@ -1,0 +1,15 @@
+{
+  "cardCode": "GYMC123",
+  "attackNumber": 1,
+  "name": "attack.GYMC123.1.name",
+  "energy": [
+    "PSYCHIC"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.GYMC123.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

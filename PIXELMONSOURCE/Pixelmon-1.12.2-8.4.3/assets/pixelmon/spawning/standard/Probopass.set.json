@@ -1,0 +1,50 @@
+{
+  "id": "Probopass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Probopass"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:magnet",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mesas",
+          "ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Probopass"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:magnet",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 80
+      },
+      "rarity": 0.1
+    }
+  ]
+}

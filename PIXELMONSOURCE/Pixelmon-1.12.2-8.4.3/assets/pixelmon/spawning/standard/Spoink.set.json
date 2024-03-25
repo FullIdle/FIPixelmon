@@ -1,0 +1,22 @@
+{
+  "id": "Spoink",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Spoink"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 110.0
+    }
+  ]
+}

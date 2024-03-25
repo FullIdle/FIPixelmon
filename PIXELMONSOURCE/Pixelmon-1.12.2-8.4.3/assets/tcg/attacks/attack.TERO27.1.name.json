@@ -1,0 +1,14 @@
+{
+  "cardCode": "TERO27",
+  "attackNumber": 1,
+  "name": "attack.TERO27.1.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": null,
+  "effectsString": null,
+  "effects": null
+}

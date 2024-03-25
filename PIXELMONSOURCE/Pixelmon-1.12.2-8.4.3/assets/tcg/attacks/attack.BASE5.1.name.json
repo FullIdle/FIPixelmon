@@ -1,0 +1,20 @@
+{
+  "cardCode": "BASE5",
+  "attackNumber": 1,
+  "name": "attack.BASE5.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.BASE5.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:ASLEEP",
+  "effects": [
+    {
+      "condition": "ASLEEP",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

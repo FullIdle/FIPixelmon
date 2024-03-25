@@ -1,0 +1,84 @@
+{
+  "id": "Metagross",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Metagross"
+      },
+      "stringLocationTypes": [
+         "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ],
+        "minY": 70
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Metagross"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "mutated_ice_flats"
+        ],
+        "minY": 70
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": {
+        "name": "Metagross"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

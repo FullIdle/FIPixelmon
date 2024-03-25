@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littlegirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Betty"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Molly"
+        },
+        {
+            "name": "Tilly"
+        },
+        {
+            "name": "Holly"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Non ho intenzione di parlare con te! Sei uno sconosciuto!"
+                },
+                {
+                    "text": "Com'è essere uno sconosciuto?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hmmph! Ho dei Pokémon migliori nel mio armadio! Ho persino un Moltres!"
+                },
+                {
+                    "text": "Quindi cosa succede se il mio Moltres è un giocattolo? Non hai nessun Moltres tu!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sei qui per catturare alcuni Pokémon? Sono spaventosi?"
+                },
+                {
+                    "text": "Scommetto che potrei prendere un Pokémon spaventoso se avessi una Super Magica Fantasmagorica Poké Ball!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hai paura dei Pokémon? Non ho affatto paura! Bene, non molto ..."
+                },
+                {
+                    "text": "Alcuni Pokémon sono un PO' spaventosi. Mi piacciono solo quelli carini e coccolosi."
+                }
+            ]
+        }
+    ]
+}

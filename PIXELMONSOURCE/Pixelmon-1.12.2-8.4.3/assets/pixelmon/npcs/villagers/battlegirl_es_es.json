@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "battlegirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Yuen"
+        },
+        {
+            "name": "JeeJa"
+        },
+        {
+            "name": "Ronda"
+        },
+        {
+            "name": "Graciela"
+        },
+        {
+            "name": "Lucía"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Mi entrenador dice que la fuerza bruta no es nada sin la agilidad. Se complementan entre sí."
+                },
+                {
+                    "text": "Vuela como un Butterfree, pica como un Beedrill, decía."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "He practicado mis patadas voladoras a la perfección."
+                },
+                {
+                    "text": "¡Puedo saltar tan alto que juro que nunca aterrizo! ¡Yaaaaaaa!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Me encanta la capoeira; es como bailar y luchar al mismo tiempo."
+                },
+                {
+                    "text": "Dejan tanto espacio libre a mi alrededor en las fiestas."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+  "cardCode": "BASE17",
+  "attackNumber": 1,
+  "name": "attack.BASE17.1.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": "Multiply",
+  "text": "attack.BASE17.1.text",
+  "effectsString": "FLIPS_MULTIPLY:2",
+  "effects": [
+    {
+      "flipCount": 2,
+      "type": "Exact",
+      "counter": 0
+    }
+  ]
+}

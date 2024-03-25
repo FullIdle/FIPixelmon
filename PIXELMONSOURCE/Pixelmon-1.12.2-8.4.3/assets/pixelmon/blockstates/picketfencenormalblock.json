@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:PicketFenceNormalBlock" },
+    "facing=north": { "model": "pixelmon:PicketFenceNormalBlock" },
+    "facing=south": { "model": "pixelmon:PicketFenceNormalBlock" },
+    "facing=east": { "model": "pixelmon:PicketFenceNormalBlock" },
+    "facing=west": { "model": "pixelmon:PicketFenceNormalBlock" }
+  }
+}

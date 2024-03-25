@@ -1,0 +1,51 @@
+{
+  "attackIndex": 276,
+  "attackName": "Giga Drain",
+  "attackType": "Grass",
+  "attackCategory": "SPECIAL",
+  "basePower": 75,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "drainPercent": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"inverted": true,
+				"scale": 0.4,
+				"texture": "NORMAL",
+				"speed": 0.2
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

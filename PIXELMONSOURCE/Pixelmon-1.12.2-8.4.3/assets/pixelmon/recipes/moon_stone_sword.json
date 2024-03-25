@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "M",
+    "S"
+  ],
+  "key": {
+    "M": {
+      "item": "pixelmon:moon_stone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pixelmon:moon_stone_sword",
+    "count": 1
+  }
+}

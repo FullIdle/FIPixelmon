@@ -1,0 +1,68 @@
+{
+  "id": "Hoppip Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hoppip"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "plains"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Skiploom"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 18,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "plains"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Jumpluff"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 27,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "plains",
+          "flowery"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

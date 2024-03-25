@@ -1,0 +1,76 @@
+{
+  "attackIndex": 15,
+  "attackName": "Seed Bomb",
+  "attackType": "Grass",
+  "attackCategory": "PHYSICAL",
+  "basePower": 80,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 0.3
+			},
+			"7": {
+				"id": "explosion",
+				"texture": "NORMAL",
+				"atTarget": true,
+				"lifetimeTicks": 10,
+				"scale": 0.2,
+				"speed": 0.6
+			},
+			"9": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 0.3
+			},
+			"15": {
+				"id": "explosion",
+				"texture": "NORMAL",
+				"atTarget": true,
+				"lifetimeTicks": 10,
+				"scale": 0.2,
+				"speed": 0.6
+			},
+			"17": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 0.3
+			},
+			"24": {
+				"id": "explosion",
+				"texture": "NORMAL",
+				"atTarget": true,
+				"lifetimeTicks": 10,
+				"scale": 0.2,
+				"speed": 0.6
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Bloom Doom",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

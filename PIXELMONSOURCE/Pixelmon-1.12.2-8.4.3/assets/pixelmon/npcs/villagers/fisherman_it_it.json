@@ -1,0 +1,37 @@
+{
+    "skins": [
+        { 
+            "filename": "fisherman.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Pescatore Joe"
+        },
+        {
+            "name": "Pecatore Fred"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Shh! Non spaventare il pesce!"
+                },
+                {
+                    "text": "Ah, catturare Pokémon eh? Preferisco catturarmi da solo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Conosci qualche buona esca? Le ghicocche non funzionano affatto."
+                },
+                {
+                    "text": "Mi piace prenderli e gettarli di nuovo."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 10,
+  "setId": 1,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 150,
+  "code": "BASE10",
+  "name": "card.BASE10.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE10",
+      "attackNumber": 1,
+      "name": "attack.BASE10.1.name",
+      "energy": [
+        "PSYCHIC",
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": "Plus",
+      "text": "attack.BASE10.1.text",
+      "effects": [
+        "DAMAGE_BONUS:OPP:*:10"
+      ]
+    },
+    {
+      "cardCode": "BASE10",
+      "attackNumber": 2,
+      "name": "attack.BASE10.2.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.BASE10.2.text",
+      "effects": [
+        "SELF_DISCARD:PSYCHIC:1",
+        "SELF_IMMUNE:*"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

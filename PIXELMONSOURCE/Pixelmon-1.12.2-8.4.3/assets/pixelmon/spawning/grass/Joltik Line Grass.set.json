@@ -1,0 +1,40 @@
+{
+  "id": "Joltik Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Joltik"
+      },
+      "stringLocationTypes": [
+        "Grass",
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Galvantula"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

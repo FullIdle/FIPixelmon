@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cws",
+        "w w",
+        "www"
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:dye",
+            "data": 7
+        },
+        "s": {
+            "item": "minecraft:stick"
+        },
+        "w": {
+			"type": "forge:ore_dict",
+            "ore": "plankWood"
+        }
+    },
+    "result": {
+        "item": "pixelmon:mailbox_silver",
+        "count": 1
+    }
+}

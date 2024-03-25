@@ -1,0 +1,278 @@
+{
+  "pixelmonName": "Zweilous",
+  "pokemon": "Zweilous",
+  "form": 0,
+  "stats": {
+    "HP": 72,
+    "Attack": 85,
+    "Defence": 70,
+    "Speed": 58,
+    "SpecialAttack": 65,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 51,
+  "spawnLevelRange": 12,
+  "baseExp": 147,
+  "baseFriendship": 35,
+  "types": [
+    "Dark",
+    "Dragon"
+  ],
+  "height": 1.4,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Deino"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.5
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.1,
+      "z": -0.5
+    }
+  },
+  "weight": 50.0,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.2,
+    "eye_height": 1.0
+  },
+  "evolutions": [
+    {
+      "level": 64,
+      "to": {
+        "name": "Hydreigon"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Hustle",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Double Hit",
+      "Dragon Breath",
+      "Focus Energy",
+      "Tackle"
+    ],
+    "12": [
+      "Roar"
+    ],
+    "16": [
+      "Assurance"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Work Up"
+    ],
+    "28": [
+      "Slam"
+    ],
+    "32": [
+      "Crunch"
+    ],
+    "36": [
+      "Scary Face"
+    ],
+    "40": [
+      "Dragon Pulse"
+    ],
+    "44": [
+      "Body Slam"
+    ],
+    "48": [
+      "Hyper Voice"
+    ],
+    "54": [
+      "Dragon Rush"
+    ],
+    "60": [
+      "Nasty Plot"
+    ],
+    "66": [
+      "Outrage"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor"
+  ],
+  "eggMoves": [
+    "Astonish",
+    "Belch",
+    "Double Hit",
+    "Head Smash"
+  ],
+  "transferMoves": [
+    "Aqua Tail",
+    "Confide",
+    "Double Team",
+    "Dragon Rage",
+    "Dragon Tail",
+    "Frustration",
+    "Hidden Power",
+    "Incinerate",
+    "Psych Up",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Shock Wave",
+    "Spite",
+    "Strength",
+    "Swagger",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Focus Energy",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Uproar",
+    "Taunt",
+    "Superpower",
+    "Hyper Voice",
+    "Dark Pulse",
+    "Dragon Pulse",
+    "Earth Power",
+    "Nasty Plot",
+    "Zen Headbutt",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Beat Up",
+    "Facade",
+    "Helping Hand",
+    "Assurance",
+    "Thunder Fang",
+    "Ice Fang",
+    "Fire Fang",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Thunder Wave",
+    "Psych Up",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Thunder Wave",
+    "Psych Up",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Incinerate",
+    "Thunder Wave",
+    "Psych Up",
+    "Dragon Tail",
+    "Work Up",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

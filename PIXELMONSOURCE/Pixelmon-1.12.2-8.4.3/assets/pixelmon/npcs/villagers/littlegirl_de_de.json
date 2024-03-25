@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "littlegirl.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Betty"
+        },
+        {
+            "name": "Suzie"
+        },
+        {
+            "name": "Molly"
+        },
+        {
+            "name": "Tilly"
+        },
+        {
+            "name": "Holly"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich werde nicht mit dir reden! Du bist ein Fremder!"
+                },
+                {
+                    "text": "Wie ist es, ein Fremder zu sein??"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hmmph! Ich habe bessere Pokémon in meinem Schrank! Ich habe sogar ein Lavados!"
+                },
+                {
+                    "text": "Was ist, wenn mein Lavados ein Spielzeug ist? Du hast kein Lavados!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bist du hier, um ein paar Pokémon zu fangen? Sind sie unheimlich??"
+                },
+                {
+                    "text": "Ich wette, ich könnte ein gruseliges Pokémon fangen, wenn ich Mega Super Magischen Pokéball hätte!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hast du Angst vor Pokémon? Ich habe überhaupt keine Angst! Nun, nicht viel..."
+                },
+                {
+                    "text": "Einige Pokémon sind beängstigend. Ich mag nur die flauschigen."
+                }
+            ]
+        }
+    ]
+}

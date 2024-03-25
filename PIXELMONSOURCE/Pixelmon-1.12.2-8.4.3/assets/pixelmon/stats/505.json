@@ -1,0 +1,267 @@
+{
+  "pixelmonName": "Watchog",
+  "pokemon": "Watchog",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 85,
+    "Defence": 69,
+    "Speed": 77,
+    "SpecialAttack": 60,
+    "SpecialDefence": 69
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 12,
+  "baseExp": 147,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Patrat"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 27.0,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 1.1,
+    "eye_height": 0.9
+  },
+  "evolutions": [],
+  "abilities": [
+    "Illuminate",
+    "KeenEye",
+    "Analytic"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Confuse Ray",
+      "Leer",
+      "Low Kick",
+      "Rototiller",
+      "Tackle"
+    ],
+    "3": [
+      "Leer"
+    ],
+    "6": [
+      "Bite"
+    ],
+    "8": [
+      "Bide"
+    ],
+    "11": [
+      "Detect"
+    ],
+    "13": [
+      "Sand Attack"
+    ],
+    "16": [
+      "Crunch"
+    ],
+    "18": [
+      "Hypnosis"
+    ],
+    "22": [
+      "Super Fang"
+    ],
+    "25": [
+      "After You"
+    ],
+    "29": [
+      "Focus Energy"
+    ],
+    "32": [
+      "Psych Up"
+    ],
+    "36": [
+      "Hyper Fang"
+    ],
+    "39": [
+      "Nasty Plot"
+    ],
+    "43": [
+      "Mean Look"
+    ],
+    "46": [
+      "Baton Pass"
+    ],
+    "50": [
+      "Slam"
+    ]
+  },
+  "tutorMoves": [
+    "After You",
+    "Aqua Tail",
+    "Covet",
+    "Endeavor",
+    "Fire Punch",
+    "Focus Punch",
+    "Gunk Shot",
+    "Helping Hand",
+    "Ice Punch",
+    "Iron Tail",
+    "Knock Off",
+    "Laser Focus",
+    "Last Resort",
+    "Low Kick",
+    "Seed Bomb",
+    "Shock Wave",
+    "Signal Beam",
+    "Snore",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Thunder Punch",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Assurance",
+    "Bullet Seed",
+    "Flail",
+    "Foresight",
+    "Iron Tail",
+    "Pursuit",
+    "Revenge",
+    "Screech",
+    "Tearful Look"
+  ],
+  "transferMoves": [
+    "Cut",
+    "Dig",
+    "Flash",
+    "Power-Up Punch",
+    "Retaliate",
+    "Rock Smash",
+    "Secret Power",
+    "Strength"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Flamethrower",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Thunder Wave",
+    "Swords Dance",
+    "Psych Up",
+    "Work Up",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

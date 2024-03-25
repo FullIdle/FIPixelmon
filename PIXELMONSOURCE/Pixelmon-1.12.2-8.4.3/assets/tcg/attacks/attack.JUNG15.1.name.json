@@ -1,0 +1,27 @@
+{
+  "cardCode": "JUNG15",
+  "attackNumber": 1,
+  "name": "attack.JUNG15.1.name",
+  "energy": [
+    "GRASS",
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 40,
+  "modifier": "Multiply",
+  "text": "attack.JUNG15.1.text",
+  "effectsString": "FLIPS_MULTIPLY:3 SELF_CONDITION:CONFUSED",
+  "effects": [
+    {
+      "flipCount": 3,
+      "type": "Exact",
+      "counter": 0
+    },
+    {
+      "condition": "CONFUSED",
+      "onMe": true,
+      "modifier": null,
+      "needCoinSide": null
+    }
+  ]
+}

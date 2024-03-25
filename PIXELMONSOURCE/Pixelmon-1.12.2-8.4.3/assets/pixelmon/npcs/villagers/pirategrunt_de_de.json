@@ -1,0 +1,70 @@
+{
+    "skins": [
+        {
+            "filename": "pirategrunt1.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Pirate grunt"
+        },
+        {
+            "name": "Pegleg Pete"
+        },
+        {
+            "name": "Cannonball"
+        },
+        {
+            "name": "Calico Jack"
+        },
+        {
+            "name": "Scuz"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ich wurde aus der Kanone gefeuert, als uns die Kanonenkugeln ausgehen."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hast du meinen Papagei gesehen??"
+                },
+                {
+                    "text": "Ich habe ihn irgendwo hingesetzt und kann mich nicht erinnern, wohin."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Eine ruhige See hat noch nie einen begabten Seemann hervorgebracht."
+                },
+                {
+                    "text": "Aber ich bin ein Pirat, daher weiß ich nicht, wie das auf mich zutrifft."
+                }
+            ]
+        },
+		{
+            "lines": [
+                {
+                    "text": "Du gehst gleich auf die Planke!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Nicht alle Piraten haben Augenklappen, Holzbeine und faule Zähne."
+                },
+                {
+                    "text": "Ich gehe zweimal im Jahr zum Zahnarzt!"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Quilava",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Quilava"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

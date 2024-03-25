@@ -1,0 +1,28 @@
+{
+  "id": "Kangaskhan Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kangaskhan"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "savanna",
+          "outback",
+          "rw_spiny_forest",
+          "arid_highland"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

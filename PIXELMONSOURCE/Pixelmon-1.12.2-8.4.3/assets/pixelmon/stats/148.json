@@ -1,0 +1,424 @@
+{
+  "pixelmonName": "Dragonair",
+  "pokemon": "Dragonair",
+  "form": 0,
+  "stats": {
+    "HP": 61,
+    "Attack": 84,
+    "Defence": 65,
+    "Speed": 70,
+    "SpecialAttack": 70,
+    "SpecialDefence": 70
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 25,
+  "baseExp": 144,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Dratini"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 4,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.5,
+    "decayRate": 0.99,
+    "refreshRate": 80
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.0,
+      "z": -0.6
+    }
+  },
+  "weight": 16.5,
+  "bounding_box": {
+    "width": 1.8,
+    "height": 1.4,
+    "eye_height": 1.0
+  },
+  "evolutions": [
+    {
+      "level": 55,
+      "to": {
+        "name": "Dragonite"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Hurricane"
+      ]
+    }
+  ],
+  "abilities": [
+    "ShedSkin",
+    null,
+    "MarvelScale"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Thunder Wave",
+      "Twister",
+      "Wrap"
+    ],
+    "15": [
+      "Dragon Tail"
+    ],
+    "20": [
+      "Agility"
+    ],
+    "25": [
+      "Slam"
+    ],
+    "33": [
+      "Aqua Tail"
+    ],
+    "39": [
+      "Dragon Rush"
+    ],
+    "46": [
+      "Safeguard"
+    ],
+    "53": [
+      "Rain Dance"
+    ],
+    "60": [
+      "Dragon Dance"
+    ],
+    "67": [
+      "Outrage"
+    ],
+    "74": [
+      "Hyper Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Dragon Breath",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rush",
+    "Extreme Speed",
+    "Haze",
+    "Iron Tail",
+    "Mist",
+    "Supersonic",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Bind",
+    "Bubble Beam",
+    "Captivate",
+    "Confide",
+    "Curse",
+    "Detect",
+    "Double Team",
+    "Double-Edge",
+    "Dragon Rage",
+    "Frustration",
+    "Haze",
+    "Headbutt",
+    "Hidden Power",
+    "Horn Drill",
+    "Incinerate",
+    "Mimic",
+    "Natural Gift",
+    "Rage",
+    "Reflect",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Skull Bash",
+    "Swagger",
+    "Take Down",
+    "Toxic",
+    "Water Gun",
+    "Zap Cannon"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Thunderbolt",
+    "Thunder",
+    "Agility",
+    "Fire Blast",
+    "Waterfall",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Dragon Dance",
+    "Dragon Pulse"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Fire Spin",
+    "Thunder Wave",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Swift",
+    "Round",
+    "Brutal Swing",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Brutal Swing",
+    "Thunder Wave",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Thunder Wave",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Thunder Wave",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Endure",
+    "Dragon Pulse",
+    "Thunder Wave",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Shock Wave",
+    "Flamethrower",
+    "Fire Blast",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Zap Cannon",
+    "Hidden Power",
+    "Snore",
+    "Blizzard",
+    "Icy Wind",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Iron Tail",
+    "Dragon Breath",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Fire Blast",
+    "Swift",
+    "Detect",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves1": [
+    "Toxic",
+    "Horn Drill",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Bubble Beam",
+    "Water Gun",
+    "Ice Beam",
+    "Blizzard",
+    "Rage",
+    "Dragon Rage",
+    "Thunderbolt",
+    "Thunder",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Fire Blast",
+    "Swift",
+    "Skull Bash",
+    "Rest",
+    "Thunder Wave",
+    "Substitute"
+  ],
+  "forms": {}
+}

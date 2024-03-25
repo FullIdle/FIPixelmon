@@ -1,0 +1,26 @@
+{
+  "id": "Mega Manectric",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Manectric"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains",
+          "savannas"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

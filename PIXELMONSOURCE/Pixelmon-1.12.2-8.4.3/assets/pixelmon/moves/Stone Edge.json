@@ -1,0 +1,47 @@
+{
+  "attackIndex": 286,
+  "attackName": "Stone Edge",
+  "attackType": "Rock",
+  "attackCategory": "PHYSICAL",
+  "basePower": 100,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 80,
+  "makesContact": false,
+  "effects": [
+    {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "rockium_z",
+      "attackName": "Continental Crush",
+      "basePower": 180,
+      "effects": [],
+      "allowedPokemon": []
+    },
+	{
+      "crystal": "lycanium_z",
+      "attackName": "Splintered Stormshards",
+      "basePower": 190,
+      "effects": [],
+      "allowedPokemon": ["Lycanroc"]
+    }
+  ]
+}

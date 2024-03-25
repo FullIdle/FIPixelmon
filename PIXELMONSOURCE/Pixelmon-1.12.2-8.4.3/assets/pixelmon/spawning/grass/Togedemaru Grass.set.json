@@ -1,0 +1,27 @@
+{
+  "id": "Togedemaru Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Togedemaru"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods",
+          "freezing forests"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "cardCode": "BASE56",
+  "attackNumber": 2,
+  "name": "attack.BASE56.2.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.BASE56.2.text",
+  "effectsString": "HARDEN:30",
+  "effects": [
+    {
+      "amount": 30
+    }
+  ]
+}

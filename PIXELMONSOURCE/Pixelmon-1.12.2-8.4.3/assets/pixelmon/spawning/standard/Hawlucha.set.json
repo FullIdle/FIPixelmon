@@ -1,0 +1,31 @@
+{
+  "id": "Hawlucha",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hawlucha"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:kings_rock",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "mountainous forests"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

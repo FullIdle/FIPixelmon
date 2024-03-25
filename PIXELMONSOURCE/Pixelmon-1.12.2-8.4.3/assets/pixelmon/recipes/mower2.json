@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "A  ",
+        "HAA",
+        "SRS"
+    ],
+    "key": {
+        "A": {
+            "type": "forge:ore_dict",
+            "ore": "ingotAluminum"
+        },
+        "H": {
+            "item": "minecraft:hopper"
+        },
+        "R": {
+            "item": "minecraft:shears"
+        },
+        "S": {
+            "type": "minecraft:item_nbt",
+            "item": "pixelmon:tm_gen2",
+            "data": 0,
+            "nbt": {
+                "tm": 4
+            }
+        }
+    },
+    "result": {
+        "item": "pixelmon:mower",
+        "count": 1
+    }
+}

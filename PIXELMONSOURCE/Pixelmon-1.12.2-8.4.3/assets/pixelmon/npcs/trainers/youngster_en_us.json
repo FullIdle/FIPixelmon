@@ -1,0 +1,279 @@
+{
+    "data": {
+        "trainerType": "Youngster",
+        "minLevel": 4,
+        "maxLevel": 15,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Rattata"
+        },
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Oddish"
+        },
+        {
+            "name": "Ekans"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Mankey"
+        },
+        {
+            "name": "Trapinch"
+        },
+        {
+            "name": "Slowpoke"
+        },
+        {
+            "name": "Bellsprout"
+        },
+        {
+            "name": "Hoppip"
+        },
+        {
+            "name": "Skiploom"
+        },
+        {
+            "name": "Nidoranfemale"
+        },
+        {
+            "name": "Nidorina"
+        },
+        {
+            "name": "Paras"
+        },
+        {
+            "name": "Clefairy"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Snubbull"
+        },
+        {
+            "name": "Goldeen"
+        },
+        {
+            "name": "Marill"
+        },
+        {
+            "name": "Bunnelby"
+        },
+        {
+            "name": "Dedenne"
+        },
+        {
+            "name": "Flabebe"
+        },
+        {
+            "name": "Combee"
+        },
+        {
+            "name": "Lotad"
+        },
+        {
+            "name": "Shroomish"
+        },
+        {
+            "name": "Pikipek"
+        },
+        {
+            "name": "Rockruff"
+        },
+        {
+            "name": "Sneasel"
+        },
+        {
+            "name": "Komala"
+        },
+        {
+            "name": "Petilil"
+        },
+        {
+            "name": "Misdreavus"
+        },
+        {
+            "name": "Dewpider"
+        },
+        {
+            "name": "Yungoos"
+        },
+        {
+            "name": "Chewtle"
+        }
+    ],
+    "names": [
+        {
+            "name": "Albert"
+        },
+        {
+            "name": "Allen"
+        },
+        {
+            "name": "Austin"
+        },
+        {
+            "name": "Ben"
+        },
+        {
+            "name": "Billy"
+        },
+        {
+            "name": "Calvin"
+        },
+        {
+            "name": "Dallas"
+        },
+        {
+            "name": "Donny"
+        },
+        {
+            "name": "Dylan"
+        },
+        {
+            "name": "Eddie"
+        },
+        {
+            "name": "Gordon"
+        },
+        {
+            "name": "Ian"
+        },
+        {
+            "name": "Jason"
+        },
+        {
+            "name": "Jimmy"
+        },
+        {
+            "name": "Joey"
+        },
+        {
+            "name": "Jonathon"
+        },
+        {
+            "name": "Josh"
+        },
+        {
+            "name": "Kevin"
+        },
+        {
+            "name": "Logan"
+        },
+        {
+            "name": "Michael"
+        },
+        {
+            "name": "Mikey"
+        },
+        {
+            "name": "Mitchel"
+        },
+        {
+            "name": "Neal"
+        },
+        {
+            "name": "Oliver"
+        },
+        {
+            "name": "Owen"
+        },
+        {
+            "name": "Parker"
+        },
+        {
+            "name": "Peter"
+        },
+        {
+            "name": "Samuel"
+        },
+        {
+            "name": "Timmy"
+        },
+        {
+            "name": "Tommy"
+        },
+        {
+            "name": "Tracey"
+        },
+        {
+            "name": "Tristen"
+        },
+        {
+            "name": "Tyler"
+        },
+        {
+            "name": "Warren"
+        },
+        {
+            "name": "Wayne"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Oh, are you a Trainer too? Let's try out each other's Pokémon!",
+            "win": "I knew my Pokémon were better than yours!",
+            "lose": "Your Pokémon were better than mine!?"
+        },
+        {
+            "opening": "My team is unbeatable! Do you think you can handle this?",
+            "win": "Ahahaha! My team is unbeatable!",
+            "lose": "WHAT!? But my team is invincible!"
+        },
+        {
+            "opening": "Will this hurt my Pokémon?",
+            "win": "Yay! My Pokémon didn't get hurt!",
+            "lose": "My Pokémon! No!"
+        },
+        {
+            "opening": "...Let's battle",
+            "win": "...I win.",
+            "lose": "...I lose."
+        },
+        {
+            "opening": "I love cheese! Nothing is more tasty! Oh, you want to battle? I was about to eat some cheese but I suppose it can wait.",
+            "win": "Victory! And I owe it all to the cheese!",
+            "lose": "Oh well, I am going to go eat that cheese."
+        },
+        {
+            "opening": "You looked at me! Let's battle!",
+            "win": "Looking at me is doom!",
+            "lose": "I wish you hadn't looked at me..."
+        },
+        {
+            "opening": "My parents thought I couldn't be a Trainer, but now I am unbeatable!",
+            "win": "I knew I could be a Trainer!",
+            "lose": "Maybe my parents were right. I can't be a Trainer..."
+        },
+        {
+            "opening": "Ha, you look like you're weak! Battle me!",
+            "win": "Ha! You are weak!",
+            "lose": "What!? You're not weak!?"
+        },
+        {
+            "opening": "I am so lost. If I beat you, please tell me where the nearest town is...",
+            "win": "Yay! Now, where is the nearest town? You're not going to tell me!?",
+            "lose": "Oh no... I will never get to a town..."
+        },
+        {
+            "opening": "You're an ugly looking Trainer. Ha, I bet you have weak Pokémon! Battle me loser!",
+            "win": "Haha! I knew you were weak! You're pathetic!",
+            "lose": "W-What! This is impossible! How do you have such cool Pokémon!?"
+        }
+    ]
+}

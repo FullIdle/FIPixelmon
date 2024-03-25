@@ -1,0 +1,47 @@
+{
+  "id": "Patrat Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Patrat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 6,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "plains"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Watchog"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "savannas",
+          "plains"
+        ]
+      },
+      "rarity": 40.0
+    }
+  ]
+}

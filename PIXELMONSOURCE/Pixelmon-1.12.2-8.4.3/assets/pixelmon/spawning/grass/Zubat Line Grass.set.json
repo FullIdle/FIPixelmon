@@ -1,0 +1,93 @@
+{
+  "id": "Zubat Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zubat"
+      },
+      "stringLocationTypes": [
+        "Grass",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "swamps",
+          "mountainous",
+          "plains",
+          "flowery",
+          "evil",
+          "jungles"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Golbat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "swamps",
+          "mountainous",
+          "plains",
+          "flowery",
+          "evil",
+          "jungles"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Crobat"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "swamps",
+          "mountainous",
+          "plains",
+          "flowery",
+          "evil",
+          "jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

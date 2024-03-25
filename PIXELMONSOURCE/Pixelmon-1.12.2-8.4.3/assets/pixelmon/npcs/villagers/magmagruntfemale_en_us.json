@@ -1,0 +1,69 @@
+{
+    "skins": [
+        {
+            "filename": "magmagruntfemale.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Magma Grunt"
+        },
+        {
+            "name": "Team Magma Grunt"
+        },
+        {
+            "name": "Team Magma Grunt"
+        },
+        {
+            "name": "Team Magma Grunt"
+        },
+        {
+            "name": "Team Magma Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Who cares that Team Aqua has the type advantage?"
+                },
+                {
+                    "text": "Groudon would beat Kyogre any day!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Let's see, a giant dinosaur, or a bloated whale..."
+                },
+                {
+                    "text": "You know what else is a whale Pokemon? Wailord. Kyogre is just a glorified Wailord!"
+				},
+				{
+					"text": "Whereas Groudon is a cool dinosaur, and everyone loves dinosaurs!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "People keep confusing us for Team Valor for some reason..."
+                },
+                {
+                    "text": "I wonder if Aqua has the same problem..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Volcanos are cool!."
+                },
+                {
+                    "text": "Or should I say, hot? HA!"
+                }
+            ]
+        }
+    ]
+}

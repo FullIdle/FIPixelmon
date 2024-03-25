@@ -1,0 +1,279 @@
+{
+  "pixelmonName": "Diancie",
+  "pokemon": "Diancie",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 100,
+    "Defence": 150,
+    "Speed": 50,
+    "SpecialAttack": 100,
+    "SpecialDefence": 150
+  },
+  "catchRate": 3,
+  "malePercent": -1,
+  "spawnLevel": 70,
+  "spawnLevelRange": 0,
+  "baseExp": 270,
+  "baseFriendship": 0,
+  "types": [
+    "Rock",
+    "Fairy"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1,
+    "SpecialDefence": 2
+  },
+  "weight": 8.8,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.9,
+    "eye_height": 0.7
+  },
+  "evolutions": [],
+  "abilities": [
+    "ClearBody",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Tackle"
+    ],
+    "7": [
+      "Guard Split"
+    ],
+    "14": [
+      "Smack Down"
+    ],
+    "21": [
+      "Flail"
+    ],
+    "28": [
+      "Ancient Power"
+    ],
+    "35": [
+      "Rock Polish"
+    ],
+    "42": [
+      "Light Screen"
+    ],
+    "49": [
+      "Rock Slide"
+    ],
+    "56": [
+      "Skill Swap"
+    ],
+    "63": [
+      "Power Gem"
+    ],
+    "70": [
+      "Stealth Rock"
+    ],
+    "77": [
+      "Moonblast"
+    ],
+    "84": [
+      "Stone Edge"
+    ],
+    "91": [
+      "Diamond Storm"
+    ]
+  },
+  "tutorMoves": [
+    "Meteor Beam",
+    "Misty Explosion",
+    "Terrain Pulse"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "After You",
+    "Confide",
+    "Covet",
+    "Double Team",
+    "Endeavor",
+    "Explosion",
+    "Flash",
+    "Frustration",
+    "Gravity",
+    "Heal Bell",
+    "Hidden Power",
+    "Last Resort",
+    "Magnet Rise",
+    "Nature Power",
+    "Psych Up",
+    "Return",
+    "Rock Throw",
+    "Secret Power",
+    "Sharpen",
+    "Swagger",
+    "Telekinesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Metronome",
+    "Amnesia",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Encore",
+    "Skill Swap",
+    "Iron Defense",
+    "Calm Mind",
+    "Gyro Ball",
+    "Power Gem",
+    "Earth Power",
+    "Stone Edge",
+    "Stealth Rock",
+    "Stored Power",
+    "Ally Switch",
+    "Play Rough",
+    "Dazzling Gleam",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Sandstorm",
+    "Sunny Day",
+    "Hail",
+    "Facade",
+    "Helping Hand",
+    "Fake Tears",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Guard Swap",
+    "Trick Room",
+    "Wonder Room",
+    "Round",
+    "Draining Kiss",
+    "Mystical Fire"
+  ],
+  "tmMoves7": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Sandstorm",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Round",
+    "Explosion",
+    "Giga Impact",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Psych Up",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 50,
+        "Attack": 160,
+        "Defence": 110,
+        "Speed": 110,
+        "SpecialAttack": 160,
+        "SpecialDefence": 110
+      },
+      "height": 1.1,
+      "weight": 27.8,
+      "abilities": [
+        "MagicBounce",
+        null,
+        null
+      ]
+    }
+  }
+}

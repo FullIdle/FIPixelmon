@@ -1,0 +1,138 @@
+{
+  "pixelmonName": "Komala",
+  "pokemon": "Komala",
+  "form": -1,
+  "stats": {
+    "HP": 65,
+    "Attack": 115,
+    "Defence": 65,
+    "Speed": 65,
+    "SpecialAttack": 75,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 25,
+  "baseExp": 168,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 19.9,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.6,
+    "eye_height": 0.34
+  },
+  "evolutions": [],
+  "abilities": [
+    "Comatose",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Defense Curl",
+      "Rollout"
+    ],
+    "6": [
+      "Spit Up",
+      "Stockpile",
+      "Swallow"
+    ],
+    "11": [
+      "Rapid Spin"
+    ],
+    "16": [
+      "Yawn"
+    ],
+    "21": [
+      "Slam"
+    ],
+    "26": [
+      "Flail"
+    ],
+    "31": [
+      "Sucker Punch"
+    ],
+    "36": [
+      "Psych Up"
+    ],
+    "41": [
+      "Wood Hammer"
+    ],
+    "46": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [
+    "Endeavor",
+    "Iron Head",
+    "Knock Off",
+    "Last Resort",
+    "Snore",
+    "Stomping Tantrum",
+    "Superpower",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Charm",
+    "Play Rough",
+    "Sing",
+    "Wish"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Facade",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Quash",
+    "Acrobatics",
+    "Shadow Claw",
+    "Payback",
+    "Swords Dance",
+    "Psych Up",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

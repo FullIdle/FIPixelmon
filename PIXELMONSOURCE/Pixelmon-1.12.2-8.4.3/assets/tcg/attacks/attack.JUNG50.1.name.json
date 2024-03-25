@@ -1,0 +1,18 @@
+{
+  "cardCode": "JUNG50",
+  "attackNumber": 1,
+  "name": "attack.JUNG50.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG50.1.text",
+  "effectsString": "DAMAGE_REDUCE:20",
+  "effects": [
+    {
+      "amount": 20,
+      "benchingRemoves": false
+    }
+  ]
+}

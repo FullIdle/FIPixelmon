@@ -1,0 +1,386 @@
+{
+  "pixelmonName": "Medicham",
+  "pokemon": "Medicham",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 60,
+    "Defence": 75,
+    "Speed": 80,
+    "SpecialAttack": 60,
+    "SpecialDefence": 75
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 38,
+  "spawnLevelRange": 7,
+  "baseExp": 153,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting",
+    "Psychic"
+  ],
+  "height": 1.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Meditite"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 31.5,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.3,
+    "eye_height": 0.9
+  },
+  "evolutions": [],
+  "abilities": [
+    "PurePower",
+    null,
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Humanlike"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bide",
+      "Confusion",
+      "Detect",
+      "Fire Punch",
+      "Ice Punch",
+      "Meditate",
+      "Thunder Punch",
+      "Zen Headbutt"
+    ],
+    "4": [
+      "Meditate"
+    ],
+    "7": [
+      "Confusion"
+    ],
+    "9": [
+      "Detect"
+    ],
+    "12": [
+      "Endure"
+    ],
+    "15": [
+      "Feint"
+    ],
+    "17": [
+      "Force Palm"
+    ],
+    "20": [
+      "Hidden Power"
+    ],
+    "23": [
+      "Calm Mind"
+    ],
+    "25": [
+      "Mind Reader"
+    ],
+    "28": [
+      "High Jump Kick"
+    ],
+    "31": [
+      "Psych Up"
+    ],
+    "33": [
+      "Acupressure"
+    ],
+    "36": [
+      "Power Trick"
+    ],
+    "42": [
+      "Reversal"
+    ],
+    "47": [
+      "Recover"
+    ],
+    "53": [
+      "Counter"
+    ]
+  },
+  "tutorMoves": [
+    "Drain Punch",
+    "Fire Punch",
+    "Focus Punch",
+    "Gravity",
+    "Helping Hand",
+    "Ice Punch",
+    "Laser Focus",
+    "Low Kick",
+    "Magic Coat",
+    "Pain Split",
+    "Recycle",
+    "Role Play",
+    "Signal Beam",
+    "Snore",
+    "Telekinesis",
+    "Thunder Punch",
+    "Trick",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Bullet Punch",
+    "Drain Punch",
+    "Dynamic Punch",
+    "Fake Out",
+    "Fire Punch",
+    "Foresight",
+    "Guard Swap",
+    "Ice Punch",
+    "Power Swap",
+    "Psycho Cut",
+    "Quick Guard",
+    "Secret Power",
+    "Thunder Punch"
+  ],
+  "transferMoves": [
+    "Body Slam",
+    "Captivate",
+    "Double-Edge",
+    "Flash",
+    "Headbutt",
+    "Mega Kick",
+    "Mega Punch",
+    "Metronome",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Power-Up Punch",
+    "Retaliate",
+    "Rock Smash",
+    "Seismic Toss",
+    "Strength",
+    "Swift",
+    "Vacuum Wave"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Giga Impact",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Rock Slide",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Power-Up Punch",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Focus Blast",
+    "Energy Ball",
+    "Fling",
+    "Endure",
+    "Drain Punch",
+    "Recycle",
+    "Giga Impact",
+    "Flash",
+    "Psych Up",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Focus Punch",
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 60,
+        "Attack": 100,
+        "Defence": 85,
+        "Speed": 100,
+        "SpecialAttack": 80,
+        "SpecialDefence": 85
+      },
+      "abilities": [
+        "PurePower",
+        null,
+        null
+      ],
+      "bounding_box": {
+        "width": 1.8,
+        "height": 3.0,
+        "eye_height": 2.1
+      }
+    }
+  }
+}

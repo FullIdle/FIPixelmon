@@ -1,0 +1,69 @@
+{
+  "skins": [
+    {
+      "filename": "cueball.png"
+    },
+    {
+      "filename": "streetthug.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Die Dunkelklaue"
+    },
+    {
+      "name": "Herr Heinze"
+    },
+    {
+      "name": "Herr Stecher"
+    },
+    {
+      "name": "Gelbauge"
+    },
+    {
+      "name": "Gutmaul"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Das ist mein stilles Örtchen. Geh weg."
+        },
+        {
+          "text": "Lass mich in Ruhe!"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Meine Brüder wollten sich hier mit mir treffen."
+        },
+        {
+          "text": "Wenn du dich uns anschließen möchtest musst du ein Gengar fangen und den Finsterball essen."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich mag niedliche Pokémon. So ein Typ hat mich deswegen einmal fertig gemacht."
+        },
+        {
+          "text": "Einmal und nicht zweimal. Ich verpasste ihm eine saftige Anzeige und dann haben wir das wie echte Männer geklärt:Vor Gericht."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Haben Sie in der Nähe einen Polizisten gesehen ?"
+        },
+        {
+          "text": "Warum ich das frage? Ich bin gegen Polizisten und neugierige Menschen allergisch."
+        }
+      ]
+    }
+  ]
+}

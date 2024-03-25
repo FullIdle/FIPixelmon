@@ -1,0 +1,39 @@
+{
+  "attackIndex": 690,
+  "attackName": "Dynamax Cannon",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 100,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "DynamaxCannon"
+    }
+  ],
+  "animations": [
+    
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "dragonium_z",
+      "attackName": "Devastating Drake",
+      "basePower": 180,
+	  "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

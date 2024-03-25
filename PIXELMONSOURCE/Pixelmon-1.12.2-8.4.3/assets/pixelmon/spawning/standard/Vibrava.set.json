@@ -1,0 +1,25 @@
+{
+  "id": "Vibrava",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Vibrava"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "desert_hills"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

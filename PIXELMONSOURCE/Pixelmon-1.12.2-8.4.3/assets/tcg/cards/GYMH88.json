@@ -1,0 +1,61 @@
+{
+  "id": 409,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 124,
+  "code": "GYMH88",
+  "name": "card.GYMH88.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH88",
+      "attackNumber": 1,
+      "name": "attack.GYMH88.1.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMH88.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH88",
+      "attackNumber": 2,
+      "name": "attack.GYMH88.2.name",
+      "energy": [
+        "PSYCHIC",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH88.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

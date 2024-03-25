@@ -1,0 +1,26 @@
+{
+  "id": "Tympole",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Tympole"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

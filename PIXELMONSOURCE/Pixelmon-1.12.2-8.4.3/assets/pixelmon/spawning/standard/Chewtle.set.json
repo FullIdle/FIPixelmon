@@ -1,0 +1,24 @@
+{
+  "id": "Chewtle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Chewtle"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "river",
+          "swamps"
+        ]
+      },
+      "rarity": 100.0
+    }
+  ]
+}

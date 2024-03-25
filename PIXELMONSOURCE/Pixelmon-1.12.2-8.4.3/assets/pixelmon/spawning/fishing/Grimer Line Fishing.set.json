@@ -1,0 +1,136 @@
+{
+  "id": "Grimer Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Grimer",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "evil"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Grimer",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "evil"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Grimer",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "evil"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": {
+        "name": "Muk",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 40,
+      "maxLevel": 52,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "evil"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": {
+        "name": "Muk",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 40,
+      "maxLevel": 52,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "evil"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

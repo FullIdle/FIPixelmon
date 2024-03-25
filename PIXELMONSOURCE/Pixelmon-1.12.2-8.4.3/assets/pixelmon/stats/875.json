@@ -1,0 +1,163 @@
+{
+  "pixelmonName": "Eiscue",
+  "pokemon": "Eiscue",
+  "form": 0,
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defence": 110,
+    "SpecialAttack": 65,
+    "SpecialDefence": 90,
+    "Speed": 50
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 20,
+  "baseExp": 165,
+  "baseFriendship": 50,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.4,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.1
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.1
+    }
+  },
+  "weight": 89.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 1.1,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "IceFace",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Powder Snow",
+      "Tackle"
+    ],
+    "6": [
+      "Mist"
+    ],
+    "12": [
+      "Weather Ball"
+    ],
+    "18": [
+      "Icy Wind"
+    ],
+    "24": [
+      "Headbutt"
+    ],
+    "30": [
+      "Amnesia"
+    ],
+    "36": [
+      "Freeze-Dry"
+    ],
+    "42": [
+      "Hail"
+    ],
+    "48": [
+      "Aurora Veil"
+    ],
+    "54": [
+      "Surf"
+    ],
+    "60": [
+      "Blizzard"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Aqua Ring",
+    "Belly Drum",
+    "Double-Edge",
+    "Head Smash",
+    "Icicle Crash",
+    "Soak"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Agility",
+    "Waterfall",
+    "Amnesia",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Zen Headbutt",
+    "Iron Head",
+    "Liquidation"
+  ],
+  "tmMoves8": [
+    "Ice Punch",
+    "Reflect",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Dive",
+    "Weather Ball",
+    "Icicle Spear",
+    "Brine",
+    "Avalanche",
+    "Round"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defence": 70,
+        "SpecialAttack": 65,
+        "SpecialDefence": 50,
+        "Speed": 130
+      }
+    }
+  }
+}

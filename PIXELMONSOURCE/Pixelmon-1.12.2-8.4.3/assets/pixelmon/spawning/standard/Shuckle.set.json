@@ -1,0 +1,50 @@
+{
+  "id": "Shuckle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Shuckle"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "stone_beach"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Shuckle"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 8.0
+    }
+  ]
+}

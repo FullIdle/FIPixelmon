@@ -1,0 +1,40 @@
+{
+  "id": "Whiscash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Whiscash"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Whiscash"
+      },
+      "stringLocationTypes": [
+        "Underground Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "anticondition": {
+        "dimensions": [
+          "73"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

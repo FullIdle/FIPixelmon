@@ -1,0 +1,24 @@
+{
+    "display" : {
+        "icon" : {
+            "item" : "pixelmon:pixelmon_sprite",
+            "nbt" : "{\"SpriteName\":\"pixelmon:sprites/pokemon/379\"}"
+        },
+        "title" : {
+            "translate" : "advancements.registeel_capture.title"
+        },
+        "description" : {
+            "translate" : "advancements.registeel_capture.description"
+        },
+        "hidden": true
+    },
+    "parent" : "pixelmon:legendaries/legendary_capture_trigger",
+    "criteria" : {
+        "registeel_capture" : {
+            "trigger" : "pixelmon:legendary_capture_trigger",
+            "conditions" : {
+                "pokemon" : "registeel"
+            }
+        }
+    }
+}

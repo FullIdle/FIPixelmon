@@ -1,0 +1,57 @@
+{
+  "id": "Mawile Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mawile"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:iron_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Mawile"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:iron_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing mountains"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

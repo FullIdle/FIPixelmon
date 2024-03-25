@@ -1,0 +1,162 @@
+{
+  "pixelmonName": "Morpeko",
+  "pokemon": "Morpeko",
+  "form": 0,
+  "stats": {
+    "HP": 58,
+    "Attack": 95,
+    "Defence": 58,
+    "SpecialAttack": 70,
+    "SpecialDefence": 58,
+    "Speed": 97
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 37,
+  "spawnLevelRange": 13,
+  "baseExp": 153,
+  "baseFriendship": 50,
+  "types": [
+    "Electric",
+    "Dark"
+  ],
+  "height": 1.6,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 3.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.7,
+    "eye_height": 0.5
+  },
+  "evolutions": [],
+  "abilities": [
+    "HungerSwitch",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Field",
+    "Fairy"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Tail Whip",
+      "Thunder Shock"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "10": [
+      "Power Trip"
+    ],
+    "15": [
+      "Quick Attack"
+    ],
+    "20": [
+      "Flatter"
+    ],
+    "25": [
+      "Bite"
+    ],
+    "30": [
+      "Spark"
+    ],
+    "35": [
+      "Torment"
+    ],
+    "40": [
+      "Agility"
+    ],
+    "45": [
+      "Bullet Seed"
+    ],
+    "50": [
+      "Crunch"
+    ],
+    "55": [
+      "Aura Wheel"
+    ],
+    "60": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out",
+    "Rising Voltage"
+  ],
+  "eggMoves": [
+    "Charge",
+    "Fake Out",
+    "Parting Shot",
+    "Quash",
+    "Rapid Spin",
+    "Super Fang",
+    "Swagger",
+    "Tickle"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Thunderbolt",
+    "Thunder",
+    "Agility",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Uproar",
+    "Taunt",
+    "Dark Pulse",
+    "Seed Bomb",
+    "Nasty Plot",
+    "Electro Ball",
+    "Foul Play",
+    "Wild Charge",
+    "Psychic Fangs"
+  ],
+  "tmMoves8": [
+    "Thunder Punch",
+    "Thunder Wave",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Facade",
+    "Swift",
+    "Revenge",
+    "Brick Break",
+    "Fake Tears",
+    "Bullet Seed",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Thunder Fang",
+    "Ice Fang",
+    "Fire Fang",
+    "Round",
+    "Volt Switch",
+    "Electroweb",
+    "Snarl",
+    "Electric Terrain",
+    "Stomping Tantrum"
+  ]
+}

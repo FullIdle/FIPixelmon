@@ -1,0 +1,22 @@
+{
+  "cardCode": "FOSS28",
+  "attackNumber": 1,
+  "name": "attack.FOSS28.1.name",
+  "energy": [
+    "GRASS",
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.FOSS28.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:POISONED",
+  "effects": [
+    {
+      "condition": "POISONED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

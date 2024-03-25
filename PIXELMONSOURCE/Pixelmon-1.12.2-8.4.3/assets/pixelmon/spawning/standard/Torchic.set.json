@@ -1,0 +1,25 @@
+{
+  "id": "Torchic",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Torchic"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "savanna"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

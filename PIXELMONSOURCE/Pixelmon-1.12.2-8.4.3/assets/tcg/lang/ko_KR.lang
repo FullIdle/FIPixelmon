@@ -1,0 +1,2067 @@
+gui.guiPack.title=카드팩을 열었습니다!
+
+tcg.keybindcategory=TCG
+tcg.essence=에센스 메뉴
+
+itemGroup.tabTCG1=픽셀몬 TCG
+itemGroup.tabTCG2=카드
+itemGroup.tabTCG3=카드덱
+itemGroup.tabTCG4=카드팩
+itemGroup.tabTCG5=TCG 장식품 
+
+
+
+item.card.name=픽셀몬 카드 
+item.card_introduction.name=Welcome Card
+item.pack.name=부스터 팩
+item.binder.name=카드 바인더   
+item.compendium.name=카드 개요서
+item.coin.name=동전
+item.card_back.name=카드뒷면
+item.deck.name=덱 홀더 
+item.deck.unopened=미개봉
+item.deck.locked=잠김
+item.board.name=게임판
+item.sound_mod.name=Sound Mod
+item.shadowwand.name=그림자 지팡이
+
+item.shadowwand.lore=카드 게임판을 보라색으로 바꾸는 지팡이. 
+
+item.rulebook.name=TCG 규칙서
+item.battle_rule.name=TCG 배틀 규칙 
+tile.tcg:card_printer.name=카드 프린터 
+tile.tcg:small_battle_controller.name=작은 사이즈의 TCG 게임판 4000
+tile.tcg:medium_battle_controller.name=보통 사이즈의 TCG 게임판 4000
+tile.tcg:large_battle_controller.name=큰 사이즈의 TCG 게임판 4000
+tile.tcg:battle_spectator.name=배틀 TV
+tile.tcg:disenchanter.name=Card Disenchanter
+
+battleRule.instruction=카드 게임판에 우클릭을해 게임 규칙을 바꿔보세요!
+battleRule.setRule=카드 게임의 규칙을 바꿀 수 있습니다. 
+battleRule.deckSize=덱의 크기
+battleRule.prizeCount=Prize count
+battleRule.timeLimit=시간 제한(초)
+battlerule.setstartingcommands=Set commands for when battle starts
+battlerule.setendingcommands=Set commands for when battle ends
+battlerule.emptycommands=No commands set
+battlerule.endbattle=End Battle
+
+battlespectator.title=Battle Spectator
+battlespectator.controllerLocation=BattleBox Location
+battlespectator.playerIndex=Player Index
+battlespectator.foundController=Found BattleBox
+
+achievement.welcome=Welcome!
+achievement.welcome.desc=Welcome to Pixelmon TCG!
+
+achievement.openpack=TCG Pack Opening
+achievement.openpack.desc=Open your first TCG booster pack
+achievement.binderget=Beginner TCG Collector
+achievement.binderget.desc=Obtain a card binder
+achievement.binderquarter=Rookie TCG Collector
+achievement.binderquarter.desc=Quarter-fill a card binder
+achievement.binderhalf=Amateur TCG Collector
+achievement.binderhalf.desc=Half-fill a card binder
+achievement.binderfull=Professional TCG Collector
+achievement.binderfull.desc=Fill a card binder
+achievement.binderfullrare=Dedicated TCG Collector
+achievement.binderfullrare.desc=Fill a card binder with rares or higher
+achievement.binderfullsecretrare=/tcg give card
+achievement.binderfullsecretrare.desc=Fill a card binder with secret rares
+
+achievement.obtaindeck=TCG Deck Builder
+achievement.obtaindeck.desc=Acquire an empty deck slot
+achievement.finishdeck=TCG Battle Ready
+achievement.finishdeck.desc=Name and finish a deck
+
+achievement.kingofgames=King of Games
+achievement.kingofgames.desc=Obtain a Millennium Pendant
+
+achievement.trade1=TCG Card Swapper
+achievement.trade1.desc=Perform 1 card trade
+achievement.trade5=TCG Card Trader
+achievement.trade5.desc=Perform 5 card trades
+achievement.trade20=TCG Card Dealer
+achievement.trade20.desc=Perform 20 card trades
+achievement.trade50=TCG Card Broker
+achievement.trade50.desc=Perform 50 card trades
+achievement.trade250=TCG Card Kingpin
+achievement.trade250.desc=Perform 250 card trades
+
+achievement.obtaincardback=Card Artist
+achievement.obtaincardback.desc=Acquire a custom card back
+achievement.obtaincoinset=Treasurer
+achievement.obtaincoinset.desc=Acquire a custom coinset
+achievement.obtainboard=Worldflipper 3000
+achievement.obtainboard.desc=Acquire a custom board
+achievement.obtainrulebook=Sir Rulemaster
+achievement.obtainrulebook.desc=Acquire a custom rulebook
+achievement.obtainalternate=Alternate Reality
+achievement.obtainalternate.desc=Acquire a developer card reskin
+achievement.obtainseal=Orichalcos
+achievement.obtainseal.desc=Acquire a special developer stadium card
+achievement.obtainpromo=Promotional Power
+achievement.obtainpromo.desc=Acquire a Black Star promo card
+
+achievement.obtaincommon=Obtain TCG Common
+achievement.obtaincommon.desc=Acquire a common card
+achievement.obtainuncommon=Obtain TCG Uncommon
+achievement.obtainuncommon.desc=Acquire an uncommon card
+achievement.obtainrare=Obtain TCG Rare
+achievement.obtainrare.desc=Acquire a rare card
+achievement.obtainsuperrare=Obtain TCG Super Rare
+achievement.obtainsuperrare.desc=Acquire a super rare card
+achievement.obtainultrarare=Obtain TCG Ultra Rare
+achievement.obtainultrarare.desc=Acquire an ultra rare card
+achievement.obtainsecretrare=Obtain TCG Secret Rare
+achievement.obtainsecretrare.desc=Acquire a secret rare card
+
+item.card.blank.grass.common.name=텅빈 풀의 카드 (common)
+item.card.blank.grass.uncommon.name=§2§2텅빈 풀의 카드 (uncommon)
+item.card.blank.grass.rare.name=§9텅빈 풀의 카드 (rare)
+item.card.blank.grass.holo_rare.name=§5텅빈 풀의 카드 (holo rare)
+item.card.blank.grass.ultra_rare.name=§6텅빈 풀의 카드 (ultra rare)
+item.card.blank.grass.secret_rare.name=§b텅빈 풀의 카드 (secret rare)
+item.card.blank.fire.common.name=텅빈 불꽃의 카드 (common)
+item.card.blank.fire.uncommon.name=§2§2텅빈 불꽃의 카드 (uncommon)
+item.card.blank.fire.rare.name=§9텅빈 불꽃의 카드 (rare)
+item.card.blank.fire.holo_rare.name=§5텅빈 불꽃의 카드 (holo rare)
+item.card.blank.fire.ultra_rare.name=§6텅빈 불꽃의 카드 (ultra rare)
+item.card.blank.fire.secret_rare.name=§b텅빈 불꽃의 카드 (secret rare)
+item.card.blank.water.common.name=텅빈 물의 카드 (common)
+item.card.blank.water.uncommon.name=§2§2텅빈 물의 카드 (uncommon)
+item.card.blank.water.rare.name=§9텅빈 물의 카드 (rare)
+item.card.blank.water.holo_rare.name=§5텅빈 물의 카드 (holo rare)
+item.card.blank.water.ultra_rare.name=§6텅빈 물의 카드 (ultra rare)
+item.card.blank.water.secret_rare.name=§b텅빈 물의 카드 (secret rare)
+item.card.blank.lightning.common.name=텅빈 번개의 카드 (common)
+item.card.blank.lightning.uncommon.name=§2텅빈 번개의 카드 (uncommon)
+item.card.blank.lightning.rare.name=§9텅빈 번개의 카드 (rare)
+item.card.blank.lightning.holo_rare.name=§5텅빈 번개의 카드 (holo rare)
+item.card.blank.lightning.ultra_rare.name=§6텅빈 번개의 카드 (ultra rare)
+item.card.blank.lightning.secret_rare.name=§b텅빈 번개의 카드 (secret rare)
+item.card.blank.fighting.common.name=텅빈 격투의 카드 (common)
+item.card.blank.fighting.uncommon.name=§2텅빈 격투의 카드 (uncommon)
+item.card.blank.fighting.rare.name=§9텅빈 격투의 카드 (rare)
+item.card.blank.fighting.holo_rare.name=§5텅빈 격투의 카드 (holo rare)
+item.card.blank.fighting.ultra_rare.name=§6텅빈 격투의 카드 (ultra rare)
+item.card.blank.fighting.secret_rare.name=§b텅빈 격투의 카드 (secret rare)
+item.card.blank.psychic.common.name=텅빈 초의 카드 (common)
+item.card.blank.psychic.uncommon.name=§2텅빈 초의 카드 (uncommon)
+item.card.blank.psychic.rare.name=§9텅빈 초의 카드 (rare)
+item.card.blank.psychic.holo_rare.name=§5텅빈 초의 카드 (holo rare)
+item.card.blank.psychic.ultra_rare.name=§6텅빈 초의 카드 (ultra rare)
+item.card.blank.psychic.secret_rare.name=§b텅빈 초의 카드 (secret rare)
+item.card.blank.colorless.common.name=텅빈 무색의 카드 (common)
+item.card.blank.colorless.uncommon.name=§2텅빈 무색의 카드 (uncommon)
+item.card.blank.colorless.rare.name=§9텅빈 무색의 카드 (rare)
+item.card.blank.colorless.holo_rare.name=§5텅빈 무색의 카드 (holo rare)
+item.card.blank.colorless.ultra_rare.name=§6텅빈 무색의 카드 (ultra rare)
+item.card.blank.colorless.secret_rare.name=§b텅빈 무색의 카드 (secret rare)
+item.card.blank.darkness.common.name=텅빈 악의 카드 (common)
+item.card.blank.darkness.uncommon.name=§2텅빈 악의 카드 (uncommon)
+item.card.blank.darkness.rare.name=§9텅빈 악의 카드 (rare)
+item.card.blank.darkness.holo_rare.name=§5텅빈 악의 카드 (holo rare)
+item.card.blank.darkness.ultra_rare.name=§6텅빈 악의 카드 (ultra rare)
+item.card.blank.darkness.secret_rare.name=§b텅빈 악의 카드 (secret rare)
+item.card.blank.metal.common.name=텅빈 강철의 카드 (common)
+item.card.blank.metal.uncommon.name=§2텅빈 강철의 카드 (uncommon)
+item.card.blank.metal.rare.name=§9텅빈 강철의 카드 (rare)
+item.card.blank.metal.holo_rare.name=§5텅빈 강철의 카드 (holo rare)
+item.card.blank.metal.ultra_rare.name=§6텅빈 강철의 카드 (ultra rare)
+item.card.blank.metal.secret_rare.name=§b텅빈 강철의 카드 (secret rare)
+item.card.blank.dragon.common.name=텅빈 드래곤의 카드 (common)
+item.card.blank.dragon.uncommon.name=§2텅빈 드래곤의 카드 (uncommon)
+item.card.blank.dragon.rare.name=§9텅빈 드래곤의 카드 (rare)
+item.card.blank.dragon.holo_rare.name=§5텅빈 드래곤의 카드 (holo rare)
+item.card.blank.dragon.ultra_rare.name=§6텅빈 드래곤의 카드 (ultra rare)
+item.card.blank.dragon.secret_rare.name=§b텅빈 드래곤의 카드 (secret rare)
+item.card.blank.fairy.common.name=텅빈 페어리의 카드 (common)
+item.card.blank.fairy.uncommon.name=§2텅빈 페어리의 카드 (uncommon)
+item.card.blank.fairy.rare.name=§9텅빈 페어리의 카드 (rare)
+item.card.blank.fairy.holo_rare.name=§5텅빈 페어리의 카드 (holo rare)
+item.card.blank.fairy.ultra_rare.name=§6텅빈 페어리의 카드 (ultra rare)
+item.card.blank.fairy.secret_rare.name=§b텅빈 페어리의 카드 (secret rare)
+
+#  General battle
+battle.first=You will play first.
+battle.second=You will play second.
+battle.selector.newactive=Select a new Active card
+battle.guide.settingup.title=Pre-match
+battle.guide.settingup.1=1. Set an Active Pokémon
+battle.guide.settingup.2=2. Set Benched Pokémon
+battle.guide.settingup.3=3. Press Start Game
+battle.guide.settingup.4=4. Wait for your opponent!
+battle.selector.prize=Select a Prize card
+battle.selector.prize.close=Click again to close
+
+#  Attack Effects
+attack.effect.changeresistance.selector=Pick a new Resistance
+attack.effect.changeweakness.selector=Pick a new Weakness
+attack.effect.switch.byopp=Pick a new Active Pokémon
+
+#  Ability Effects
+ability.pokemonpower=Pokémon Power
+ability.pokemonbody=Pokémon Body
+ability.damageswap.selector.from=Move damage from
+ability.damageswap.selector.to=Move damage to
+ability.buzzap.selector.chooseenergy=Choose Energy type
+ability.buzzap.selector.chooseattach=Choose a Pokémon to attach to
+ability.raindance.selector.chooseattach=Choose a Pokémon to attach Water Energy
+ability.energytransfer.selector.from=Move Grass Energy from
+ability.energytransfer.selector.to=Move Grass Energy to
+ability.shift.selector.change=Change Type to
+ability.heal.selector.pokemon=Heal 10 damage
+ability.specialdelivery.selector.discard=Place card on top of deck
+
+#  Trainer Effects
+trainer.pokedex.selector.1=Choose 1st (top) card
+trainer.pokedex.selector.2=Choose 2nd card
+trainer.pokedex.selector.3=Choose 3rd card
+trainer.pokedex.selector.4=Choose 4th card
+trainer.pokedex.selector.5=Choose 5th card
+trainer.pokemontrader.selector.reveal=Opponent has traded Pokémon between deck and hand
+trainer.maintenance.selector.choose=Shuffle 2 cards from hand into deck
+
+# Debugging items (also serves as fancy meme easter egg)
+item.eye.name=§6Millennium Eye
+item.eye.lore=Reveals your opponent's hand
+item.pendant.name=§6Millennium Pendant
+item.pendant.lore=You draw in deck order
+item.key.name=§6Millennium Key
+item.key.lore=Doubles your energy attachments
+item.ring.name=§6Millennium Ring
+item.ring.lore=You take double prize cards
+item.necklace.name=§6Millennium Necklace
+item.necklace.lore=Duplicates all your draws
+item.scales.name=§6Millennium Scales
+item.scales.lore=Reduces any battle damage you take to 10
+item.rod.name=§6Millennium Rod
+item.rod.lore=Copy all cards your opponent plays
+
+# Base Set
+set.base.name=Base Set
+
+# Base Set - Pokémon and Attacks
+card.base1.name=후딘
+ability.base1.name=피해 교환 
+ability.base1.text=아군 포켓몬의 데미지 카운터 1개를 다른 포켓몬에게 옮길 수 있다. 체력이 충분하지 않는 포켓몬에겐 옮길 수 없다. 잠듦, 혼란, 마비, 상태일 때에는 사용할 수 없다. 
+attack.base1.1.name=이상한빛 
+attack.base1.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+
+card.base2.name=거북왕
+ability.base2.name=비바라기
+ability.base2.text=거북왕은 자신의 물 타입 포켓몬 대상으로 패의 물의 에너지를 1번에 몇 장이라도 붙일 수 있다. 잠듦, 혼란, 마비, 상태일 때에는 사용할 수 없다. 
+attack.base2.1.name=하이드로펌프
+attack.base2.1.text=이 공격의 에너지 비용에 사용되지 않는 거북왕에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+
+card.base3.name=럭키
+attack.base3.1.name=둥글둥글
+attack.base3.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+attack.base3.2.name=이판사판태클 
+attack.base3.2.text=이 포켓몬에게도 80의 데미지를 준다. 
+
+card.base4.name=리자몽
+ability.base4.name=에너지번
+ability.base4.text=이 포켓몬에게 붙어 있는 에너지는 모두 불타입이 된다. 잠듦, 혼란, 마비, 상태일 때에는 사용할 수 없다. 
+attack.base4.1.name=회오리불꽃
+attack.base4.1.text=이 포켓몬에게 붙어 있는 에너지 2개를 선택해서 버린다.
+
+card.base5.name=삐삐
+attack.base5.1.name=노래하기
+attack.base5.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.base5.2.name=손가락흔들기
+attack.base5.2.text=상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로서 사용한다. 
+
+card.base6.name=갸라도스
+attack.base6.1.name=용의분노 
+attack.base6.2.name=거품광선 
+attack.base6.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.base7.name=홍수몬
+attack.base7.1.name=잽
+attack.base7.2.name=스페셜펀치
+
+card.base8.name=괴력몬
+ability.base8.name=반격
+ability.base8.text=괴력몬이 상대의 기술의 데미지를 받았을때 10의 데미지를 돌려준다. 잠듦, 혼란, 마비, 상태일 때에는 사용할 수 없다. 
+attack.base8.1.name=지구던지기
+
+card.base9.name=코일 
+attack.base9.1.name=전기자석파 
+attack.base9.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.base9.2.name=자폭
+attack.base9.2.text=상대 벤치에 있는 모든 포켓몬들에게 20의 데미지를 준다. 자신에게도 80의 데미지를 준다. 
+
+card.base10.name=뮤츠 
+attack.base10.1.name=사이코키네시스
+attack.base10.1.text=상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 x 20의 데미지를 추가한다.
+attack.base10.2.name=베리어
+attack.base10.2.text=한개의 초의 에너지를 사용해서 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.
+
+card.base11.name=니드킹
+attack.base11.1.name=몸부림치다
+attack.base11.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 포켓몬에게 10의 데미지를 추가로 입히고 뒷면이 나오면 이 포켓몬에게도 10의 데미지를 입는다. 
+attack.base11.2.name=맹독 
+attack.base11.2.text=상대의 배틀 포켓몬을 독 상태로 만든다. 매 턴 20의 데미지를 받는다. 
+
+card.base12.name=나인테일 
+attack.base12.1.name=꾀어내기
+attack.base12.1.text=상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다
+attack.base12.2.name=불대문자
+attack.base12.2.text=이 포켓몬에게 붙어 있는 불꽃의 에너지를 1개 선택해서 버린다.
+
+card.base13.name=강챙이
+attack.base13.1.name=물대포 
+attack.base13.1.text=이 공격의 에너지 비용에 사용되지 않는 강챙이에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+attack.base13.2.name=바다회오리
+attack.base13.2.text=상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.
+
+card.base14.name=라이츄
+attack.base14.1.name=고속이동 
+attack.base14.1.text=동전을 한 번 던져서 앞면이 나오면 다음 한 턴 상태이상 면역 상태가된다. 
+attack.base14.2.name=번개
+attack.base14.2.text=동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 30의 데미지를 입는다. 
+
+card.base15.name=이상해꽃
+ability.base15.name=에너지이동
+ability.base15.text=자신의 포켓몬에게 부착되어 있는 풀의 에너지를 다른 포켓몬에게 옮길수 있다. 잠듦, 혼란, 마비, 상태일 때에는 사용할 수 없다. 
+attack.base15.1.name=솔라빔 
+
+card.base16.name=썬더 
+attack.base16.1.name=번개 
+attack.base16.1.text=동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 30의 데미지를 입는다. 
+attack.base16.2.name=10만볼트
+attack.base16.2.text=썬더에게 부착된 모든 에너지를 버린다. 
+
+card.base17.name=독침붕
+attack.base17.1.name=더블니들 
+attack.base17.1.text=동전을 두 번 던져서 앞면이 나온 수 x 30의 데미지를 준다.
+attack.base17.2.name=독침
+attack.base17.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독 상태로 만든다. 
+
+card.base18.name=신뇽 
+attack.base18.1.name=힘껏치기 
+attack.base18.1.text=동전을 두 번 던져서 앞면이 나온 수 x 30의 데미지를 준다.
+attack.base18.2.name=파괴광선 
+attack.base18.2.text=상대의 배틀 포켓몬에게 붙어 있는 에너지 1개를 선택해서 버린다.
+
+card.base19.name=닥트리오 
+attack.base19.1.name=베어가르기
+attack.base19.2.name=지진
+attack.base19.2.text=자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다.
+
+card.base20.name=에레브 
+attack.base20.1.name=전기쇼크 
+attack.base20.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.base20.2.name=번개펀치 
+attack.base20.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 포켓몬에게 10의 데미지를 추가로 입히고 뒷면이 나오면 이 포켓몬이 10의 데미지를 입는다. 
+
+card.base21.name=붐볼 
+ability.base21.name=버즈잽
+ability.base21.text=붐볼을 희생하여 원하는 포켓몬에 두개의 원하는 에너지로 부착할 수 있다. 잠듦, 혼란, 마비, 상태일 때에는 사용할 수 없다. 
+attack.base21.1.name=전기충격
+attack.base21.1.text=동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 10의 데미지를 입는다. 
+
+card.base22.name=피죤 
+attack.base22.1.name=날려버리기
+attack.base22.1.text=상대의 배틀 포켓몬을 벤치포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)
+attack.base22.2.name=따라하기
+attack.base22.2.text=이전 차례에 상대에게 이 포켓몬이 기술의 데미지를 받았다면 그 데미지와 같은 데미지를 상대의 배틀 포켓몬에게 준다.
+
+card.base23.name=윈디
+attack.base23.1.name=화염방사 
+attack.base23.1.text=이 포켓몬에게 붙어 있는 불꽃의 에너지를 1개 선택해서 버린다.
+attack.base23.2.name=히트태클
+attack.base23.2.text=이 포켓몬에게도 30의 데미지를 입힌다. 
+
+card.base24.name=리자드 
+attack.base24.1.name=베어가르기
+attack.base24.2.name=화염방사
+attack.base24.2.text=이 포켓몬에게 붙어 있는 불꽃의 에너지를 1개 선택해서 버린다.
+
+card.base25.name=쥬레곤 
+attack.base25.1.name=오로라빔
+attack.base25.2.name=냉동빔 
+attack.base25.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.base26.name=미뇽
+attack.base26.1.name=막치기
+
+card.base27.name=파오리
+attack.base27.1.name=파로 때리기 
+attack.base27.1.text=자신의 다음 차례에 이 포켓몬은 파로 때리기를 사용할 수 없다.
+attack.base27.2.name=냄비로 때리기
+
+card.base28.name=가디 
+attack.base28.1.name=화염
+
+card.base29.name=고우스트
+attack.base29.1.name=최면술
+attack.base29.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.base29.2.name=꿈먹기 
+attack.base29.2.text=상대의 배틀 포켓몬이 잠듦이 아니라면 이 기술은 실패한다.
+
+card.base30.name=이상해풀
+attack.base30.1.name=덩굴채찍
+attack.base30.2.name=독가루 
+attack.base30.2.text=상대의 배틀 포켓몬을 독 상태로 만든다.
+
+card.base31.name=루주라 
+attack.base31.1.name=연속뺨치기 
+attack.base31.1.text=동전을 두 번 던져서 앞면이 나온 수 x 10의 데미지를 준다.
+attack.base31.2.name=요가포즈
+attack.base31.2.text=상대의 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10의 데미지만큼 이 기술의 데미지는 강해진다. 
+
+card.base32.name=윤겔라
+attack.base32.1.name=HP회복
+attack.base32.1.text=윤겔라에 부착된 초의 에너지 1개를 소모하여 윤겔라가 받은 모든 피해를 회복한다. 
+attack.base32.2.name=환상 
+
+card.base33.name=딱충이 
+attack.base33.1.name=딱딱해지기 
+attack.base33.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+attack.base33.2.name=독가루 
+attack.base33.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+card.base34.name=근육몬
+attack.base34.1.name=태권당수 
+attack.base34.1.text=이 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10의 데미지만큼 이 기술의 데미지는 작아진다. 
+attack.base34.2.name=지옥의바퀴
+attack.base34.2.text=이 포켓몬에게도 20의 데미지를 입힌다.
+
+card.base35.name=잉어킹 
+attack.base35.1.name=몸통박치기
+attack.base35.2.name=바둥바둥
+attack.base35.2.text=이 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10의 데미지를 준다.
+
+card.base36.name=마그마
+attack.base36.1.name=불꽃펀치
+attack.base36.2.name=화염방사
+attack.base36.2.text=이 포켓몬에게 붙어 있는 불꽃의 에너지를 1개 선택해서 버린다.
+
+card.base37.name=니드리노
+attack.base37.1.name=두번치기
+attack.base37.1.text=동전을 두 번 던져서 앞면이 나온 수 x 30의 데미지를 준다.
+attack.base37.2.name=뿔드릴
+
+card.base38.name=수륙챙이 
+attack.base38.1.name=망각술 
+attack.base38.1.text=상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택한다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 선택된 기술을 사용할 수 없다.
+attack.base38.2.name=연속뺨치기
+attack.base38.2.text=동전을 두 번 던져서 앞면이 나온 수 x 30의 데미지를 준다.
+
+card.base39.name=폴리곤 
+attack.base39.1.name=텍스처
+attack.base39.1.text=상대의 배틀 포켓몬이 약점을 가지고 있다면 상대의 약점을 자신이 원하는 타입으로 바꿀 수 있다.
+attack.base39.2.name=텍스처2
+attack.base39.2.text=이 포켓몬에게 효과가 별로인 타입을 원하는 타입으로 바꿀 수 있다. 
+
+card.base40.name=레트라
+attack.base40.1.name=물기 
+attack.base40.2.name=분노의앞니
+attack.base40.2.text=상대의 배틀 포켓몬의 남은 체력에 반의 데미지를 준다. 
+
+card.base41.name=쥬쥬
+attack.base41.1.name=박치기
+
+card.base42.name=어니부기 
+attack.base42.1.name=껍질에숨기 
+attack.base42.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+attack.base42.2.name=물기 
+
+card.base43.name=케이시
+attack.base43.1.name=사이코쇼크 
+attack.base43.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.base44.name=이상해씨
+attack.base44.1.name=씨뿌리기
+attack.base44.1.text=이 포켓몬의 체력을 10 회복한다.
+
+card.base45.name=캐터피 
+attack.base45.1.name=실뿜기
+attack.base45.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.base46.name=파이리
+attack.base46.1.name=할퀴기
+attack.base46.2.name=불꽃세례
+attack.base46.2.text=이 포켓몬에게 붙어 있는 불꽃의 에너지를 1개 선택해서 버린다.
+
+card.base47.name=디그다 
+attack.base47.1.name=구멍파기 
+attack.base47.2.name=진흙뿌리기
+
+card.base48.name=두두
+attack.base48.1.name=마구찌르기 
+attack.base48.1.text=동전을 두 번 던져서 앞면이 나온 수 x 10의 데미지를 준다.
+
+card.base49.name=슬리프
+attack.base49.1.name=막치기
+attack.base49.2.name=이상한빛
+attack.base49.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+
+card.base50.name=고오스 
+attack.base50.1.name=수면가스 
+attack.base50.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.base50.2.name=길동무 
+attack.base50.2.text=고오스에게 붙어 있는 1개의 초의 에너지를 소모하여 기술을 쓴 뒤 공격을 받아 이 포켓몬이 기절했을 때 공격한 상대도 기절하게 한다.
+
+card.base51.name=또가스 
+attack.base51.1.name=고약한가스
+attack.base51.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 뒷면이 나오면 혼란으로 만든다.
+
+card.base52.name=알통몬 
+attack.base52.1.name=안다리걸기
+
+card.base53.name=코일
+attack.base53.1.name=전기자석파
+attack.base53.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.base53.2.name=자폭
+attack.base53.2.text=상대 벤치에 있는 모든 포켓몬들에게 20의 데미지를 준다. 자신에게도 80의 데미지를 준다. 
+
+card.base54.name=단데기 
+attack.base54.1.name=딱딱해지기
+attack.base54.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+attack.base54.2.name=저리가루 
+attack.base54.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.base55.name=니드런♂
+attack.base55.1.name=뿔공격 
+attack.base55.1.text=동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다.
+
+card.base56.name=롱스톤 
+attack.base56.1.name=돌떨구기 
+attack.base56.2.name=단단해지기 
+attack.base56.2.text=상대의 다음 차례에 자신이 받는 기술의 데미지가 30 이하라면 자신은 그 데미지를 받지 않는다.
+
+card.base57.name=구구
+attack.base57.1.name=날려버리기
+attack.base57.1.text=상대의 배틀 포켓몬을 벤치포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)
+
+card.base58.name=피카츄 
+attack.base58.1.name=갉기
+attack.base58.2.name=전격
+attack.base58.2.text=동전을 한 번 던져서 뒷면이 나오면 이 포켓몬에게도 10의 데미지를 준다.
+
+card.base59.name=발챙이 
+attack.base59.1.name=물대포 
+attack.base59.1.text=이 공격의 에너지 비용에 사용되지 않는 발챙이에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+
+card.base60.name=포니타 
+attack.base60.1.name=걷어차기 
+attack.base60.2.name=불꽃 꼬리
+
+card.base61.name=꼬렛
+attack.base61.1.name=물기
+
+card.base62.name=모래두지 
+attack.base62.1.name=모래뿌리기
+attack.base62.1.text=상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던져서 뒷면이 나오면 그 기술은 실패한다. 
+attack.sandattack.effect.text=동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다. 
+
+card.base63.name=꼬부기 
+attack.base63.1.name=거품
+attack.base63.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.base63.2.name=껍질에숨기
+attack.base63.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+
+card.base64.name=아쿠스타 
+attack.base64.1.name=HP회복
+attack.base64.1.text=아쿠스타에 부착된 물의 에너지 1개를 소모하여 아쿠스타가 받은 모든 피해를 회복한다. 
+attack.base64.2.name=스타프리즈 
+attack.base64.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.base65.name=별가사리 
+attack.base65.1.name=수벽치기
+
+card.base66.name=덩쿠리 
+attack.base66.1.name=조이기
+attack.base66.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.base66.2.name=독가루 
+attack.base66.2.text=상대의 배틀 포켓몬을 독으로 만든다.
+
+card.base67.name=찌리리공
+attack.base67.1.name=몸통박치기
+
+card.base68.name=식스테일 
+attack.base68.1.name=이상한빛
+attack.base68.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+
+card.base69.name=뿔충이
+attack.base69.1.name=독침
+attack.base69.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+# Base Set - Trainer Cards
+card.base70.name=삐삐인형 
+card.base70.text=일반 포켓몬처럼 내보낼 수 있다. 원할때 없앨 수 있다. 
+card.base71.name=컴퓨터통신 
+card.base71.text=자신의 패를 2장 버려서 자신의 덱에서 원하는 카드를 한장 선택해서 패로 가져온다. 그리고 덱을 섞는다.
+card.base72.name=퇴화 스프레이 
+card.base72.text=자신의 진화한 포켓몬을 1마리 선택해서 그 포켓몬의 위에서 부터 진화카드를 원하는 만큼 떼어내서 퇴화시킨다. 
+card.base72.effect.selector.choosepokemon=Choose a pokemon
+card.base72.effect.selector.chooseevolution=Choose a Stage of Evolution
+card.base73.name=가짜 오박사 
+card.base73.text=상대의 패를 모두 상대의 덱으로 되돌리고 잘 섞고나서 새로 7장을 뽑아서 패로 가져온다. 
+card.base74.name=다우징머신 
+card.base74.text=이 카드는 자신의 패를 2장 버리지 않으면 사용할 수 없다. 자신이 버린 카드에서 트레이너스 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다.
+card.base75.name=짧은 치마 
+card.base75.text=아군과 상대의 패를 공개하고 모든 트레이너스 카드를 덱으로 돌려놓고 덱을 섞는다. 
+card.base76.name=포켓몬 교배기 
+card.base76.text=패에 있는 스테이지 2 포켓몬을 맞는 일반 포켓몬과 합체한다. 
+card.base76.effect.selector.stage2=Choose a Stage 2 Pokémon
+card.base76.effect.selector.basic=Choose a matching Basic Pokémon
+card.base77.name=포켓몬 교환기 
+card.base77.text=패에있는 포켓몬 하나를 덱에있는 포켓몬과 교환한다. 이 두 포켓몬을 상대에게 공개한다. 
+card.base78.name=퍼올리기 
+card.base78.text=배틀에 나가있는 포켓몬 한마리를 패로 다시 불러온다. 
+card.base79.name=슈펴 에너지 제거
+card.base79.text=자신의 포켓몬에 붙어있는 에너지 1개를 소모해서 상대의 포켓몬에 붙어있는 에너지 2개를 소모한다. 
+card.base80.name=디펜드업 
+card.base80.text=포켓몬에게 부착하면 다음 받을 데미지를 20 적게 받는다. 이후 이 카드는 소모된다. 
+card.base81.name=에너지 회수 
+card.base81.text=패에있는 카드 1장을 버린카드에 있는 2개의 에너지로 교환한다. 
+card.base82.name=만병통치제
+card.base82.text=아군의 배틀 포켓몬의 잠듦, 혼란, 마비, 혹은 독 상태이상을 치유한다.  
+card.base83.name=유지 
+card.base83.text=패에서 2장의 카드를 덱으로 넣고 1장의 카드를 뽑는다. 
+card.base84.name=파워업
+card.base84.text=배틀 포켓몬에게 부착하면 다음 공격은 10의 데미지를 추가로 준다. 
+card.base85.name=포켓몬센터
+card.base85.text=포켓몬의 모든 데미지 카운터를 회복하고 그 포켓몬에 붙어있는 모든 에너지를 소모한다. 
+card.base86.name=포켓몬피리 
+card.base86.text=버린카드에 있는 기본 포켓몬을 벤치에 놓는다. 
+card.base87.name=도감
+card.base87.text=덱 맨위에 있는 카드 5장을 보고 원하는 순서대로 놓는다. 
+card.base88.name=오박사 
+card.base88.text=패를 버리고 7장의 카드를 뽑는다. 
+card.base89.name=기력의조각 
+card.base89.text=버린카드에 있는 포켓몬 한마리를 벤치에 놓는다. 부활한 체력은 50%로 부활한다. 
+card.base90.name=좋은 상처약 
+card.base90.text=포켓몬의 에너지 1개를 소모하여 4개의 데미지 카운터를 회복한다.  
+card.base91.name=이수재 
+card.base91.text=2장의 카드를 뽑는다. 
+card.base92.name=에너지 제거 
+card.base92.text=상대의 포켓몬의 에너지 1개를 제거한다. 
+card.base93.name=돌풍
+card.base93.text=상대방의 배틀 포켓몬을 벤치 포켓몬과 교체한다. 
+card.base94.name=상처약 
+card.base94.text=포켓몬의 데미지 카운터 2개를 회복한다. 
+card.base94.effect.selector=Select a Pokémon to use your Potion on.
+card.base95.name=교체
+card.base95.text=배틀 포켓몬을 벤치 포켓몬과 교체한다. 
+
+# Base Set - Energy
+card.base96.name=더블 무색의 에너지 
+card.base96.text=기본적이지 않은 에너지. 무색의 에너지를 두개 준다. 
+card.base97.name=격투의 에너지 
+card.base98.name=불꽃의 에너지
+card.base99.name=풀의 에너지 
+card.base100.name=번개의 에너지 
+card.base101.name=초의 에너지 
+card.base102.name=물의 에너지 
+
+# Base Set - Decks
+deck.trainerdecka.name=Trainer Deck A
+deck.trainerdeckb.name=Trainer Deck B
+deck.2playerstarter.name=2-Player Starter Set
+deck.overgrowth.name=Overgrowth
+deck.zap.name=Zap!
+deck.brushfire.name=Brushfire
+deck.blackout.name=Blackout
+deck.bodyguard.name=Bodyguard
+deck.waterblast.name=Waterblast
+deck.powerreserve.name=Power Reserve
+deck.lockdown.name=Lockdown
+
+# Jungle Set
+set.jung.name=정글
+
+# Jungle Set - Pokémon and Attacks
+card.jung1.name=픽시 
+attack.jung1.1.name=손가락흔들기
+attack.jung1.1.text=상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로서 사용한다. 
+attack.jung1.2.name=작아지기 
+attack.jung1.2.text=다음 턴에 받는 기술을 20의 데미지를 적게 받는다. 
+
+card.jung2.name=붐볼
+attack.jung2.1.name=몸통박치기 
+attack.jung2.2.name=체인라이트닝
+attack.jung2.2.text=상대의 배틀 포켓몬이 무색타입이 아니라면 상대와 아군의 벤치에있는 포켓몬중 같은 타입들에게 10의 데미지씩 준다. 
+
+card.jung3.name=부스터 
+attack.jung3.1.name=전광석화 
+attack.jung3.1.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+attack.jung3.2.name=화염방사
+attack.jung3.2.text=이 포켓몬에게 붙어 있는 불꽃의 에너지를 1개 선택해서 버린다.
+
+card.jung4.name=쥬피썬더 
+attack.jung4.1.name=전광석화 
+attack.jung4.1.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+attack.jung4.2.name=바늘미사일 
+attack.jung4.2.text=동전을 4번 던져서 앞면이 나온 수 x 20의 데미지를 준다.
+# Kangaskhan
+card.jung5.name=캥카
+attack.jung5.1.name=아이심부름
+attack.jung5.1.text=자신의 덱을 1장 뽑는다. 
+attack.jung5.2.name=코멧펀치 
+attack.jung5.2.text=동전을 4번 던져서 앞면이 나온 수 x 20의 데미지를 준다.
+# Mr. Mime
+card.jung6.name=마임맨 
+ability.jung6.name=보이지않는벽
+ability.jung6.text=30의 데미지 이상 피해를 주는 기술에 피해를 입지 않는다. 
+attack.jung6.1.name=요가포즈 
+attack.jung6.1.text=상대의 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10의 데미지만큼 이 기술의 데미지는 강해진다. 
+# Nidoqueen
+card.jung7.name=니드퀸
+attack.jung7.1.name=남자친구부르기
+attack.jung7.1.text=배틀필드에 나와있는 니드킹의 수 x 20의 데미지를 추가로 준다. 
+attack.jung7.2.name=메가톤펀치 
+# Pidgeot
+card.jung8.name=피죤투 
+attack.jung8.1.name=날개치기 
+attack.jung8.2.name=폭풍
+attack.jung8.2.text=이 기술로 상대 배틀 포켓몬이 쓰러지지 않는다면 강제로 교체하게 만든다. 
+# Pinsir
+card.jung9.name=쁘사이저
+attack.jung9.1.name=철찝기 
+attack.jung9.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.jung9.2.name=가위자르기 
+# Scyther
+card.jung10.name=스라크 
+attack.jung10.1.name=칼춤 
+attack.jung10.1.text=자신의 다음 차례에 이 포켓몬의 베어가르기의 데미지는 60이 된다.
+attack.jung10.2.name=베어가르기 
+# Snorlax
+card.jung11.name=잠만보 
+ability.jung11.name=두꺼운지방
+ability.jung11.text=잠만보는 잠듦, 혼란, 마비, 혹은 독 상태이상에 면역이 생깁니다. 
+attack.jung11.1.name=누르기 
+attack.jung11.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+# Vaporeon
+card.jung12.name=샤미드
+attack.jung12.1.name=전광석화
+attack.jung12.1.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+attack.jung12.2.name=물대포 
+attack.jung12.2.text=이 공격의 에너지 비용에 사용되지 않는 샤미드에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+# Venomoth
+card.jung13.name=도나리 
+ability.jung13.name=시프트
+ability.jung13.text=공격전에 도나리의 타입을 현재 나와 있는 아무 포켓몬의 타입으로 바꿀 수 있다.
+attack.jung13.1.name=맹독가루
+attack.jung13.1.text=동전을 한 번 던져서 앞면이 나오면 상대 배틀 포켓몬을 독과 혼란으로 만든다.
+# Victreebel
+card.jung14.name=우츠보트 
+attack.jung14.1.name=향기의 덫
+attack.jung14.1.text=상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다
+attack.jung14.2.name=산으로녹이기 
+attack.jung14.2.text=동전을 한 번 던져서 앞면이 나오면 상대 배틀 포켓몬이 교체할 수 없게 만든다. 
+# Vileplume
+card.jung15.name=라플레시아
+ability.jung15.name=회복
+ability.jung15.text=동전을 한 번 던져서 앞면이 나오면 전에 받았던 데미지를 한번 회복한다. 
+attack.jung15.1.name=꽃잎댄스
+attack.jung15.1.text=동전을 3번 던져서 앞면이 나온 수 x 40의 데미지를 준다. 데미지를 준 뒤 라플레시아는 혼란에 걸린다.  
+# Wigglytuff
+card.jung16.name=푸크린 
+attack.jung16.1.name=자장가
+attack.jung16.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.jung16.2.name=손흔들기 
+attack.jung16.2.text=상대의 벤치 포켓몬의 수 x 10의 추가 데미지를 준다. 
+# Clefable
+card.jung17.name=픽시 
+attack.jung17.1.name=손가락흔들기 
+attack.jung17.1.text=상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로서 사용한다. 
+attack.jung17.2.name=작아지기 
+attack.jung17.2.text=다음 턴에 받는 기술을 20의 데미지를 적게 받는다. 
+# Electrode
+card.jung18.name=붐볼
+attack.jung18.1.name=몸통박치기 
+attack.jung18.2.name=체인라이트닝
+attack.jung18.2.text=상대의 배틀 포켓몬이 무색타입이 아니라면 상대와 아군의 벤치에있는 포켓몬중 같은 타입들에게 10의 데미지씩 준다. 
+# Flareon
+card.jung19.name=부스터 
+attack.jung19.1.name=전광석화
+attack.jung19.1.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+attack.jung19.2.name=화염방사
+attack.jung19.2.text=이 포켓몬에게 붙어 있는 불꽃의 에너지를 1개 선택해서 버린다.
+# Jolteon
+card.jung20.name=쥬피썬더
+attack.jung20.1.name=전광석화 
+attack.jung20.1.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+attack.jung20.2.name=바늘미사일 
+attack.jung20.2.text=동전을 4번 던져서 앞면이 나온 수 x 20의 데미지를 준다.
+# Kangaskhan
+card.jung21.name=캥카
+attack.jung21.1.name=아이심부름
+attack.jung21.1.text=자신의 덱을 1장 뽑는다. 
+attack.jung21.2.name=코멧펀치 
+attack.jung21.2.text=동전을 4번 던져서 앞면이 나온 수 x 20의 데미지를 준다.
+# Mr. Mime
+card.jung22.name=마임맨
+ability.jung22.name=보이지않는벽
+ability.jung22.text=30의 데미지 이상 피해를 주는 기술에 피해를 입지 않는다. 
+attack.jung22.1.name=요가포즈
+attack.jung22.1.text=상대의 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10의 데미지만큼 이 기술의 데미지는 강해진다. 
+# Nidoqueen
+card.jung23.name=니드퀸
+attack.jung23.1.name=남자친구부르기
+attack.jung23.1.text=배틀필드에 나와있는 니드킹의 수 x 20의 데미지를 추가로 준다. 
+attack.jung23.2.name=메가톤펀치
+# Pidgeot
+card.jung24.name=피죤투
+attack.jung24.1.name=날개치기 
+attack.jung24.2.name=폭풍
+attack.jung24.2.text=이 기술로 상대 배틀 포켓몬이 쓰러지지 않는다면 강제로 교체하게 만든다. 
+# Pinsir
+card.jung25.name=쁘사이저 
+attack.jung25.1.name=철찝기 
+attack.jung25.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.jung25.2.name=가위자르기
+# Scyther
+card.jung26.name=스라크
+attack.jung26.1.name=칼춤
+attack.jung26.1.text=자신의 다음 차례에 이 포켓몬의 베어가르기의 데미지는 60이 된다.
+attack.jung26.2.name=베어가르기 
+# Snorlax
+card.jung27.name=잠만보
+ability.jung27.name=두꺼운지방
+ability.jung27.text=잠만보는 잠듦, 혼란, 마비, 혹은 독 상태이상에 면역이 생깁니다. 
+attack.jung27.1.name=누르기
+attack.jung27.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+# Vaporeon
+card.jung28.name=샤미드 
+attack.jung28.1.name=전광석화 
+attack.jung28.1.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+attack.jung28.2.name=물대포
+attack.jung28.2.text=이 공격의 에너지 비용에 사용되지 않는 샤미드에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+# Venomoth
+card.jung29.name=도나리 
+ability.jung29.name=시프트
+ability.jung29.text=공격전에 도나리의 타입을 현재 나와 있는 아무 포켓몬의 타입으로 바꿀 수 있다.
+attack.jung29.1.name=맹독가루
+attack.jung29.1.text=동전을 한 번 던져서 앞면이 나오면 상대 배틀 포켓몬을 독과 혼란으로 만든다.
+# Victreebel
+card.jung30.name=우츠보트 
+attack.jung30.1.name=향기의 덫
+attack.jung30.1.text=상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다
+attack.jung30.2.name=산으로녹이기
+attack.jung30.2.text=동전을 한 번 던져서 앞면이 나오면 상대 배틀 포켓몬이 교체할 수 없게 만든다. 
+# Vileplume
+card.jung31.name=라플레시아 
+ability.jung31.name=회복
+ability.jung31.text=동전을 한 번 던져서 앞면이 나오면 전에 받았던 데미지를 한번 회복한다. 
+attack.jung31.1.name=꽃잎댄스 
+attack.jung31.1.text=동전을 3번 던져서 앞면이 나온 수 x 40의 데미지를 준다. 데미지를 준 뒤 라플레시아는 혼란에 걸린다.  
+# Wigglytuff
+card.jung32.name=푸크린
+attack.jung32.1.name=자장가
+attack.jung32.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.jung32.2.name=손흔들기 
+attack.jung32.2.text=상대의 벤치 포켓몬의 수 x 10의 추가 데미지를 준다. 
+# Butterfree
+card.jung33.name=버터플 
+attack.jung33.1.name=날려버리기 
+attack.jung33.1.text=상대의 배틀 포켓몬을 벤치포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.)
+attack.jung33.2.name=메가드레인
+attack.jung33.2.text=상대 배틀 포켓몬에게 준 데미지의 50%를 회복한다. 
+# Dodrio
+card.jung34.name=두트리오 
+ability.jung34.name=후퇴서포트 
+ability.jung34.text=이 포켓몬이 벤치에 있는 한, 자신의 배틀 포켓몬의 후퇴에 필요한 에너지는 2개분 적어진다.
+attack.jung34.1.name=분노 
+attack.jung34.1.text=이 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10데미지를 추가한다.
+# Exeggutor
+card.jung35.name=나시 
+attack.jung35.1.name=순간이동 
+attack.jung35.1.text=나시를 벤치에 있는 포켓몬과 교체한다. 
+attack.jung35.2.name=큰알폭발 
+attack.jung35.2.text=동전을 나시에 부착되어 있는 에너지의 수 만큼 던져서 앞면이 나온 수 x 20의 데미지를 준다. 
+# Fearow
+card.jung36.name=깨비드릴조
+attack.jung36.1.name=고속이동 
+attack.jung36.1.text=동전을 한 번 던져서 앞면이 나오면 다음턴 상대의 기술의 데미지와 상태이상에 면역이 된다.
+attack.jung36.2.name=회전부리
+attack.jung36.2.text=
+# Gloom
+card.jung37.name=냄새꼬 
+attack.jung37.1.name=독가루
+attack.jung37.1.text=상대의 배틀 포켓몬을 독 상태로 만든다.
+attack.jung37.2.name=고약한냄새
+attack.jung37.2.text=이 포켓몬과 상대의 배틀 포켓몬을 혼란으로 만든다.
+# Lickitung
+card.jung38.name=내루미 
+attack.jung38.1.name=혀로감싸기
+attack.jung38.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.jung38.2.name=초음파 
+attack.jung38.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+# Marowak
+card.jung39.name=텅구리 
+attack.jung39.1.name=뼈다귀부메랑
+attack.jung39.1.text=동전을 2번 던져서 앞면이 나온 수 x 30의 데미지를 준다.
+attack.jung39.2.name=친구부르기
+attack.jung39.2.text=덱안에 기본 격투타입 포켓몬 한마리를 벤치에 부른다. 
+# Nidorina
+card.jung40.name=니드리나 
+attack.jung40.1.name=초음파 
+attack.jung40.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+attack.jung40.2.name=두번치기
+attack.jung40.2.text=동전을 두 번 던져서 앞면이 나온 수 x 30의 데미지를 준다.
+# Parasect
+card.jung41.name=파라섹트 
+attack.jung41.1.name=포자뿌리기 
+attack.jung41.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.jung41.2.name=베어가르기 
+# Persian
+card.jung42.name=페르시온 
+attack.jung42.1.name=할퀴기 
+attack.jung42.2.name=덤비기 
+attack.jung42.2.text=다음 턴에 받는 기술을 10의 데미지를 적게 받는다. 
+# Primeape
+card.jung43.name=성원숭
+attack.jung43.1.name=분노의막치기 
+attack.jung43.1.text=동전을 3번 던져서 앞면이 나온 수 x 20의 데미지를 준다.
+attack.jung43.2.name=성질부리기 
+attack.jung43.2.text=동전을 한 번 던져서 뒷면이 나오면 이 포켓몬을 혼란으로 만든다.
+# Rapidash
+card.jung44.name=날쌩마 
+attack.jung44.1.name=짓밟기 
+attack.jung44.1.text=동전을 한 번 던져서 앞면이 나오면 10의 데미지를 추가로 준다. 뒷면이 나오면 20의 데미지만 준다.  
+attack.jung44.2.name=고속이동
+attack.jung44.2.text=동전을 한 번 던져서 앞면이 나오면 다음턴 상대의 기술의 데미지와 상태이상에 면역이 된다.
+# Rhydon
+card.jung45.name=코뿌리 
+attack.jung45.1.name=뿔찌르기 
+attack.jung45.2.name=들이박기 
+attack.jung45.2.text=이 포켓몬에게도 20의 데미지를 준다. 상대 벤치에 포켓몬이 있으면 상대 포켓몬을 교체하게 만든다. 
+# Seaking
+card.jung46.name=왕콘치 
+attack.jung46.1.name=뿔찌르기 
+attack.jung46.2.name=폭포오르기 
+# Tauros
+card.jung47.name=켄타로스 
+attack.jung47.1.name=짓밟기 
+attack.jung47.1.text=동전을 한 번 던져서 앞면이 나오면 10의 데미지를 추가로 준다. 뒷면이 나오면 20의 데미지만 준다.  
+attack.jung47.2.name=분노 
+attack.jung47.2.text=이 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10의 데미지를 추가한다. 동전을 한 번 던져서 뒷면이 나오면 이 포켓몬을 혼란으로 만든다.
+# Weepinbell
+card.jung48.name=우츠동 
+attack.jung48.1.name=독가루 
+attack.jung48.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+attack.jung48.2.name=잎날가르기 
+# Bellsprout
+card.jung49.name=모다피 
+attack.jung49.1.name=덩굴채찍 
+attack.jung49.2.name=가족부르기 
+attack.jung49.2.text=덱에서 모다피를 가져와 벤치에 부른다. 
+# Cubone
+card.jung50.name=탕구리 
+attack.jung50.1.name=뼈다귀방패 
+attack.jung50.1.text=다음 턴에 받는 기술을 20의 데미지를 적게 받는다. 
+attack.jung50.2.name=분노
+attack.jung50.2.text=이 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10의 데미지를 추가한다.
+# Eevee
+card.jung51.name=이브이 
+attack.jung51.1.name=꼬리흔들기 
+attack.jung51.1.text=동전을 한 번 던져서 앞면이 나오면 다음 턴에 상대 배틀 포켓몬이 이브이를 공격할 수 없게 만든다. 
+attack.jung51.2.name=전광석화 
+attack.jung51.2.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+# Exeggucte
+card.jung52.name=아라리 
+attack.jung52.1.name=최면술 
+attack.jung52.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.jung52.2.name=씨뿌리기 
+attack.jung52.2.text=이 기술이 상대 배틀 포켓몬에게 명중하면 이 포켓몬이 받은 데미지 카운터를 한개를 제거한다. 
+# Goldeen
+card.jung53.name=콘치 
+attack.jung53.1.name=뿔찌르기 
+# Jigglypuff
+card.jung54.name=푸린
+attack.jung54.1.name=자장가 
+attack.jung54.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.jung54.2.name=막치기 
+# Mankey
+card.jung55.name=망키 
+ability.jung55.name=살피기 
+ability.jung55.text=상대의 패 한장, 덱 한장, 승리보상중 하나를 볼수있다.
+attack.jung55.1.name=할퀴기 
+# Meowth
+card.jung56.name=나옹 
+attack.jung56.1.name=고양이돈받기 
+attack.jung56.1.text=동전을 한 번 던져서 앞면이 나오면 카드를 한장 뽑는다.
+# Nidoran♀
+card.jung57.name=니드런♀
+attack.jung57.1.name=분노의막치기 
+attack.jung57.1.text=동전을 3번 던져서 앞면이 나온 수 x 10의 데미지를 준다.
+attack.jung57.2.name=가족부르기
+attack.jung57.2.text=덱에서 니드런을 가져와 벤치에 부른다. 
+# Oddish
+card.jung58.name=뚜벅쵸 
+attack.jung58.1.name=저리가루 
+attack.jung58.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.jung58.2.name=새싹만들기 
+attack.jung58.2.text=덱에서 뚜벅쵸를 가져와 벤치에 부른다. 
+# Paras
+card.jung59.name=파라스 
+attack.jung59.1.name=할퀴기 
+attack.jung59.2.name=포자뿌리기
+attack.jung59.2.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+# Pikachu
+card.jung60.name=피카츄 
+attack.jung60.1.name=스파크 
+attack.jung60.1.text=상대 벤치에 포켓몬이 있으면 한마리를 정해서 벤치에 있는 포켓몬 중 한마리를 정해서 10의 데미지를 준다. 
+# Rhyhorn
+card.jung61.name=뿔카노 
+attack.jung61.1.name=째려보기 
+attack.jung61.1.text=동전을 한 번 던져서 앞면이 나오면 다음 턴에 상대 배틀 포켓몬이 뿔카노를 공격할 수 없게 만든다. 
+attack.jung61.2.name=뿔찌르기 
+# Spearow
+card.jung62.name=깨비참
+attack.jung62.1.name=쪼기 
+attack.jung62.2.name=따라하기 
+attack.jung62.2.text=이전 차례에 상대에게 이 포켓몬이 기술의 데미지를 받았다면 그 데미지와 같은 데미지를 상대의 배틀 포켓몬에게 준다.
+# Venonat
+card.jung63.name=콘팡 
+attack.jung63.1.name=저리가루
+attack.jung63.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.jung63.2.name=흡혈 
+attack.jung63.2.text=상대 배틀 포켓몬에게 데미지를 준 만큼 콘팡이 회복한다. 
+
+# Jungle Set - Trainer Cards
+card.jung64.name=몬스터볼 
+card.jung64.text=동전을 한 번 던져서 앞면이 나오면 자신의 덱에 있는 포켓몬을 1장, 상대에게 보여주고 패로 가져온다. 그 뒤, 덱을 섞는다. 
+
+# Jungle Set - Decks
+deck.waterBlast.name=Water Blast
+deck.powerReserve.name=Power Reserve
+
+# Fossil Set
+set.foss.name=화석
+
+# Fossil Set - Pokémon and Attacks
+card.foss1.name=프테라 
+ability.foss1.name=원시의외침
+ability.foss1.text=진화용 카드를 더이상 놓을수 없게 만든다 
+attack.foss1.1.name=날개치기 
+
+card.foss2.name=프리져 
+attack.foss2.1.name=프리즈드라이 
+attack.foss2.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.foss2.2.name=눈보라 
+attack.foss2.2.text=동전을 한 번 던져서 앞면이 나오면 상대 벤치에 있는 모든 포켓몬에게 10의 데미지를 주고 뒷면이 나오면 자신의 벤치에 있는 모든 포켓몬에게 10의 데미지를 준다. 
+
+card.foss3.name=메타몽 
+ability.foss3.name=변신
+ability.foss3.text=메타몽이 배틀 포켓몬으로 나가있으면 상대 배틀 포켓몬을 복사한다. 
+
+card.foss4.name=망나뇽 
+ability.foss4.name=난입 
+ability.foss4.text=망나뇽이 벤치에 있다면 자신의 배틀 포켓몬과 교체한다. 
+attack.foss4.1.name=힘껏치기
+attack.foss4.1.text=동전을 두 번 던져서 앞면이 나온 수 x 40의 데미지를 준다.
+
+card.foss5.name=팬텀 
+ability.foss5.name=저주 
+ability.foss5.text=자신의 턴에 공격 전에 적의 데미지 카운터를 적의 다른 포켓몬으로 옮길수 있다.
+attack.foss5.1.name=악의정신
+attack.foss5.1.text=상대의 벤치 포켓몬을 한마리 선택해서 10의 데미지를 준다.
+
+card.foss6.name=고우스트 
+ability.foss6.name=위장
+ability.foss6.text=상대 배틀 포켓몬에게 공격을 받으면 동전을 한 번 던져서 앞면이 나오면 데미지와 효과를 모두 무시한다. 
+attack.foss6.1.name=악몽 
+attack.foss6.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+
+card.foss7.name=시라소몬
+attack.foss7.1.name=늘어나는킥 
+attack.foss7.1.text=상대의 벤치 포켓몬을 한마리 선택해서 20의 데미지를 준다.
+attack.foss7.2.name=무릎차기 
+
+card.foss8.name=슬리퍼 
+attack.foss8.1.name=예언
+attack.foss8.1.text=상대 혹은 자신의 덱에 가장 위에있는 3장의 순서를 원하는대로 바꾼다. 
+attack.foss8.2.name=악의정신 
+attack.foss8.2.text=상대의 벤치 포켓몬을 한마리 선택해서 10의 데미지를 준다.
+
+card.foss9.name=투구푸스
+attack.foss9.1.name=날카로운낫 
+attack.foss9.2.name=흡수 
+attack.foss9.2.text=상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 데미지 카운터를 제거한다.
+
+card.foss10.name=라프라스 
+attack.foss10.1.name=물대포 
+attack.foss10.1.text=이 공격의 에너지 비용에 사용되지 않는 발챙이에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+attack.foss10.2.name=이상한빛
+attack.foss10.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+
+card.foss11.name=레어코일 
+attack.foss11.1.name=소닉붐 
+attack.foss11.1.text=이 기술의 상성을 무시하고 공격한다. 
+attack.foss11.2.name=자폭 
+attack.foss11.2.text=상대 벤치에 있는 모든 포켓몬에게 20의 데미지를 준다. 자신에게는 100의 데미지를 준다. 
+
+card.foss12.name=파이어 
+attack.foss12.1.name=와일드파이어 
+attack.foss12.1.text=파이어에게 붙어있는 불꽃의 에너지를 원하는 만큼 버린다. 버린 에너지의 수 만큼 상대의 덱에있는 카드를 버린다. 
+attack.foss12.2.name=다이브봄 
+attack.foss12.2.text=동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다. 
+
+card.foss13.name=질뻐기 
+ability.foss13.name=유독가스 
+ability.foss13.text=상대의 모든 파워를 무시한다. 
+attack.foss13.1.name=폐기물 
+attack.foss13.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+card.foss14.name=라이츄 
+attack.foss14.1.name=기가쇼크 
+attack.foss14.1.text=상대 벤치에 있는 3마리의 포켓몬에게 10의 데미지를 준다. 
+
+card.foss15.name=썬더 
+attack.foss15.1.name=번개폭풍 
+attack.foss15.1.text=상대 벤치 포켓몬 마다 동전을 던져서 앞면이 나오면 20의 데미지를 주고 뒷면이 나온 수 x 10의 데미지를 자신에게 준다.
+
+card.foss16.name=프테라 
+ability.foss16.name=원시의외침
+ability.foss16.text=진화용 카드를 더이상 놓을수 없게 만든다 
+attack.foss16.1.name=날개치기 
+
+card.foss17.name=프리져 
+attack.foss17.1.name=프리즈드라이 
+attack.foss17.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.foss17.2.name=눈보라 
+attack.foss17.2.text=동전을 한 번 던져서 앞면이 나오면 상대 벤치에 있는 모든 포켓몬에게 10의 데미지를 주고 뒷면이 나오면 자신의 벤치에 있는 모든 포켓몬에게 10의 데미지를 준다. 
+
+card.foss18.name=메타몽 
+ability.foss18.name=변신
+ability.foss18.text=메타몽이 배틀 포켓몬으로 나가있으면 상대 배틀 포켓몬을 복사한다. If Ditto is your Active Pokémon, treat it as if it were an exact copy of the Defending Pokémon, except Ditto can't evolve, and treat any Energy attached to Ditto as Energy of any type. Disabled by Sleep, Confusion, or Paralysis.
+
+card.foss19.name=망나뇽 
+ability.foss19.name=난입 
+ability.foss19.text=망나뇽이 벤치에 있다면 자신의 배틀 포켓몬과 교체한다. 
+attack.foss19.1.name=힘껏치기
+attack.foss19.1.text=동전을 두 번 던져서 앞면이 나온 수 x 40의 데미지를 준다.
+
+card.foss20.name=팬텀 
+ability.foss20.name=저주 
+ability.foss20.text=자신의 턴에 공격 전에 적의 데미지 카운터를 적의 다른 포켓몬으로 옮길수 있다. Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). Disabled by Sleep, Confusion, or Paralysis.
+attack.foss20.1.name=악의정신
+attack.foss20.1.text=상대의 벤치 포켓몬을 한마리 선택해서 10의 데미지를 준다.
+
+card.foss21.name=고우스트 
+ability.foss21.name=위장
+ability.foss21.text=상대 배틀 포켓몬에게 공격을 받으면 동전을 한 번 던져서 앞면이 나오면 데미지와 효과를 모두 무시한다. 
+attack.foss21.1.name=악몽 
+attack.foss21.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+
+card.foss22.name=시라소몬
+attack.foss22.1.name=늘어나는킥 
+attack.foss22.1.text=상대의 벤치 포켓몬을 한마리 선택해서 20의 데미지를 준다.
+attack.foss22.2.name=무릎차기 
+
+card.foss23.name=슬리퍼 
+attack.foss23.1.name=예언
+attack.foss23.1.text=상대 혹은 자신의 덱에 가장 위에있는 3장의 순서를 원하는대로 바꾼다. 
+attack.foss23.2.name=악의정신 
+attack.foss23.2.text=상대의 벤치 포켓몬을 한마리 선택해서 10의 데미지를 준다.
+
+card.foss24.name=투구푸스
+attack.foss24.1.name=날카로운낫 
+attack.foss24.2.name=흡수 
+attack.foss24.2.text=상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 데미지 카운터를 제거한다.
+
+card.foss25.name=라프라스 
+attack.foss25.1.name=물대포 
+attack.foss25.1.text=이 공격의 에너지 비용에 사용되지 않는 발챙이에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+attack.foss25.2.name=이상한빛
+attack.foss25.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+
+card.foss26.name=레어코일 
+attack.foss26.1.name=소닉붐 
+attack.foss26.1.text=이 기술의 상성을 무시하고 공격한다. 
+attack.foss26.2.name=자폭 
+attack.foss26.2.text=상대 벤치에 있는 모든 포켓몬에게 20의 데미지를 준다. 자신에게는 100의 데미지를 준다. 
+
+card.foss27.name=파이어 
+attack.foss27.1.name=와일드파이어 
+attack.foss27.1.text=파이어에게 붙어있는 불꽃의 에너지를 원하는 만큼 버린다. 버린 에너지의 수 만큼 상대의 덱에있는 카드를 버린다. 
+attack.foss27.2.name=다이브봄 
+attack.foss27.2.text=동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다. 
+
+card.foss28.name=질뻐기 
+ability.foss28.name=유독가스 
+ability.foss28.text=상대의 모든 파워를 무시한다. 
+attack.foss28.1.name=폐기물 
+attack.foss28.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+card.foss29.name=라이츄 
+attack.foss29.1.name=기가쇼크 
+attack.foss29.1.text=상대 벤치에 있는 3마리의 포켓몬에게 10의 데미지를 준다. 
+
+card.foss30.name=썬더 
+attack.foss30.1.name=번개폭풍 
+attack.foss30.1.text=상대 벤치 포켓몬 마다 동전을 던져서 앞면이 나오면 20의 데미지를 주고 뒷면이 나온 수 x 10의 데미지를 자신에게 준다.
+
+card.foss31.name=아보크 
+attack.foss31.1.name=공포공습 
+attack.foss31.1.text=상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.
+attack.foss31.2.name=독이빨 
+attack.foss31.2.text=상대의 배틀 포켓몬을 독으로 만든다.
+
+card.foss32.name=파르셀
+attack.foss32.1.name=껍질로조르기  
+attack.foss32.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다. 뒷면이 나오면 이 기술은 실패한다. 
+attack.foss32.2.name=가시대포 
+attack.foss32.2.text=동전을 두 번 던져서 앞면이 나온 수 x 30의 데미지를 준다.
+
+card.foss33.name=고오스 
+attack.foss33.1.name=핥기
+attack.foss33.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.foss33.2.name=에너지교환 
+attack.foss33.2.text=버린 에너지 카드중 2장을 다시 받는다. 고오스에게 10의 데미지를 준다. 
+
+card.foss34.name=골뱃
+attack.foss34.1.name=날개치기 
+attack.foss34.2.name=흡혈 
+attack.foss34.2.text=상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 데미지 카운터를 제거한다.
+
+card.foss35.name=골덕 
+attack.foss35.1.name=사이코쇼크 
+attack.foss35.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.foss35.2.name=파괴광선 
+attack.foss35.2.text=상대의 배틀 포켓몬에게 붙어 있는 에너지 1개를 선택해서 버린다.
+
+card.foss36.name=딱구리
+attack.foss36.1.name=산사태 
+attack.foss36.2.name=자폭 
+attack.foss36.2.text=상대 벤치에 있는 모든 포켓몬에게 20의 데미지를 준다. 자신에게는 100의 데미지를 준다. 
+
+card.foss37.name=데구리
+attack.foss37.1.name=단단해지기 
+attack.foss37.1.text=상대의 다음 차례에 자신이 받는 기술의 데미지가 30 이하라면 자신은 그 데미지를 받지 않는다. 
+attack.foss37.2.name=돌떨구기 
+
+card.foss38.name=킹크랩 
+attack.foss38.1.name=바둥바둥 
+attack.foss38.1.text=이 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10의 데미지를 준다.
+attack.foss38.2.name=찝게햄머 
+
+card.foss39.name=마그마 
+attack.foss39.1.name=연막 
+attack.foss39.1.text=상대 배틀 포켓몬이 다음턴에 공격하려 할때 동전을 던진다. 뒷면이 나오면 상대의 기술은 실패한다. 
+attack.foss39.2.name=스모그 
+attack.foss39.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+card.foss40.name=암스타
+attack.foss40.1.name=물대포 
+attack.foss40.1.text=이 공격의 에너지 비용에 사용되지 않는 암스타에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+attack.foss40.2.name=가시대포 
+attack.foss40.2.text=동전을 두 번 던져서 앞면이 나온 수 x 30의 데미지를 준다.
+
+card.foss41.name=모래두지 
+attack.foss41.1.name=베어가르기 
+attack.foss41.2.name=분노의막치기 
+attack.foss41.2.text=동전을 3번 던져서 앞면이 나온 수 x 20의 데미지를 준다.
+
+card.foss42.name=시드라 
+attack.foss42.1.name=물대포 
+attack.foss42.1.text=이 공격의 에너지 비용에 사용되지 않는 시드라에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+attack.foss42.2.name=고속이동 
+attack.foss42.2.text=동전을 한 번 던져서 앞면이 나오면 다음턴 상대의 기술의 데미지와 상태이상에 면역이 된다.
+
+card.foss43.name=야도란 
+ability.foss43.name=이상한행동 
+ability.foss43.text=배틀에 나가있는 자신의 포켓몬중 하나의 데미지 카운터를 야도란으로 옮길 수 있다. 야도란의 체력이 부족하다면 옮길 수 없다. 
+attack.foss43.1.name=사이코쇼크
+attack.foss43.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.foss44.name=독파리 
+attack.foss44.1.name=초음파 
+attack.foss44.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+attack.foss44.2.name=해파리촉수
+attack.foss44.2.text=상대의 배틀 포켓몬을 독으로 만든다.
+
+card.foss45.name=또도가스
+attack.foss45.1.name=스모드 
+attack.foss45.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+attack.foss45.2.name=자폭 
+attack.foss45.2.text=상대 벤치에 있는 모든 포켓몬에게 10의 데미지를 준다. 자신에게는 60의 데미지를 준다. 
+
+card.foss46.name=아보 
+attack.foss46.1.name=독뱉기 
+attack.foss46.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+attack.foss46.2.name=김밥말이 
+attack.foss46.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.foss47.name=꼬마돌 
+attack.foss47.1.name=돌탄막 
+attack.foss47.1.text=동전을 뒷면이 나올때까지 던진다. 앞면이 나온 수 x 10의 데미지를 준다. 
+
+card.foss48.name=질퍽이 
+attack.foss48.1.name=더러운끈끈이
+attack.foss48.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.foss48.2.name=작아지기 
+attack.foss48.2.text=다음 턴에 받는 기술을 20의 데미지를 적게 받는다. 
+
+card.foss49.name=쏘드라 
+attack.foss49.1.name=연막 
+attack.foss49.1.text=상대 배틀 포켓몬이 다음턴에 공격하려 할때 동전을 던진다. 뒷면이 나오면 상대의 기술은 실패한다. 
+
+card.foss50.name=투구푸스 
+ability.foss50.name=투구푸스의 방패 
+ability.foss50.text=투구푸스가 받는 모든 공격 기술의 데미지를 절반으로 받는다. 상태이상일땐 발동하지 않는다. 
+attack.foss50.1.name=베어가르기 
+
+card.foss51.name=크랩
+attack.foss51.1.name=가족부르기
+attack.foss51.1.text=덱에서 크랩을 가져와 벤치에 부른다.  
+attack.foss51.2.name=찝게햄머
+
+card.foss52.name=암나이트 
+ability.foss52.name=예지력
+ability.foss52.text=상대의 패를 드러냅니다. 암나이트가 상태이상에 걸리면 이 효과는 사라집니다. 
+attack.foss52.1.name=물대포 
+attack.foss52.1.text=이 공격의 에너지 비용에 사용되지 않는 암나이트에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+
+card.foss53.name=고라파덕 
+attack.foss53.1.name=두통 
+attack.foss53.1.text=다음 차례에 상대는 패에서 트레이너스 카드를 꺼내서 사용할 수 없다. 
+attack.foss53.2.name=분노의막치기 
+attack.foss53.2.text=동전을 3번 던져서 앞면이 나온 수 x 10의 데미지를 준다.
+
+card.foss54.name=셀러 
+attack.foss54.1.name=초음파 
+attack.foss54.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+attack.foss54.2.name=껍질에숨기
+attack.foss54.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+
+card.foss55.name=야돈 
+attack.foss55.1.name=멍때리기 
+attack.foss55.1.text=동전을 한 번 던져서 앞면이 나오면 야돈의 데미지 카운터 1개를 제거한다. 
+attack.foss55.2.name=쓰레기 뒤지기 
+attack.foss55.2.text=이 포켓몬에게 붙어 있는 초의 에너지를 1개 선택해서 버린다. 그 뒤, 트래쉬에서 트레이너스 카드 1장을 선택해서 패로 가져온다. 
+
+card.foss56.name=왕눈해
+ability.foss56.name=겁쟁이 
+ability.foss56.text=언제라도 왕눈해를 패로 돌려 보낼 수 있다. 상태이상일땐 발동하지 않는다. 
+attack.foss56.1.name=용해액 
+
+card.foss57.name=주뱃 
+attack.foss57.1.name=초음파 
+attack.foss57.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+attack.foss57.2.name=흡혈
+attack.foss57.2.text=상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 데미지 카운터를 제거한다.
+
+# Fossil Set - Trainer Cards
+card.foss58.name=후지박사
+card.foss58.text=벤치에 있는 포켓몬 한마리를 덱에 넣고 섞는다. 
+card.foss59.name=에너지찾기 
+card.foss59.text=덱에서 기본 에너지를 찾아 패로 가져온다. 그 뒤 덱을 섞는다. 
+card.foss60.name=도박꾼
+card.foss60.text=패를 덱에 넣고 동전을 한 번 던진다. 앞면이 나오면 카드 8장을 뽑고 뒷면이 나오면 1장을 뽑는다. 
+card.foss61.name=리사이클 
+card.foss61.text=동전을 한 번 던져서 앞면이 나오면 버린카드중 1장을 덱에 맨 위에 넣는다.
+card.foss62.name=알수없는 화석 
+card.foss62.text=일반 포켓몬처럼 내보낼 수 있다. 공격이 없고 교체할 수도 없으며 잠듦, 혼란, 마비, 독에 걸릴 수도없다. 원할때 없앨 수 있다. 
+
+# Team Rocket Set
+set.tero.name=로켓단 
+
+# Team Rocket Set - Pokémon and Attacks
+card.tero1.name=악의 후딘 
+attack.tero1.1.name=폭발적인 순간이동 
+attack.tero1.1.text=악의 후딘을 벤치에 있는 포켓몬과 교체한다. 
+attack.tero1.2.name=정신공격 
+attack.tero1.2.text=이 기술의 상성을 무시하고 공격한다. 
+
+card.tero2.name=악의 아보크 
+attack.tero2.1.name=노려보기 
+attack.tero2.1.text=배틀에 나와있는 적의 포켓몬중 한마리를 선택하여 공격한다.이 기술은 상성을 무시하고 공격한다. 이 공격을 맞은 포켓몬의 특성은 그 턴에 발동하지 않는다.
+attack.tero2.2.name=독증기 
+attack.tero2.2.text=상대의 배틀 포켓몬을 독으로 만든다. 상대 벤치에 있는 모든 포켓몬들에게 10의 데미지를 준다.
+
+card.tero3.name=악의 거북왕 
+attack.tero3.1.name=하이드로캐논 
+attack.tero3.1.text=이 공격의 에너지 비용에 사용되지 않는 악의 거북왕에 부착된 물의 에너지당 20 데미지를 더해 최대 40 추가 데미지를 줍니다.
+attack.tero3.2.name=로켓박치기 
+attack.tero3.2.text=자신한테도 10의 데미지를 준다. 동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+
+card.tero4.name=악의 리자몽 
+attack.tero4.1.name=발톱할퀴기
+attack.tero4.2.name=무한의 화염볼 
+attack.tero4.2.text=악의 리자몽에게 붙어 있는 수 만큼 동전을 던진다. 앞면이 나온 수 x 50의 데미지를 상대에게 주고 그 수 만큼 악의 리자몽한테 붙어있는 불꽃의 에너지를 버린다. 
+
+card.tero5.name=악의 망나뇽
+ability.tero5.name=미니언소환
+ability.tero5.text=악의 망나뇽을 배틀 포켓몬으로 내보냈을때 두개의 일반 포켓몬을 덱에서 꺼낸다. 그 뒤 덱을 섞는다. 
+attack.tero5.1.name=거대한꼬리 
+attack.tero5.1.text=동전을 던져서 뒷면이 나오면 이 기술은 실패한다. 
+
+card.tero6.name=악의 닥트리오 
+ability.tero6.name=싱크홀 
+ability.tero6.text=상대가 배틀 포켓몬을 교체 할때 마다 동전을 한 번 던진다. 뒷면이 나오면 교체하는 포켓몬에게 20의 데미지를 준다. 
+attack.tero6.1.name=때려눕히기 
+attack.tero6.1.text=상대가 동전을 한 번 던져서 뒷면이 나오면 20의 추가 데미지를 준다. 
+
+card.tero7.name=악의 골뱃 
+ability.tero7.name=기습공격 
+ability.tero7.text=악의 골뱃을 배틀 포켓몬으로 내보냈을때 상대 포켓몬중 한마리를 정해 10의 데미지를 준다. 
+attack.tero7.1.name=날갯짓 
+attack.tero7.1.text=상대 포켓몬중 한마리를 정해 20의 데미지를 준다. 
+
+card.tero8.name=악의 갸라도스 
+ability.tero8.name=파이널빔 
+ability.tero8.text=악의 갸라도스가 공격으로 쓰러지면 동전을 던진다. 앞면이 나오면 악의 갸라도스에 붙어 있는 물의 에너지 x 20의 데미지를 준다.
+attack.tero8.1.name=냉동빔
+attack.tero8.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.tero9.name=악의 슬리퍼 
+attack.tero9.1.name=사이코펀치 
+attack.tero9.2.name=벤치조작
+attack.tero9.2.text=상대 벤치 포켓몬의 수 만큼 동전을 던진다. 동전이 뒷면이 나온 수 x 20의 데미지를 상대 배틀 포켓몬에게 준다. 
+
+card.tero10.name=악의 괴력몬 
+attack.tero10.1.name=메가톤펀치 
+attack.tero10.2.name=내던지기 
+attack.tero10.2.text=상대의 배틀 포켓몬과 붙어 있는 모든 카드를 덱에 다시 넣고 덱을 섞는다. 상대 벤치에 포켓몬이 없다면 이 기술은 실패한다. 
+
+card.tero11.name=악의 레어코일 
+attack.tero11.1.name=소닉붐 
+attack.tero11.1.text=이 기술의 상성을 무시하고 공격한다. 
+attack.tero11.2.name=자력선 
+attack.tero11.2.text=상대 배틀 포켓몬에 붙어 있는 에너지 1개를 선택하여 상대 벤치 포켓몬중 하나에게 옮긴다. 
+
+card.tero12.name=악의 야도란 
+ability.tero12.name=낚아채기 
+ability.tero12.text=악의 야도란을 배틀 포켓몬으로 내보내면 최대 3장의 포켓몬 혹은 진화의 카드를 트래쉬에서 패로 가져온다. 
+attack.tero12.1.name=불규칙한공격 
+attack.tero12.1.text=동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다.
+
+card.tero13.name=악의 라플레시아 
+ability.tero13.name=짜증나는 꽃가루 
+ability.tero13.text=이 포켓몬이 배틀 포켓몬으로 나가있는 한 트레이너스 카드를 사용할 수 없다. 
+attack.tero13.1.name=꽃잎바람 
+attack.tero13.1.text=동전을 3번 던져서 앞면이 나온 수 x 30의 데미지를 준다. 앞면이 2번 이상 나오면 라플레시아를 혼란으로 만든다. 
+
+card.tero14.name=악의 또도가스 
+attack.tero14.1.name=대폭발
+attack.tero14.1.text=적과 아군의 플레이에 나와 있는 또가스, 또도가스, 악의 또도가스의 수 x 20의 데미지를 준다.
+attack.tero14.2.name=스턴가스
+attack.tero14.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다, 뒷면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.tero18.name=악의 후딘 
+attack.tero18.1.name=폭발적인 순간이동 
+attack.tero18.1.text=악의 후딘을 벤치에 있는 포켓몬과 교체한다. 
+attack.tero18.2.name=정신공격 
+attack.tero18.2.text=이 기술의 상성을 무시하고 공격한다. 
+
+card.tero19.name=악의 아보크 
+attack.tero19.1.name=노려보기 
+attack.tero19.1.text=배틀에 나와있는 적의 포켓몬중 한마리를 선택하여 공격한다.이 기술은 상성을 무시하고 공격한다. 이 공격을 맞은 포켓몬의 특성은 그 턴에 발동하지 않는다.
+attack.tero19.2.name=독증기 
+attack.tero19.2.text=상대의 배틀 포켓몬을 독으로 만든다. 상대 벤치에 있는 모든 포켓몬들에게 10의 데미지를 준다.
+
+card.tero20.name=악의 거북왕 
+attack.tero20.1.name=하이드로캐논 
+attack.tero20.1.text=이 공격의 에너지 비용에 사용되지 않는 악의 거북왕에 부착된 물의 에너지당 20 데미지를 더해 최대 40 추가 데미지를 줍니다.
+attack.tero20.2.name=로켓박치기 
+attack.tero20.2.text=자신한테도 10의 데미지를 준다. 동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+
+card.tero21.name=악의 리자몽 
+attack.tero21.1.name=발톱할퀴기
+attack.tero21.2.name=무한의 화염볼 
+attack.tero21.2.text=악의 리자몽에게 붙어 있는 수 만큼 동전을 던진다. 앞면이 나온 수 x 50의 데미지를 상대에게 주고 그 수 만큼 악의 리자몽한테 붙어있는 불꽃의 에너지를 버린다. 
+
+card.tero22.name=악의 망나뇽
+ability.tero22.name=미니언소환
+ability.tero22.text=악의 망나뇽을 배틀 포켓몬으로 내보냈을때 두개의 일반 포켓몬을 덱에서 꺼낸다. 그 뒤 덱을 섞는다. 
+attack.tero22.1.name=거대한꼬리 
+attack.tero22.1.text=동전을 던져서 뒷면이 나오면 이 기술은 실패한다. 
+
+card.tero23.name=악의 닥트리오 
+ability.tero23.name=싱크홀 
+ability.tero23.text=상대가 배틀 포켓몬을 교체 할때 마다 동전을 한 번 던진다. 뒷면이 나오면 교체하는 포켓몬에게 20의 데미지를 준다. 
+attack.tero23.1.name=때려눕히기 
+attack.tero23.1.text=상대가 동전을 한 번 던져서 뒷면이 나오면 20의 추가 데미지를 준다. 
+
+card.tero24.name=악의 골뱃 
+ability.tero24.name=기습공격 
+ability.tero24.text=악의 골뱃을 배틀 포켓몬으로 내보냈을때 상대 포켓몬중 한마리를 정해 10의 데미지를 준다. 
+attack.tero24.1.name=날갯짓 
+attack.tero24.1.text=상대 포켓몬중 한마리를 정해 20의 데미지를 준다. 
+
+card.tero25.name=악의 갸라도스 
+ability.tero25.name=파이널빔 
+ability.tero25.text=악의 갸라도스가 공격으로 쓰러지면 동전을 던진다. 앞면이 나오면 악의 갸라도스에 붙어 있는 물의 에너지 x 20의 데미지를 준다.
+attack.tero25.1.name=냉동빔
+attack.tero25.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.tero26.name=악의 슬리퍼 
+attack.tero26.1.name=사이코펀치 
+attack.tero26.2.name=벤치조작
+attack.tero26.2.text=상대 벤치 포켓몬의 수 만큼 동전을 던진다. 동전이 뒷면이 나온 수 x 20의 데미지를 상대 배틀 포켓몬에게 준다. 
+
+card.tero27.name=악의 괴력몬 
+attack.tero27.1.name=메가톤펀치 
+attack.tero27.2.name=내던지기 
+attack.tero27.2.text=상대의 배틀 포켓몬과 붙어 있는 모든 카드를 덱에 다시 넣고 덱을 섞는다. 상대 벤치에 포켓몬이 없다면 이 기술은 실패한다. 
+
+card.tero28.name=악의 레어코일 
+attack.tero28.1.name=소닉붐 
+attack.tero28.1.text=이 기술의 상성을 무시하고 공격한다. 
+attack.tero28.2.name=자력선 
+attack.tero28.2.text=상대 배틀 포켓몬에 붙어 있는 에너지 1개를 선택하여 상대 벤치 포켓몬중 하나에게 옮긴다. 
+
+card.tero29.name=악의 야도란 
+ability.tero29.name=낚아채기 
+ability.tero29.text=악의 야도란을 배틀 포켓몬으로 내보내면 최대 3장의 포켓몬 혹은 진화의 카드를 트래쉬에서 패로 가져온다. 
+attack.tero29.1.name=불규칙한공격 
+attack.tero29.1.text=동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다.
+
+card.tero30.name=악의 라플레시아 
+ability.tero30.name=짜증나는 꽃가루 
+ability.tero30.text=이 포켓몬이 배틀 포켓몬으로 나가있는 한 트레이너스 카드를 사용할 수 없다. 
+attack.tero30.1.name=꽃잎바람 
+attack.tero30.1.text=동전을 3번 던져서 앞면이 나온 수 x 30의 데미지를 준다. 앞면이 2번 이상 나오면 라플레시아를 혼란으로 만든다. 
+
+card.tero31.name=악의 또도가스 
+attack.tero31.1.name=대폭발
+attack.tero31.1.text=적과 아군의 플레이에 나와 있는 또가스, 또도가스, 악의 또도가스의 수 x 20의 데미지를 준다.
+attack.tero31.2.name=스턴가스
+attack.tero31.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다, 뒷면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.tero32.name=악의 리자드 
+attack.tero32.1.name=꼬리치기 
+attack.tero32.2.name=파이어볼
+attack.tero32.2.text=동전을 한 번 던져서 앞면이 나오면 악의 리자드에 붙어 있는 불꽃의 에너지 하나를 버린다. 뒷면이 나오면 이 기술은 실패한다. 
+
+card.tero33.name=악의 신뇽 
+ability.tero33.name=진화의 빛 
+ability.tero33.text=덱에서 진화의 카드를 한장 상대에게 보여주고 패로 가져온다. 그 뒤 덱을 섞는다. 
+attack.tero33.1.name=꼬리 스트라이크 
+attack.tero33.1.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+
+card.tero34.name=악의 붐볼 
+attack.tero34.1.name=롤링태클 
+attack.tero34.2.name=에너지봄 
+attack.tero34.2.text=악의 붐볼에 붙어있는 모든 에너지를 벤치에 있는 포켓몬으로 옮긴다. 
+
+card.tero35.name=악의 부스터 
+attack.tero35.1.name=분노 
+attack.tero35.1.text=이 포켓몬에게 올려져 있는 데미지 카운터의 수 x 10데미지를 추가한다.
+attack.tero35.2.name=불놀이 
+attack.tero35.2.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+
+card.tero36.name=악의 냄새꼬
+ability.tero36.name=꽃가루냄새 
+ability.tero36.text=동전을 한 번 던져서 앞면이 나오면 상대 배틀 포켓몬을 혼란으로 만든다, 뒷면이 나오면 악의 냄새꼬를 혼란으로 만든다. 
+attack.tero36.1.name=독가루 
+attack.tero36.1.text=상대의 배틀 포켓몬을 독으로 만든다.
+
+card.tero37.name=악의 골덕 
+attack.tero37.1.name=세번째눈 
+attack.tero37.1.text=악의 골덕에 붙어있는 1개의 에너지를 소비해서 3장의 카드를 뽑는다. 
+attack.tero37.2.name=환상 
+
+card.tero38.name=악의 쥬피썬더
+attack.tero38.1.name=번개플래시 
+attack.tero38.1.text=상대 배틀 포켓몬이 다음턴에 공격하려 할때 동전을 던진다. 뒷면이 나오면 상대의 기술은 실패한다. 
+attack.tero38.2.name=번개공격 
+attack.tero38.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다. 뒷면이 나오면 악의 쥬피썬더에게 10의 데미지를 준다.
+
+card.tero39.name=악의 윤겔라 
+ability.tero39.name=재물교환 
+ability.tero39.text=패에 있는 카드를 버리고 카드 한장을 뽑는다. 
+attack.tero39.1.name=정신공격
+attack.tero39.1.text=이 기술의 상성을 무시하고 공격한다. 
+
+card.tero40.name=악의 근육몬 
+attack.tero40.1.name=끌어내기 
+attack.tero40.1.text=상대의 배틀 포켓몬을 벤치에 있는 포켓몬과 교체하여 교체된 포켓몬에게 데미지를 준다. 
+attack.tero40.2.name=밀치기 
+attack.tero40.2.text=상대의 배틀 포켓몬을 밀쳐서 강제로 벤치에 있응 포켓몬과 교환시킨다. 
+
+card.tero41.name=악의 질뻐기 
+ability.tero41.name=더러운끈적이
+ability.tero41.text=악의 질뻐기가 배틀 포켓몬으로 나가있는한 상대는 배틀 포켓몬을 교체시키려면 2개의 에너지를 추가로 지불해야한다. 
+attack.tero41.1.name=쓰레기펀치 
+attack.tero41.1.text=상대의 배틀 포켓몬을 독으로 만든다.
+
+card.tero42.name=악의 페르시온 
+attack.tero42.1.name=매혹 
+attack.tero42.1.text=동전은 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 벤치에 있는 포켓몬과 교체하게 만든다. 
+attack.tero42.2.name=독크루
+attack.tero42.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+card.tero43.name=악의 성원숭 
+ability.tero43.name=광란
+ability.tero43.text=혼란인 상태로 이 기술을 적중하면 30의 데미지를 추가로 준다. (자기 자신한테도 추가 데미지를 준다. 
+attack.tero43.1.name=광분한공격
+attack.tero43.1.text=이 포켓몬을 혼란으로 만든다. 
+
+card.tero44.name=악의 날쌩마 
+attack.tero44.1.name=뒤로 차기 
+attack.tero44.2.name=불꽃기둥 
+attack.tero44.2.text=악의 날쌩마에 붙어있는 불꽃의 에너지를 1개 소모해서 상대 벤치에 있는 포켓몬 한마리에 10의 데미지를 줄 수 있다. 
+
+card.tero45.name=악의 샤미드 
+attack.tero45.1.name=물기 
+attack.tero45.2.name=소용돌이 
+attack.tero45.2.text=상대 배틀 포켓몬에게 붙어 있는 에너지 1개를 선택해서 버린다.
+
+card.tero46.name=악의 어니부기 
+attack.tero46.1.name=연속뺨치기
+attack.tero46.1.text=동전을 두 번 던져서 앞면이 나온 수 x 10의 데미지를 준다.
+attack.tero46.2.name=껍질반사 
+attack.tero46.2.text=상대방의 기술을 맞으면 받은 데미지를 똑같이 상대에게 돌려준다. (악의 어니부기가 기절해도 돌려준다).
+
+card.tero47.name=잉어킹 
+attack.tero47.1.name=드러눕기  
+attack.tero47.2.name=신속진화 
+attack.tero47.2.text=덱에서 갸라도스 혹은 악의 갸라도스를 찾아서 잉어킹에게 부착한다. 그 뒤 덱을 섞는다. 
+
+card.tero48.name=폴리곤 
+attack.tero48.1.name=텍스쳐 
+attack.tero48.1.text=상대의 배틀 포켓몬이 약점을 가지고 있다면 상대의 약점을 자신이 원하는 타입으로 바꿀 수 있다.
+attack.tero48.2.name=환상빔 
+attack.tero48.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+
+card.tero49.name=케이시 
+attack.tero49.1.name=투명화 
+attack.tero49.1.text=케이시를 덱으로 섞는다. 
+attack.tero49.2.name=사이코쇼크 
+attack.tero49.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.tero50.name=파이리 
+ability.tero50.name=불꽃모으기 
+ability.tero50.text=배틀에 나가있는 포켓몬중 불꽃의 에너지를 파이리로 옮겨온다. 
+attack.tero50.1.name=불꽃꼬리 
+
+card.tero51.name=악의 레트라 
+attack.tero51.1.name=갉기
+attack.tero51.2.name=필살앞니 
+attack.tero51.2.text=동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다. 
+
+card.tero52.name=디그다 
+attack.tero52.1.name=파고들기 
+attack.tero52.1.text=상대의 포켓몬중 한마리를 정해 10의 데미지를 준다.    
+attack.tero52.2.name=할퀴기
+
+card.tero53.name=미뇽 
+attack.tero53.1.name=김밥말이 
+attack.tero53.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.tero54.name=슬리프 
+ability.tero54.name=장거리 최면술 
+ability.tero54.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다, 뒷면이 나오면 슬리프를 잠듦으로 만든다.
+attack.tero54.1.name=악몽 
+attack.tero54.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+
+card.tero55.name=이브이 
+attack.tero55.1.name=몸통박치기 
+attack.tero55.2.name=모래뿌리기 
+attack.tero55.2.text=상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던져서 뒷면이 나오면 그 기술은 실패한다. 
+
+card.tero56.name=아보 
+attack.tero56.1.name=물기 
+attack.tero56.2.name=독침
+attack.tero56.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+card.tero57.name=질퍽이 
+attack.tero57.1.name=독가스 
+attack.tero57.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.tero57.2.name=끈적끈적한손
+attack.tero57.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 포켓몬에게 20의 데미지를 추가로 입히고 마비로 만든다. 뒷면이 나오면 이 기술은 실패한다. 
+
+card.tero58.name=도가스 
+attack.tero58.1.name=몸통박치기 
+attack.tero58.2.name=독가스 
+attack.tero58.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+card.tero59.name=알통몬 
+attack.tero59.1.name=펀치 
+attack.tero59.2.name=발차기 
+
+card.tero60.name=코일 
+attack.tero60.1.name=몸통박치기 
+attack.tero60.2.name=자성 
+attack.tero60.2.text=아군 벤치에 있는 코일, 레어코일, 악의 레어코일의 수 x 10의 추가 데미지를 준다. 
+
+card.tero61.name=망키 
+attack.tero61.1.name=장난치키 
+attack.tero61.1.text=상대방의 덱을 섞는다. 
+attack.tero61.2.name=화내기 
+attack.tero61.2.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+
+card.tero62.name=나옹 
+attack.tero62.1.name=동전던지기 
+attack.tero62.1.text=상대방의 포켓몬을 전해서 동전을 던진다. 앞면이 나오면 20의 데미지를 준다. 
+
+card.tero63.name=뚜벅쵸 
+attack.tero63.1.name=수면가루 
+attack.tero63.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+attack.tero63.2.name=독가루 
+attack.tero63.2.text=상대의 배틀 포켓몬을 독으로 만든다.
+
+card.tero64.name=포니타 
+attack.tero64.1.name=불꽃세례
+attack.tero64.1.text=이 포켓몬에게 붙어 있는 불꽃의 에너지를 1개 선택해서 버린다.
+
+card.tero65.name=고라파덕 
+attack.tero65.1.name=현기증 
+attack.tero65.1.text=카드 한장을 뽑는다. 
+attack.tero65.2.name=물대포 
+attack.tero65.2.text=이 공격의 에너지 비용에 사용되지 않는 고라파덕에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+
+card.tero66.name=꼬렛 
+ability.tero66.name=사기 
+ability.tero66.text=덱의 상단 카드로 상품 1개를 바꿀 수 있습니다.
+attack.tero66.1.name=전광석화 
+attack.tero66.1.text=동전을 한 번 던져서 앞면이 나오면 10의 데미지를 추가로 준다. 
+
+card.tero67.name=야돈 
+attack.tero67.1.name=낮잠자기 
+attack.tero67.1.text=덱에 있는 초의 카드 한장을 야돈에게 부착한다. 그 뒤 덱을 섞는다. 
+attack.tero67.2.name=박치기 
+
+card.tero68.name=꼬북이 
+attack.tero68.1.name=껍질공격 
+
+card.tero69.name=찌리리공 
+attack.tero69.1.name=스피드볼 
+
+card.tero70.name=주뱃 
+attack.tero70.1.name=들이박기
+attack.tero70.2.name=물기 
+
+card.tero83.name=악의 라이츄 
+attack.tero83.1.name=서프라이즈 썬더 
+attack.tero83.1.text=동전을 한 번 던져서 앞면이 나오면 동전을 한 번 더 던진다. 두번째도 앞면이 나오면 상대 벤치에 있는 모든 포켓몬에게 20의 데미지를 주고 두번째에 뒷면이 나오면 10의 데미지씩 준다. 
+
+# Team Rocket Set - Trainer Cards
+card.tero15.name=로켓단 등장! 
+card.tero15.text=서로의 플레이어는 각각 자신의 프라이즈를 대전이 종료될 때까지 모두 앞면으로 한다.
+card.tero16.name=로켓단의 기습
+card.tero16.text=상대방의 패를 봐서 트레이너스 카드가 있다면 한장을 정해서 상대 덱으로 넣는다. 그 뒤 덱을 섞는다. 
+card.tero71.name=로켓단 등장!
+card.tero71.text=서로의 플레이어는 각각 자신의 프라이즈를 대전이 종료될 때까지 모두 앞면으로 한다.
+card.tero72.name=로켓단의 기습
+card.tero72.text=상대방의 패를 봐서 트레이너스 카드가 있다면 한장을 정해서 상대 덱으로 넣는다. 그 뒤 덱을 섞는다. 
+card.tero73.name=보스의 길 
+card.tero73.text=덱에서 악이 들어간 진화카드를 한장 뽑아 적에게 보여주고 패로 가져온다. 그 뒤 덱을 섞는다. 
+card.tero74.name=챌린지!
+card.tero74.text=상대방에게 게임을 신청한다. 상대방이 거절한다면 2장의 카드를 뽑는다. 수락하면 덱에서 기본 포켓몬을 찾아 원하는 만큼 벤치에 카드를 뒤집어 놓는다. 그 뒤 덱을 섞고 카드를 다시 뒤집는다. 
+card.tero75.name=삽질 
+card.tero75.text=동전을 한 번 던져서 뒷면이 나오면 아군 배틀 포켓몬에게 10의 데미지를 준다. 앞면이 나오면 상대방이 동전을 던진다. 상대방이 뒷면이 나오면 상대방의 배틀 포켓몬에게 10의 데미지를 준다. 상대방이 앞면이 나오면 다시 아군이 동전을 던져서 뒷면이 나올때 까지 동전을 던진다. 
+card.tero76.name=가짜 오박사의 복수 
+card.tero76.text=패에서 카드 한장을 소모하여 이 카드를 사용한다. 상대방의 패를 덱으로 다시 넣고 섞은후 4장을 뽑는다. 
+card.tero77.name=쓰레기장 뒤지기 
+card.tero77.text=최대 3장의 카드를 버린 카드에서 뽑는다. 뽑은 카드를 상대방에게 보여주고 패로 가져온다. 
+card.tero78.name=가스 공격 
+card.tero78.text=모든 포켓몬의 특성이 다음턴이 끝날때까지 발동하지 않는다. 
+card.tero79.name=자라!
+card.tero79.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다.
+
+# Team Rocket - Energy
+card.tero17.name=무지개 에너지 
+card.tero17.text=기본적이지 않은 에너지. 모든 타입의 에너지를 주지만 하나의 에너지만 준다. 이 에너지를 부착하는 포켓몬에게 10의 데미지를 준다. 
+card.tero80.name=무지개 에너지 
+card.tero80.text=기본적이지 않은 에너지. 모든 타입의 에너지를 주지만 하나의 에너지만 준다. 이 에너지를 부착하는 포켓몬에게 10의 데미지를 준다. 
+card.tero81.name=만병통치 에너지 
+card.tero81.text=기본적이지 않은 에너지. 하나의 무색 에너지를 준다. 잠듦, 혼란, 마비, 독 상태를 치유한다. 
+card.tero82.name=상처약 에너지 
+card.tero82.text=기본적이지 않은 에너지. 하나의 무색 에너지를 준다. 하나의 데미지 카운터를 치유한다. 
+
+
+# Gym Heroes
+
+card.gymh1.name=Blaine's Moltres
+attack.gymh1.1.name=Phoenix Flame
+attack.gymh1.1.text=Flip a coin. If tails, shuffle Blaine's Moltres and all cards attached to it into your deck (after doing damage).
+
+# Wizards Black Star Promos
+set.wbsp.name=Wizards Black Star Promos
+
+# Wizards Black Star Promos - Pokémon and Attacks
+card.wbsp1.name=피카츄 
+attack.wbsp1.1.name=울음소리 
+attack.wbsp1.1.text=다음 턴에 받는 기술을 10의 데미지를 적게 받는다. 
+attack.wbsp1.2.name=번개쇼크 
+attack.wbsp1.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.wbsp2.name=에레브 
+attack.wbsp2.1.name=빛의장막 
+attack.wbsp2.1.text=다음턴에 에레브가 받는 모든 데미지를 절반으로 받는다. 
+attack.wbsp2.2.name=전광석화 
+attack.wbsp2.2.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+
+card.wbsp3.name=뮤츠 
+attack.wbsp3.1.name=에너지흡수 
+attack.wbsp3.1.text=버린 카드중에 2개의 에너지 카드를 뮤츠에게 부착한다. 
+attack.wbsp3.2.name=사이번 
+
+card.wbsp4.name=피카츄 
+attack.wbsp4.1.name=재충전 
+attack.wbsp4.1.text=덱에서 번개의 에너지 한장을 꺼내 피카츄에게 부착한다. 그 뒤 덱을 섞는다. 
+attack.wbsp4.2.name=10만볼트 
+attack.wbsp4.2.text=피카츄에게 붙어있는 모든 에너지를 버린다. 
+
+card.wbsp5.name=망나뇽 
+ability.wbsp5.name=특별배달 
+ability.wbsp5.text=아군턴에 한번 카드 한장을 뽑고 패에 있는 카드 한장을 덱 맨 위에 넣어둔다. 
+attack.wbsp5.1.name=초음속비행 
+attack.wbsp5.1.text=동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다.
+
+card.wbsp6.name=윈디 
+attack.wbsp6.1.name=전광석화 
+attack.wbsp6.1.text=동전을 한 번 던져서 앞면이 나오면 20의 데미지를 추가로 준다. 
+attack.wbsp6.2.name=분노의 불꽃
+attack.wbsp6.2.text=윈디에게 붙어있는 불꽃의 에너지 두개를 소모한다. 윈디의 데미지 카운터의 수 x 10의 데미지를 추가로 준다. 
+
+card.wbsp7.name=푸린 
+attack.wbsp7.1.name=응급처치 
+attack.wbsp7.1.text=푸린의 데미지 카운터 1개를 치유한다. 
+attack.wbsp7.2.name=이판사판태클
+attack.wbsp7.2.text=푸린에게도 20의 데미지를 준다. 
+
+card.wbsp8.name=뮤 
+attack.wbsp8.1.name=사이코웨이브 
+attack.wbsp8.1.text=상대 배틀 포켓몬에게 붙어있는 에너지 수 x 10의 데미지를 준다. 
+attack.wbsp8.2.name=데볼루션빔
+attack.wbsp8.2.text=진화한 포켓몬을 선택하면 그 진화 포켓몬 카드를 돌려 받는다. 
+
+card.wbsp9.name=뮤 
+attack.wbsp9.1.name=사이코웨이브 
+attack.wbsp9.1.text=상대 배틀 포켓몬에게 붙어있는 에너지 수 x 10의 데미지를 준다. 
+attack.wbsp9.2.name=데볼루션빔 
+attack.wbsp9.2.text=진화한 포켓몬을 선택하면 그 진화 포켓몬 카드를 돌려 받는다. 
+
+card.wbsp10.name=나옹 
+attack.wbsp10.1.name=고양이펀치 
+attack.wbsp10.1.text=동전을 한 번 던져서 앞면이 나오면 상대 배틀 포켓몬에게 20의 데미지를 둔다. 뒷면이 나오면 상대의 벤치 포켓몬중 상대가 선택하여 20의 데미지를 준다. 
+
+card.wbsp11.name=이브이 
+ability.wbsp11.name=체인리액션 
+ability.wbsp11.text=포켓몬이 진화하면 덱에서 이브이를 진화시킬 수 있는 카드 한장을 가져온다. 
+attack.wbsp11.1.name=물기 
+
+card.wbsp12.name=뮤츠 
+attack.wbsp12.1.name=에너지컨트롤 
+attack.wbsp12.1.text=동전을 한 번 던져서 앞면이 나오면 상대방의 포켓몬에게 붙어있는 에너지 한개를 다른 포켓몬으로 옮길 수 있다. 
+attack.wbsp12.2.name=텔레키네시스
+attack.WSBP12.2.text=상대방의 포켓몬을 한마리 선택하여 30의 데미지를 준다. 이 기술의 상성을 무시하고 공격한다. 
+
+card.wbsp13.name=이상해꽃 
+ability.wbsp13.name=태양의힘
+ability.wbsp13.text=사용시 상대와 아군의 배틀 포켓몬의 상태이상이 풀린다. 잠듦, 혼란, 마비, 상태일 때에는 사용할 수 없다. 
+attack.wbsp13.1.name=메가드레인 
+attack.wbsp13.1.text=상대의 배틀 포켓몬에게 준 데미지만큼 이 포켓몬의 데미지 카운터를 제거한다.
+
+card.wbsp14.name=뮤츠 
+attack.wbsp14.1.name=에너지흡수 
+attack.wbsp14.1.text=버린 카드중에 2개의 에너지 카드를 뮤츠에게 부착한다. 
+attack.wbsp14.2.name=사이번 
+
+card.wbsp15.name=멋진 폴리곤 
+attack.wbsp15.1.name=텍스쳐매직 
+attack wbsp15.1.text=이 포켓몬에게 효과가 별로인 타입을 원하는 타입으로 바꿀 수 있다. 
+attack.wbsp15.2.name=3-D 공격
+attack.wbsp15.2.text=동전을 3번 던져서 앞면이 나온 수 x 20의 데미지를 준다.
+
+card.wbsp16.name=Computer Error
+card.wbsp16.text=You may draw up to 5 cards, then your opponent may draw up to 5 cards. Your turn is over now. (You don't get to attack.)
+
+card.wbsp17.name=악의 페르시온 
+attack.wbsp17.1.name=매혹 
+attack.wbsp17.1.text=동전은 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 벤치에 있는 포켓몬과 교체하게 만든다. 
+attack.wbsp17.2.name=독크루
+attack.wbsp17.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 독으로 만든다. 
+
+card.wbsp18.name=로켓단의 나옹 
+attack.wbsp18.1.name=기적적인 컴백 
+attack.WSBP18.1.text=배틀에 나가있는 포켓몬의 수 만큼 동전을 던진다. 앞면이 나온 수 x 10의 데미지를 상대 배틀 포켓몬에게 주고 뒷면이 나온 수 x 10의 데미지를 자신한테 준다. 
+
+card.wbsp19.name=초련의 케이시 
+attack.wbsp19.1.name=막치기 
+attack.wbsp19.2.name=싱크로 
+attack.wbsp19.2.text=초련의 케이시에게 붙어있는 에너지의 수와 상대 배틀 포켓몬에게 붙어 있는 에너지의 수가 똑같지 않으면 이 기술은 실패한다. 
+
+card.wbsp20.name=고라파덕
+attack.wbsp20.1.name=두통
+attack.wbsp20.1.text=다음 차례에 상대는 패에서 트레이너스 카드를 꺼내서 사용할 수 없다. 
+attack.wbsp20.2.name=분노의막치기 
+attack.wbsp20.2.text=동전을 3번 던져서 앞면이 나온 수 x 10의 데미지를 준다.
+
+card.wbsp21.name=파이어
+attack.wbsp21.1.name=하이퍼플레임 
+attack.wbsp21.1.text=동전을 한 번 던져서 앞면이 나오면 파이어에게 붙어 있는 불꽃의 에너지 1개를 소모한다. 뒷면이 나오면 파이어에게 붙어 있는 모든 에너지를 소모한다. 
+
+card.wbsp.22.name=프리져 
+attack.wbsp22.1.name=다이아몬드더스트
+attack.wbsp22.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다, 그리고 상대 벤치에 있는 모든 포켓몬에게 10의 데미지씩 준다. 
+
+card.wbsp23.name=썬더 
+attack.wbsp23.1.name=라이트닝번
+attack.wbsp23.1.text=동전을 한 번 던져서 상대 벤치 포켓몬 한마리를 정해 30의 데미지를 준다. 뒷면이 나오면 썬더에게 30의 데미지를 준다. 
+
+card.wbsp24.name=__________'s Pikachu
+attack.wbsp24.1.name=생일 서프라이즈
+attack.wbsp24.1.text=생일이 아니면 30의 데미지를 준다. 생일이라면 동전을 한 번 던져서 앞면이 나오면 50의 추가 데미지를 준다. 
+
+card.wbsp25.name=날아다니는 피카츄 
+attack.wbsp25.1.name=전기쇼크 
+attack.wbsp25.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.wbsp25.2.name=공중날기 
+attack.wbsp25.2.text=동전을 한 번 던져서 앞면이 나오면 다음턴 상대의 기술의 데미지와 상태이상에 면역이 된다.
+
+card.wbsp26.name=피카츄 
+attack.wbsp26.1.name=할퀴기 
+attack.wbsp26.2.name=10만볼트 
+attack.wbsp26.2.text=피카츄에게 부착된 모든 에너지를 버린다. 
+
+card.wbsp27.name=피카츄 
+attack.wbsp27.1.name=번개쇼크
+attack.wbsp27.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+attack.wbsp27.2.name=고속이동
+attack.wbsp27.2.text=동전을 한 번 던져서 앞면이 나오면 다음턴 상대의 기술의 데미지와 상태이상에 면역이 된다.
+
+card.wbsp28.name=파도타는 피카츄 
+attack.wbsp28.1.name=파도타기 
+
+card.wbsp29.name=마릴 
+attack.wbsp29.1.name=물대포 
+attack.wbsp29.1.text=이 공격의 에너지 비용에 사용되지 않는 마릴에 부착된 물의 에너지당 10 데미지를 더해 최대 20 추가 데미지를 줍니다.
+
+card.wbsp30.name=토게피 
+attack.wbsp30.1.name=울기 
+attack.wbsp30.1.text=다음 턴에 받는 기술을 20의 데미지를 적게 받는다. 
+attack.wbsp30.2.name=작은손가락흔들기 
+attack.wbsp30.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로서 사용한다.
+
+card.wbsp31.name=삐
+attack.wbsp31.name=이크
+attack.wbsp31.text=카드 두장을 뽑는다. 
+
+card.wbsp32.name=루브도 
+attack.wbsp32.1.name=스케치 
+attack.wbsp32.1.text=동전을 한 번 던져서 앞면이 나오면 타입을 정해서 상대 배틀 포켓몬에게 컬러링 카운터를 부착한다. 상대 배틀 포켓몬은 그 타입이 된다. 
+
+card.wbsp33.name=핫삼
+attack.wbsp33.1.name=째려보기
+attack.wbsp33.1.text=동전을 한 번 던져서 앞면이 나오면 다음 턴에 상대 배틀 포켓몬이 핫삼를 공격할 수 없게 만든다. 
+attack.wbsp33.2.name=강철집게
+attack.wbsp33.2.text=동전을 뒷면이 나올때 까지 던진다. 앞면이 나온 수 x 10의 데미지를 상대에게 준다. 
+
+card.wbsp34.name=엔테이 
+ability.wbsp34.name=볼트 
+ability.wbsp34.text=엔테이가 공격을 받고 살아있으면 동전을 한 번 던진다. 앞면이 나오면 엔테이와 엔테이에 붙어있는 모든 카드를 덱에 넣는다. 
+attack.wbsp34.1.name=플레임베리어 
+attack.wbsp34.1.text=다음턴 상대의 기술의 데미지와 상태이상에 면역이 된다.
+
+card.wbsp35.name=피츄
+attack.wbsp35.1.name=놀자!
+attack.wbsp35.1.text=덱에 있는 아기 포켓몬을 꺼내서 벤치에 놓는다. 그 뒤 덱을 섞는다. 
+
+card.wbsp36.name=푸푸린
+attack.wbsp36.1.name=자장가
+attack.wbsp36.1.text=상대의 배틀 포켓몬을 잠듦으로 만든다.
+
+card.wbsp37.name=카포에라
+attack.wbsp37.1.name=연속발차기
+attack.wbsp37.1.text=동전을 뒷면이 나올때까지 던진다. 앞면이 나온 수 x 20의 데미지를 준다. 
+attack.wbsp37.2.name=고속스핀
+attack.wbsp37.2.text=아군과 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.
+
+card.wbsp38.name=안농 J
+ability.wbsp38.name=연결 
+ability.wbsp38.text=아군턴에 안농 J, O, I, N이 벤치에 있다면 덱에서 기본 포켓몬이나 진화카드 한장을 상대에게 보여주고 뽑는다. 
+attack.wbsp38.1.name=잠재파워 
+
+card.wbsp39.name=무우마
+attack.wbsp39.1.name=아픔나누기 
+attack.wbsp39.1.text=무우마의 데미지 카운터마다 상대방에게도 1개의 데미지 카운터를 준다. 
+attack.wbsp39.2.name=이상한빛
+attack.wbsp39.2.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.
+
+card.wbsp40.name=포켓몬센터 
+card.wbsp40.text=포켓몬의 모든 데미지 카운터를 회복하고 그 포켓몬에 붙어있는 모든 에너지를 소모한다. 
+
+card.wbsp41.name=Lucky Stadium
+card.wbsp41.text=During each player's turn (before he or she attacks), that may flip a coin. If heads, he or she draws a card. This card stays in play after being played. Discard this card if another Stadium card comes into play.
+
+card.wbsp42.name=Pokémon Tower
+card.wbsp42.text=If the effect of a Pokémon Power, attack, Energy card or Trainer card would put a card in a discard pile into its owner's hand, that card stays in that discard pile instead. This card stays in play after being played. Discard this card if another Stadium card comes into play.
+
+card.wbsp43.name=괴력몬 
+attack.wbsp43.1.name=끓어오르는 분노 
+attack.wbsp43.1.text=괴력몬에게 있는 데미지 카운터의 수 만큼 동전을 던진다. 앞면이 나온 수 x 10의 데미지를 추가로 준다. 
+attack.wbsp43.2.name=내던지기 
+attack.wbsp43.2.text=상대 벤치에 포켓몬이 있으면 상대 포켓몬을 교체하게 만든다. 
+
+card.wbsp44.name=마그마 
+attack.wbsp44.1.name=버닝파이어
+attack.wbsp44.1.text=마그마에게 붙어있는 불꽃의 에너지를 원하는 만큼 버린다. 버린 에너지의 수 x 10의 데미지를 추가로 준다. 
+attack.wbsp44.2.name=마그마펀치
+
+card.wbsp45.name=스라크 
+attack.wbsp45.1.name=스트라이크슬래시
+attack.wbsp45.1.text=다음턴에 스라크는 이 기술을 사용할 수 없다. 
+
+card.wbsp46.name=에레브 
+attack.wbsp46.1.name=피뢰침 
+attack.wbsp46.1.text=상대 포켓몬 한마리를 지정하여 피뢰침 마크를 붙인다. (마크는 한번 밖에 못붙인다.)
+attack.wbsp46.2.name=라이트닝볼트 
+attack.wbsp46.2.text=피뢰침 마크가 있는 포켓몬에게 20의 데미지를 준다. 
+
+card.wbsp47.name=뮤
+ability.wbsp47.name=자연의 방패
+ability.wbsp47.text=진화한 포켓몬에게 받는 모든 공격과 상태이상으로부터 면역 상태가된다. 
+attack.wbsp47.1.name=사이코쇼크 
+attack.wbsp47.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.wbsp48.name=프리져 
+ability.wbsp48.name=오로라베일 
+ability.wbsp48.text=프리져가 배틀 포켓몬으로 나가있는한 아군 벤치에있는 포켓몬은 공격받지 않는다. 
+attack.wbsp48.1.name=냉동빔 
+attack.wbsp48.1.text=동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+
+card.wbsp49.name=잠만보 
+ability.wbsp49.name=가드
+ability.wbsp49.text=잠만보가 배틀 포켓몬으로 나가있는한 상대는 교체할 수 없다. 
+attack.wbsp49.name=뒹굴기 
+attack.wbsp49.text=잠만보를 잠듦으로 만든다. 동전을 한 번 던져서 앞면이 나오면 상대 배틀 포켓몬도 잠듦으로 만든다. 
+
+card.wbsp50.name=세레비 
+attack.wbsp50.name=나뭇잎베기 
+attack.wbsp50.text=동전을 두 번 던져서 앞면이 나온 수 x 20의 데미지를 상대 배틀 포켓몬에게 준다.
+
+card.wbsp51.name=날쌩마 
+attack.wbsp51.1.name=뛰어넘기 
+attack.wbsp51.1.text=동전을 던져서 앞면이 나오면 상대 벤치 포켓몬 한마리에게 20의 데미지를 준다. 
+attack.wbsp51.2.name=태우다 
+attack.wbsp51.2.text=동전을 한 번 던져서 앞면이 나오면 상대 배틀 포켓몬을 화상으로 만든다.  
+
+card.wbsp52.name=칠색조 
+attack.wbsp52.1.name=성스러운날개 
+attack.wbsp52.1.text=동전을 한 번 던져서 뒷면이 나오면 60이 아닌 20의 데미지를 준다. 
+
+card.wbsp53.name=스이쿤 
+ability.wbsp53.name=순수한몸
+ability.wbsp53.text=물의 에너지를 스이쿤에게 부착하려면 스이쿤에게 이미 붙어있는 에너지 하나를 소모해야한다. 
+attack.wbsp53.1.name=최면파도 
+attack.wbsp53.1.text=동전을 한 번 던져서 앞면이 나오면 20의 추가 데미지를 주고 뒷면이 나오면 상대 배틀 포켓몬을 잠듦으로 만든다. 
+
+# Reforged Cards
+card.refo1.name=Welcome!
+
+# Developer
+set.dev.name=Developer
+
+# Developer - Pokémon and Attacks
+
+card.dev1.name=Slifer
+ability.dev1.name=God of Lightning
+ability.dev1.text=If your opponent plays a Pokémon with an attack of 60 damage or less, that Pokémon is now Knocked Out. Do not take Prize Cards as a result of this ability. Reduce all damage done to Slifer by 60 before applying Weakness and Resistance. This ability cannot be negated or disabled.
+attack.dev1.1.name=Lightning Wave
+attack.dev1.1.text=Do 300 damage to the enemy.
+
+card.dev2.name=Berserker Soul
+card.dev2.text=Draw cards until you draw a non-Pokémon card. As you draw each card, deal 20 damage to all your opponent's Pokémon, and discard the card drawn.

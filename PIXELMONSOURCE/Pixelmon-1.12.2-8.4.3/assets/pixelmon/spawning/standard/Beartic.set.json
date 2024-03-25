@@ -1,0 +1,23 @@
+{
+  "id": "Beartic",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Beartic"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

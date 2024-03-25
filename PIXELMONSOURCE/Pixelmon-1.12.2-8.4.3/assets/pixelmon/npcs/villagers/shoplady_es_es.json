@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "shoplady.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sra. Verde"
+        },
+        {
+            "name": "Margaret"
+        },
+        {
+            "name": "Señorita Filigree"
+        },
+        {
+            "name": "Sra. Ahorro"
+        },
+        {
+            "name": "Sra. Blanca"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Buenos días, ¿puedo ayudarte en algo?"
+                },
+                {
+                    "text": "¡Dios mío!, no, ¡no vendemos nada por el estilo! ¡Buenos días!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Bienvenido a la tienda. ¿Hay algo en especial que necesites?"
+                },
+                {
+                    "text": "Bueno, no estoy segura de poder ayudarte con eso. Buenos días."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Puedo serte de ayuda?"
+                },
+                {
+                    "text": "Avisame cuando estés listo para tomar una decisión. Estoy bastante ocupada."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Si, ¿si? ¿Eres el siguiente? ¡Date prisa, hay otros esperando!"
+                },
+                {
+                    "text": "¿Demasiado caro? Bueno me temo que has venido al sitio equivocado."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hola, ¿vas a comprar eso?"
+                },
+                {
+                    "text": "Bueno, déjalo de nuevo en su sitio. No se puede dañar la mercancía."
+                }
+            ]
+        }
+    ]
+}

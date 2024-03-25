@@ -1,0 +1,19 @@
+{
+  "cardCode": "JUNG35",
+  "attackNumber": 2,
+  "name": "attack.JUNG35.2.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": "Multiply",
+  "text": "attack.JUNG35.2.text",
+  "effectsString": "FLIPS_MULTIPLY:ENERGY",
+  "effects": [
+    {
+      "flipCount": 0,
+      "type": "PerEnergy",
+      "counter": 0
+    }
+  ]
+}

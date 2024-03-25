@@ -1,0 +1,40 @@
+{
+  "attackIndex": 691,
+  "attackName": "Eternabeam",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 160,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Recharge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recharge"
+    }
+  ],
+  "animations": [
+    
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "dragonium_z",
+      "attackName": "Devastating Drake",
+      "basePower": 200,
+	  "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

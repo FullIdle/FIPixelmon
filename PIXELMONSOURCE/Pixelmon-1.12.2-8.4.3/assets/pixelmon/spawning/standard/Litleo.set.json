@@ -1,0 +1,25 @@
+{
+  "id": "Litleo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Litleo"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 170.0
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "Avalugg",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Avalugg",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river",
+          "ice_flats",
+          "mutated_ice_flats",
+          "freezing mountains",
+          "biomesoplenty:glacier",
+          "traverse:glacier",
+          "cold_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Avalugg",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river",
+          "ice_flats",
+          "mutated_ice_flats",
+          "freezing mountains",
+          "biomesoplenty:glacier",
+          "traverse:glacier",
+          "cold_desert"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

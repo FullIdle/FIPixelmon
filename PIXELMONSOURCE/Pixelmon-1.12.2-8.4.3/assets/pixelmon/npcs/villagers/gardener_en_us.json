@@ -1,0 +1,66 @@
+{
+    "skins": [
+        {
+            "filename": "gardenermale2.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Christopher Lee"
+        },
+        {
+            "name": "José"
+        },
+        {
+            "name": "Mr. McGregor"
+        },
+        {
+            "name": "Percy"
+        },
+        {
+            "name": "Robert"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I have to be careful where I mow, especially near tall grass."
+                },
+                {
+                    "text": "I accidently did that once...it got messy..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "A garden doesn't grow overnight, it takes time."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I don't get how people can hate on Metapod."
+                },
+                {
+                    "text": "Someday, every Metapod becomes a Butterfree."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "People think bug Pokemon are weak."
+                },
+                {
+                    "text": "Guess they never seen a Scyther, or a Pinsir, or a Beedrill..."
+				},
+				{
+					"text": "Dare I go on?"
+                }
+            ]
+        }
+    ]
+}

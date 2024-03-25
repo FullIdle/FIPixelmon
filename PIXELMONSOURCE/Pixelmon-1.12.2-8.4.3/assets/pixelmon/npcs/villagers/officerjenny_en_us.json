@@ -1,0 +1,54 @@
+{
+    "skins": [
+        { 
+            "filename": "officerjenny.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Officer Jenny"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Hey, are all those Pokémon yours? Make sure you look after them well!"
+                },
+                {
+                    "text": "I'll be back to check that you have cared for your Pokémon properly!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Have you seen any sign of Team Rocket? I've heard a rumor they were seen nearby."
+                },
+                {
+                    "text": "You saw Team Rocket in the next town? Ok, thanks! I'm on it!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Watch out for Pokémon thieves. There have been reports of that in this area lately."
+                },
+                {
+                    "text": "You're not one of Pokémon thieves, now are you?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I love my job! I get to look for troublemakers and put things right!"
+                },
+                {
+                    "text": "Pokémon thieves, swindlers, all kinds of crooks! Watch out for Officer Jenny!"
+                }
+            ]
+        }
+    ]
+}

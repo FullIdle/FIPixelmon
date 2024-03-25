@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "electricleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "光兒" 
+    }
+  ],
+  "chat": [
+    {
+      "opening": "我會讓你明白的電屬性的強大！",
+      "win": "哈！不要小看這裡的電壓。",
+      "lose": "你只是運氣好，孩子！"
+    }
+  ]
+}

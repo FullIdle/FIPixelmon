@@ -1,0 +1,61 @@
+{
+  "id": 193,
+  "setId": 3,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "FIRE",
+  "energy2": null,
+  "pokemonId": 146,
+  "code": "FOSS27",
+  "name": "card.FOSS27.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "FOSS27",
+      "attackNumber": 1,
+      "name": "attack.FOSS27.1.name",
+      "energy": [
+        "FIRE"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.FOSS27.1.text",
+      "effects": [
+        "WILDFIRE:FIRE"
+      ]
+    },
+    {
+      "cardCode": "FOSS27",
+      "attackNumber": 2,
+      "name": "attack.FOSS27.2.name",
+      "energy": [
+        "FIRE",
+        "FIRE",
+        "FIRE",
+        "FIRE"
+      ],
+      "damage": 80,
+      "modifier": null,
+      "text": "attack.FOSS27.2.text",
+      "effects": [
+        "TAIL-SELF_MISSED"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

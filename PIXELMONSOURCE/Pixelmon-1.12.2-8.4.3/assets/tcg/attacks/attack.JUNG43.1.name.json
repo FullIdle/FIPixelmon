@@ -1,0 +1,20 @@
+{
+  "cardCode": "JUNG43",
+  "attackNumber": 1,
+  "name": "attack.JUNG43.1.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING"
+  ],
+  "damage": 20,
+  "modifier": "Multiply",
+  "text": "attack.JUNG43.1.text",
+  "effectsString": "FLIPS_MULTIPLY:3",
+  "effects": [
+    {
+      "flipCount": 3,
+      "type": "Exact",
+      "counter": 0
+    }
+  ]
+}

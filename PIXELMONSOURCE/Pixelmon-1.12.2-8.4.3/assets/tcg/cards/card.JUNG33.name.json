@@ -1,0 +1,62 @@
+{
+  "id": 135,
+  "setId": 2,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 12,
+  "code": "JUNG33",
+  "name": "card.JUNG33.name",
+  "description": "",
+  "previousPokemonId": 11,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG33",
+      "attackNumber": 1,
+      "name": "attack.JUNG33.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.JUNG33.1.text",
+      "effects": [
+        "OPP_SWITCH:BY_OPP"
+      ]
+    },
+    {
+      "cardCode": "JUNG33",
+      "attackNumber": 2,
+      "name": "attack.JUNG33.2.name",
+      "energy": [
+        "GRASS",
+        "GRASS",
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.JUNG33.2.text",
+      "effects": [
+        "LEECHSEED:HALF_DAMAGE"
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": 30,
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

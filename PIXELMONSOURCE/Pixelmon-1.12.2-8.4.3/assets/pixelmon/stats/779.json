@@ -1,0 +1,160 @@
+{
+  "pixelmonName": "Bruxish",
+  "pokemon": "Bruxish",
+  "form": -1,
+  "stats": {
+    "HP": 68,
+    "Attack": 105,
+    "Defence": 70,
+    "Speed": 92,
+    "SpecialAttack": 70,
+    "SpecialDefence": 70
+  },
+  "catchRate": 80,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 20,
+  "baseExp": 166,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Psychic"
+  ],
+  "height": 0.9,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 19.0,
+  "bounding_box": {
+    "width": 0.9,
+    "height": 0.8,
+    "eye_height": 0.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "Dazzling",
+    "StrongJaw",
+    "WonderSkin"
+  ],
+  "eggGroups": [
+    "Water2"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Water Gun"
+    ],
+    "4": [
+      "Astonish"
+    ],
+    "9": [
+      "Confusion"
+    ],
+    "12": [
+      "Bite"
+    ],
+    "17": [
+      "Aqua Jet"
+    ],
+    "20": [
+      "Disable"
+    ],
+    "25": [
+      "Psywave"
+    ],
+    "28": [
+      "Crunch"
+    ],
+    "33": [
+      "Aqua Tail"
+    ],
+    "36": [
+      "Screech"
+    ],
+    "41": [
+      "Psychic Fangs"
+    ],
+    "44": [
+      "Synchronoise"
+    ]
+  },
+  "tutorMoves": [
+    "After You",
+    "Ally Switch",
+    "Aqua Tail",
+    "Iron Tail",
+    "Liquidation",
+    "Magic Coat",
+    "Magic Room",
+    "Pain Split",
+    "Signal Beam",
+    "Snatch",
+    "Snore",
+    "Telekinesis",
+    "Uproar",
+    "Water Pulse",
+    "Wonder Room"
+  ],
+  "eggMoves": [
+    "Ice Fang",
+    "Poison Fang",
+    "Rage",
+    "Water Pulse"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Bulk Up",
+    "Venoshock",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Fling",
+    "Embargo",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "Frost Breath",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "forms": {}
+}

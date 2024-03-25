@@ -1,0 +1,53 @@
+{
+    "rewards": {
+        "recipes": [
+            "pixelmon:green_vending_machine"
+        ]
+    },
+    "criteria": {
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "pixelmon:green_vending_machine"
+            }
+        },
+        "has_fresh_water": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "pixelmon:fresh_water"
+                    }
+                ]
+            }
+        },
+        "has_soda_pop": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "pixelmon:soda_pop"
+                    }
+                ]
+            }
+        },
+        "has_lemonade": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "pixelmon:lemonade"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_fresh_water",
+            "has_soda_pop",
+            "has_lemonade"
+        ]
+    ]
+}

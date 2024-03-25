@@ -1,0 +1,45 @@
+{
+  "id": 250,
+  "setId": 4,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 80,
+  "code": "TERO12",
+  "name": "card.TERO12.name",
+  "description": "",
+  "previousPokemonId": 79,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO12",
+      "attackNumber": 1,
+      "name": "attack.TERO12.1.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.TERO12.1.text",
+      "effects": [
+        "TAIL-SELF_MISSED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "ReelIn"
+}

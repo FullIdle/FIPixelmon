@@ -1,0 +1,36 @@
+{
+  "cardCode": "BASE53",
+  "attackNumber": 2,
+  "name": "attack.BASE53.2.name",
+  "energy": [
+    "LIGHTNING",
+    "COLORLESS"
+  ],
+  "damage": 40,
+  "modifier": null,
+  "text": "attack.BASE53.2.text",
+  "effectsString": "SELF_DAMAGE:40 SELF_DAMAGE:BENCH:*:10 OPP_DAMAGE:BENCH:*:10",
+  "effects": [
+    {
+      "onMe": true,
+      "location": "Active",
+      "count": -1,
+      "amount": 40,
+      "needCoinSide": null
+    },
+    {
+      "onMe": true,
+      "location": "Bench",
+      "count": -1,
+      "amount": 10,
+      "needCoinSide": null
+    },
+    {
+      "onMe": false,
+      "location": "Bench",
+      "count": -1,
+      "amount": 10,
+      "needCoinSide": null
+    }
+  ]
+}

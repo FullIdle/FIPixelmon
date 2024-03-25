@@ -1,0 +1,34 @@
+{
+  "id": "Cobalion",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Cobalion",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "forest_hills",
+          "birch_forest_hills",
+          "autumnal_wooded_hills",
+          "forested_hills",
+          "lush_hills",
+          "birch_forested_hills",
+          "rw_silver_birch_hills"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Ekans",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ekans"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "savannas",
+          "swamps",
+          "evil",
+          "nether"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

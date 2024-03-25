@@ -1,0 +1,87 @@
+{
+  "attackIndex": 609,
+  "attackName": "Powder",
+  "attackType": "Bug",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Powder",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Powder"
+    },
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    }
+  ],
+  "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "EXPLOSION",
+          "texture": "ORB",
+          "atTarget": true,
+          "scale": 0.05,
+          "lifetimeTicks": 50,
+          "power": 20,
+          "speed": 0.1,
+          "rgb": [160, 160, 160]
+        },
+        "1": {
+          "id": "RAIN",
+          "texture": "ORB",
+          "scale": 0.03,
+          "durationTicks": 0,
+          "power": 80,
+          "heightAboveTarget": 0,
+          "speed": 0.08,
+          "rgb": [180, 90, 0]
+        }
+      }
+    }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "grassium_z",
+      "attackName": "Z-Powder",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "SpecialDefence",
+          "amount": 2,
+          "isUser": true,
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

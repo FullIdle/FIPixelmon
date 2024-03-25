@@ -1,0 +1,348 @@
+{
+  "pixelmonName": "Drifloon",
+  "pokemon": "Drifloon",
+  "form": 0,
+  "stats": {
+    "HP": 90,
+    "Attack": 50,
+    "Defence": 34,
+    "Speed": 70,
+    "SpecialAttack": 60,
+    "SpecialDefence": 44
+  },
+  "catchRate": 125,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 9,
+  "baseExp": 127,
+  "baseFriendship": 70,
+  "types": [
+    "Ghost",
+    "Flying"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fluctuating",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 15,
+    "flySpeedModifier": 0.2,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 400,
+    "flyRefreshRateSpeed": 400,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 1.2,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.9,
+    "eye_height": 0.6
+  },
+  "evolutions": [
+    {
+      "level": 28,
+      "to": {
+        "name": "Drifblim"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Phantom Force"
+      ]
+    }
+  ],
+  "abilities": [
+    "Aftermath",
+    "Unburden",
+    "FlareBoost"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 31,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Minimize"
+    ],
+    "4": [
+      "Gust"
+    ],
+    "8": [
+      "Focus Energy"
+    ],
+    "12": [
+      "Payback"
+    ],
+    "16": [
+      "Hex"
+    ],
+    "20": [
+      "Shadow Ball"
+    ],
+    "24": [
+      "Spit Up",
+      "Stockpile",
+      "Swallow"
+    ],
+    "29": [
+      "Self-Destruct"
+    ],
+    "32": [
+      "Destiny Bond"
+    ],
+    "36": [
+      "Baton Pass"
+    ],
+    "40": [
+      "Tailwind"
+    ],
+    "44": [
+      "Explosion"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Clear Smog",
+    "Defog",
+    "Disable",
+    "Haze",
+    "Hypnosis",
+    "Memento"
+  ],
+  "transferMoves": [
+    "Air Cutter",
+    "Bind",
+    "Captivate",
+    "Charge Beam",
+    "Confide",
+    "Constrict",
+    "Cut",
+    "Double Team",
+    "Dream Eater",
+    "Embargo",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Knock Off",
+    "Magic Coat",
+    "Mud-Slap",
+    "Natural Gift",
+    "Ominous Wind",
+    "Pain Split",
+    "Psych Up",
+    "Recycle",
+    "Return",
+    "Rollout",
+    "Secret Power",
+    "Shock Wave",
+    "Silver Wind",
+    "Spite",
+    "Sucker Punch",
+    "Swagger",
+    "Telekinesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Thunderbolt",
+    "Thunder",
+    "Psychic",
+    "Focus Energy",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Shadow Ball",
+    "Trick",
+    "Skill Swap",
+    "Calm Mind",
+    "Gyro Ball",
+    "Ally Switch"
+  ],
+  "tmMoves8": [
+    "Thunder Wave",
+    "Self-Destruct",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Swift",
+    "Weather Ball",
+    "Payback",
+    "Round",
+    "Hex",
+    "Acrobatics",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Embargo",
+    "Explosion",
+    "Payback",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Embargo",
+    "Explosion",
+    "Payback",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Charge Beam",
+    "Will-O-Wisp",
+    "Acrobatics",
+    "Embargo",
+    "Explosion",
+    "Payback",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Skill Swap",
+    "Charge Beam",
+    "Endure",
+    "Will-O-Wisp",
+    "Silver Wind",
+    "Embargo",
+    "Explosion",
+    "Payback",
+    "Recycle",
+    "Flash",
+    "Thunder Wave",
+    "Gyro Ball",
+    "Psych Up",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Dream Eater",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

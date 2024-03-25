@@ -1,0 +1,36 @@
+{
+  "id": "Indeedee",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Indeedee"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "birches",
+          "magical"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

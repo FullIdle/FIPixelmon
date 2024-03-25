@@ -1,0 +1,61 @@
+{
+  "id": 106,
+  "setId": 2,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 135,
+  "code": "JUNG4",
+  "name": "card.JUNG4.name",
+  "description": "",
+  "previousPokemonId": 133,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG4",
+      "attackNumber": 1,
+      "name": "attack.JUNG4.1.name",
+      "energy": [
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 10,
+      "modifier": "Plus",
+      "text": "attack.JUNG4.1.text",
+      "effects": [
+        "HEAD-OPP_DAMAGE:20"
+      ]
+    },
+    {
+      "cardCode": "JUNG4",
+      "attackNumber": 2,
+      "name": "attack.JUNG4.2.name",
+      "energy": [
+        "LIGHTNING",
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": "Multiply",
+      "text": "attack.JUNG4.2.text",
+      "effects": [
+        "FLIPS_MULTIPLY:4"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

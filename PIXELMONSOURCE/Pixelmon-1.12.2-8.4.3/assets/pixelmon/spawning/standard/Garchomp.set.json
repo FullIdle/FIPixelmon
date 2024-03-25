@@ -1,0 +1,26 @@
+{
+  "id": "Garchomp",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Garchomp"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.1
+    }
+  ]
+}

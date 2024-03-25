@@ -1,0 +1,27 @@
+{
+  "id": "Phantump Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Phantump"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest",
+          "evil"
+        ]
+      },
+      "rarity": 110.0
+    }
+  ]
+}

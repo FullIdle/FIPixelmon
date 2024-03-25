@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "hexmaniac.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bellatrix"
+        },
+        {
+            "name": "Gytha"
+        },
+        {
+            "name": "Samantha"
+        },
+        {
+            "name": "Piper"
+        },
+        {
+            "name": "Sabrina"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Guarda, il mio Gastly mi ha maledetto."
+                },
+                {
+                    "text": "Mi aspettavo un'agonia straziante, ma mi fa il solletico."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Non riesco mai a far fermare il mio Litwick attorno ai miei cerchi occulti."
+                },
+                {
+                    "text": "Hanno rovinato tutti i miei rituali."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "No..."
+                },
+                {
+                    "text": "Tu non sei il prescelto..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I miei amici non credono che io possa fare la magia nera."
+                },
+                {
+                    "text": "In passato non mi credevano. E ora non ho più amici."
+                }
+            ]
+        }
+    ]
+}

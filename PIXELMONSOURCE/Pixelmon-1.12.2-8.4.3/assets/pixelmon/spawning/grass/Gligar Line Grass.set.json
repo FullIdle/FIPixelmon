@@ -1,0 +1,49 @@
+{
+  "id": "Gligar Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gligar"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "redwoods",
+          "temparate_rainforest"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Gliscor"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "redwoods",
+          "temparate_rainforest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

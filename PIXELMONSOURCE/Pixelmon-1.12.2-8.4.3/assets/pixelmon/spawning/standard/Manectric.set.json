@@ -1,0 +1,26 @@
+{
+  "id": "Manectric",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Manectric"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "savanna",
+          "plains"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "skins": [
+    {
+      "filename": "doctor.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Doc"
+    },
+    {
+      "name": "Pille"
+    },
+    {
+      "name": "Dr. Graf"
+    },
+    {
+      "name": "Dr. Hoffmann"
+    },
+    {
+      "name": "Dr. Franz-Josef"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Streck deine Zunge raus und sag aah."
+        },
+        {
+          "text": "Du siehst ziemlich blass aus. Willst du meine Spezialpillen?"
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Oh Junge, du brauchst mehr Sonne. Das wäre gut für deine Knochen."
+        },
+        {
+          "text": "Bist du mein nächster Patient? Immer dieser Stress."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Ich hab die wohlschmeckendste Medizin. Selbst gemacht!"
+        },
+        {
+          "text": "Ich hätte Pokémon Medizin studieren sollen. Ist deutlich interessanter."
+        }
+      ]
+    },
+    {
+      "lines": [
+        {
+          "text": "Vergiss nicht deine Pillen täglich zu nehmen. Vielleicht drei... oder zehn ..."
+        },
+        {
+          "text": "Lachen ist die beste Medizin! Kennst du einen Witz? Nicht ?!"
+        }
+      ]
+    }
+  ]
+}

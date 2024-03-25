@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pixelmon:soda_pop"
+    },
+    {
+      "item": "pixelmon:lansat_berry"
+    },
+    {
+      "item": "pixelmon:starf_berry"
+    },
+    {
+      "item": "pixelmon:silver_bottle_cap"
+    }
+  ],
+  "result": {
+    "item": "pixelmon:rare_soda"
+  }
+}

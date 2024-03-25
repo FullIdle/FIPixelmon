@@ -1,0 +1,169 @@
+{
+  "pixelmonName": "Cufant",
+  "pokemon": "Cufant",
+  "form": 0,
+  "stats": {
+    "HP": 72,
+    "Attack": 80,
+    "Defence": 49,
+    "SpecialAttack": 40,
+    "SpecialDefence": 49,
+    "Speed": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 26,
+  "spawnLevelRange": 8,
+  "baseExp": 66,
+  "baseFriendship": 50,
+  "types": [
+    "Steel"
+  ],
+  "height": 1.2,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.3
+    }
+  },
+  "weight": 100.0,
+  "bounding_box": {
+    "width": 0.9,
+    "height": 1.1,
+    "eye_height": 0.8
+  },
+  "evolutions": [
+    {
+      "level": 34,
+      "to": {
+        "name": "Copperajah"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SheerForce",
+    null,
+    "HeavyMetal"
+  ],
+  "eggGroups": [
+    "Field",
+    "Mineral"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "5": [
+      "Rollout"
+    ],
+    "10": [
+      "Rock Smash"
+    ],
+    "15": [
+      "Bulldoze"
+    ],
+    "20": [
+      "Stomp"
+    ],
+    "25": [
+      "Iron Defense"
+    ],
+    "30": [
+      "Dig"
+    ],
+    "35": [
+      "Strength"
+    ],
+    "40": [
+      "Iron Head"
+    ],
+    "45": [
+      "Play Rough"
+    ],
+    "50": [
+      "High Horsepower"
+    ],
+    "55": [
+      "Superpower"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Curse",
+    "Defense Curl",
+    "Double-Edge",
+    "Fissure",
+    "Slam",
+    "Swagger",
+    "Whirlwind"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Superpower",
+    "Iron Defense",
+    "Earth Power",
+    "Zen Headbutt",
+    "Power Whip",
+    "Iron Head",
+    "Stealth Rock",
+    "Work Up",
+    "Play Rough",
+    "High Horsepower",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Mega Kick",
+    "Dig",
+    "Screech",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Brick Break",
+    "Rock Tomb",
+    "Mud Shot",
+    "Rock Blast",
+    "Fling",
+    "Round",
+    "Bulldoze",
+    "Brutal Swing",
+    "Stomping Tantrum"
+  ]
+}

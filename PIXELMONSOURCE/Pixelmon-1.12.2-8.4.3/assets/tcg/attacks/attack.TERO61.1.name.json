@@ -1,0 +1,13 @@
+{
+  "cardCode": "TERO61",
+  "attackNumber": 1,
+  "name": "attack.TERO61.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.TERO61.1.text",
+  "effectsString": "SHUFFLEDECK:OPP",
+  "effects": []
+}

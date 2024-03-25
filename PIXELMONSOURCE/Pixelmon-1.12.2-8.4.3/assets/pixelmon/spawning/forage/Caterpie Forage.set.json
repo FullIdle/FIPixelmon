@@ -1,0 +1,22 @@
+{
+  "id": "Caterpie Forage",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Caterpie"
+      },
+      "stringLocationTypes": [
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 7,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "forests"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

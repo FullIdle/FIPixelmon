@@ -1,0 +1,36 @@
+{
+  "id": "Golduck",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Golduck"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 33,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "swamps",
+          "river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 5.0
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 9,
+  "setId": 1,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 82,
+  "code": "BASE9",
+  "name": "card.BASE9.name",
+  "description": "",
+  "previousPokemonId": 81,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE9",
+      "attackNumber": 1,
+      "name": "attack.BASE9.1.name",
+      "energy": [
+        "LIGHTNING",
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.BASE9.1.text",
+      "effects": [
+        "HEAD-OPP_CONDITION:PARALYZED"
+      ]
+    },
+    {
+      "cardCode": "BASE9",
+      "attackNumber": 2,
+      "name": "attack.BASE9.2.name",
+      "energy": [
+        "LIGHTNING",
+        "LIGHTNING",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 80,
+      "modifier": null,
+      "text": "attack.BASE9.2.text",
+      "effects": [
+        "SELF_DAMAGE:80",
+        "SELF_DAMAGE:BENCH:*:20",
+        "OPP_DAMAGE:BENCH:*:20"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

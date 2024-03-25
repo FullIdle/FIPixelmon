@@ -1,0 +1,320 @@
+{
+  "pixelmonName": "Sigilyph",
+  "pokemon": "Sigilyph",
+  "form": 0,
+  "stats": {
+    "HP": 72,
+    "Attack": 58,
+    "Defence": 80,
+    "Speed": 97,
+    "SpecialAttack": 103,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Psychic",
+    "Flying"
+  ],
+  "height": 2.7,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -1.3,
+      "z": -0.3
+    }
+  },
+  "weight": 14.0,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 1.3,
+    "eye_height": 0.9
+  },
+  "evolutions": [],
+  "abilities": [
+    "WonderSkin",
+    "MagicGuard",
+    "TintedLens"
+  ],
+  "eggGroups": [
+    "Flying"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Confusion",
+      "Gust"
+    ],
+    "5": [
+      "Gravity"
+    ],
+    "10": [
+      "Hypnosis"
+    ],
+    "15": [
+      "Air Cutter"
+    ],
+    "20": [
+      "Psybeam"
+    ],
+    "25": [
+      "Whirlwind"
+    ],
+    "30": [
+      "Cosmic Power"
+    ],
+    "35": [
+      "Air Slash"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "45": [
+      "Tailwind"
+    ],
+    "50": [
+      "Light Screen",
+      "Reflect"
+    ],
+    "55": [
+      "Sky Attack"
+    ],
+    "60": [
+      "Skill Swap"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat",
+    "Expanding Force"
+  ],
+  "eggMoves": [
+    "Ancient Power",
+    "Psycho Shift",
+    "Roost"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Charge Beam",
+    "Confide",
+    "Defog",
+    "Double Team",
+    "Dream Eater",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Magic Coat",
+    "Miracle Eye",
+    "Mirror Move",
+    "Pluck",
+    "Psych Up",
+    "Psywave",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Signal Beam",
+    "Smack Down",
+    "Swagger",
+    "Synchronoise",
+    "Telekinesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Ice Beam",
+    "Psychic",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Future Sight",
+    "Heat Wave",
+    "Trick",
+    "Skill Swap",
+    "Cosmic Power",
+    "Calm Mind",
+    "Dark Pulse",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Flash Cannon",
+    "Stored Power",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Thunder Wave",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Steel Wing",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Swift",
+    "Imprison",
+    "Power Swap",
+    "Speed Swap",
+    "Psycho Cut",
+    "Trick Room",
+    "Magic Room",
+    "Round",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "Energy Ball",
+    "Charge Beam",
+    "Thunder Wave",
+    "Fly",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Steel Wing",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Psyshock",
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Ice Beam",
+    "Hyper Beam",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Telekinesis",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Smack Down",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Flash",
+    "Thunder Wave",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Flash Cannon",
+    "Trick Room"
+  ],
+  "forms": {}
+}

@@ -1,0 +1,57 @@
+{
+  "attackIndex": 175,
+  "attackName": "Sky Attack",
+  "attackType": "Flying",
+  "attackCategory": "PHYSICAL",
+  "basePower": 140,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "message": "pixelmon.effect.skyattack",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "SkyAttack"
+    },
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    },
+    {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "flyinium_z",
+      "attackName": "Supersonic Skystrike",
+      "basePower": 200,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

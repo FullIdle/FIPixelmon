@@ -1,0 +1,25 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "blocks/dirt"
+    },
+    "model": "pixelmon:Ancient_Pillar",
+    "uvlock": true
+  },
+  "variants": {
+    "normal": [{}],
+    "axis": {
+      "x": { },
+      "y": { },
+      "z": { },
+      "none": { }
+    },
+    "damaged": {
+      "true": {
+      },
+      "false": {
+      }
+    }
+  }
+}

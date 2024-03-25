@@ -1,0 +1,31 @@
+{
+  "id": "Krokorok",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Krokorok"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 29,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_glasses",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

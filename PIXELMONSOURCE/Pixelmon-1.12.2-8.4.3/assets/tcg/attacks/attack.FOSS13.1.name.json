@@ -1,0 +1,22 @@
+{
+  "cardCode": "FOSS13",
+  "attackNumber": 1,
+  "name": "attack.FOSS13.1.name",
+  "energy": [
+    "GRASS",
+    "GRASS",
+    "GRASS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.FOSS13.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:POISONED",
+  "effects": [
+    {
+      "condition": "POISONED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

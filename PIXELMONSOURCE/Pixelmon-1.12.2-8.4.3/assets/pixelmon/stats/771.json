@@ -1,0 +1,155 @@
+{
+  "pixelmonName": "Pyukumuku",
+  "pokemon": "Pyukumuku",
+  "form": -1,
+  "stats": {
+    "HP": 55,
+    "Attack": 60,
+    "Defence": 130,
+    "Speed": 5,
+    "SpecialAttack": 30,
+    "SpecialDefence": 130
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 40,
+  "baseExp": 144,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 0.3,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 1.2,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.4,
+    "eye_height": 0.15
+  },
+  "evolutions": [],
+  "abilities": [
+    "InnardsOut",
+    null,
+    "Unaware"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 15,
+  "levelUpMoves": {
+    "0": [
+      "Baton Pass",
+      "Harden"
+    ],
+    "5": [
+      "Helping Hand"
+    ],
+    "10": [
+      "Taunt"
+    ],
+    "15": [
+      "Safeguard"
+    ],
+    "20": [
+      "Counter"
+    ],
+    "25": [
+      "Purify"
+    ],
+    "30": [
+      "Curse"
+    ],
+    "35": [
+      "Gastro Acid"
+    ],
+    "40": [
+      "Pain Split"
+    ],
+    "45": [
+      "Recover"
+    ],
+    "50": [
+      "Soak"
+    ],
+    "55": [
+      "Toxic"
+    ],
+    "60": [
+      "Memento"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Mirror Coat",
+    "Spite",
+    "Swagger",
+    "Tickle"
+  ],
+  "transferMoves": [
+    "Bestow",
+    "Bide",
+    "Block",
+    "Confide",
+    "Double Team",
+    "Mud Sport",
+    "Psych Up",
+    "Quash",
+    "Recycle",
+    "Water Sport"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Taunt",
+    "Venom Drench"
+  ],
+  "tmMoves8": [
+    "Screech",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Helping Hand"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Taunt",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Double Team",
+    "Reflect",
+    "Rest",
+    "Attract",
+    "Quash",
+    "Psych Up",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

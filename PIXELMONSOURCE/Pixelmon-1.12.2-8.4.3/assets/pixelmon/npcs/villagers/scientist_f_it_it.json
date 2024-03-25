@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "scientist_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Marie"
+        },
+        {
+            "name": "Ada"
+        },
+        {
+            "name": "Irène"
+        },
+        {
+            "name": "Harriet"
+        },
+        {
+            "name": "Sofia"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I fossili sono affascinanti."
+                },
+                {
+                    "text": "Lo sapevi che li puoi trovare nelle profondità delle caverne, tra la ghiaia?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La gente dice che non è possibile far rivivere Fossili, che la scienza non funziona in questo modo."
+                },
+                {
+                    "text": "Cosa ne sanno della scienza? Un giorno li mostrerò."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sto iniziando a mettere in discussione la mia scelta di indossare una gonna."
+                },
+                {
+                    "text": "Cosa succede se spargo acido sugli stinchi? Farei meglio a puntare le mie provette direttamente sul mio camice da laboratorio."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "L'anatomia della Solosis mi fa esplodere la mente."
+                },
+                {
+                    "text": "Sembra unicellulare eppure ha gli occhi ed è solo ... solo ... agh!"
+                }
+            ]
+        }
+    ]
+}

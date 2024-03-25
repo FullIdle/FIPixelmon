@@ -1,0 +1,48 @@
+{
+  "id": 366,
+  "setId": 6,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "FIGHTING",
+  "energy2": null,
+  "pokemonId": 112,
+  "code": "GYMH45",
+  "name": "card.GYMH45.name",
+  "description": "",
+  "previousPokemonId": 111,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH45",
+      "attackNumber": 1,
+      "name": "attack.GYMH45.1.name",
+      "energy": [
+        "FIGHTING",
+        "FIGHTING",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 70,
+      "modifier": null,
+      "text": "attack.GYMH45.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": "LIGHTNING",
+  "resistanceValue": "30",
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "GRASS",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,144 @@
+{
+  "pixelmonName": "Wimpod",
+  "pokemon": "Wimpod",
+  "form": 0,
+  "stats": {
+    "HP": 25,
+    "Attack": 35,
+    "Defence": 40,
+    "Speed": 80,
+    "SpecialAttack": 20,
+    "SpecialDefence": 30
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 6,
+  "spawnLevelRange": 18,
+  "baseExp": 46,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Water"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 12.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.25,
+    "eye_height": 0.15
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Golisopod"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "First Impression"
+      ]
+    }
+  ],
+  "abilities": [
+    "WimpOut",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Bug",
+    "Water3"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Defense Curl",
+      "Sand Attack",
+      "Struggle Bug"
+    ]
+  },
+  "tutorMoves": [
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Aqua Jet",
+    "Harden",
+    "Metal Claw",
+    "Rollout",
+    "Wide Guard"
+  ],
+  "transferMoves": [
+    "Confide",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Return",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Surf",
+    "Waterfall",
+    "Leech Life",
+    "Substitute",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Taunt",
+    "Bug Buzz",
+    "Scald"
+  ],
+  "tmMoves8": [
+    "Screech",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Swift",
+    "Mud Shot",
+    "Assurance",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "forms": {}
+}

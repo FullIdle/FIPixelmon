@@ -1,0 +1,49 @@
+{
+  "id": "Gogoat",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gogoat"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Gogoat"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 33,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "ice_flats",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

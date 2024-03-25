@@ -1,0 +1,282 @@
+{
+  "pixelmonName": "Bouffalant",
+  "pokemon": "Bouffalant",
+  "form": 0,
+  "stats": {
+    "HP": 95,
+    "Attack": 110,
+    "Defence": 95,
+    "Speed": 55,
+    "SpecialAttack": 40,
+    "SpecialDefence": 95
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 46,
+  "spawnLevelRange": 12,
+  "baseExp": 172,
+  "baseFriendship": 70,
+  "types": [
+    "Normal"
+  ],
+  "height": 1.6,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.3,
+      "z": -0.4
+    }
+  },
+  "weight": 94.5,
+  "bounding_box": {
+    "width": 1.6,
+    "height": 1.6,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "Reckless",
+    "SapSipper",
+    "Soundproof"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Tackle"
+    ],
+    "5": [
+      "Focus Energy"
+    ],
+    "10": [
+      "Fury Attack"
+    ],
+    "15": [
+      "Revenge"
+    ],
+    "20": [
+      "Scary Face"
+    ],
+    "25": [
+      "Horn Attack"
+    ],
+    "30": [
+      "Reversal"
+    ],
+    "35": [
+      "Throat Chop"
+    ],
+    "40": [
+      "Head Charge"
+    ],
+    "45": [
+      "Swords Dance"
+    ],
+    "50": [
+      "Megahorn"
+    ],
+    "55": [
+      "Giga Impact"
+    ]
+  },
+  "tutorMoves": [
+    "Lash Out"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Cotton Guard",
+    "Endeavor",
+    "Headbutt",
+    "Mud-Slap",
+    "Skull Bash",
+    "Stomp"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Pursuit",
+    "Rage",
+    "Return",
+    "Rock Climb",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Thrash",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Surf",
+    "Earthquake",
+    "Focus Energy",
+    "Amnesia",
+    "Substitute",
+    "Reversal",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Megahorn",
+    "Uproar",
+    "Taunt",
+    "Superpower",
+    "Close Combat",
+    "Poison Jab",
+    "Zen Headbutt",
+    "Iron Head",
+    "Stone Edge",
+    "Work Up",
+    "Wild Charge",
+    "High Horsepower",
+    "Throat Chop"
+  ],
+  "tmMoves8": [
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Revenge",
+    "Rock Tomb",
+    "Mud Shot",
+    "Payback",
+    "Assurance",
+    "Round",
+    "Retaliate",
+    "Bulldoze",
+    "Smart Strike",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Smart Strike",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Payback",
+    "Retaliate",
+    "Giga Impact",
+    "Stone Edge",
+    "Swords Dance",
+    "Bulldoze",
+    "Rock Slide",
+    "Work Up",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Wild Charge",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

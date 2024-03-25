@@ -1,0 +1,22 @@
+{
+  "cardCode": "FOSS51",
+  "attackNumber": 1,
+  "name": "attack.FOSS51.1.name",
+  "energy": [
+    "WATER"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS51.1.text",
+  "effectsString": "FIND_POKEMON:1:POKEMON:98",
+  "effects": [
+    {
+      "count": 1,
+      "type": "ByPokemon",
+      "pokedexNumbers": [
+        98
+      ],
+      "energy": null
+    }
+  ]
+}

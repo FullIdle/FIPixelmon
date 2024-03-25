@@ -1,0 +1,25 @@
+{
+  "id": "Pincurchin Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pincurchin"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 150.0
+    }
+  ]
+}

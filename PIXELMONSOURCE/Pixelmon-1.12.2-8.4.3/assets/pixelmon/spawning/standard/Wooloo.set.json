@@ -1,0 +1,27 @@
+{
+  "id": "Wooloo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wooloo"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 7,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "plains",
+          "ice_flats"
+        ]
+      },
+      "rarity": 200.0
+    }
+  ]
+}

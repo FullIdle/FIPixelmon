@@ -1,0 +1,80 @@
+{
+  "id": "Sawsbuck",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sawsbuck",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "flowery",
+          "birches"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Sawsbuck",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "forests",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Sawsbuck",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "redwoods",
+          "taigas"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Sawsbuck",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+    "data": {
+        "trainerType": "MaleScientist",
+        "minLevel": 25,
+        "maxLevel": 45,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 4,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Magneton"
+        },
+        {
+            "name": "Magnezone"
+        },
+        {
+            "name": "Koffing"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Voltorb"
+        },
+        {
+            "name": "Voltorb"
+        },
+        {
+            "name": "Electrode"
+        },
+        {
+            "name": "Grimer"
+        },
+        {
+            "name": "Muk"
+        },
+        {
+            "name": "Ditto"
+        },
+        {
+            "name": "Ditto"
+        },
+        {
+            "name": "Porygon"
+        },
+        {
+            "name": "Porygon"
+        },
+        {
+            "name": "Porygon2"
+        },
+        {
+            "name": "Porygon-Z"
+        },
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Klang"
+        },
+        {
+            "name": "Klinklang"
+        },
+        {
+            "name": "Solosis"
+        },
+        {
+            "name": "Solosis"
+        },
+        {
+            "name": "Duosion"
+        },
+        {
+            "name": "Reuniclus"
+        },
+        {
+            "name": "Omanyte"
+        },
+        {
+            "name": "Omastar"
+        },
+        {
+            "name": "Kabuto"
+        },
+        {
+            "name": "Kabutops"
+        },
+        {
+            "name": "Aerodactyl"
+        },
+        {
+            "name": "Anorith"
+        },
+        {
+            "name": "Armaldo"
+        },
+        {
+            "name": "Cranidos"
+        },
+        {
+            "name": "Rampardos"
+        },
+        {
+            "name": "Shieldon"
+        },
+        {
+            "name": "Bastiodon"
+        },
+        {
+            "name": "Tirtouga"
+        },
+        {
+            "name": "Carracosta"
+        },
+        {
+            "name": "Archen"
+        },
+        {
+            "name": "Archeops"
+        },
+        {
+            "name": "Tyrunt"
+        },
+        {
+            "name": "Tyrantrum"
+        },
+        {
+            "name": "Amaura"
+        },
+        {
+            "name": "Aurorus"
+        },
+        {
+            "name": "Dracovish"
+        },
+        {
+            "name": "Arctovish"
+        },
+        {
+            "name": "Dracozolt"
+        },
+        {
+            "name": "Arctozolt"
+        },
+        {
+            "name": "Melmetal"
+        }
+    ],
+    "names": [
+        {
+            "name": "Adam"
+        },
+        {
+            "name": "Archimedes"
+        },
+        {
+            "name": "Riff"
+        },
+        {
+            "name": "Theodore \"Six Eyes\""
+        },
+        {
+            "name": "Cornelius"
+        }
+    ],
+	"chat": [
+        {
+            "opening": "Through meticulous research I've found the perfect team!",
+            "win": "Science! It works.",
+            "lose": "Let me check my notes..."
+        },
+        {
+            "opening": "My primary objective here is simply to observe.",
+            "win": "Though victory could be a secondary objective!",
+            "lose": "Oh... that was hard to observe."
+        },
+        {
+            "opening": "I hypothesize that I am about to defeat you!",
+            "win": "Hypothesis confirmed.",
+            "lose": "That's what these tests are for."
+        }
+    ]
+}

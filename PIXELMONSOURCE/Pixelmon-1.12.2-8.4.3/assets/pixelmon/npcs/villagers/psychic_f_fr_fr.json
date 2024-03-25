@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Maria"
+        },
+        {
+            "name": "Mme. Soleil"
+        },
+        {
+            "name": "Lutetia"
+        },
+        {
+            "name": "Estelle"
+        },
+        {
+            "name": "Natasha"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Vous voulez une démonstration ? Pah ! Il va falloir commencer par me donner une petite pièce."
+                },
+                {
+                    "text": "Je peux déjà voir que vous allez droit vers les ennuis !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Je peux lire dans vos pensées. Elles sont pleines de Pokémon, rien que des Pokémon."
+                },
+                {
+                    "text": "Ça ne m'intéresse pas vraiment. Du balai !"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai le pouvoir de prédire votre avenir! Je vois beaucoups de combat, et un tout petit peu de gloire."
+                },
+                {
+                    "text": "Pour quelques pièces d'or, je suis sûre que je pourrais voir beaucoup plus de gloire."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Vous avez ici la meilleure voyante du monde ! Posez-moi des questions, et je vous révèlerai toute la Vérité !"
+                },
+                {
+                    "text": "Quel Pokémon vous devriez mettre en première ligne pour le combat suivant ? Qu'est-ce que j'en sais ?! Ouste !"
+                }
+            ]
+        }
+    ]
+}

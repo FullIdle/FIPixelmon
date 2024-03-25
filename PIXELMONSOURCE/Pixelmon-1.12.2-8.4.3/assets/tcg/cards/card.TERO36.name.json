@@ -1,0 +1,45 @@
+{
+  "id": 274,
+  "setId": 4,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 44,
+  "code": "TERO36",
+  "name": "card.TERO36.name",
+  "description": "",
+  "previousPokemonId": 43,
+  "cardAttacks": [
+    {
+      "cardCode": "TERO36",
+      "attackNumber": 1,
+      "name": "attack.TERO36.1.name",
+      "energy": [
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.TERO36.1.text",
+      "effects": [
+        "OPP_CONDITION:POISONED"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "PollenStench"
+}

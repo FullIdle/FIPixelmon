@@ -1,0 +1,235 @@
+{
+  "pixelmonName": "Aegislash",
+  "pokemon": "Aegislash",
+  "form": 0,
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defence": 140,
+    "Speed": 60,
+    "SpecialAttack": 50,
+    "SpecialDefence": 140
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 12,
+  "baseExp": 234,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Doublade",
+    "Honedge"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2,
+    "SpecialDefence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": 0.5,
+      "z": -0.3
+    }
+  },
+  "weight": 53.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 2.0,
+    "eye_height": 1.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "StanceChange",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Aerial Ace",
+      "Autotomize",
+      "Fury Cutter",
+      "Head Smash",
+      "Iron Defense",
+      "Iron Head",
+      "King\u0027s Shield",
+      "Metal Sound",
+      "Night Slash",
+      "Power Trick",
+      "Retaliate",
+      "Sacred Sword",
+      "Shadow Sneak",
+      "Slash",
+      "Swords Dance",
+      "Tackle"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Block",
+    "Destiny Bond",
+    "Wide Guard"
+  ],
+  "transferMoves": [
+    "After You",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Magnet Rise",
+    "Pursuit",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Shock Wave",
+    "Spite",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Iron Defense",
+    "Gyro Ball",
+    "Close Combat",
+    "Flash Cannon",
+    "Iron Head"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Blade",
+    "Screech",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Brick Break",
+    "Shadow Claw",
+    "Psycho Cut",
+    "Round",
+    "Retaliate",
+    "False Swipe",
+    "Air Slash",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Giga Impact",
+    "Gyro Ball",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Shadow Claw",
+    "Retaliate",
+    "Giga Impact",
+    "Gyro Ball",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 60,
+        "Attack": 140,
+        "Defence": 50,
+        "Speed": 60,
+        "SpecialAttack": 140,
+        "SpecialDefence": 50
+      },
+      "evYields": {
+        "Attack": 2,
+        "SpecialAttack": 1
+      }
+    }
+  }
+}

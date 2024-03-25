@@ -1,0 +1,60 @@
+{
+    "skins": [
+        {
+            "filename": "evilprofessor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Victor"
+        },
+        {
+            "name": "Doofenshmirtz"
+        },
+        {
+            "name": "Gregory"
+        },
+        {
+            "name": "Dr. Henry Wu"
+        },
+        {
+            "name": "Dr. Trayaurus"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "My test subject escaped!"
+                },
+                {
+                    "text": "I knew I should have got the extra strong iron bars!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pokemon are nothing more than tools, trapped until releashed, only to be used for destruction."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Don't even try to stop me, trainer!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "You're too late, trainer!"
+                },
+                {
+                    "text": "My plan is nearly complete!"
+                }
+            ]
+        }
+    ]
+}

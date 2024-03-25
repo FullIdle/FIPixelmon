@@ -1,0 +1,22 @@
+{
+  "id": "Mega Rayquaza",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rayquaza"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.1
+    }
+  ]
+}

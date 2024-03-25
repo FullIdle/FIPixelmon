@@ -1,0 +1,20 @@
+{
+  "cardCode": "FOSS54",
+  "attackNumber": 1,
+  "name": "attack.FOSS54.1.name",
+  "energy": [
+    "WATER"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.FOSS54.1.text",
+  "effectsString": "HEAD-OPP_CONDITION:CONFUSED",
+  "effects": [
+    {
+      "condition": "CONFUSED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

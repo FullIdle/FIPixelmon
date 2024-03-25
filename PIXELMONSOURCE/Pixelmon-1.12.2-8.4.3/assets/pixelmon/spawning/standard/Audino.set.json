@@ -1,0 +1,36 @@
+{
+  "id": "Audino",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Audino"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "magical"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

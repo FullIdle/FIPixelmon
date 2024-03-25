@@ -1,0 +1,31 @@
+{
+  "attackIndex": 702,
+  "attackName": "Snipe Shot",
+  "attackType": "Water",
+  "attackCategory": "SPECIAL",
+  "basePower": 80,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "pixelmonName": "Axew",
+  "pokemon": "Axew",
+  "form": 0,
+  "stats": {
+    "HP": 46,
+    "Attack": 87,
+    "Defence": 60,
+    "Speed": 57,
+    "SpecialAttack": 30,
+    "SpecialDefence": 40
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 15,
+  "baseExp": 64,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon"
+  ],
+  "height": 0.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 18.0,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.6,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 38,
+      "to": {
+        "name": "Fraxure"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Rivalry",
+    "MoldBreaker",
+    "Unnerve"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Leer",
+      "Scratch"
+    ],
+    "3": [
+      "Bite"
+    ],
+    "6": [
+      "False Swipe"
+    ],
+    "9": [
+      "Assurance"
+    ],
+    "12": [
+      "Taunt"
+    ],
+    "15": [
+      "Slash"
+    ],
+    "18": [
+      "Dragon Claw"
+    ],
+    "21": [
+      "Scary Face"
+    ],
+    "24": [
+      "Crunch"
+    ],
+    "27": [
+      "Dragon Dance"
+    ],
+    "30": [
+      "Dual Chop"
+    ],
+    "33": [
+      "Laser Focus"
+    ],
+    "36": [
+      "Dragon Pulse"
+    ],
+    "39": [
+      "Swords Dance"
+    ],
+    "42": [
+      "Outrage"
+    ],
+    "45": [
+      "Guillotine"
+    ],
+    "48": [
+      "Giga Impact"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Scale Shot"
+  ],
+  "eggMoves": [
+    "Counter",
+    "Endeavor",
+    "First Impression",
+    "Harden",
+    "Night Slash"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Aqua Tail",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Dragon Rage",
+    "Frustration",
+    "Hidden Power",
+    "Hone Claws",
+    "Incinerate",
+    "Razor Wind",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Secret Power",
+    "Shock Wave",
+    "Strength",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Focus Energy",
+    "Substitute",
+    "Reversal",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Taunt",
+    "Superpower",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Poison Jab",
+    "X-Scissor",
+    "Dragon Pulse"
+  ],
+  "tmMoves8": [
+    "Giga Impact",
+    "Dig",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Rock Tomb",
+    "Payback",
+    "Assurance",
+    "Fling",
+    "Round",
+    "False Swipe",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Incinerate",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "False Swipe",
+    "Fling",
+    "Incinerate",
+    "Payback",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

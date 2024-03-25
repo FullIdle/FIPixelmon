@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "psychicleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Ordo"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "There is no need to introduce yourself. I know who you are. And I know you are going to lose!",
+      "win": "Not surprising to me that you lost...",
+      "lose": "I... I lost? I was wrong? I've never been wrong before!"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cardCode": "BASE49",
+  "attackNumber": 2,
+  "name": "attack.BASE49.2.name",
+  "energy": [
+    "PSYCHIC",
+    "PSYCHIC"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.BASE49.2.text",
+  "effectsString": "HEAD-OPP_CONDITION:CONFUSED",
+  "effects": [
+    {
+      "condition": "CONFUSED",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": "Head"
+    }
+  ]
+}

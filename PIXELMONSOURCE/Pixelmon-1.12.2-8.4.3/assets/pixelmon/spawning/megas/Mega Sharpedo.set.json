@@ -1,0 +1,23 @@
+{
+  "id": "Mega Sharpedo",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sharpedo"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "oceanic",
+          "jungles"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

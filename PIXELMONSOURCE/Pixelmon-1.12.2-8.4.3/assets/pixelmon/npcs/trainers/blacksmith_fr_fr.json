@@ -1,0 +1,88 @@
+{
+    "data": {
+        "trainerType": "Blacksmith",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Magneton"
+        },
+        {
+            "name": "Aron"
+        },
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Scizor"
+        },
+        {
+            "name": "Metang"
+        },
+        {
+            "name": "Lairon"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bazza"
+        },
+        {
+            "name": "Garth"
+        },
+        {
+            "name": "Rusty"
+        },
+        {
+            "name": "Atsushi"
+        },
+        {
+            "name": "Rarth"
+        },
+        {
+            "name": "Tibo"
+        },
+        {
+            "name": "Henry"
+        },
+        {
+            "name": "Bart"
+        },
+        {
+            "name": "Mikio"
+        },
+        {
+            "name": "Bartholomew"
+        },
+        {
+            "name": "Gunther"
+        },
+        {
+            "name": "Lars"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Tu oserais provoquer un entraineur spécialisé dans les pokémons Acier ??",
+            "win": "Tu as osé et tu as perdu !",
+            "lose": "Tu as osé, et ça a payé ..."
+        },
+        {
+            "opening": "On ne m'appelle pas l'home d'Acier pour rien ! Prépare-toi à un combat difficile !",
+            "win": "L'acier est imperméable à tout, t'as vu !",
+            "lose": "Je suppose que l'acier ne fait pas tout ..."
+        },
+        {
+            "opening": "Mes Pokémon ont été formés à la dur en endurant le feu. Ils sont invincibles !",
+            "win": "je t'avais prévenu ! Bien essayé.",
+            "lose": "Pas aussi invicibles que je ne le pensais..."
+        }
+    ]
+}

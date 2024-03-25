@@ -1,0 +1,20 @@
+{
+  "id": "Onix Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Onix"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 12,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 40.0
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+    "data": {
+        "trainerType": "PkmnBreederWoman",
+        "minLevel": 10,
+        "maxLevel": 35,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Eevee"
+        },
+        {
+            "name": "Flareon"
+        },
+        {
+            "name": "Jolteon"
+        },
+        {
+            "name": "Vaporeon"
+        },
+        {
+            "name": "Espeon"
+        },
+        {
+            "name": "Umbreon"
+        },
+        {
+            "name": "Leafeon"
+        },
+        {
+            "name": "Glaceon"
+        },
+        {
+            "name": "Pichu"
+        },
+        {
+            "name": "Elekid"
+        },
+        {
+            "name": "Magby"
+        },
+        {
+            "name": "Cleffa"
+        },
+        {
+            "name": "Igglybuff"
+        },
+        {
+            "name": "Smoochum"
+        },
+        {
+            "name": "Tyrogue"
+        },
+        {
+            "name": "Cubone"
+        },
+        {
+            "name": "Kangaskhan"
+        },
+        {
+            "name": "Togepi"
+        },
+        {
+            "name": "Ditto"
+        }
+    ],
+    "names": [
+        {
+            "name": "科琳娜"
+        },
+        {
+            "name": "伊利斯"
+        },
+        {
+            "name": "柔伊"
+        },
+        {
+            "name": "凱碧歐拉"
+        },
+        {
+            "name": "\"Mama Teddiursa\""
+        }
+    ],
+    "chat": [
+        {
+            "opening": "我所有的寶可夢都是我親手從孵蛋開始培育的，沒有人比我們更親近！",
+            "win": "我的寶可夢，做得好！我就知道你們可以做到！",
+            "lose": "我想我們還沒有接近勝利..."
+        },
+        {
+            "opening": "你想要對戰？我想我華麗的小寶可夢可以跟你玩玩！",
+            "win": "我的華麗小寶可夢很棒對吧？",
+            "lose": "嗯...我想我一定可以在華麗大賽中獲勝。"
+        },
+        {
+            "opening": "我培育了一支很強大的隊伍，你是沒有勝算的！",
+            "win": "我的培育真是太完美了！",
+            "lose": "我只是跟著其他人一起瞎起鬨。"
+        }
+    ]
+}

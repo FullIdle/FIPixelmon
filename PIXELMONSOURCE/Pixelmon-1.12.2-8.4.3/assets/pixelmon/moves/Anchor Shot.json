@@ -1,0 +1,40 @@
+{
+  "attackIndex": 623,
+  "attackName": "Anchor Shot",
+  "attackType": "Steel",
+  "attackCategory": "PHYSICAL",
+  "basePower": 80,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "MeanLook",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MeanLook"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Corkscrew Crash",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

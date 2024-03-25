@@ -1,0 +1,111 @@
+{
+  "pixelmonName": "Kleavor",
+  "pokemon": "Kleavor",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 135,
+    "Defence": 95,
+    "SpecialAttack": 45,
+    "SpecialDefence": 70,
+    "Speed": 85
+  },
+  "catchRate": 25,
+  "malePercent": 50,
+  "spawnLevel": 25,
+  "spawnLevelRange": 15,
+  "baseExp": 200,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Rock"
+  ],
+  "height": 1.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Scyther"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 89.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.0,
+    "eye_height": 0.7
+  },
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "SheerForce",
+    "Steadfast"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 121,
+  "levelUpMoves": {
+    "1": [
+      "Quick Attack"
+    ],
+    "6": [
+      "Silver Wind"
+    ],
+    "11": [
+      "Aerial Ace"
+    ],
+    "14": [
+      "Double Hit",
+      "Stealth Rock"
+    ],
+    "18": [
+      "Air Slash"
+    ],
+    "25": [
+      "Swords Dance"
+    ],
+    "29": [
+      "Stone Axe"
+    ],
+    "34": [
+      "X-Scissor"
+    ],
+    "43": [
+      "Close Combat"
+    ]
+  },
+  "tutorMoves": [
+    "False Swipe",
+    "Rock Smash",
+    "Aerial Ace",
+    "Stealth Rock",
+    "Swift",
+    "Ominous Wind",
+    "Focus Energy",
+    "Calm Mind",
+    "Rest",
+    "Psycho Cut",
+    "X-Scissor",
+    "Rock Slide",
+    "Giga Impact",
+    "Stone Edge",
+    "Hyper Beam"
+  ],
+  "eggMoves": [],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [],
+  "tmMoves8": [],
+  "forms": {}
+}

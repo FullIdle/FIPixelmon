@@ -1,0 +1,45 @@
+{
+  "attackIndex": 619,
+  "attackName": "Trick-or-Treat",
+  "attackType": "Ghost",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Ghost",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "TrickOrTreat"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Z-Trick-or-Treat",
+      "basePower": 0,
+	  "effects": [
+		{
+		  "persists": false,
+		  "effectTypeID": "RaiseStats"
+		}
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

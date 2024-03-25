@@ -1,0 +1,47 @@
+{
+  "id": "Inkay Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Inkay"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 18,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Malamar"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 31,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

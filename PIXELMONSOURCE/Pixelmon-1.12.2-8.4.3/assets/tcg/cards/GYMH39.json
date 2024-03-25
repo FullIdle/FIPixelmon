@@ -1,0 +1,62 @@
+{
+  "id": 360,
+  "setId": 6,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 94,
+  "code": "GYMH39",
+  "name": "card.GYMH39.name",
+  "description": "",
+  "previousPokemonId": 93,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH39",
+      "attackNumber": 1,
+      "name": "attack.GYMH39.1.name",
+      "energy": [
+        "PSYCHIC"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.GYMH39.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH39",
+      "attackNumber": 2,
+      "name": "attack.GYMH39.2.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.GYMH39.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": "FIGHTING",
+  "resistanceValue": "30",
+  "resistanceCardModifier": "Minus",
+  "energyWeakness": "",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

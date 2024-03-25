@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:fast_ball"
+        },
+        "title": {
+            "translate": "advancements.fast_ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.fast_ball_capture.description"
+        },
+        "hidden": true
+    },
+    "parent": "pixelmon:balls/ball_capture_trigger",
+    "criteria": {
+        "fast_ball_capture": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "fast_ball"
+            }
+        }
+    }
+}

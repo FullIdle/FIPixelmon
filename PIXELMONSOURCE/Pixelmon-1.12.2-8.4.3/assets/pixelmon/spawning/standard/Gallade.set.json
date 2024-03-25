@@ -1,0 +1,50 @@
+{
+  "id": "Gallade",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gallade",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Gallade",
+        "form": 112
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "STORM"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

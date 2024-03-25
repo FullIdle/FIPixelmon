@@ -1,0 +1,29 @@
+{
+  "id": "Kartana",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kartana"
+      },
+      "stringLocationTypes": [
+        "Land",
+		"Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

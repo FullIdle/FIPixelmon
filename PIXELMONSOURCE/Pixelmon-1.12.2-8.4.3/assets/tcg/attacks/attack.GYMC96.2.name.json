@@ -1,0 +1,15 @@
+{
+  "cardCode": "GYMC96",
+  "attackNumber": 2,
+  "name": "attack.GYMC96.2.name",
+  "energy": [
+    "FIRE"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.GYMC96.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,365 @@
+{
+    "data": {
+        "trainerType": "BugCatcher",
+        "minLevel": 8,
+        "maxLevel": 20,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 16
+    },
+    "pokemon": [
+        {
+            "name": "Caterpie"
+        },
+        {
+            "name": "Metapod"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Weedle"
+        },
+        {
+            "name": "Kakuna"
+        },
+        {
+            "name": "Beedrill"
+        },
+        {
+            "name": "Venonat"
+        },
+        {
+            "name": "Paras"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Spinarak"
+        },
+        {
+            "name": "Ariados"
+        },
+        {
+            "name": "Ledyba"
+        },
+        {
+            "name": "Ledian"
+        },
+        {
+            "name": "Pineco"
+        },
+        {
+            "name": "Wurmple"
+        },
+        {
+            "name": "Silcoon"
+        },
+        {
+            "name": "Cascoon"
+        },
+        {
+            "name": "Beautifly"
+        },
+        {
+            "name": "Dustox"
+        },
+        {
+            "name": "Surskit"
+        },
+        {
+            "name": "Nincada"
+        },
+        {
+            "name": "Kricketot"
+        },
+        {
+            "name": "Kricketune"
+        },
+        {
+            "name": "Burmy"
+        },
+        {
+            "name": "Combee"
+        },
+        {
+            "name": "Skorupi"
+        },
+        {
+            "name": "Sewaddle"
+        },
+        {
+            "name": "Swadloon"
+        },
+        {
+            "name": "Venipede"
+        },
+        {
+            "name": "Dwebble"
+        },
+        {
+            "name": "Joltik"
+        },
+        {
+            "name": "Yanma"
+        },
+        {
+            "name": "Shelmet"
+        },
+        {
+            "name": "Karrablast"
+        },
+        {
+            "name": "Escavalier"
+        },
+        {
+            "name": "Accelgor"
+        },
+        {
+            "name": "Larvesta"
+        },
+        {
+            "name": "Scatterbug"
+        },
+        {
+            "name": "Spewpa"
+        },
+        {
+            "name": "Vivillon"
+        },
+        {
+            "name": "Grubbin"
+        },
+        {
+            "name": "Charjabug"
+        },
+        {
+            "name": "Cutiefly"
+        },
+        {
+            "name": "Dewpider"
+        },
+        {
+            "name": "Wimpod"
+        },
+        {
+            "name": "Blipbug"
+        },
+        {
+            "name": "Dottler"
+        },
+        {
+            "name": "Sizzlipede"
+        },
+        {
+            "name": "Snom"
+        }
+    ],
+    "names": [
+        {
+            "name": "Al"
+        },
+        {
+            "name": "Anthony"
+        },
+        {
+            "name": "Arnie"
+        },
+        {
+            "name": "Benny"
+        },
+        {
+            "name": "Brandon"
+        },
+        {
+            "name": "Brent"
+        },
+        {
+            "name": "Cale"
+        },
+        {
+            "name": "Charlie"
+        },
+        {
+            "name": "Colton"
+        },
+        {
+            "name": "Connor"
+        },
+        {
+            "name": "Davis"
+        },
+        {
+            "name": "Don"
+        },
+        {
+            "name": "Donald"
+        },
+        {
+            "name": "Doug"
+        },
+        {
+            "name": "Ed"
+        },
+        {
+            "name": "Elijah"
+        },
+        {
+            "name": "Garret"
+        },
+        {
+            "name": "Greg"
+        },
+        {
+            "name": "Jack"
+        },
+        {
+            "name": "James"
+        },
+        {
+            "name": "Jonah"
+        },
+        {
+            "name": "Jose"
+        },
+        {
+            "name": "Josh"
+        },
+        {
+            "name": "Keigo"
+        },
+        {
+            "name": "Ken"
+        },
+        {
+            "name": "Kent"
+        },
+        {
+            "name": "Lyle"
+        },
+        {
+            "name": "Phillip"
+        },
+        {
+            "name": "Rick"
+        },
+        {
+            "name": "Rob"
+        },
+        {
+            "name": "Robby"
+        },
+        {
+            "name": "Sammy"
+        },
+        {
+            "name": "Vance"
+        },
+        {
+            "name": "Wade"
+        },
+        {
+            "name": "Wayne"
+        },
+        {
+            "name": "Tai"
+        },
+        {
+            "name": "Matt"
+        },
+        {
+            "name": "Izzy"
+        },
+        {
+            "name": "Joe"
+        },
+        {
+            "name": "Borris"
+        },
+        {
+            "name": "Bret"
+        },
+        {
+            "name": "Bryan"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Theo"
+        },
+        {
+            "name": "Vance"
+        },
+        {
+            "name": "Tobby"
+        },
+        {
+            "name": "Wilton"
+        },
+        {
+            "name": "Darryl"
+        },
+        {
+            "name": "Bobby"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "I love bugs!",
+            "win": "I told you that bugs are awesome!",
+            "lose": "Bugs are still awesome!"
+        },
+        {
+            "opening": "Have you seen a Butterfree? I love those.",
+            "win": "I think I see one. Thanks for the battle.",
+            "lose": "Oh well. If you see one, let me know."
+        },
+        {
+            "opening": "Bugs are so beautiful. I would like to see you try to take down my team!",
+            "win": "See the beauty of my bugs?",
+            "lose": "You may have beaten me but it was my bugs that really shined."
+        },
+        {
+            "opening": "Can we battle? I need my bug Pokémon to be stronger.",
+            "win": "It looks like my Pokémon are stronger than I thought.",
+            "lose": "I should have known my Pokémon were too weak."
+        },
+        {
+            "opening": "Through much patience have I trained my team... Let's battle!",
+            "win": "Looks like my training paid off.",
+            "lose": "How could I lose after all that training?"
+        },
+        {
+            "opening": "Battling is a serious affair. Let's have a fun match!",
+            "win": "That was fun. Let's battle again sometime.",
+            "lose": "That was fun. Thanks for the battle."
+        },
+        {
+            "opening": "If I win, you have to give me your bug Pokémon!",
+            "win": "Haha, hand them over!",
+            "lose": "Don't touch my Pokémon!"
+        },
+        {
+            "opening": "BUGS!",
+            "win": "Bugs rule!",
+            "lose": "Why are bug Pokémon so rubbish?"
+        },
+        {
+            "opening": "There are no good bug Pokémon! If I lose, I am starting a new team!",
+            "win": "I guess I was wrong! All bug Pokémon are awesome! I don't need a new team! This one is awesome!",
+            "lose": "That's it! I'm making a new team!"
+        },
+        {
+            "opening": "Hello there young Trainer!",
+            "win": "I beat you! Ha ha!",
+            "lose": "No way, I was sure I had you there..."
+        },
+        {
+            "opening": "Do I bug you?",
+            "win": "Bugs are the best.",
+            "lose": "Now you're starting to bug me..."
+        }
+    ]
+}

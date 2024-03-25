@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "sailor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "James"
+        },
+        {
+            "name": "Stanley"
+        },
+        {
+            "name": "Agostino"
+        },
+        {
+            "name": "Lionel"
+        },
+        {
+            "name": "Donald"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I challenged a Machamp to an arm-wrestling match with three friends."
+                },
+                {
+                    "text": "He beat us all without breaking a sweat. How did he do that?!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Surprised to see a sailor here? I'm on shore leave!"
+                },
+                {
+                    "text": "So tonight, I'm eating with family. I hope they won't cook spinach. I hate spinach..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My captain says a Shiny Wailmer ate his leg, and now he seeks revenge."
+                },
+                {
+                    "text": "I told him Wailmer don't snack on people's legs but he won't listen. Oh well."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I've been all around the world, you know?"
+                },
+                {
+                    "text": "And I'm telling you. The Pokémon you find in other regions... they're weird."
+                }
+            ]
+        }
+    ]
+}

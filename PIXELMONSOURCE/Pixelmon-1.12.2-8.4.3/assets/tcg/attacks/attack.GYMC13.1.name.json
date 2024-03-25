@@ -1,0 +1,16 @@
+{
+  "cardCode": "GYMC13",
+  "attackNumber": 1,
+  "name": "attack.GYMC13.1.name",
+  "energy": [
+    "LIGHTNING",
+    "LIGHTNING"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.GYMC13.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "cardCode": "JUNG51",
+  "attackNumber": 1,
+  "name": "attack.JUNG51.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG51.1.text",
+  "effectsString": "HEAD-SELF_IMMUNE:*",
+  "effects": [
+    {
+      "onMe": true,
+      "immuneType": "All",
+      "needCoinSide": "Head"
+    }
+  ]
+}

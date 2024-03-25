@@ -1,0 +1,15 @@
+{
+  "cardCode": "GYMC113",
+  "attackNumber": 1,
+  "name": "attack.GYMC113.1.name",
+  "energy": [
+    "GRASS"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.GYMC113.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Noibat Line Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Noibat"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "hills",
+          "Jungles"
+        ],
+        "maxLightLevel": 0
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Noivern"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "hills",
+          "Jungles"
+        ],
+        "maxLightLevel": 0
+      },
+      "rarity": 0.1
+    }
+  ]
+}

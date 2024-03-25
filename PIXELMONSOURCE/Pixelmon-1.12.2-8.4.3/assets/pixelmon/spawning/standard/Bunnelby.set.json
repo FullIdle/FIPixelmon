@@ -1,0 +1,41 @@
+{
+  "id": "Bunnelby",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Bunnelby"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Bunnelby"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 40.0
+    }
+  ]
+}

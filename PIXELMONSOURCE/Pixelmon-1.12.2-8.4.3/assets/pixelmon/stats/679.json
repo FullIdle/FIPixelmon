@@ -1,0 +1,219 @@
+{
+  "pixelmonName": "Honedge",
+  "pokemon": "Honedge",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 80,
+    "Defence": 100,
+    "Speed": 28,
+    "SpecialAttack": 35,
+    "SpecialDefence": 37
+  },
+  "catchRate": 180,
+  "malePercent": 50,
+  "spawnLevel": 21,
+  "spawnLevelRange": 13,
+  "baseExp": 65,
+  "baseFriendship": 0,
+  "types": [
+    "Steel",
+    "Ghost"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 2.0,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 1.3,
+    "eye_height": 1.0
+  },
+  "evolutions": [
+    {
+      "level": 35,
+      "to": {
+        "name": "Doublade"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "NoGuard",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Fury Cutter",
+      "Tackle"
+    ],
+    "4": [
+      "Shadow Sneak"
+    ],
+    "8": [
+      "Autotomize"
+    ],
+    "12": [
+      "Aerial Ace"
+    ],
+    "16": [
+      "Metal Sound"
+    ],
+    "20": [
+      "Slash"
+    ],
+    "24": [
+      "Night Slash"
+    ],
+    "28": [
+      "Retaliate"
+    ],
+    "32": [
+      "Iron Defense"
+    ],
+    "36": [
+      "Iron Head"
+    ],
+    "40": [
+      "Power Trick"
+    ],
+    "44": [
+      "Swords Dance"
+    ],
+    "48": [
+      "Sacred Sword"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Block",
+    "Destiny Bond",
+    "Wide Guard"
+  ],
+  "transferMoves": [
+    "After You",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Frustration",
+    "Hidden Power",
+    "Laser Focus",
+    "Magnet Rise",
+    "Pursuit",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Shock Wave",
+    "Spite",
+    "Swagger",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Iron Defense",
+    "Gyro Ball",
+    "Close Combat",
+    "Flash Cannon",
+    "Iron Head"
+  ],
+  "tmMoves8": [
+    "Solar Blade",
+    "Screech",
+    "Reflect",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Brick Break",
+    "Shadow Claw",
+    "Psycho Cut",
+    "Round",
+    "Retaliate",
+    "False Swipe",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "False Swipe",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Gyro Ball",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "False Swipe",
+    "Shadow Claw",
+    "Retaliate",
+    "Gyro Ball",
+    "Swords Dance",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {}
+}

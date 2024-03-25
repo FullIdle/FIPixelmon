@@ -1,0 +1,43 @@
+{
+  "id": "Hattrem",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Hattrem"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Hattrem"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

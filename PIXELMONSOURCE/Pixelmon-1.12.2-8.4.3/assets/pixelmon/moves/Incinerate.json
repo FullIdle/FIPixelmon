@@ -1,0 +1,55 @@
+{
+  "attackIndex": 206,
+  "attackName": "Incinerate",
+  "attackType": "Fire",
+  "attackCategory": "SPECIAL",
+  "basePower": 60,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Incinerate"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [255, 128, 0],
+				"scale": 0.5
+			},
+			"10": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [255, 128, 0],
+				"scale": 0.8
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "firium_z",
+      "attackName": "Inferno Overdrive",
+      "basePower": 120,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

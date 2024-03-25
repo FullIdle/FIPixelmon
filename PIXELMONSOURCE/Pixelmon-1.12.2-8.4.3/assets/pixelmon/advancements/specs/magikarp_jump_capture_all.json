@@ -1,0 +1,335 @@
+{
+   "display":{
+      "icon":{
+         "item":"pixelmon:pixelmon_sprite",
+         "nbt":"{\"SpriteName\":\"pixelmon:sprites/shinypokemon/129\"}"
+      },
+      "title":{
+         "translate":"advancements.magikarp_jump_all.title"
+      },
+      "description":{
+         "translate":"advancements.magikarp_jump_all.description"
+      },
+      "hidden":false
+   },
+   "parent":"pixelmon:specs/magikarp_jump_capture",
+   "criteria":{
+      "0":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:0 Magikarp"
+         }
+      },
+      "1":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:1 Magikarp"
+         }
+      },
+      "2":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:2 Magikarp"
+         }
+      },
+      "3":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:3 Magikarp"
+         }
+      },
+      "4":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:4 Magikarp"
+         }
+      },
+      "5":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:5 Magikarp"
+         }
+      },
+      "6":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:6 Magikarp"
+         }
+      },
+      "7":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:7 Magikarp"
+         }
+      },
+      "8":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:8 Magikarp"
+         }
+      },
+      "9":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:9 Magikarp"
+         }
+      },
+      "10":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:10 Magikarp"
+         }
+      },
+      "11":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:11 Magikarp"
+         }
+      },
+      "12":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:12 Magikarp"
+         }
+      },
+      "13":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:13 Magikarp"
+         }
+      },
+      "14":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:14 Magikarp"
+         }
+      },
+      "15":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:15 Magikarp"
+         }
+      },
+      "16":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:16 Magikarp"
+         }
+      },
+      "17":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:17 Magikarp"
+         }
+      },
+      "18":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:18 Magikarp"
+         }
+      },
+      "19":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:19 Magikarp"
+         }
+      },
+      "20":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:20 Magikarp"
+         }
+      },
+      "21":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:21 Magikarp"
+         }
+      },
+      "22":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:22 Magikarp"
+         }
+      },
+      "23":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:23 Magikarp"
+         }
+      },
+      "24":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:24 Magikarp"
+         }
+      },
+      "25":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:25 Magikarp"
+         }
+      },
+      "26":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:26 Magikarp"
+         }
+      },
+      "27":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:27 Magikarp"
+         }
+      },
+      "28":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:28 Magikarp"
+         }
+      },
+      "29":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:29 Magikarp"
+         }
+      },
+      "30":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:30 Magikarp"
+         }
+      },
+      "31":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:31 Magikarp"
+         }
+      },
+      "32":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:32 Magikarp"
+         }
+      },
+      "valencian":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"f:valencian Magikarp"
+         }
+      },
+      "s":{
+         "trigger":"pixelmon:spec_trigger",
+         "conditions":{
+            "spec":"s Magikarp"
+         }
+      }
+   },
+   "requirements":[
+      [
+         "0"
+      ],
+      [
+         "1"
+      ],
+      [
+         "2"
+      ],
+      [
+         "3"
+      ],
+      [
+         "4"
+      ],
+      [
+         "5"
+      ],
+      [
+         "6"
+      ],
+      [
+         "7"
+      ],
+      [
+         "8"
+      ],
+      [
+         "9"
+      ],
+      [
+         "10"
+      ],
+      [
+         "11"
+      ],
+      [
+         "12"
+      ],
+      [
+         "13"
+      ],
+      [
+         "14"
+      ],
+      [
+         "15"
+      ],
+      [
+         "16"
+      ],
+      [
+         "17"
+      ],
+      [
+         "18"
+      ],
+      [
+         "19"
+      ],
+      [
+         "20"
+      ],
+      [
+         "21"
+      ],
+      [
+         "22"
+      ],
+      [
+         "23"
+      ],
+      [
+         "24"
+      ],
+      [
+         "25"
+      ],
+      [
+         "26"
+      ],
+      [
+         "27"
+      ],
+      [
+         "28"
+      ],
+      [
+         "29"
+      ],
+      [
+         "30"
+      ],
+      [
+         "31"
+      ],
+      [
+         "32"
+      ],
+      [
+         "valencian"
+      ],
+      [
+         "s"
+      ]
+   ]
+}

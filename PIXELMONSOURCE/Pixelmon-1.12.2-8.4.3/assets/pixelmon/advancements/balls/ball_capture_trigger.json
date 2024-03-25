@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:poke_ball"
+        },
+        "title": {
+            "translate": "advancements.ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.ball_capture.description"
+        },
+        "background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+        "hidden": false
+    },
+    "criteria": {
+        "ball_capture_poke_ball": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "poke_ball"
+            }
+        }
+    }
+}

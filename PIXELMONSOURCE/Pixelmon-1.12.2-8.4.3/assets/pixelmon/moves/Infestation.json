@@ -1,0 +1,52 @@
+{
+  "attackIndex": 589,
+  "attackName": "Infestation",
+  "attackType": "Bug",
+  "attackCategory": "SPECIAL",
+  "basePower": 20,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"scale": 0.15,
+				"segments": 10,
+				"speed": 0.15
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "buginium_z",
+      "attackName": "Savage Spin-Out",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

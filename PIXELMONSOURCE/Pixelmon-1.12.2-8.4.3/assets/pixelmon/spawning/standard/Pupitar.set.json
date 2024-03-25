@@ -1,0 +1,41 @@
+{
+  "id": "Pupitar",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pupitar"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "mountainous",
+          "mesas"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Pupitar"
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 30,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.5
+    }
+  ]
+}

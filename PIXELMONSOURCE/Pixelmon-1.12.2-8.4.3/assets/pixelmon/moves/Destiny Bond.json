@@ -1,0 +1,50 @@
+{
+  "attackIndex": 270,
+  "attackName": "Destiny Bond",
+  "attackType": "Ghost",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "DestinyBond",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "DestinyBond"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": false,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "flags": {
+    "authentic": true
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Z-Destiny Bond",
+      "basePower": 0,
+      "effects": [
+        {
+          "type": "FollowMe",
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "FollowMe"
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

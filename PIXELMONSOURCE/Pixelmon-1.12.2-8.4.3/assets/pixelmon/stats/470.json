@@ -1,0 +1,346 @@
+{
+  "pixelmonName": "Leafeon",
+  "pokemon": "Leafeon",
+  "form": 0,
+  "stats": {
+    "HP": 65,
+    "Attack": 110,
+    "Defence": 130,
+    "Speed": 95,
+    "SpecialAttack": 60,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 45,
+  "spawnLevelRange": 5,
+  "baseExp": 184,
+  "baseFriendship": 35,
+  "types": [
+    "Grass"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Eevee"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.55,
+      "z": -0.3
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.55,
+      "z": -0.3
+    }
+  },
+  "weight": 25.5,
+  "bounding_box": {
+    "width": 1.5,
+    "height": 1.6,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "LeafGuard",
+    null,
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 36,
+  "levelUpMoves": {
+    "0": [
+      "Baton Pass",
+      "Bite",
+      "Charm",
+      "Copycat",
+      "Covet",
+      "Double-Edge",
+      "Growl",
+      "Helping Hand",
+      "Razor Leaf",
+      "Swift",
+      "Tackle",
+      "Tail Whip",
+      "Take Down"
+    ],
+    "5": [
+      "Sand Attack"
+    ],
+    "10": [
+      "Quick Attack"
+    ],
+    "15": [
+      "Baby-Doll Eyes"
+    ],
+    "20": [
+      "Leech Seed"
+    ],
+    "25": [
+      "Magical Leaf"
+    ],
+    "30": [
+      "Synthesis"
+    ],
+    "35": [
+      "Sunny Day"
+    ],
+    "40": [
+      "Giga Drain"
+    ],
+    "45": [
+      "Swords Dance"
+    ],
+    "50": [
+      "Leaf Blade"
+    ],
+    "55": [
+      "Last Resort"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Detect",
+    "Double Kick",
+    "Flail",
+    "Mud-Slap",
+    "Tickle",
+    "Wish",
+    "Yawn"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Bide",
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Echoed Voice",
+    "Flash",
+    "Frustration",
+    "Fury Cutter",
+    "Grass Whistle",
+    "Headbutt",
+    "Heal Bell",
+    "Hidden Power",
+    "Knock Off",
+    "Laser Focus",
+    "Mimic",
+    "Natural Gift",
+    "Nature Power",
+    "Rage",
+    "Reflect",
+    "Refresh",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Secret Power",
+    "Sing",
+    "Skull Bash",
+    "Strength",
+    "Swagger",
+    "Synchronoise",
+    "Toxic",
+    "Trump Card",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Focus Energy",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Iron Tail",
+    "Shadow Ball",
+    "Hyper Voice",
+    "Leaf Blade",
+    "Seed Bomb",
+    "X-Scissor",
+    "Energy Ball",
+    "Leaf Storm",
+    "Grass Knot",
+    "Stored Power",
+    "Work Up"
+  ],
+  "tmMoves8": [
+    "Pay Day",
+    "Hyper Beam",
+    "Giga Impact",
+    "Magical Leaf",
+    "Solar Beam",
+    "Solar Blade",
+    "Dig",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Charm",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Weather Ball",
+    "Fake Tears",
+    "Bullet Seed",
+    "Round",
+    "Retaliate"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "X-Scissor",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Retaliate",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "X-Scissor",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Roar",
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Iron Tail",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Energy Ball",
+    "Endure",
+    "Giga Impact",
+    "Flash",
+    "Swords Dance",
+    "Captivate",
+    "X-Scissor",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

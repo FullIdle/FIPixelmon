@@ -1,0 +1,26 @@
+{
+  "id": "Buzzwole",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Buzzwole"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

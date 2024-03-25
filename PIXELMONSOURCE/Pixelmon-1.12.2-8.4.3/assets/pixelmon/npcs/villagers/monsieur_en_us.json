@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "monsieur.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Reginald"
+        },
+        {
+            "name": "Herbert"
+        },
+        {
+            "name": "Edward"
+        },
+        {
+            "name": "Richard"
+        },
+        {
+            "name": "Ernest"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "My family had a Pokémon Center built when I was still a young man."
+                },
+                {
+                    "text": "If you look closely, you will find our coat of arms carved somewhere on its walls."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I am a patron of the arts. As such, I sponsor Smeargle breeding."
+                },
+                {
+                    "text": "I have seen some that could paint in five different styles from birth!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I am very late for a luncheon!"
+                },
+                {
+                    "text": "No, a luncheon is NOT an Eevee evolution. How unsophisticated of you!"
+                }
+            ]
+        }
+    ]
+}

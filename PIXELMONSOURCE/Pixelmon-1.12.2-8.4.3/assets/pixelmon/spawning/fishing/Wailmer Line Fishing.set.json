@@ -1,0 +1,59 @@
+{
+  "id": "Wailmer Line Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wailmer"
+      },
+      "stringLocationTypes": [
+        "Good Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 60.0
+    },
+    {
+      "spec": {
+        "name": "Wailmer"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 25,
+      "maxLevel": 39,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 100.0
+    },
+    {
+      "spec": {
+        "name": "Wailord"
+      },
+      "stringLocationTypes": [
+        "Super Rod"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

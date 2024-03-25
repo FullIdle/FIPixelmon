@@ -1,0 +1,43 @@
+{
+  "attackIndex": 8,
+  "attackName": "Take Down",
+  "attackType": "Normal",
+  "attackCategory": "PHYSICAL",
+  "basePower": 90,
+  "ppBase": 20,
+  "ppMax": 32,
+  "accuracy": 85,
+  "makesContact": true,
+  "effects": [
+    {
+      "percentRecoil": 25,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+  ],
+  "animations": [
+      {
+          "id": "run",
+          "maxUserVelocity": 3
+      }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Breakneck Blitz",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

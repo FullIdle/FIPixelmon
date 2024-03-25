@@ -1,0 +1,47 @@
+{
+  "id": "Rufflet Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Rufflet"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Braviary"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.5
+    }
+  ]
+}

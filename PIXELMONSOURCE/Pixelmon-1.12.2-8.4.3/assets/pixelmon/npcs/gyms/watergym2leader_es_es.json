@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "waterleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Tide"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Las corrientes del tiempo te llevaron hasta aquí, ¡y las corrientes del agua te sacarán de aquí!",
+      "win": "¡El agua sobrevive a todo, incluso a ti!",
+      "lose": "Las corrientes del tiempo me han atrapado, o eso parece..."
+    }
+  ]
+}

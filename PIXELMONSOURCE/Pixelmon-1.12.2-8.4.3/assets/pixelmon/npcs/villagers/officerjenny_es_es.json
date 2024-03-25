@@ -1,0 +1,54 @@
+{
+    "skins": [
+        { 
+            "filename": "officerjenny.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Agente Mara"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Oye, ¿son tuyos todos esos Pokémon? ¡Asegurate de cuidarlos bien!"
+                },
+                {
+                    "text": "¡Volveré y comprobaré si has cuidado de tus Pokémon apropiadamente!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¿Sabes algo del Team Rocket? He oído rumores de que estarían cerca."
+                },
+                {
+                    "text": "¿Viste al Team Rocket en el pueblo vecino? Vale, ¡gracias! ¡Estoy en ello!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ten cuidado con los ladrones de Pokémon. Últimamente hay muchas denuncias de eso por esta zona."
+                },
+                {
+                    "text": "Tú no serás un ladrón de Pokémon, ¿verdad?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Me encanta mi trabajo! ¡Debo buscar criminales y ponerlo todo en su sito!"
+                },
+                {
+                    "text": "¡Ladrones de Pokémon, estafadores, todo tipo de ladrones! ¡Cuidado con la Agente Mara!"
+                }
+            ]
+        }
+    ]
+}

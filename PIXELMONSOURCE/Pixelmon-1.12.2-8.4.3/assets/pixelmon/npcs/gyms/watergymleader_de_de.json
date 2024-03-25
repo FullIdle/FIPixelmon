@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "waterleader1.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Kai" 
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Ich bin beeindruckt, dass du es hierher geschafft hast. Ich glaube nicht, dass ich es dir leicht mache!",
+      "win": "Ha! Komme nicht wieder.",
+      "lose": "Du hattest Glück, Kind!"
+    }
+  ]
+}

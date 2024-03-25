@@ -1,0 +1,222 @@
+{
+    "data": {
+        "trainerType": "Mountaineer",
+        "minLevel": 10,
+        "maxLevel": 30,
+        "minPartyPokemon": 2,
+        "maxPartyPokemon": 6,
+        "winnings": 54
+    },
+    "pokemon": [
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Geodude"
+        },
+        {
+            "name": "Graveler"
+        },
+        {
+            "name": "Golem"
+        },
+        {
+            "name": "Onix"
+        },
+        {
+            "name": "Onix"
+        },
+        {
+            "name": "Steelix"
+        },
+        {
+            "name": "Rhyhorn"
+        },
+        {
+            "name": "Rhyhorn"
+        },
+        {
+            "name": "Rhydon"
+        },
+        {
+            "name": "Cubone"
+        },
+        {
+            "name": "Marowak"
+        },
+        {
+            "name": "Machop"
+        },
+        {
+            "name": "Machop"
+        },
+        {
+            "name": "Machoke"
+        },
+        {
+            "name": "Machamp"
+        },
+        {
+            "name": "Diglett"
+        },
+        {
+            "name": "Dugtrio"
+        },
+        {
+            "name": "Sandshrew"
+        },
+        {
+            "name": "Sandshrew"
+        },
+        {
+            "name": "Sandslash"
+        },
+        {
+            "name": "Stonjourner"
+        },
+        {
+            "name": "Rockruff"
+        },
+        {
+            "name": "Rockruff"
+        },
+        {
+            "name": "Lycanroc"
+        },
+        {
+            "name": "Swinub"
+        },
+        {
+            "name": "Piloswine"
+        },
+        {
+            "name": "Nosepass"
+        },
+        {
+            "name": "Nosepass"
+        },
+        {
+            "name": "Probopass"
+        },
+        {
+            "name": "Baltoy"
+        },
+        {
+            "name": "Claydol"
+        },
+        {
+            "name": "Numel"
+        },
+        {
+            "name": "Camerupt"
+        },
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Crobat"
+        },
+        {
+            "name": "Phanpy"
+        },
+        {
+            "name": "Donphan"
+        },
+        {
+            "name": "Dunsparce"
+        },
+        {
+            "name": "Timburr"
+        },
+        {
+            "name": "Gurdurr"
+        },
+        {
+            "name": "Conkeldurr"
+        },
+        {
+            "name": "Woobat"
+        },
+        {
+            "name": "Swoobat"
+        },
+        {
+            "name": "Dwebble"
+        },
+        {
+            "name": "Crustle"
+        },
+        {
+            "name": "Gligar"
+        },
+        {
+            "name": "Torkoal"
+        },
+        {
+            "name": "Bunnelby"
+        },
+        {
+            "name": "Diggersby"
+        },
+        {
+            "name": "Mudbray"
+        },
+        {
+            "name": "Mudbray"
+        },
+        {
+            "name": "Mudsdale"
+        },
+        {
+            "name": "Terrakion"
+        }
+    ],
+    "names": [
+        {
+            "name": "Gerald"
+        },
+        {
+            "name": "Oliver"
+        },
+        {
+            "name": "Martin"
+        },
+        {
+            "name": "Rupert"
+        },
+        {
+            "name": "Victor"
+        },
+        {
+            "name": "Travis"
+        },
+        {
+            "name": "Brian"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "My Pokémon and I are having a race.",
+            "win": "You should try racing. It's good for your Pokémon.",
+            "lose": "Now I don't feel like racing anymore."
+        },
+        {
+            "opening": "These mountains are full of Pokémon!",
+            "win": "And look how strong they are.",
+            "lose": "But they need some proper training though."
+        },
+        {
+            "opening": "Can you climb and battle?",
+            "win": "Don't be afraid of heights.",
+            "lose": "I almost fell."
+        },
+        {
+            "opening": "Nothing like a king of the mountain battle.",
+            "win": "I am the king of this mountain.",
+            "lose": "You are the king of this mountain."
+        }
+    ]
+}

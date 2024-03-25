@@ -1,0 +1,26 @@
+{
+  "id": "Barbaracle",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Barbaracle"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 40,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "beaches"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

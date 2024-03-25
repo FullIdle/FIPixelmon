@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "sailor.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "James"
+        },
+        {
+            "name": "Stanley"
+        },
+        {
+            "name": "Agostino"
+        },
+        {
+            "name": "Lionel"
+        },
+        {
+            "name": "Donald"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Avec trois potes, j'ai voulu faire défier un Mackogneur au bras de fer."
+                },
+                {
+                    "text": "Il nous a tous battus en même temps et sans effort. Comment il a fait ?!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ca t'étonne de voir un marin ? Je suis en permission !"
+                },
+                {
+                    "text": "Ce soir je dîne en famille. J'espère qu'ils vont pas me faire des épinards. J'ai horreur de ça..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mon capitaine dit qu'un Wailmer chromatique lui a mangé la jambe, et maintenant il veut se venger."
+                },
+                {
+                    "text": "Je lui ai dit que les Wailmer, ça boulotte pas les jambes des gens mais il veut rien savoir. Enfin."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "J'ai fait le tour du monde, tu sais ?"
+                },
+                {
+                    "text": "Et franchement. Les Pokémon qu'on trouve ailleurs... ils sont bizarres."
+                }
+            ]
+        }
+    ]
+}

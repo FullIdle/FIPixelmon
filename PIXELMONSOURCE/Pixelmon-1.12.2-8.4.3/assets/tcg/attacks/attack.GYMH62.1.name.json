@@ -1,0 +1,15 @@
+{
+  "cardCode": "GYMH62",
+  "attackNumber": 1,
+  "name": "attack.GYMH62.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.GYMH62.1.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

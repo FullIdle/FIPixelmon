@@ -1,0 +1,154 @@
+{
+  "data": {
+    "type": "PokemartMain"
+  },
+  "textures": [
+    {
+      "name": "shoplady3.png"
+    },
+    {
+      "name": "shoplady4.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Janet"
+    },
+    {
+      "name": "Sally"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hola, bienvenido a la Tienda Pokémon. ¿Necesitas ayuda en algo?",
+      "goodbye": "Adiós pues. Vuelve a vistarnos pronto."
+    },
+    {
+      "hello": "Hola, ¿qué tal estás? Bienvenido a la Tienda Pokémon. Sólo debes avisarnos si necesitas ayuda.",
+      "goodbye": "Me alegro de verte. ¡Que tengas un buen día!"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:poke_ball"
+    },
+    {
+      "name": "pixelmon:great_ball",
+      "multi": 1.1
+    },
+    {
+      "name": "pixelmon:ultra_ball"
+    },
+    {
+      "name": "pixelmon:dive_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:dusk_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:fast_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:friend_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:heal_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:heavy_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:level_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:love_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:lure_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:luxury_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:moon_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:nest_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:net_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:quick_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:repeat_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:sport_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:timer_ball",
+      "rarity": 0.3
+    },
+    {
+      "name": "pixelmon:fresh_water"
+    },
+    {
+      "name": "pixelmon:soda_pop"   
+    },
+    {
+      "name": "pixelmon:lemonade"
+    },
+    {
+      "name": "pixelmon:moomoo_milk"
+    },
+    {
+      "name": "pixelmon:full_restore",
+      "rarity": 0.1
+    },
+    {
+      "name": "pixelmon:full_heal"
+    },
+    {
+      "name": "pixelmon:antidote",
+      "rarity": 0.5      
+    },
+    {
+      "name": "pixelmon:awakening",
+      "rarity": 0.5     
+    },
+    {
+      "name": "pixelmon:burn_heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "pixelmon:ice_heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "pixelmon:paralyze_heal",
+      "rarity": 0.5     
+    },
+    {
+      "name": "pixelmon:revive",
+      "rarity": 0.5     
+    }
+  ]
+}

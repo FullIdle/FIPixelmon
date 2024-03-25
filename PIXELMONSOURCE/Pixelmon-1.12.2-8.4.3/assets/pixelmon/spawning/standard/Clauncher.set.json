@@ -1,0 +1,27 @@
+{
+  "id": "Clauncher",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Clauncher"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Seafloor"
+      ],
+      "minLevel": 24,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "beaches",
+          "oceanic"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

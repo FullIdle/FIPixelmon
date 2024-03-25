@@ -1,0 +1,27 @@
+{
+  "id": "Swellow",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Swellow"
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

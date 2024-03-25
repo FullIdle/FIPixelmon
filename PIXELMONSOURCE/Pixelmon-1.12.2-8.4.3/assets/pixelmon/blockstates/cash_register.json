@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"normal": { "model": "pixelmon:Cash_Register" },
+		"facing=north": { "model": "pixelmon:Cash_Register" },
+		"facing=south": { "model": "pixelmon:Cash_Register" },
+		"facing=east": { "model": "pixelmon:Cash_Register" },
+		"facing=west": { "model": "pixelmon:Cash_Register" }
+	}
+}

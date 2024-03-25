@@ -1,0 +1,91 @@
+{
+  "id": "Dragonite",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Dragonite",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "deep_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Dragonite",
+        "form": 111
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "deep_ocean"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": {
+        "name": "Dragonite",
+        "form": 113
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "deep_ocean"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

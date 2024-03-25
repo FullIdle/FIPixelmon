@@ -1,0 +1,292 @@
+{
+  "pixelmonName": "Frillish",
+  "pokemon": "Frillish",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 40,
+    "Defence": 50,
+    "Speed": 40,
+    "SpecialAttack": 65,
+    "SpecialDefence": 85
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 22,
+  "spawnLevelRange": 17,
+  "baseExp": 67,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ghost"
+  ],
+  "height": 1.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 3,
+    "depthRangeEnd": 7,
+    "swimSpeed": 0.5,
+    "decayRate": 0.95,
+    "refreshRate": 200
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "SpecialDefence": 1
+  },
+  "weight": 33.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 1.5,
+    "eye_height": 1.2
+  },
+  "evolutions": [
+    {
+      "level": 40,
+      "to": {
+        "name": "Jellicent"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "WaterAbsorb",
+    "CursedBody",
+    "Damp"
+  ],
+  "eggGroups": [
+    "Amorphous"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Water Gun"
+    ],
+    "4": [
+      "Poison Sting"
+    ],
+    "8": [
+      "Night Shade"
+    ],
+    "12": [
+      "Water Pulse"
+    ],
+    "16": [
+      "Rain Dance"
+    ],
+    "20": [
+      "Hex"
+    ],
+    "24": [
+      "Brine"
+    ],
+    "28": [
+      "Recover"
+    ],
+    "32": [
+      "Shadow Ball"
+    ],
+    "36": [
+      "Whirlpool"
+    ],
+    "41": [
+      "Hydro Pump"
+    ],
+    "44": [
+      "Destiny Bond"
+    ],
+    "48": [
+      "Water Spout"
+    ]
+  },
+  "tutorMoves": [
+    "Poltergeist"
+  ],
+  "eggMoves": [
+    "Acid Armor",
+    "Bubble Beam",
+    "Confuse Ray",
+    "Mist",
+    "Pain Split",
+    "Strength Sap"
+  ],
+  "transferMoves": [
+    "Bind",
+    "Bubble",
+    "Confide",
+    "Constrict",
+    "Double Team",
+    "Dream Eater",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Magic Coat",
+    "Ominous Wind",
+    "Psych Up",
+    "Return",
+    "Secret Power",
+    "Shock Wave",
+    "Spite",
+    "Swagger",
+    "Toxic",
+    "Water Sport",
+    "Wring Out"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Psychic",
+    "Waterfall",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Taunt",
+    "Trick",
+    "Dark Pulse",
+    "Energy Ball",
+    "Sludge Wave",
+    "Scald",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Will-O-Wisp",
+    "Facade",
+    "Imprison",
+    "Dive",
+    "Brine",
+    "Trick Room",
+    "Round",
+    "Hex"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Will-O-Wisp",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Surf",
+    "Dark Pulse",
+    "Waterfall",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Will-O-Wisp",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Trick Room",
+    "Secret Power",
+    "Dark Pulse",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Scald",
+    "Will-O-Wisp",
+    "Flash",
+    "Psych Up",
+    "Dream Eater",
+    "Swagger",
+    "Substitute",
+    "Trick Room"
+  ],
+  "forms": {}
+}

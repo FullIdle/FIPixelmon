@@ -1,0 +1,64 @@
+{
+    "skins": [
+        {
+            "filename": "blacksmith.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bazza"
+        },
+        {
+            "name": "Garth"
+        },
+        {
+            "name": "Rusty"
+        },
+        {
+            "name": "Atsushi"
+        },
+        {
+            "name": "Rarth"
+        },
+        {
+            "name": "Tibo"
+        },
+        {
+            "name": "Henry"
+        },
+        {
+            "name": "Bart"
+        },
+        {
+            "name": "Mikio"
+        },
+        {
+            "name": "Bartholomew"
+        },
+        {
+            "name": "Gunther"
+        },
+        {
+            "name": "Lars"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "It's hard working in here all day with this heat!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "A Blacksmith's work never gets boring."
+                },
+                {
+                    "text": "You never know what each day will bring!"
+                }
+            ]
+        }
+    ]
+}

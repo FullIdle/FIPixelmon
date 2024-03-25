@@ -1,0 +1,458 @@
+{
+  "id": "Scatterbug Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Scatterbug"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 3,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "birches",
+          "forests",
+          "magical"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Spewpa"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "birches",
+          "forests",
+          "magical"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mushroom_island"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 2
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "mutated_roofed_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 3
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "birches"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 4
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 5
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "taiga_cold",
+          "mutated_taiga_cold",
+          "taiga_cold_hills"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 6
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 7
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "beaches",
+          "cold_beach",
+          "stone_beach"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 8
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mutated_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 9
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 10
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 11
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ocean",
+          "deep_ocean"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 12
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "frozen_ocean",
+          "frozen_river"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 13
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 14
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 15
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 16
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mutated_plains"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 17
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ice_flats",
+          "mutated_ice_flats"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Vivillon",
+        "form": 18
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 13,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

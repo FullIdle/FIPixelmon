@@ -1,0 +1,22 @@
+{
+  "id": "Gible Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gible"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

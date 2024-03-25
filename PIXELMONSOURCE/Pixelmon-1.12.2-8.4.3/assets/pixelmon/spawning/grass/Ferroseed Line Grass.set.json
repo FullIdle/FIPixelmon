@@ -1,0 +1,59 @@
+{
+  "id": "Ferroseed Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ferroseed"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "redwoods",
+          "freezing forests"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Ferrothorn"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "redwoods",
+          "freezing forests"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

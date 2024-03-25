@@ -1,0 +1,22 @@
+{
+  "id": "Axew Sweet Scent",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Axew"
+      },
+      "stringLocationTypes": [
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

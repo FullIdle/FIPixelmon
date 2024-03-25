@@ -1,0 +1,628 @@
+{
+  "pixelmonName": "Foongus",
+  "pokemon": "Foongus",
+  "form": 0,
+  "stats": {
+    "HP": 69,
+    "Attack": 55,
+    "Defence": 45,
+    "Speed": 15,
+    "SpecialAttack": 55,
+    "SpecialDefence": 55
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 18,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.2,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 1.0,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.7,
+    "eye_height": 0.3
+  },
+  "evolutions": [
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 1
+      },
+      "conditions": [
+        {
+          "chance": 0.05,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 2
+      },
+      "conditions": [
+        {
+          "chance": 0.0526,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 3
+      },
+      "conditions": [
+        {
+          "chance": 0.0555,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 4
+      },
+      "conditions": [
+        {
+          "chance": 0.0588,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 5
+      },
+      "conditions": [
+        {
+          "chance": 0.0625,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 6
+      },
+      "conditions": [
+        {
+          "chance": 0.0666,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 7
+      },
+      "conditions": [
+        {
+          "chance": 0.0714,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 8
+      },
+      "conditions": [
+        {
+          "chance": 0.0769,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 9
+      },
+      "conditions": [
+        {
+          "chance": 0.0833,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 10
+      },
+      "conditions": [
+        {
+          "chance": 0.0909,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 11
+      },
+      "conditions": [
+        {
+          "chance": 0.1,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 12
+      },
+      "conditions": [
+        {
+          "chance": 0.1111,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 13
+      },
+      "conditions": [
+        {
+          "chance": 0.125,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 14
+      },
+      "conditions": [
+        {
+          "chance": 0.1428,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 15
+      },
+      "conditions": [
+        {
+          "chance": 0.1666,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 16
+      },
+      "conditions": [
+        {
+          "chance": 0.2,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 17
+      },
+      "conditions": [
+        {
+          "chance": 0.25,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 18
+      },
+      "conditions": [
+        {
+          "chance": 0.3333,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 19
+      },
+      "conditions": [
+        {
+          "chance": 0.5,
+          "evoConditionType": "chance"
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss",
+        "form": 20
+      },
+      "conditions": [
+        {
+          "item": {
+            "itemID": "pixelmon:eject_button"
+          },
+          "evoConditionType": "heldItem"
+        }
+      ],
+      "evoType": "leveling"
+    },
+    {
+      "level": 39,
+      "to": {
+        "name": "Amoonguss"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "EffectSpore",
+    null,
+    "Regenerator"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Astonish"
+    ],
+    "4": [
+      "Growth"
+    ],
+    "8": [
+      "Stun Spore"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Synthesis"
+    ],
+    "20": [
+      "Clear Smog"
+    ],
+    "24": [
+      "Sweet Scent"
+    ],
+    "28": [
+      "Giga Drain"
+    ],
+    "32": [
+      "Ingrain"
+    ],
+    "36": [
+      "Toxic"
+    ],
+    "40": [
+      "Rage Powder"
+    ],
+    "44": [
+      "Solar Beam"
+    ],
+    "48": [
+      "Spore"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Defense Curl",
+    "Poison Powder",
+    "Rollout",
+    "Worry Seed"
+  ],
+  "transferMoves": [
+    "After You",
+    "Bide",
+    "Confide",
+    "Double Team",
+    "Feint Attack",
+    "Flash",
+    "Frustration",
+    "Gastro Acid",
+    "Hidden Power",
+    "Nature Power",
+    "Return",
+    "Secret Power",
+    "Swagger"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Seed Bomb",
+    "Energy Ball",
+    "Grass Knot",
+    "Foul Play",
+    "Pollen Puff"
+  ],
+  "tmMoves8": [
+    "Solar Beam",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Payback",
+    "Venoshock",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Flash",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Payback",
+    "Flash",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "forms": {}
+}

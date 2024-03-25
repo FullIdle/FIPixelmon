@@ -1,0 +1,429 @@
+{
+  "pixelmonName": "Salamence",
+  "pokemon": "Salamence",
+  "form": 0,
+  "stats": {
+    "HP": 95,
+    "Attack": 135,
+    "Defence": 80,
+    "Speed": 100,
+    "SpecialAttack": 110,
+    "SpecialDefence": 80
+  },
+  "catchRate": 45,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 10,
+  "baseExp": 218,
+  "baseFriendship": 35,
+  "types": [
+    "Dragon",
+    "Flying"
+  ],
+  "height": 1.5,
+  "isRideable": true,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [
+    "Shelgon",
+    "Bagon"
+  ],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 20,
+    "flySpeedModifier": 0.8,
+    "flyRefreshRateY": 100,
+    "flyRefreshRateXZ": 100,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "Air"
+  ],
+  "evYields": {
+    "Attack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": 0.2
+    },
+    "moving": {
+      "x": -0.05,
+      "y": -0.6,
+      "z": 0.2
+    }
+  },
+  "weight": 102.6,
+  "bounding_box": {
+    "width": 1.8,
+    "height": 1.8,
+    "eye_height": 1.3
+  },
+  "evolutions": [],
+  "abilities": [
+    "Intimidate",
+    null,
+    "Moxie"
+  ],
+  "eggGroups": [
+    "Dragon"
+  ],
+  "eggCycles": 41,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Dragon Breath",
+      "Dragon Tail",
+      "Ember",
+      "Fly",
+      "Leer",
+      "Protect"
+    ],
+    "15": [
+      "Headbutt"
+    ],
+    "20": [
+      "Scary Face"
+    ],
+    "25": [
+      "Crunch"
+    ],
+    "33": [
+      "Dragon Claw"
+    ],
+    "39": [
+      "Zen Headbutt"
+    ],
+    "46": [
+      "Focus Energy"
+    ],
+    "55": [
+      "Flamethrower"
+    ],
+    "64": [
+      "Outrage"
+    ],
+    "73": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Defense Curl",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Dragon Rage",
+    "Dragon Rush",
+    "Endure",
+    "Fire Fang",
+    "Hydro Pump",
+    "Thrash",
+    "Twister"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Air Cutter",
+    "Aqua Tail",
+    "Captivate",
+    "Confide",
+    "Cut",
+    "Defog",
+    "Double Team",
+    "Dragon Rage",
+    "Frustration",
+    "Fury Cutter",
+    "Hidden Power",
+    "Hone Claws",
+    "Incinerate",
+    "Laser Focus",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Ominous Wind",
+    "Rage",
+    "Refresh",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Rollout",
+    "Roost",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Tailwind",
+    "Toxic",
+    "Wish"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Hydro Pump",
+    "Earthquake",
+    "Focus Energy",
+    "Fire Blast",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Crunch",
+    "Heat Wave",
+    "Hyper Voice",
+    "Iron Defense",
+    "Dragon Claw",
+    "Dragon Dance",
+    "Dragon Pulse",
+    "Zen Headbutt",
+    "Stone Edge",
+    "Hurricane"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Hyper Beam",
+    "Giga Impact",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Steel Wing",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Brick Break",
+    "Rock Tomb",
+    "Shadow Claw",
+    "Thunder Fang",
+    "Fire Fang",
+    "Round",
+    "Bulldoze",
+    "Air Slash",
+    "Brutal Swing",
+    "Breaking Swipe"
+  ],
+  "tmMoves7": [
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Brutal Swing",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Fly",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Roost",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Steel Wing",
+    "Incinerate",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Incinerate",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Dragon Tail",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Steel Wing",
+    "Roost",
+    "Endure",
+    "Dragon Pulse",
+    "Shadow Claw",
+    "Giga Impact",
+    "Stone Edge",
+    "Captivate",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Dragon Claw",
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Aerial Ace",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Steel Wing"
+  ],
+  "forms": {
+    "1": {
+      "form": 1,
+      "stats": {
+        "HP": 95,
+        "Attack": 145,
+        "Defence": 130,
+        "Speed": 120,
+        "SpecialAttack": 120,
+        "SpecialDefence": 90
+      },
+      "height": 1.8,
+      "ridingOffsets": {
+        "standing": {
+          "x": 0.0,
+          "y": 1.2,
+          "z": -0.6
+        },
+        "moving": {
+          "x": 0.0,
+          "y": 1.2,
+          "z": -0.6
+        }
+      },
+      "weight": 112.5,
+      "bounding_box": {
+        "width": 1.8,
+        "height": 1.8,
+        "eye_height": 1.3
+      },
+      "abilities": [
+        "Aerilate",
+        null,
+        null
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+[
+    {
+      "modid": "pixelmon",
+      "name": "Pixelmon",
+      "description": "Pokémon, in Minecraft!",
+      "version": "1.12.2-8.4.3-pipe15093",
+      "mcversion": "1.12.2",
+      "forgeversion": "Forge 14.23.5.2860",
+      "url": "https://reforged.gg/",
+      "updateUrl": "https://reforged.gg/",
+      "authorList": ["Pixelmon Reforged Development Team"],
+      "credits": "Pixelmon Development Team for all their hard work over the years.",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    },
+    {
+        "modid": "tcg",
+        "name": "Pixelmon TCG",
+        "description": "Trade cards and do battle!",
+        "version": "1.12.2-8.4.3-pipe15093",
+        "mcversion": "1.12.2",
+        "url": "http://www.pixelmonmod.com",
+        "updateUrl": "http://www.pixelmonmod.com",
+        "authorList": ["Pixelmon Development Team", "Pixelmon Modelling Team", "Waterdude", "Hy", "Isi", "ribchop"],
+        "credits": "Nintendo Co. Ltd., GAMEFREAK inc.",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

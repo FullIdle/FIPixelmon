@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pixelmon:luxury_ball_lid"
+    },
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "#POKEBALL_BASE"
+    }
+  ],
+  "result": {
+    "item": "pixelmon:luxury_ball",
+    "count": 1
+  }
+}

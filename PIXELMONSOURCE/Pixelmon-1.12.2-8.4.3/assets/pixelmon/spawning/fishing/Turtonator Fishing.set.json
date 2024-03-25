@@ -1,0 +1,28 @@
+{
+  "id": "Turtonator Fishing",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Turtonator"
+      },
+      "stringLocationTypes": [
+        "Super Rod Lava"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:charcoal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mesas"
+        ]
+      },
+      "rarity": 7.0
+    }
+  ]
+}

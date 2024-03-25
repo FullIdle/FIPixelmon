@@ -1,0 +1,32 @@
+{
+  "id": 226,
+  "setId": 3,
+  "cardType": "TRAINER",
+  "isSpecial": false,
+  "hp": 0,
+  "energy1": null,
+  "energy2": null,
+  "pokemonId": 0,
+  "code": "FOSS60",
+  "name": "card.FOSS60.name",
+  "description": "card.FOSS60.text",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": null,
+  "weaknessValue": 0,
+  "weaknessCardModifier": null,
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": "gui/cards/foreground/gambler.png",
+  "customTextureX": 16,
+  "customTextureY": 16,
+  "isHolo": true,
+  "effect": {
+  },
+  "cardAbility": null
+}

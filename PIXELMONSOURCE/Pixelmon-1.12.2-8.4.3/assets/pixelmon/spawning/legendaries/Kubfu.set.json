@@ -1,0 +1,30 @@
+{
+  "id": "Kubfu",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Kubfu",
+        "level": 15
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "roofed_forest",
+          "bamboo_forest",
+          "rw_bur_oak_forest"
+        ]
+      },
+      "rarity": 2.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "Granbull",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Granbull"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 23,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

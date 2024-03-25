@@ -1,0 +1,23 @@
+{
+  "id": "Mega Scizor",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Scizor"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "jungles",
+          "savannas"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

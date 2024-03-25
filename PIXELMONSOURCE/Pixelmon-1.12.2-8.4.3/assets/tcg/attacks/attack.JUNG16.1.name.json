@@ -1,0 +1,20 @@
+{
+  "cardCode": "JUNG16",
+  "attackNumber": 1,
+  "name": "attack.JUNG16.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG16.1.text",
+  "effectsString": "OPP_CONDITION:ASLEEP",
+  "effects": [
+    {
+      "condition": "ASLEEP",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": null
+    }
+  ]
+}

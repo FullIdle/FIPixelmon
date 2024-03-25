@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GDG",
+    "DGD",
+    "GDG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gravel"
+    },
+    "D": {
+      "item": "minecraft:dye",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "pixelmon:shingles",
+    "count": 5
+  }
+}

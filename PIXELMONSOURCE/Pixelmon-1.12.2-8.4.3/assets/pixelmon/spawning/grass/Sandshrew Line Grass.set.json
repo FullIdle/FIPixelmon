@@ -1,0 +1,121 @@
+{
+  "id": "Sandshrew Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sandshrew",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass",
+        "Sweet Scent"
+      ],
+      "minLevel": 12,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:grip_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Sandshrew",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Grass",
+        "Sweet Scent"
+      ],
+      "minLevel": 12,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:grip_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing mountains",
+          "ice_flats",
+          "mutated_ice_flats"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Sandslash",
+        "form": 0
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:grip_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid",
+          "mesas"
+        ]
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Sandslash",
+        "form": 1
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:grip_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing mountains",
+          "ice_flats",
+          "mutated_ice_flats"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

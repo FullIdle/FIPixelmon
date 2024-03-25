@@ -1,0 +1,47 @@
+{
+  "attackIndex": 303,
+  "attackName": "Steel Wing",
+  "attackType": "Steel",
+  "attackCategory": "PHYSICAL",
+  "basePower": 70,
+  "ppBase": 25,
+  "ppMax": 40,
+  "accuracy": 90,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Defence",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "steelium_z",
+      "attackName": "Corkscrew Crash",
+      "basePower": 140,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

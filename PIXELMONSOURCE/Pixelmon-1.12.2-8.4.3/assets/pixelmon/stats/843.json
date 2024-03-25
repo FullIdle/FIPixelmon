@@ -1,0 +1,139 @@
+{
+  "pixelmonName": "Silicobra",
+  "pokemon": "Silicobra",
+  "form": 0,
+  "stats": {
+    "HP": 52,
+    "Attack": 57,
+    "Defence": 75,
+    "SpecialAttack": 35,
+    "SpecialDefence": 50,
+    "Speed": 46
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 20,
+  "baseExp": 63,
+  "baseFriendship": 50,
+  "types": [
+    "Ground"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 7.6,
+  "bounding_box": {
+    "width": 0.8,
+    "height": 0.6,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 36,
+      "to": {
+        "name": "Sandaconda"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "SandSpit",
+    "ShedSkin",
+    "SandVeil"
+  ],
+  "eggGroups": [
+    "Field",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Sand Attack",
+      "Wrap"
+    ],
+    "5": [
+      "Minimize"
+    ],
+    "10": [
+      "Brutal Swing"
+    ],
+    "15": [
+      "Bulldoze"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "25": [
+      "Glare"
+    ],
+    "30": [
+      "Dig"
+    ],
+    "35": [
+      "Sandstorm"
+    ],
+    "40": [
+      "Slam"
+    ],
+    "45": [
+      "Coil"
+    ],
+    "50": [
+      "Sand Tomb"
+    ]
+  },
+  "tutorMoves": [
+    "Scale Shot",
+    "Scorching Sands",
+    "Skitter Smack"
+  ],
+  "eggMoves": [
+    "Belch",
+    "Dragon Rush",
+    "Last Resort",
+    "Mud-Slap",
+    "Poison Tail"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Earth Power",
+    "Drill Run"
+  ],
+  "tmMoves8": [
+    "Dig",
+    "Screech",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Sandstorm",
+    "Facade",
+    "Sand Tomb",
+    "Mud Shot",
+    "Round",
+    "Bulldoze",
+    "Brutal Swing"
+  ],
+  "forms": {}
+}

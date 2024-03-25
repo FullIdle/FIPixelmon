@@ -1,0 +1,61 @@
+{
+  "id": 430,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 43,
+  "code": "GYMH109",
+  "name": "card.GYMH109.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH109",
+      "attackNumber": 1,
+      "name": "attack.GYMH109.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMH109.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH109",
+      "attackNumber": 2,
+      "name": "attack.GYMH109.2.name",
+      "energy": [
+        "GRASS",
+        "COLORLESS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH109.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

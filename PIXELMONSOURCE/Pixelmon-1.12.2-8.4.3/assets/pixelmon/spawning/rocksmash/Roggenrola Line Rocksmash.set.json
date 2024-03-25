@@ -1,0 +1,49 @@
+{
+  "id": "Roggenrola Line Rocksmash",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Roggenrola"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 4,
+      "maxLevel": 18,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 50
+        }
+      ],
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Boldore"
+      },
+      "stringLocationTypes": [
+        "Rock Smash"
+      ],
+      "minLevel": 25,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 50
+        }
+      ],
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Goldeen",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Goldeen"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 10,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "river",
+          "all forests",
+          "swamps",
+          "magical"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

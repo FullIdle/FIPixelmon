@@ -1,0 +1,23 @@
+{
+  "id": "Mega Mawile",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Mawile"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "mountainous",
+          "freezing mountains"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

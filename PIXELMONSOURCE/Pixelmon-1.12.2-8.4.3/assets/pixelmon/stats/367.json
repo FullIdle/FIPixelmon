@@ -1,0 +1,279 @@
+{
+  "pixelmonName": "Huntail",
+  "pokemon": "Huntail",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 104,
+    "Defence": 105,
+    "Speed": 52,
+    "SpecialAttack": 94,
+    "SpecialDefence": 75
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 10,
+  "baseExp": 178,
+  "baseFriendship": 70,
+  "types": [
+    "Water"
+  ],
+  "height": 1.4,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Clamperl"
+  ],
+  "experienceGroup": "Erratic",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 15,
+    "swimSpeed": 0.9,
+    "decayRate": 0.8,
+    "refreshRate": 150
+  },
+  "spawnLocations": [
+    "Water"
+  ],
+  "evYields": {
+    "Attack": 1,
+    "Defence": 1
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.53
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.8,
+      "z": -0.53
+    }
+  },
+  "weight": 27.0,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.4,
+    "eye_height": 1.0
+  },
+  "evolutions": [],
+  "abilities": [
+    "SwiftSwim",
+    null,
+    "WaterVeil"
+  ],
+  "eggGroups": [
+    "Water1"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Bite",
+      "Whirlpool"
+    ],
+    "5": [
+      "Screech"
+    ],
+    "9": [
+      "Scary Face"
+    ],
+    "11": [
+      "Feint Attack"
+    ],
+    "14": [
+      "Water Pulse"
+    ],
+    "16": [
+      "Ice Fang"
+    ],
+    "19": [
+      "Brine"
+    ],
+    "23": [
+      "Sucker Punch"
+    ],
+    "26": [
+      "Dive"
+    ],
+    "29": [
+      "Baton Pass"
+    ],
+    "34": [
+      "Crunch"
+    ],
+    "39": [
+      "Aqua Tail"
+    ],
+    "45": [
+      "Coil"
+    ],
+    "50": [
+      "Hydro Pump"
+    ]
+  },
+  "tutorMoves": [
+    "Aqua Tail",
+    "Bind",
+    "Bounce",
+    "Icy Wind",
+    "Snatch",
+    "Snore",
+    "Super Fang",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Ring",
+    "Barrier",
+    "Body Slam",
+    "Brine",
+    "Confuse Ray",
+    "Endure",
+    "Mud Sport",
+    "Muddy Water",
+    "Refresh",
+    "Supersonic",
+    "Water Pulse"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Double-Edge",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Secret Power",
+    "Swift"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Giga Impact",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Snatch",
+    "Brine",
+    "Endure",
+    "Giga Impact",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Snatch"
+  ],
+  "forms": {}
+}

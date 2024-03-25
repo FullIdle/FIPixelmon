@@ -1,0 +1,174 @@
+{
+  "pixelmonName": "Crabominable",
+  "pokemon": "Crabominable",
+  "form": -1,
+  "stats": {
+    "HP": 97,
+    "Attack": 132,
+    "Defence": 77,
+    "Speed": 43,
+    "SpecialAttack": 62,
+    "SpecialDefence": 67
+  },
+  "catchRate": 60,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 40,
+  "baseExp": 167,
+  "baseFriendship": 70,
+  "types": [
+    "Fighting",
+    "Ice"
+  ],
+  "height": 1.7,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Crabrawler"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -1.0
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -1.0
+    }
+  },
+  "weight": 180.0,
+  "bounding_box": {
+    "width": 1.7,
+    "height": 1.7,
+    "eye_height": 1.4
+  },
+  "evolutions": [],
+  "abilities": [
+    "HyperCutter",
+    "IronFist",
+    "AngerPoint"
+  ],
+  "eggGroups": [
+    "Water3"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Bubble",
+      "Ice Punch",
+      "Leer",
+      "Pursuit",
+      "Rock Smash"
+    ],
+    "5": [
+      "Rock Smash"
+    ],
+    "9": [
+      "Leer"
+    ],
+    "13": [
+      "Pursuit"
+    ],
+    "17": [
+      "Bubble Beam"
+    ],
+    "22": [
+      "Power-Up Punch"
+    ],
+    "25": [
+      "Dizzy Punch"
+    ],
+    "29": [
+      "Avalanche"
+    ],
+    "33": [
+      "Reversal"
+    ],
+    "37": [
+      "Ice Hammer"
+    ],
+    "42": [
+      "Iron Defense"
+    ],
+    "45": [
+      "Dynamic Punch"
+    ],
+    "49": [
+      "Close Combat"
+    ]
+  },
+  "tutorMoves": [
+    "Block",
+    "Drain Punch",
+    "Dual Chop",
+    "Endeavor",
+    "Focus Punch",
+    "Ice Punch",
+    "Icy Wind",
+    "Iron Defense",
+    "Iron Head",
+    "Snore",
+    "Superpower",
+    "Thunder Punch",
+    "Zen Headbutt"
+  ],
+  "eggMoves": [
+    "Amnesia",
+    "Endeavor",
+    "Superpower",
+    "Wide Guard"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hail",
+    "Bulk Up",
+    "Hidden Power",
+    "Sunny Day",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Brick Break",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Focus Blast",
+    "Scald",
+    "Fling",
+    "Brutal Swing",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Frost Breath",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "forms": {}
+}

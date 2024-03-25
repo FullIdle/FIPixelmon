@@ -1,0 +1,107 @@
+{
+    "data": {
+        "trainerType": "MaleSkullGrunt",
+        "minLevel": 32,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 3,
+        "winnings": 60
+    },
+    "models":[
+        {
+            "name": "skullgruntmale"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Zubat"
+        },
+        {
+            "name": "Drowzee"
+        },
+        {
+            "name": "Fomantis"
+        },
+        {
+            "name": "Salandit"
+        },
+        {
+            "name": "Salazzle"
+        },
+        {
+            "name": "Rattata",
+            "form": 1
+        },
+        {
+            "name": "Raticate",
+            "form": 1
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Mareanie"
+        },
+		{
+			"name": "Spinarak"
+		},
+        {
+			"name": "Ariados"
+		},
+        {
+            "name": "Grimer",
+            "form": 1
+        },
+        {
+            "name": "Muk",
+            "form": 1
+        },
+        {
+            "name": "Haunter"
+        },
+        {
+            "name": "Wimpod"
+        },
+        {
+            "name": "Gastly"
+        },
+        {
+            "name": "Ekans"
+        },
+        {
+            "name": "Houndour"
+        },
+        {
+            "name": "Trubbish"
+        },
+        {
+            "name": "Pawniard"
+        },
+        {
+            "name": "Scraggy"
+        },
+        {
+            "name": "Scrafty"
+        },
+        {
+            "name": "Yungoos"
+        }
+    ],
+    "names": [
+        {
+            "name": "Team Skull Grunt"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "And what are you looking at, huh?!",
+            "win": "Better look away next time!",
+            "lose": "Maybe I should back off a bit huh?"
+        },        
+        {
+            "opening": "Huh, what's this numskull doing here?",
+            "win": "Now give up your Pokémon because I'm better!",
+            "lose": "We don't need your wack Pokémon anyways!"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Nuzleaf",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Nuzleaf"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:power_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "redwoods",
+          "taigas"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

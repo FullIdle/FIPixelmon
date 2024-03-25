@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PBP",
+    "BCB",
+    "PBP"
+  ],
+  "key": {
+    "P": {
+      "item": "pixelmon:aluminium_plate"
+    },
+	"B": {
+	  "item": "minecraft:iron_bars"
+	},
+    "C": {
+      "item": "minecraft:coal",
+	  "data":1
+    }
+  },
+  "result": {
+    "item": "pixelmon:incense_burner",
+    "count": 1
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "attackIndex": 159,
+  "attackName": "Waterfall",
+  "attackType": "Water",
+  "attackCategory": "PHYSICAL",
+  "basePower": 80,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+  ],
+  "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "RAIN",
+          "texture": "WATER",
+          "scale": 0.3,
+          "durationTicks": 30,
+          "power": 400,
+          "heightAboveTarget": 2,
+          "speed": 0.4,
+          "rgb": [122, 211, 255]
+        },
+        "5": {
+          "id": "RAIN",
+          "texture": "BUBBLE",
+          "scale": 0.2,
+          "durationTicks": 15,
+          "power": 30,
+          "heightAboveTarget": 0,
+          "maxHorizontalDisplacement": 2,
+          "speed": 0.2,
+          "rgb": [122, 211, 255]
+        }
+      }
+    }
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "waterium_z",
+      "attackName": "Hydro Vortex",
+      "basePower": 160,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

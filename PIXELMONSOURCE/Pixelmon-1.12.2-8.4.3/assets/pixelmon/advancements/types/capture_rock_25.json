@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:lead"
+		},
+		"title": {
+			"translate": "advancements.capture_rock_25.title"
+		},
+		"description": {
+			"translate": "advancements.capture_rock_25.description"
+		},
+		"background": "pixelmon:textures/gui/advancements/backgrounds/ruinswall.png",
+		"hidden": true
+	},
+	"parent": "pixelmon:types/capture_rock_10",
+	"criteria": {
+		"capture_rock_25": {
+			"trigger": "pixelmon:capture_type_trigger",
+			"conditions" : {
+				"type" : "Rock",
+				"count" : 25
+			}
+		}
+	}
+}

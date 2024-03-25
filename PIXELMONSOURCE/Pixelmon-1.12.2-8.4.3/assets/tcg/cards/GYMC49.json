@@ -1,0 +1,65 @@
+{
+  "id": 502,
+  "setId": 7,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 100,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 31,
+  "code": "GYMC49",
+  "name": "card.GYMC49.name",
+  "description": "",
+  "previousPokemonId": 30,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC49",
+      "attackNumber": 1,
+      "name": "attack.GYMC49.1.name",
+      "energy": [
+        "GRASS",
+        "GRASS",
+        "COLORLESS"
+      ],
+      "damage": 40,
+      "modifier": null,
+      "text": "attack.GYMC49.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMC49",
+      "attackNumber": 2,
+      "name": "attack.GYMC49.2.name",
+      "energy": [
+        "GRASS",
+        "GRASS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 50,
+      "modifier": null,
+      "text": "attack.GYMC49.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

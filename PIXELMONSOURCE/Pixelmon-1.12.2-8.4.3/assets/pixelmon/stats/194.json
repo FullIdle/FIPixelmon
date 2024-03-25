@@ -1,0 +1,361 @@
+{
+  "pixelmonName": "Wooper",
+  "pokemon": "Wooper",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 45,
+    "Defence": 45,
+    "Speed": 15,
+    "SpecialAttack": 25,
+    "SpecialDefence": 25
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 14,
+  "baseExp": 52,
+  "baseFriendship": 70,
+  "types": [
+    "Water",
+    "Ground"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "swimmingParameters": {
+    "depthRangeStart": 5,
+    "depthRangeEnd": 10,
+    "swimSpeed": 1.0,
+    "decayRate": 0.79,
+    "refreshRate": 70
+  },
+  "spawnLocations": [
+    "Water",
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 8.5,
+  "bounding_box": {
+    "width": 0.4,
+    "height": 0.4,
+    "eye_height": 0.28
+  },
+  "evolutions": [
+    {
+      "level": 20,
+      "to": {
+        "name": "Quagsire"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Damp",
+    "WaterAbsorb",
+    "Unaware"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Tail Whip",
+      "Water Gun"
+    ],
+    "4": [
+      "Rain Dance"
+    ],
+    "8": [
+      "Mud Shot"
+    ],
+    "12": [
+      "Haze",
+      "Mist"
+    ],
+    "16": [
+      "Slam"
+    ],
+    "21": [
+      "Yawn"
+    ],
+    "24": [
+      "Aqua Tail"
+    ],
+    "28": [
+      "Muddy Water"
+    ],
+    "32": [
+      "Amnesia"
+    ],
+    "36": [
+      "Toxic"
+    ],
+    "40": [
+      "Earthquake"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Acid Spray",
+    "After You",
+    "Ancient Power",
+    "Counter",
+    "Curse",
+    "Double Kick",
+    "Power-Up Punch",
+    "Recover",
+    "Spit Up",
+    "Stockpile",
+    "Swallow"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Defense Curl",
+    "Double Team",
+    "Double-Edge",
+    "Dynamic Punch",
+    "Flash",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Infestation",
+    "Mimic",
+    "Mud Bomb",
+    "Mud Sport",
+    "Mud-Slap",
+    "Natural Gift",
+    "Return",
+    "Rock Smash",
+    "Rollout",
+    "Secret Power",
+    "Swagger",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Hydro Pump",
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Earthquake",
+    "Waterfall",
+    "Amnesia",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Encore",
+    "Iron Tail",
+    "Muddy Water",
+    "Earth Power",
+    "Sludge Wave",
+    "Scald"
+  ],
+  "tmMoves8": [
+    "Ice Punch",
+    "Dig",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Hail",
+    "Whirlpool",
+    "Facade",
+    "Dive",
+    "Mud Shot",
+    "Guard Swap",
+    "Round",
+    "Bulldoze",
+    "Eerie Impulse",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Bulldoze",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Flash",
+    "Bulldoze",
+    "Infestation",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Wave",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Scald",
+    "Flash",
+    "Bulldoze",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Endure",
+    "Flash",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Dynamic Punch",
+    "Headbutt",
+    "Curse",
+    "Rollout",
+    "Toxic",
+    "Rock Smash",
+    "Hidden Power",
+    "Snore",
+    "Protect",
+    "Rain Dance",
+    "Endure",
+    "Frustration",
+    "Iron Tail",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Mud-Slap",
+    "Double Team",
+    "Ice Punch",
+    "Swagger",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Sandstorm",
+    "Defense Curl",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

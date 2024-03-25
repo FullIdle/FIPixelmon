@@ -1,0 +1,28 @@
+{
+  "id": "Glastrier",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Glastrier",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "ice_flats"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

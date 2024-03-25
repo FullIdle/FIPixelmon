@@ -1,0 +1,181 @@
+{
+  "pixelmonName": "Shiinotic",
+  "pokemon": "Shiinotic",
+  "form": -1,
+  "stats": {
+    "HP": 60,
+    "Attack": 45,
+    "Defence": 80,
+    "Speed": 30,
+    "SpecialAttack": 90,
+    "SpecialDefence": 100
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 1,
+  "spawnLevelRange": 99,
+  "baseExp": 142,
+  "baseFriendship": 0,
+  "types": [
+    "Grass",
+    "Fairy"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Morelull"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 11.5,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.3,
+    "eye_height": 0.65
+  },
+  "evolutions": [],
+  "abilities": [
+    "Illuminate",
+    "EffectSpore",
+    "RainDish"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Astonish",
+      "Confuse Ray",
+      "Ingrain"
+    ],
+    "12": [
+      "Mega Drain"
+    ],
+    "16": [
+      "Sleep Powder"
+    ],
+    "20": [
+      "Moonlight"
+    ],
+    "27": [
+      "Strength Sap"
+    ],
+    "32": [
+      "Giga Drain"
+    ],
+    "38": [
+      "Dazzling Gleam"
+    ],
+    "44": [
+      "Spore"
+    ],
+    "50": [
+      "Moonblast"
+    ],
+    "56": [
+      "Dream Eater"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Growth",
+    "Leech Seed",
+    "Poison Powder",
+    "Stun Spore"
+  ],
+  "transferMoves": [
+    "After You",
+    "Charge Beam",
+    "Confide",
+    "Double Team",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Magic Coat",
+    "Nature Power",
+    "Recycle",
+    "Return",
+    "Signal Beam",
+    "Spotlight",
+    "Swagger",
+    "Synthesis",
+    "Toxic",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Amnesia",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Seed Bomb",
+    "Energy Ball",
+    "Grass Knot",
+    "Dazzling Gleam",
+    "Pollen Puff"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Thunder Wave",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Sunny Day",
+    "Facade",
+    "Weather Ball",
+    "Drain Punch",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Draining Kiss"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Rest",
+    "Attract",
+    "Round",
+    "Energy Ball",
+    "Charge Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Dream Eater",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

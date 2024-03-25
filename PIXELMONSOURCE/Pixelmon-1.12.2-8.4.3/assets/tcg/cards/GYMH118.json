@@ -1,0 +1,61 @@
+{
+  "id": 439,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "WATER",
+  "energy2": null,
+  "pokemonId": 116,
+  "code": "GYMH118",
+  "name": "card.GYMH118.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH118",
+      "attackNumber": 1,
+      "name": "attack.GYMH118.1.name",
+      "energy": [
+        "WATER"
+      ],
+      "damage": 10,
+      "modifier": null,
+      "text": "attack.GYMH118.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    },
+    {
+      "cardCode": "GYMH118",
+      "attackNumber": 2,
+      "name": "attack.GYMH118.2.name",
+      "energy": [
+        "WATER",
+        "WATER"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH118.2.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "LIGHTNING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 0,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

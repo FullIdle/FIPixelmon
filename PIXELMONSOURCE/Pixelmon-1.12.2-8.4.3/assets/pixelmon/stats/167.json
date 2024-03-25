@@ -1,0 +1,312 @@
+{
+  "pixelmonName": "Spinarak",
+  "pokemon": "Spinarak",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 60,
+    "Defence": 40,
+    "Speed": 30,
+    "SpecialAttack": 40,
+    "SpecialDefence": 40
+  },
+  "catchRate": 255,
+  "malePercent": 50,
+  "spawnLevel": 5,
+  "spawnLevelRange": 16,
+  "baseExp": 54,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Poison"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Fast",
+  "aggression": {
+    "timid": 25,
+    "passive": 42,
+    "aggressive": 33
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 1
+  },
+  "weight": 8.5,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 0.5,
+    "eye_height": 0.25
+  },
+  "evolutions": [
+    {
+      "level": 22,
+      "to": {
+        "name": "Ariados"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Swords Dance"
+      ]
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "Insomnia",
+    "Sniper"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Constrict",
+      "Poison Sting",
+      "String Shot"
+    ],
+    "5": [
+      "Absorb"
+    ],
+    "8": [
+      "Infestation"
+    ],
+    "12": [
+      "Scary Face"
+    ],
+    "15": [
+      "Night Shade"
+    ],
+    "19": [
+      "Shadow Sneak"
+    ],
+    "22": [
+      "Fury Swipes"
+    ],
+    "26": [
+      "Sucker Punch"
+    ],
+    "29": [
+      "Spider Web"
+    ],
+    "33": [
+      "Agility"
+    ],
+    "36": [
+      "Pin Missile"
+    ],
+    "40": [
+      "Psychic"
+    ],
+    "43": [
+      "Poison Jab"
+    ],
+    "47": [
+      "Cross Poison"
+    ],
+    "50": [
+      "Sticky Web"
+    ],
+    "54": [
+      "Toxic Thread"
+    ]
+  },
+  "tutorMoves": [
+    "Bounce",
+    "Bug Bite",
+    "Electroweb",
+    "Foul Play",
+    "Giga Drain",
+    "Signal Beam",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Baton Pass",
+    "Disable",
+    "Electroweb",
+    "Lunge",
+    "Megahorn",
+    "Night Slash",
+    "Psybeam",
+    "Pursuit",
+    "Rage Powder",
+    "Signal Beam",
+    "Sonic Boom",
+    "Toxic Spikes",
+    "Twineedle"
+  ],
+  "transferMoves": [
+    "Body Slam",
+    "Captivate",
+    "Curse",
+    "Dig",
+    "Double-Edge",
+    "Endure",
+    "Flash",
+    "Hone Claws",
+    "Mimic",
+    "Natural Gift",
+    "Refresh",
+    "Screech",
+    "Secret Power",
+    "Struggle Bug"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Leech Life",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Hone Claws",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Flash",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Endure",
+    "Flash",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Poison Jab",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "tmMoves2": [
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Endure",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Dig",
+    "Psychic",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Sludge Bomb",
+    "Rest",
+    "Attract",
+    "Thief"
+  ],
+  "forms": {}
+}

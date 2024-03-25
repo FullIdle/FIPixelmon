@@ -1,0 +1,32 @@
+{
+  "id": "Pinsir",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pinsir"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

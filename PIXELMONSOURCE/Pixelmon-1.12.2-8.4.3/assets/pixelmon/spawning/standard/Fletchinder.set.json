@@ -1,0 +1,28 @@
+{
+  "id": "Fletchinder",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Fletchinder"
+      },
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 18,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "birches",
+          "freezing forests",
+          "taigas"
+        ]
+      },
+      "rarity": 90.0
+    }
+  ]
+}

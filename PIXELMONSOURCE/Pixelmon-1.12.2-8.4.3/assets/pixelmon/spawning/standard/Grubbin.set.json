@@ -1,0 +1,31 @@
+{
+  "id": "Grubbin",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Grubbin"
+      },
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "taigas",
+          "redwoods",
+          "jungles"
+        ]
+      },
+      "rarity": 300.0
+    }
+  ]
+}

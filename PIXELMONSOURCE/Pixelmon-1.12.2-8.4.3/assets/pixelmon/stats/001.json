@@ -1,0 +1,360 @@
+{
+  "pixelmonName": "Bulbasaur",
+  "pokemon": "Bulbasaur",
+  "form": -1,
+  "stats": {
+    "HP": 45,
+    "Attack": 49,
+    "Defence": 49,
+    "Speed": 45,
+    "SpecialAttack": 65,
+    "SpecialDefence": 65
+  },
+  "catchRate": 45,
+  "malePercent": 87,
+  "spawnLevel": 10,
+  "spawnLevelRange": 6,
+  "baseExp": 64,
+  "baseFriendship": 70,
+  "types": [
+    "Grass",
+    "Poison"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialAttack": 1
+  },
+  "weight": 6.9,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.62,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 16,
+      "to": {
+        "name": "Ivysaur"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Overgrow",
+    null,
+    "Chlorophyll"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Grass"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Growl",
+      "Tackle"
+    ],
+    "3": [
+      "Vine Whip"
+    ],
+    "6": [
+      "Growth"
+    ],
+    "9": [
+      "Leech Seed"
+    ],
+    "12": [
+      "Razor Leaf"
+    ],
+    "15": [
+      "Poison Powder",
+      "Sleep Powder"
+    ],
+    "18": [
+      "Seed Bomb"
+    ],
+    "21": [
+      "Take Down"
+    ],
+    "24": [
+      "Sweet Scent"
+    ],
+    "27": [
+      "Synthesis"
+    ],
+    "30": [
+      "Worry Seed"
+    ],
+    "33": [
+      "Double-Edge"
+    ],
+    "36": [
+      "Solar Beam"
+    ]
+  },
+  "tutorMoves": [
+    "Grass Pledge",
+    "Grassy Glide"
+  ],
+  "eggMoves": [
+    "Curse",
+    "Ingrain",
+    "Nature Power",
+    "Petal Dance",
+    "Skull Bash",
+    "Toxic"
+  ],
+  "tmMoves8": [
+    "Magical Leaf",
+    "Solar Beam",
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Charm",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Weather Ball",
+    "Bullet Seed",
+    "Venoshock",
+    "Round",
+    "Grassy Terrain",
+    "False Swipe"
+  ],
+  "trMoves": [
+    "Swords Dance",
+    "Body Slam",
+    "Amnesia",
+    "Substitute",
+    "Sludge Bomb",
+    "Endure",
+    "Sleep Talk",
+    "Seed Bomb",
+    "Energy Ball",
+    "Leaf Storm",
+    "Power Whip",
+    "Grass Knot",
+    "Work Up"
+  ],
+  "hmMoves": [],
+  "transferMoves": [
+    "Bide",
+    "Bind",
+    "Block",
+    "Captivate",
+    "Celebrate",
+    "Confide",
+    "Cut",
+    "Defense Curl",
+    "Double Team",
+    "Echoed Voice",
+    "Flash",
+    "Frenzy Plant",
+    "Frustration",
+    "Fury Cutter",
+    "Grass Whistle",
+    "Headbutt",
+    "Hidden Power",
+    "Knock Off",
+    "Mega Drain",
+    "Mimic",
+    "Mud-Slap",
+    "Natural Gift",
+    "Outrage",
+    "Rage",
+    "Razor Wind",
+    "Reflect",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Sludge",
+    "Strength",
+    "String Shot",
+    "Swagger"
+  ],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Nature Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Venoshock",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Echoed Voice",
+    "Energy Ball",
+    "Flash",
+    "Swords Dance",
+    "Grass Knot",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Energy Ball",
+    "Endure",
+    "Flash",
+    "Swords Dance",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Toxic",
+    "Bullet Seed",
+    "Hidden Power",
+    "Sunny Day",
+    "Protect",
+    "Giga Drain",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Sludge Bomb",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "tmMoves2": [
+    "Headbutt",
+    "Curse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Sweet Scent",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Endure",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Mud-Slap",
+    "Double Team",
+    "Swagger",
+    "Sleep Talk",
+    "Defense Curl",
+    "Rest",
+    "Attract",
+    "Fury Cutter"
+  ],
+  "tmMoves1": [
+    "Swords Dance",
+    "Toxic",
+    "Body Slam",
+    "Take Down",
+    "Double-Edge",
+    "Rage",
+    "Mega Drain",
+    "Solar Beam",
+    "Mimic",
+    "Double Team",
+    "Reflect",
+    "Bide",
+    "Rest",
+    "Substitute"
+  ],
+  "forms": {}
+}

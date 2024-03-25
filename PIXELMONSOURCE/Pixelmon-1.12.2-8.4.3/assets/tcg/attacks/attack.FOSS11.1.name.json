@@ -1,0 +1,20 @@
+{
+  "cardCode": "FOSS11",
+  "attackNumber": 1,
+  "name": "attack.FOSS11.1.name",
+  "energy": [
+    "LIGHTNING",
+    "COLORLESS"
+  ],
+  "damage": 20,
+  "modifier": null,
+  "text": "attack.FOSS11.1.text",
+  "effectsString": "IGNORESTATS",
+  "effects": [
+    {
+      "applyOn": null,
+      "weakness": null,
+      "resistance": null
+    }
+  ]
+}

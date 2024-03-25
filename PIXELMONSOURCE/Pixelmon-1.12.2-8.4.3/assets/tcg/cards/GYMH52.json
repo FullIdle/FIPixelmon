@@ -1,0 +1,47 @@
+{
+  "id": 373,
+  "setId": 6,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 71,
+  "code": "GYMH52",
+  "name": "card.GYMH52.name",
+  "description": "",
+  "previousPokemonId": 70,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH52",
+      "attackNumber": 1,
+      "name": "attack.GYMH52.1.name",
+      "energy": [
+        "GRASS",
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 50,
+      "modifier": null,
+      "text": "attack.GYMH52.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

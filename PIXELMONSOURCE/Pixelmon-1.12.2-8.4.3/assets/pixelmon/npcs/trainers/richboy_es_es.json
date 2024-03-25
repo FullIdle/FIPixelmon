@@ -1,0 +1,73 @@
+{
+    "data": {
+        "trainerType": "RichBoy",
+        "minLevel": 25,
+        "maxLevel": 30,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 160
+    },
+    "pokemon": [
+        {
+            "name": "Wartortle"
+        },
+        {
+            "name": "Charmeleon"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Poliwhirl"
+        },
+        {
+            "name": "Ivysaur"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Raticate"
+        }
+    ],
+    "names": [
+        {
+            "name": "Clint"
+        },
+        {
+            "name": "Frederick"
+        },
+        {
+            "name": "Carlos"
+        },
+        {
+            "name": "Jorge"
+        },
+        {
+            "name": "Kingsley"
+        },
+        {
+            "name": "Charlie"
+        },
+        {
+            "name": "Jason"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Hola.",
+            "win": "Adios.",
+            "lose": "Adios."
+        },
+        {
+            "opening": "¿Qué tal estás hoy?",
+            "win": "Hasta que nos volvamos a encontrar.",
+            "lose": "Hasta que nos volvamos a encontrar."
+        },
+        {
+            "opening": "¿Cómo va todo?",
+            "win": "Hasta la próxima.",
+            "lose": "Hasta la próxima."
+        }
+    ]
+}

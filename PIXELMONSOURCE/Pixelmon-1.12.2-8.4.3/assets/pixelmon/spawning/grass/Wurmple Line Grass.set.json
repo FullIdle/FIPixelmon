@@ -1,0 +1,133 @@
+{
+  "id": "Wurmple Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Wurmple"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 4,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:bright_powder",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Silcoon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 6,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Beautifly"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "birches",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": {
+        "name": "Cascoon"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 6,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "all forests"
+        ]
+      },
+      "rarity": 40.0
+    },
+    {
+      "spec": {
+        "name": "Dustox"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 12,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:shed_shell",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "redwoods",
+          "flowery"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Mega Lopunny",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lopunny"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.3
+    }
+  ]
+}

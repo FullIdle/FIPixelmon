@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "pixelmon:friend_ball"
+        },
+        "title": {
+            "translate": "advancements.friend_ball_capture.title"
+        },
+        "description": {
+            "translate": "advancements.friend_ball_capture.description"
+        },
+        "hidden": true
+    },
+    "parent": "pixelmon:balls/ball_capture_trigger",
+    "criteria": {
+        "friend_ball_capture": {
+            "trigger": "pixelmon:ball_capture_trigger",
+            "conditions" : {
+                "pokeball" : "friend_ball"
+            }
+        }
+    }
+}

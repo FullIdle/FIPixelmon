@@ -1,0 +1,45 @@
+{
+  "attackIndex": 52,
+  "attackName": "Fire Spin",
+  "attackType": "Fire",
+  "attackCategory": "SPECIAL",
+  "basePower": 35,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 85,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": "tube"
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "firium_z",
+      "attackName": "Inferno Overdrive",
+      "basePower": 100,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

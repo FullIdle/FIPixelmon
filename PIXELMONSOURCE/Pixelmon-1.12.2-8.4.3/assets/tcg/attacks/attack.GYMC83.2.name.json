@@ -1,0 +1,18 @@
+{
+  "cardCode": "GYMC83",
+  "attackNumber": 2,
+  "name": "attack.GYMC83.2.name",
+  "energy": [
+    "WATER",
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 60,
+  "modifier": null,
+  "text": "attack.GYMC83.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Lanturn",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Lanturn"
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "deep_ocean"
+        ],
+        "maxY": 40
+      },
+      "rarity": 10.0
+    }
+  ]
+}

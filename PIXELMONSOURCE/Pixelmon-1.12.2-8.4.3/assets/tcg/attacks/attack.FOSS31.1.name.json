@@ -1,0 +1,20 @@
+{
+  "cardCode": "FOSS31",
+  "attackNumber": 1,
+  "name": "attack.FOSS31.1.name",
+  "energy": [
+    "GRASS"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.FOSS31.1.text",
+  "effectsString": "HEAD-OPP_SWITCH:BY_OPP",
+  "effects": [
+    {
+      "myAction": false,
+      "myPokemons": false,
+      "isOptional": false,
+      "needCoinSide": "Head"
+    }
+  ]
+}

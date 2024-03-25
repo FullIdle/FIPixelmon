@@ -1,0 +1,50 @@
+{
+  "id": "Zubat Line Caverock",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Zubat"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 5,
+      "maxLevel": 22,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 300.0
+    },
+    {
+      "spec": {
+        "name": "Golbat"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 8.0
+    },
+    {
+      "spec": {
+        "name": "Crobat"
+      },
+      "stringLocationTypes": [
+        "Cave Rock"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.1
+    }
+  ]
+}

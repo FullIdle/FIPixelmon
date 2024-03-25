@@ -1,0 +1,128 @@
+{
+  "pixelmonName": "Dottler",
+  "pokemon": "Dottler",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 35,
+    "Defence": 80,
+    "SpecialAttack": 50,
+    "SpecialDefence": 90,
+    "Speed": 30
+  },
+  "catchRate": 120,
+  "malePercent": 50,
+  "spawnLevel": 10,
+  "spawnLevelRange": 20,
+  "baseExp": 117,
+  "baseFriendship": 50,
+  "types": [
+    "Bug",
+    "Psychic"
+  ],
+  "height": 0.4,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Blipbug"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "SpecialDefence": 2
+  },
+  "weight": 19.5,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.5,
+    "eye_height": 0.15
+  },
+  "evolutions": [
+    {
+      "level": 30,
+      "to": {
+        "name": "Orbeetle"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "Swarm",
+    "CompoundEyes",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Confusion",
+      "Light Screen",
+      "Reflect",
+      "Struggle Bug"
+    ]
+  },
+  "tutorMoves": [
+    "Expanding Force"
+  ],
+  "eggMoves": [
+    "Infestation",
+    "Recover",
+    "Sticky Web",
+    "Supersonic"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Leech Life",
+    "Substitute",
+    "Psyshock",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Future Sight",
+    "Trick",
+    "Skill Swap",
+    "Iron Defense",
+    "Calm Mind",
+    "Bug Buzz",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Stored Power",
+    "Ally Switch",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Solar Beam",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Attract",
+    "Facade",
+    "Helping Hand",
+    "Imprison",
+    "Payback",
+    "Power Swap",
+    "Guard Swap",
+    "Trick Room",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Psychic Terrain"
+  ],
+  "forms": {}
+}

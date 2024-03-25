@@ -1,0 +1,35 @@
+{
+  "id": "Purugly",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Purugly"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 39,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "plains"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:grass_path"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    }
+  ]
+}

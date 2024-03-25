@@ -1,0 +1,45 @@
+{
+  "id": 108,
+  "setId": 2,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 40,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 122,
+  "code": "JUNG6",
+  "name": "card.JUNG6.name",
+  "description": "",
+  "previousPokemonId": 0,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG6",
+      "attackNumber": 1,
+      "name": "attack.JUNG6.1.name",
+      "energy": [
+        "COLORLESS",
+        "PSYCHIC"
+      ],
+      "damage": 10,
+      "modifier": "Plus",
+      "text": "attack.JUNG6.1.text",
+      "effects": [
+        "DAMAGE_BONUS:OPP:PER_DAMAGE:10"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": "InvisibleWall"
+}

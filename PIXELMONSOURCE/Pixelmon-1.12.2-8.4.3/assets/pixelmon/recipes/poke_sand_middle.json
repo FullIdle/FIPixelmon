@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+	"   "
+  ],
+  "key": {
+    "X": {
+      "type": "forge:ore_dict",
+      "ore": "blockPokesand"
+    }
+  },
+  "result": {
+    "item": "pixelmon:poke_sand",
+    "count": 1
+  }
+}

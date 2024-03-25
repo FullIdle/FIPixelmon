@@ -1,0 +1,49 @@
+{
+  "id": "Skitty Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Skitty"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "forests",
+          "birches"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": {
+        "name": "Delcatty"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "flowery",
+          "forests",
+          "birches"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

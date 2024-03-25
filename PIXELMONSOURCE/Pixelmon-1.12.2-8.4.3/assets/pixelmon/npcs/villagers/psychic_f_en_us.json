@@ -1,0 +1,67 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Maria"
+        },
+        {
+            "name": "Mme. Voyeuse"
+        },
+        {
+            "name": "Lutetia"
+        },
+        {
+            "name": "Ariadne"
+        },
+        {
+            "name": "Natasha"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "You want a demonstration? Ha! You must cross my palm with gold first."
+                },
+                {
+                    "text": "I can already see that you are headed for trouble!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I can read your thoughts. They are filled with Pokémon, and nothing but Pokémon."
+                },
+                {
+                    "text": "That's really not interesting to me. Away with you!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I have the power to predict your future! I see many battles, and a teensy bit of glory."
+                },
+                {
+                    "text": "For a few pieces of gold, I'm sure I would see a lot more glory."
+                }
+            ]
+        },
+        {
+
+            "lines": [
+                {
+                    "text": "You have come to the world's greatest fortune teller! Ask, and I shall reveal all!"
+                },
+                {
+                    "text": "Which Pokémon should you use in the next battle? How should I know? Be off with you!"
+                }
+            ]
+        }
+    ]
+}

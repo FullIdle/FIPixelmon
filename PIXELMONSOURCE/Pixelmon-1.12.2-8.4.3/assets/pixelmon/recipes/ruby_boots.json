@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "item": "pixelmon:ruby",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "pixelmon:ruby_boots",
+    "count": 1
+  }
+}

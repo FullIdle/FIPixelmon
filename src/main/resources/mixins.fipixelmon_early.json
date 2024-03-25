@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.fipixelmonmod.fipixelmon.mixin",
+  "minVersion": "0.8",
+  "setSourceFile": true,
+  "target": "@env(DEFAULT)",
+  "refmap": "mixins.fipixelmon.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "server": [
+  ]
+}

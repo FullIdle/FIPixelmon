@@ -1,0 +1,51 @@
+{
+  "id": "Ledyba Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Ledyba"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Ledian"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 18,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

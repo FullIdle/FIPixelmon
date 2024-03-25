@@ -1,0 +1,48 @@
+{
+  "id": 494,
+  "setId": 7,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 65,
+  "code": "GYMC41",
+  "name": "card.GYMC41.name",
+  "description": "",
+  "previousPokemonId": 63,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC41",
+      "attackNumber": 1,
+      "name": "attack.GYMC41.1.name",
+      "energy": [
+        "PSYCHIC",
+        "COLORLESS",
+        "COLORLESS",
+        "COLORLESS"
+      ],
+      "damage": 60,
+      "modifier": null,
+      "text": "attack.GYMC41.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "HOLORARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

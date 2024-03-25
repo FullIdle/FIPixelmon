@@ -1,0 +1,129 @@
+{
+    "data": {
+        "trainerType": "Bosses",
+        "minLevel": 40,
+        "maxLevel": 60,
+        "minPartyPokemon": 6,
+        "maxPartyPokemon": 6,
+        "winnings": 100
+    },
+    "models":[
+        {
+            "name": "n"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Lanturn"
+        },
+        {
+            "name": "Politoed"
+        },
+        {
+            "name": "Tentacruel"
+        },
+        {
+            "name": "Klinklang"
+        },
+        {
+            "name": "Carracosta"
+        },
+        {
+            "name": "Archeops"
+        },
+        {
+            "name": "Kabutops"
+        },
+        {
+            "name": "Omastar"
+        },
+        {
+            "name": "Starmie"
+        },
+        {
+            "name": "Ninetales"
+        },
+        {
+            "name": "Arcanine"
+        },
+        {
+            "name": "Ninjask"
+        },
+        {
+            "name": "Rapidash"
+        },
+        {
+            "name": "Shiftry"
+        },
+        {
+            "name": "Leafeon"
+        },
+        {
+            "name": "Hippowdon"
+        },
+        {
+            "name": "Scizor"
+        },
+        {
+            "name": "Cradily"
+        },
+        {
+            "name": "Armaldo"
+        },
+        {
+            "name": "Gastrodon"
+        },
+        {
+            "name": "Rhyperior"
+        },
+        {
+            "name": "Abomasnow"
+        },
+        {
+            "name": "Cloyster"
+        },
+        {
+            "name": "Glaceon"
+        },
+        {
+            "name": "Froslass"
+        },
+        {
+            "name": "Mamoswine"
+        },
+        {
+            "name": "Zoroark"
+        },
+        {
+            "name": "Vanilluxe"
+        },
+        {
+            "name": "Reshiram"
+        },
+        {
+            "name": "Zekrom"
+        }
+    ],
+    "names": [
+        {
+            "name": "N"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Let me hear your Pokemon's voice!",
+            "win": "Let me hear their voice again!",
+            "lose": "I never expected to hear Pokemon say such things..."
+        },
+        {
+            "opening": "I want to see things no one can see. The truths of Pokemon, the ideals of Trainers, and a future where Pokemon have become perfect.",
+            "win": "Huh, I expected more from you...",
+            "lose": "I cannot see the future yet...The world is still to be determined..."
+        },
+        {
+            "opening": "I will separate Pokemon and people, only then will Pokemon become perfect beings! That is the dream I must fulfill!",
+            "win": "As if a person without a dream could ever understand me!",
+            "lose": "As if I could pursue my ideals and the truth with something as meaningless as a battle!"
+        }
+    ]
+}

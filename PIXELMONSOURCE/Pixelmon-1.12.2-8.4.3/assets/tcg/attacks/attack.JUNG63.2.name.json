@@ -1,0 +1,19 @@
+{
+  "cardCode": "JUNG63",
+  "attackNumber": 2,
+  "name": "attack.JUNG63.2.name",
+  "energy": [
+    "GRASS",
+    "COLORLESS"
+  ],
+  "damage": 10,
+  "modifier": null,
+  "text": "attack.JUNG63.2.text",
+  "effectsString": "LEECHSEED:DAMAGE",
+  "effects": [
+    {
+      "type": "FullDamage",
+      "healAmount": 0
+    }
+  ]
+}

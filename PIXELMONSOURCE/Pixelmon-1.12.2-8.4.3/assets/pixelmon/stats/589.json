@@ -1,0 +1,262 @@
+{
+  "pixelmonName": "Escavalier",
+  "pokemon": "Escavalier",
+  "form": 0,
+  "stats": {
+    "HP": 70,
+    "Attack": 135,
+    "Defence": 105,
+    "Speed": 20,
+    "SpecialAttack": 60,
+    "SpecialDefence": 105
+  },
+  "catchRate": 75,
+  "malePercent": 50,
+  "spawnLevel": 30,
+  "spawnLevelRange": 12,
+  "baseExp": 173,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Steel"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Karrablast"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "weight": 33.0,
+  "bounding_box": {
+    "width": 1.2,
+    "height": 1.4,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Swarm",
+    "ShellArmour",
+    "Overcoat"
+  ],
+  "eggGroups": [
+    "Bug"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Double-Edge",
+      "Endure",
+      "Fell Stinger",
+      "Flail",
+      "Fury Cutter",
+      "Leer",
+      "Peck",
+      "Quick Guard",
+      "Scary Face",
+      "Take Down"
+    ],
+    "12": [
+      "False Swipe"
+    ],
+    "16": [
+      "Acid Spray"
+    ],
+    "20": [
+      "Headbutt"
+    ],
+    "24": [
+      "Reversal"
+    ],
+    "28": [
+      "Iron Defense"
+    ],
+    "32": [
+      "X-Scissor"
+    ],
+    "36": [
+      "Swords Dance"
+    ],
+    "40": [
+      "Iron Head"
+    ],
+    "44": [
+      "Bug Buzz"
+    ],
+    "48": [
+      "Giga Impact"
+    ],
+    "52": [
+      "Metal Burst"
+    ]
+  },
+  "tutorMoves": [
+    "Steel Beam"
+  ],
+  "eggMoves": [
+    "Bug Bite",
+    "Counter",
+    "Knock Off",
+    "Night Slash",
+    "Slash"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Cut",
+    "Double Team",
+    "Feint Attack",
+    "Frustration",
+    "Fury Attack",
+    "Hidden Power",
+    "Horn Attack",
+    "Infestation",
+    "Laser Focus",
+    "Pursuit",
+    "Return",
+    "Rock Smash",
+    "Secret Power",
+    "Signal Beam",
+    "Struggle Bug",
+    "Swagger",
+    "Toxic",
+    "Twineedle"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Swords Dance",
+    "Agility",
+    "Substitute",
+    "Reversal",
+    "Endure",
+    "Sleep Talk",
+    "Megahorn",
+    "Encore",
+    "Taunt",
+    "Iron Defense",
+    "Close Combat",
+    "Poison Jab",
+    "X-Scissor",
+    "Bug Buzz",
+    "Focus Blast",
+    "Energy Ball",
+    "Iron Head",
+    "Drill Run"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Screech",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Giga Drain",
+    "Attract",
+    "Rain Dance",
+    "Facade",
+    "Revenge",
+    "Round",
+    "Razor Shell",
+    "False Swipe",
+    "Smart Strike",
+    "Brutal Swing"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Brutal Swing",
+    "Smart Strike",
+    "Giga Impact",
+    "Swords Dance",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Giga Impact",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Infestation",
+    "Poison Jab",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Focus Blast",
+    "Energy Ball",
+    "False Swipe",
+    "Giga Impact",
+    "Swords Dance",
+    "Struggle Bug",
+    "X-Scissor",
+    "Poison Jab",
+    "Swagger",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "forms": {}
+}

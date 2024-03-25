@@ -1,0 +1,31 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "madame.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Larentia"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Benvenuto nella Palestra Mystic."
+        },
+        {
+          "text": "Il nostro Capopalestra ha sempre la risposta pronta in classe."
+        },
+         {
+          "text": "Probabilmente perché ha poteri psichici. Probabilmente sa già che stai arrivando..."
+        },
+        {
+          "text": "Comunque questa Palestra ha delle pareti invisibili. Trova la strada corretta verso il Capopalestra."
+        }
+      ]
+    }
+  ]
+}

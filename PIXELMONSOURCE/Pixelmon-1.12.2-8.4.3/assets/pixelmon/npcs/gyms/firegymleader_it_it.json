@@ -1,0 +1,22 @@
+{
+  "npctype": "trainer",
+  "winnings": 52,
+
+  "skins": [
+    {
+      "filename": "fireleader2.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Kasai"
+    }
+  ],
+  "chat": [
+    {
+      "opening": "Ehi, ragazzino! Sono il Capopalestra di questa zona. Pensi di poter sconfiggermi? Vedremo.",
+      "win": "Scusami per averti rovinato il piano di sconfiggermi!",
+      "lose": "Non è possibile. Non sarò stato abbastanza brillante..."
+    }
+  ]
+}

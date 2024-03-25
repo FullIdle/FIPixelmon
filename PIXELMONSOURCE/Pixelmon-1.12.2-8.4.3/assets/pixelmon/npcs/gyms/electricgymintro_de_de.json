@@ -1,0 +1,25 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "pokefan_m.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Joe"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Willkommen im Elektro Gym."
+        },
+        {
+          "text": "Du wirst einen Schock bekommen, wenn du unseren Anführer triffst!"
+        }
+      ]
+    }
+  ]
+}

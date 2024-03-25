@@ -1,0 +1,20 @@
+{
+  "cardCode": "JUNG42",
+  "attackNumber": 2,
+  "name": "attack.JUNG42.2.name",
+  "energy": [
+    "COLORLESS",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.JUNG42.2.text",
+  "effectsString": "DAMAGE_REDUCE:10",
+  "effects": [
+    {
+      "amount": 10,
+      "benchingRemoves": false
+    }
+  ]
+}

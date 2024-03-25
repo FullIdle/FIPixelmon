@@ -1,0 +1,54 @@
+{
+  "id": "Diancie",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Diancie",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.4
+    },
+    {
+      "spec": {
+        "name": "Diancie",
+        "level": 70
+      },
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.4
+    }
+  ]
+}

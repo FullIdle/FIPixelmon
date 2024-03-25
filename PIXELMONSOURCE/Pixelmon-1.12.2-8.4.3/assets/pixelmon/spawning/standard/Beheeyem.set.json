@@ -1,0 +1,43 @@
+{
+  "id": "Beheeyem",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Beheeyem"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": {
+        "name": "Beheeyem"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "end"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "cardCode": "JUNG17",
+  "attackNumber": 1,
+  "name": "attack.JUNG17.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG17.1.text",
+  "effectsString": "METRONOME",
+  "effects": [
+    {}
+  ]
+}

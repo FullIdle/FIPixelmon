@@ -1,0 +1,308 @@
+{
+  "pixelmonName": "Snorunt",
+  "pokemon": "Snorunt",
+  "form": 0,
+  "stats": {
+    "HP": 50,
+    "Attack": 50,
+    "Defence": 50,
+    "Speed": 50,
+    "SpecialAttack": 50,
+    "SpecialDefence": 50
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 15,
+  "spawnLevelRange": 15,
+  "baseExp": 74,
+  "baseFriendship": 70,
+  "types": [
+    "Ice"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 50,
+    "passive": 50,
+    "aggressive": 0
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "HP": 1
+  },
+  "weight": 16.8,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.7,
+    "eye_height": 0.4
+  },
+  "evolutions": [
+    {
+      "level": 42,
+      "to": {
+        "name": "Glalie"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Freeze-Dry"
+      ]
+    },
+    {
+      "item": {
+        "itemID": "pixelmon:dawn_stone"
+      },
+      "to": {
+        "name": "Froslass"
+      },
+      "conditions": [
+        {
+          "genders": [
+            "Female"
+          ],
+          "evoConditionType": "gender"
+        }
+      ],
+      "evoType": "interact",
+      "moves": [
+        "Hex"
+      ]
+    }
+  ],
+  "abilities": [
+    "InnerFocus",
+    "IceBody",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Fairy",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Powder Snow"
+    ],
+    "5": [
+      "Leer"
+    ],
+    "10": [
+      "Double Team"
+    ],
+    "15": [
+      "Ice Shard"
+    ],
+    "20": [
+      "Protect"
+    ],
+    "25": [
+      "Icy Wind"
+    ],
+    "30": [
+      "Frost Breath"
+    ],
+    "35": [
+      "Bite"
+    ],
+    "40": [
+      "Ice Fang"
+    ],
+    "45": [
+      "Hail"
+    ],
+    "50": [
+      "Headbutt"
+    ],
+    "55": [
+      "Crunch"
+    ],
+    "60": [
+      "Blizzard"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Block",
+    "Disable",
+    "Icicle Crash",
+    "Rollout",
+    "Switcheroo"
+  ],
+  "transferMoves": [
+    "Bide",
+    "Captivate",
+    "Confide",
+    "Double-Edge",
+    "Flash",
+    "Frustration",
+    "Hidden Power",
+    "Mimic",
+    "Natural Gift",
+    "Return",
+    "Secret Power",
+    "Sing",
+    "Spite",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Ice Beam",
+    "Blizzard",
+    "Substitute",
+    "Spikes",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Shadow Ball"
+  ],
+  "tmMoves8": [
+    "Light Screen",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Weather Ball",
+    "Fake Tears",
+    "Avalanche",
+    "Ice Fang",
+    "Round",
+    "Hex"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Frost Breath",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Flash",
+    "Frost Breath",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Flash",
+    "Frost Breath",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves4": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Endure",
+    "Flash",
+    "Avalanche",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute"
+  ],
+  "tmMoves3": [
+    "Water Pulse",
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract"
+  ],
+  "forms": {}
+}

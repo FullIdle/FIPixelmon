@@ -1,0 +1,31 @@
+{
+  "npctype": "chat",
+  "skins": [
+    {
+      "filename": "madame.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Larentia"
+    }
+  ],
+  "chat": [
+    {
+      "lines": [
+        {
+          "text": "Bienvenido al Gimnasio Místico."
+        },
+        {
+          "text": "Nuestro Líder de gimnasio era un estudiante magnífico. Siempre contestaba las respuestas correctas en clase."
+        },
+         {
+          "text": "Probablemente gracias a sus poderes psíquicos. De hecho, probablemente ya sabía de tu llegada..."
+        },
+        {
+          "text": "De todas formas, este gimnasio tiene muros invisibles. ¡Deberás de encontrar el camino correcto para llegar hasta el Líder del gimnasio!"
+        }
+      ]
+    }
+  ]
+}

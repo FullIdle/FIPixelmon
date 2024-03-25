@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "normal": { "model": "pixelmon:tv2" },
+    "facing=south": { "model": "pixelmon:tv2" },
+    "facing=north": {
+      "model": "pixelmon:tv2",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "pixelmon:tv2",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "pixelmon:tv2",
+      "y": 90
+    }
+  }
+}

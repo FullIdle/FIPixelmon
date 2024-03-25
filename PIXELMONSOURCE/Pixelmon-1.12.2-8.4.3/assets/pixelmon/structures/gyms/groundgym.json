@@ -1,0 +1,1908 @@
+{
+  "type":["Ground"],
+  "npcs": [
+    {
+      "name": "groundgymintro",
+      "type": "chat",
+      "rotation": 0,
+      "x": 12,
+      "y": 9,
+      "z": 12
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 3,
+      "rotation": 180,
+      "x": 15,
+      "y": 9,
+      "z": 19
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 180,
+      "x": 8,
+      "y": 9,
+      "z": 19
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 90,
+      "x": 20,
+      "y": 9,
+      "z": 11
+    },
+	    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 3,
+      "y": 9,
+      "z": 12
+    },
+	    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 2, 
+      "rotation": 270,
+      "x": 10,
+      "y": 9,
+      "z": 5
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 7,
+      "y": 18,
+      "z": 13
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 90,
+      "x": 16,
+      "y": 18,
+      "z": 12
+    },
+    {
+      "name": "groundgymbase",
+      "type": "trainer",
+      "tier": 1, 
+      "rotation": 270,
+      "x": 7,
+      "y": 18,
+      "z": 9
+    },
+    {
+      "name": "groundgymleader",
+      "type": "trainer",
+      "tier": 0,
+      "rotation": 0,
+      "x": 11,
+      "y": 4,
+      "z": 3, 
+      "drops": [ "Galar: Earthquake", "Galar: Earth Power", "Galar: Dig", "Galar: Sand Tomb", "Galar: Bulldoze", "Galar: Stomping Tantrum", "Galar: Spikes", "Galar: Drill Run", "Galar: High Horsepower" ]
+    }
+  ],
+  "pokemon": [
+    {
+      "name": "Sandshrew",
+      "maxLevel": 21,
+      "sets": [
+        {
+          "move1": [ "Rapid Spin" ],
+          "move2": [ "Magnitude", "Bulldoze" ],
+          "move3": [ "Stealth Rock", "Rock Tomb", "Aerial Ace", "Thief", "Fury Cutter", "Rock Smash", "Cut", "Metal Claw", "Poison Sting", "Counter" ],
+          "move4": [ "Stealth Rock", "Rock Tomb", "Aerial Ace", "Thief", "Fury Cutter", "Rock Smash", "Cut", "Metal Claw", "Poison Sting", "Counter" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:soft_sand", "pixelmon:ground_gem" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 168,
+          "EVAttack": 172,
+          "EVDefence": 168
+        }
+      ]
+    },
+    {
+      "name": "Sandslash",
+      "minLevel": 22,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Magnitude", "Bulldoze" ],
+          "move2": [ "Rock Slide", "Aerial Ace", "Knock Off", "Fury Cutter", "Brick Break", "Secret Power", "Metal Claw", "Shadow Claw", "Rapid Spin", "Swords Dance", "Stealth Rock", "Sandstorm", "Toxic" ],
+          "move3": [ "Rock Slide", "Aerial Ace", "Knock Off", "Fury Cutter", "Brick Break", "Secret Power", "Metal Claw", "Shadow Claw", "Rapid Spin", "Swords Dance", "Stealth Rock", "Sandstorm", "Toxic" ],
+          "move4": [ "Rock Slide", "Aerial Ace", "Knock Off", "Fury Cutter", "Brick Break", "Secret Power", "Metal Claw", "Shadow Claw", "Rapid Spin", "Swords Dance", "Stealth Rock", "Sandstorm", "Toxic" ],
+          "heldItem": [ "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:passho_berry", "pixelmon:yache_berry", "pixelmon:rindo_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sandslash",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Stone Edge", "Aerial Ace", "Knock Off", "X-Scissor", "Brick Break", "Iron Tail", "Shadow Claw", "Poison Jab", "Rapid Spin", "Swords Dance", "Stealth Rock", "Sandstorm", "Super Fang", "Toxic" ],
+          "move3": [ "Stone Edge", "Aerial Ace", "Knock Off", "X-Scissor", "Brick Break", "Iron Tail", "Shadow Claw", "Poison Jab", "Rapid Spin", "Swords Dance", "Stealth Rock", "Sandstorm", "Super Fang", "Toxic" ],
+          "move4": [ "Stone Edge", "Aerial Ace", "Knock Off", "X-Scissor", "Brick Break", "Iron Tail", "Shadow Claw", "Poison Jab", "Rapid Spin", "Swords Dance", "Stealth Rock", "Sandstorm", "Super Fang", "Toxic" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:soft_sand", "pixelmon:yache_berry", "pixelmon:rindo_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Nidoqueen",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Earth Power" ],
+          "move2": [ "Ice Beam", "Sludge Wave", "Thunderbolt", "Shadow Ball", "Fire Blast", "Focus Blast", "Dragon Pulse", "Surf", "Toxic Spikes", "Taunt", "Swagger", "Flatter", "Counter" ],
+          "move3": [ "Ice Beam", "Sludge Wave", "Thunderbolt", "Shadow Ball", "Fire Blast", "Focus Blast", "Dragon Pulse", "Surf", "Toxic Spikes", "Taunt", "Swagger", "Flatter", "Counter" ],
+          "move4": [ "Stealth Rock" ],
+          "ability": [ "Sheer Force" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:payapa_berry", "pixelmon:black_sludge" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Earth Power" ],
+          "move2": [ "Ice Beam", "Sludge Wave", "Thunderbolt", "Shadow Ball", "Flamethrower", "Focus Blast", "Dragon Pulse", "Surf", "Taunt", "Swagger", "Flatter", "Counter" ],
+          "move3": [ "Roar", "Dragon Tail" ],
+          "move4": [ "Stealth Rock", "Toxic Spikes" ],
+          "ability": [ "Sheer Force" ],
+          "heldItem": [ "pixelmon:black_sludge", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Poison Jab" ],
+          "move3": [ "Crunch", "Superpower", "Aerial Ace", "Stone Edge", "Shadow Claw", "Dragon Tail", "Ice Punch", "Thunder Punch", "Fire Punch", "Aqua Tail", "Outrage", "Toxic Spikes", "Taunt", "Swagger", "Flatter", "Counter", "Stealth Rock" ],
+          "move4": [ "Crunch", "Superpower", "Aerial Ace", "Stone Edge", "Shadow Claw", "Dragon Tail", "Ice Punch", "Thunder Punch", "Fire Punch", "Aqua Tail", "Outrage", "Toxic Spikes", "Taunt", "Swagger", "Flatter", "Counter", "Stealth Rock" ],
+          "ability": [ "Sheer Force" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:payapa_berry", "pixelmon:black_sludge" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpeed": 4
+        }
+      ]
+    },
+    {
+      "name": "Nidoking",
+      "minLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Sludge Wave" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Ice Beam", "Megahorn", "Thunderbolt", "Shadow Ball", "Superpower", "Fire Blast", "Dragon Pulse", "Surf", "Rock Slide", "Iron Tail", "Sucker Punch", "Confusion", "Stealth Rock", "Toxic Spikes", "Taunt", "Substitute" ],
+          "move4": [ "Ice Beam", "Megahorn", "Thunderbolt", "Shadow Ball", "Superpower", "Fire Blast", "Dragon Pulse", "Surf", "Rock Slide", "Iron Tail", "Sucker Punch", "Confusion", "Stealth Rock", "Toxic Spikes", "Taunt", "Substitute" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:kings_rock", "pixelmon:black_sludge" ],
+          "nature": [ "Hasty", "Naive", "Mild", "Rash" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Sludge Wave" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Ice Beam", "Thunderbolt", "Shadow Ball", "Focus Blast", "Fire Blast", "Dragon Pulse", "Surf" ],
+          "move4": [ "Ice Beam", "Thunderbolt", "Shadow Ball", "Focus Blast", "Fire Blast", "Dragon Pulse", "Surf" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:kings_rock", "pixelmon:black_sludge" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Poison Jab" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Megahorn", "Brick Break", "Rock Slide", "Iron Tail", "Sucker Punch", "Shadow Claw", "Ice Punch", "Thunder Punch", "Fire Punch", "Aqua Tail", "Outrage" ],
+          "move4": [ "Hone Claws" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:kings_rock", "pixelmon:black_sludge", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Poison Jab" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Megahorn", "Brick Break", "Rock Slide", "Iron Tail", "Sucker Punch", "Shadow Claw", "Ice Punch", "Thunder Punch", "Fire Punch", "Aqua Tail", "Outrage" ],
+          "move4": [ "Megahorn", "Brick Break", "Rock Slide", "Iron Tail", "Sucker Punch", "Shadow Claw", "Ice Punch", "Thunder Punch", "Fire Punch", "Aqua Tail", "Outrage" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:kings_rock", "pixelmon:black_sludge", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Sludge Wave" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Ice Beam", "Megahorn", "Thunderbolt", "Shadow Ball", "Focus Blast", "Fire Blast", "Dragon Pulse", "Surf", "Rock Slide", "Iron Tail", "Sucker Punch", "Confusion", "Stealth Rock", "Toxic Spikes", "Taunt", "Substitute" ],
+          "move4": [ "Amnesia" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:black_sludge" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Diglett",
+      "maxLevel": 25,
+      "sets": [
+        {
+          "move1": [ "Magnitude", "Bulldoze" ],
+          "move2": [ "Rock Tomb", "Aerial Ace", "Thief", "Astonish", "Rock Smash", "Cut" ],
+          "move3": [ "Rock Tomb", "Aerial Ace", "Thief", "Astonish", "Rock Smash", "Cut" ],
+          "move4": [ "Substitute", "Stealth Rock", "Memento" ],
+          "heldItem": [ "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Dugtrio",
+      "minLevel": 26,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Reversal" ],
+          "move3": [ "Screech" ],
+          "move4": [ "Memento", "Stealth Rock", "Toxic", "Sucker Punch", "Protect", "Aerial Ace", "Stone Edge", "Shadow Claw", "Attract" ],
+          "ability": [ "Arena Trap" ],
+          "heldItem": [ "pixelmon:focus_sash", "pixelmon:bright_powder" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Reversal" ],
+          "move3": [ "Endure" ],
+          "move4": [ "Memento", "Stealth Rock", "Toxic", "Aerial Ace", "Stone Edge", "Shadow Claw", "Attract" ],
+          "ability": [ "Arena Trap" ],
+          "heldItem": [ "pixelmon:custap_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Sandstorm" ],
+          "move3": [ "Reversal", "Memento", "Stealth Rock", "Toxic", "Aerial Ace", "Stone Edge", "Shadow Claw", "Attract", "Substitute" ],
+          "move4": [ "Reversal", "Memento", "Stealth Rock", "Toxic", "Aerial Ace", "Stone Edge", "Shadow Claw", "Attract", "Substitute" ],
+          "ability": [ "Sand Veil", "Sand Force" ],
+          "heldItem": [ "pixelmon:bright_powder", "pixelmon:smooth_rock" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Stone Edge", "Aerial Ace", "Night Slash", "Shadow Claw", "Reversal", "Final Gambit" ],
+          "move3": [ "Stone Edge", "Aerial Ace", "Night Slash", "Shadow Claw", "Reversal", "Final Gambit" ],
+          "move4": [ "Stone Edge", "Aerial Ace", "Night Slash", "Shadow Claw", "Reversal", "Final Gambit" ],
+          "ability": [ "Arena Trap" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:focus_sash", "pixelmon:choice_scarf", "pixelmon:bright_powder" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+      "maxLevel": 24,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Smack Down", "Rock Tomb", "Rollout" ],
+          "move3": [ "Bulldoze", "Magnitude" ],
+          "move4": [ "Counter", "Rock Smash", "Power-Up Punch", "Tackle", "Sandstorm" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:shuca_berry" ],
+          "nature": [ "Adamant", "Impish", "Careful" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Graveler",
+      "minLevel": 25,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Rock Slide" ],
+          "move3": [ "Bulldoze", "Magnitude" ],
+          "move4": [ "Counter", "Brick Break", "Secret Power", "Sandstorm", "Self-Destruct", "Thunder Punch", "Fire Punch" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:shuca_berry" ],
+          "nature": [ "Adamant", "Impish", "Careful" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Golem",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move4": [ "Sucker Punch", "Explosion", "Counter" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:weakness_policy", "pixelmon:custap_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move4": [ "Sucker Punch", "Toxic", "Counter" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Sucker Punch", "Iron Head", "Steamroller", "Superpower", "Fire Punch", "Thunder Punch", "Explosion" ],
+          "move4": [ "Sucker Punch", "Iron Head", "Steamroller", "Superpower", "Fire Punch", "Thunder Punch", "Explosion" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Sucker Punch", "Iron Head", "Steamroller", "Brick Break", "Fire Punch", "Thunder Punch" ],
+          "move4": [ "Rock Polish", "Autotomize" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:hard_stone" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Sucker Punch", "Gyro Ball", "Steamroller", "Brick Break", "Fire Punch", "Thunder Punch", "Stealth Rock" ],
+          "move4": [ "Curse" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:hard_stone" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4,
+          "IVSpeed": 0
+        }
+      ]
+    },
+    {
+      "name": "Onix",
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Rock Tomb", "Smack Down", "Rollout" ],
+          "move2": [ "Bulldoze" ],
+          "move3": [ "Stealth Rock" ],
+          "move4": [ "Taunt", "Dragon Tail", "Roar", "Tackle" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Onix",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stealth Rock" ],
+          "move4": [ "Taunt", "Dragon Tail", "Roar", "Toxic", "Heavy Slam", "Iron Tail", "Gyro Ball", "Explosion", "Payback" ],
+          "heldItem": [ "pixelmon:eviolite", "pixelmon:custap_berry" ],
+          "ability": [ "Sturdy" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Curse" ],
+          "move4": [ "Dragon Tail" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Steelix",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Heavy Slam", "Iron Head", "Gyro Ball", "Iron Tail" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Toxic", "Roar", "Dragon Tail", "Thunder Fang", "Ice Fang", "Fire Fang", "Stone Edge", "Rock Slide", "Rock Blast", "Crunch", "Aqua Tail", "Taunt", "Explosion", "Swagger" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:passho_berry", "pixelmon:chople_berry", "pixelmon:custap_berry", "pixelmon:lum_berry", "pixelmon:quick_claw" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4,
+          "IVSpeed": 0
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Iron Head", "Iron Tail" ],
+          "move3": [ "Thunder Fang", "Ice Fang", "Fire Fang", "Stone Edge", "Rock Slide", "Rock Blast", "Crunch", "Aqua Tail", "Swagger" ],
+          "move4": [ "Autotomize", "Rock Polish" ],
+          "ability": [ "Sheer Force" ],
+          "heldItem": [ "pixelmon:passho_berry", "pixelmon:chople_berry", "pixelmon:lum_berry", "pixelmon:life_orb", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earth Power" ],
+          "move2": [ "Flash Cannon" ],
+          "move3": [ "Thunder Fang", "Ice Fang", "Fire Fang", "Ancient Power", "Crunch", "Aqua Tail", "Dragon Pulse", "Dark Pulse", "Stealth Rock", "Swagger" ],
+          "move4": [ "Thunder Fang", "Ice Fang", "Fire Fang", "Ancient Power", "Crunch", "Aqua Tail", "Dragon Pulse", "Dark Pulse", "Stealth Rock", "Swagger" ],
+          "ability": [ "Sheer Force" ],
+          "heldItem": [ "pixelmon:passho_berry", "pixelmon:chople_berry", "pixelmon:lum_berry", "pixelmon:life_orb", "pixelmon:quick_claw" ],
+          "nature": [ "Quiet" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Heavy Slam", "Gyro Ball", "Iron Head", "Iron Tail" ],
+          "move3": [ "Curse" ],
+          "move4": [ "Rest" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:chesto_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4,
+          "IVSpeed": 0
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Heavy Slam", "Gyro Ball", "Iron Head", "Iron Tail" ],
+          "move3": [ "Curse" ],
+          "move4": [ "Thunder Fang", "Ice Fang", "Fire Fang", "Stone Edge", "Rock Slide", "Rock Blast", "Crunch", "Aqua Tail", "Swagger" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4,
+          "IVSpeed": 0
+        }
+      ]
+    },
+    {
+      "name": "Cubone",
+      "maxLevel": 27,
+      "sets": [
+        {
+          "move1": [ "Bone Club", "Bulldoze" ],
+          "move2": [ "Rock Tomb", "Aerial Ace", "Thief", "Double Kick", "Headbutt", "Fury Cutter" ],
+          "move3": [ "Rock Tomb", "Aerial Ace", "Thief", "Double Kick", "Headbutt", "Fury Cutter" ],
+          "move4": [ "Rock Tomb", "Aerial Ace", "Thief", "Double Kick", "Headbutt", "Fury Cutter" ],
+          "heldItem": [ "pixelmon:thick_club" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Marowak",
+      "minLevel": 28,
+      "sets": [
+        {
+          "move1": [ "Earthquake", "Bonemerang" ],
+          "move2": [ "Knock Off", "Low Kick", "Stone Edge", "Aerial Ace", "Double-Edge", "Iron Head", "Thunder Punch", "Fire Punch", "Outrage", "Substitute", "Stealth Rock", "Swords Dance", "Counter", "Toxic", "Protect" ],
+          "move3": [ "Knock Off", "Low Kick", "Stone Edge", "Aerial Ace", "Double-Edge", "Iron Head", "Thunder Punch", "Fire Punch", "Outrage", "Substitute", "Stealth Rock", "Swords Dance", "Counter", "Toxic", "Protect" ],
+          "move4": [ "Knock Off", "Low Kick", "Stone Edge", "Aerial Ace", "Double-Edge", "Iron Head", "Thunder Punch", "Fire Punch", "Outrage", "Substitute", "Stealth Rock", "Swords Dance", "Counter", "Toxic", "Protect" ],
+          "ability": [ "Rock Head" ],
+          "heldItem": [ "pixelmon:thick_club" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Rhyhorn",
+      "maxLevel": 41,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Bulldoze", "Magnitude" ],
+          "move3": [ "Smack Down", "Rock Tomb", "Rollout" ],
+          "move4": [ "Thief", "Rock Smash", "Horn Attack", "Counter", "Rock Polish" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:hard_stone", "pixelmon:rock_gem", "pixelmon:soft_sand", "pixelmon:ground_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Rhydon",
+      "minLevel": 42,
+      "maxLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Rock Polish" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move4": [ "Megahorn", "Poison Jab", "Iron Tail", "Superpower", "Aqua Tail", "Crunch", "Dragon Rush", "Fire Fang", "Ice Fang", "Thunder Fang", "Swords Dance", "Stealth Rock" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:hard_stone", "pixelmon:soft_sand", "pixelmon:muscle_band", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Rhydon",
+      "minLevel": 51,
+      "sets": [
+        {
+          "move1": [ "Rock Polish" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move4": [ "Megahorn", "Poison Jab", "Iron Tail", "Superpower", "Hammer Arm", "Brick Break", "Shadow Claw", "Aqua Tail", "Payback", "Crunch", "Dragon Rush", "Outrage", "Fire Punch", "Ice Punch", "Avalanche", "Thunder Punch", "Swords Dance", "Stealth Rock", "Double-Edge", "Horn Drill" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move4": [ "Megahorn", "Poison Jab", "Iron Tail", "Superpower", "Hammer Arm", "Brick Break", "Shadow Claw", "Aqua Tail", "Payback", "Crunch", "Dragon Rush", "Outrage", "Fire Punch", "Ice Punch", "Avalanche", "Thunder Punch", "Swords Dance", "Roar", "Dragon Tail", "Double-Edge", "Horn Drill" ],
+          "heldItem": [ "pixelmon:eviolite", "pixelmon:quick_claw", "pixelmon:rocky_helmet" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Megahorn", "Poison Jab", "Iron Tail", "Superpower", "Shadow Claw", "Aqua Tail", "Crunch", "Dragon Rush", "Fire Punch", "Ice Punch", "Thunder Punch", "Double-Edge", "Horn Drill" ],
+          "move4": [ "Megahorn", "Poison Jab", "Iron Tail", "Superpower", "Shadow Claw", "Aqua Tail", "Crunch", "Dragon Rush", "Fire Punch", "Ice Punch", "Thunder Punch", "Double-Edge", "Horn Drill" ],
+          "heldItem": [ "pixelmon:eviolite", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Sleep Talk" ],
+          "move4": [ "Rest" ],
+          "heldItem": [ "pixelmon:eviolite", "pixelmon:chesto_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Rhyperior",
+      "minLevel": 51,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge", "Rock Slide", "Rock Blast", "Rock Wrecker" ],
+          "move4": [ "Megahorn", "Poison Jab", "Iron Tail", "Iron Head", "Superpower", "Hammer Arm", "Brick Break", "Shadow Claw", "Aqua Tail", "Payback", "Crunch", "Dragon Rush", "Outrage", "Fire Punch", "Ice Punch", "Avalanche", "Thunder Punch", "Toxic", "Protect", "Roar", "Metal Burst", "Horn Drill", "Counter" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Adamant", "Impish", "Calm" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast", "Rock Wrecker" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Megahorn", "Poison Jab", "Iron Head", "Superpower", "Shadow Claw", "Aqua Tail", "Crunch", "Dragon Rush", "Fire Punch", "Ice Punch", "Thunder Punch", "Horn Drill" ],
+          "move4": [ "Megahorn", "Poison Jab", "Iron Head", "Superpower", "Shadow Claw", "Aqua Tail", "Crunch", "Dragon Rush", "Fire Punch", "Ice Punch", "Thunder Punch", "Horn Drill" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:weakness_policy", "pixelmon:hard_stone", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Swords Dance", "Rock Polish", "Substitute" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge", "Rock Slide", "Rock Blast", "Rock Wrecker" ],
+          "move4": [ "Megahorn", "Poison Jab", "Iron Tail", "Iron Head", "Brick Break", "Shadow Claw", "Aqua Tail", "Crunch", "Dragon Rush", "Outrage", "Fire Punch", "Ice Punch", "Thunder Punch", "Horn Drill" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:weakness_policy", "pixelmon:leftovers", "pixelmon:hard_stone", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Swords Dance" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stone Edge", "Rock Slide", "Rock Blast", "Rock Wrecker" ],
+          "move4": [ "Rock Polish" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:weakness_policy", "pixelmon:hard_stone", "pixelmon:focus_sash" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stone Edge", "Rock Slide", "Rock Blast", "Rock Wrecker" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Megahorn", "Poison Jab", "Iron Head", "Superpower", "Shadow Claw", "Aqua Tail", "Payback", "Dragon Tail", "Fire Punch", "Avalanche", "Thunder Punch", "Metal Burst", "Horn Drill", "Counter" ],
+          "move4": [ "Megahorn", "Poison Jab", "Iron Head", "Superpower", "Shadow Claw", "Aqua Tail", "Payback", "Dragon Tail", "Fire Punch", "Avalanche", "Thunder Punch", "Metal Burst", "Horn Drill", "Counter" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:assault_vest", "pixelmon:life_orb", "pixelmon:weakness_policy", "pixelmon:leftovers", "pixelmon:hard_stone" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Wooper",
+      "maxLevel": 19,
+      "sets": [
+        {
+          "move1": [ "Water Gun", "Water Pulse", "Whirlpool" ],
+          "move2": [ "Mud Shot", "Bulldoze", "Mud-Slap" ],
+          "move3": [ "Recover" ],
+          "move4": [ "Yawn", "Encore", "Haze", "Stockpile" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Quagsire",
+      "minLevel": 20,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Water Pulse" ],
+          "move2": [ "Mud Bomb", "Mud Shot" ],
+          "move3": [ "Recover" ],
+          "move4": [ "Toxic", "Encore", "Haze", "Yawn" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Quagsire",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Scald", "Surf", "Waterfall", "Aqua Tail" ],
+          "move2": [ "Earthquake", "Earth Power" ],
+          "move3": [ "Recover" ],
+          "move4": [ "Toxic", "Encore", "Haze", "Yawn", "Ice Beam", "Brick Break", "Thief", "Iron Tail", "Ice Punch", "Sludge Wave", "Sludge Bomb", "Focus Blast", "Ancient Power", "Stone Edge", "Rock Slide" ],
+          "ability": [ "Unaware", "Water Absorb" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rindo_berry" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Waterfall", "Aqua Tail" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Recover" ],
+          "move4": [ "Curse", "Stockpile", "Amnesia" ],
+          "ability": [ "Unaware", "Water Absorb" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rindo_berry" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Scald", "Surf", "Waterfall", "Aqua Tail", "Toxic" ],
+          "move2": [ "Earthquake", "Earth Power" ],
+          "move3": [ "Rest" ],
+          "move4": [ "Sleep Talk" ],
+          "ability": [ "Unaware", "Water Absorb" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:lum_berry", "pixelmon:chesto_berry", "pixelmon:rindo_berry" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Waterfall", "Aqua Tail" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Brick Break", "Thief", "Iron Tail", "Ice Punch", "Stone Edge" ],
+          "move4": [ "Brick Break", "Thief", "Iron Tail", "Ice Punch", "Stone Edge" ],
+          "ability": [ "Unaware", "Water Absorb" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rindo_berry", "pixelmon:choice_band", "pixelmon:assault_vest" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Gligar",
+      "minLevel": 25,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Aerial Ace", "Acrobatics" ],
+          "move3": [ "Bulldoze", "Dig" ],
+          "move4": [ "Defog", "Stealth Rock", "U-turn", "Taunt", "Toxic", "Knock Off" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Gligar",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Roost" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Defog", "Stealth Rock", "U-turn", "Taunt", "Toxic", "Knock Off" ],
+          "move4": [ "Defog", "Stealth Rock", "U-turn", "Taunt", "Toxic", "Knock Off" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Aerial Ace", "Knock Off", "Sky Uppercut", "X-Scissor", "Quick Attack", "Stone Edge", "Rock Slide", "Brick Break", "Poison Jab", "Iron Tail", "Steel Wing", "Aqua Tail" ],
+          "move3": [ "Swords Dance" ],
+          "move4": [ "Baton Pass" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Gliscor",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Swords Dance", "Taunt", "Toxic", "Earthquake", "Stealth Rock", "Guillotine" ],
+          "move2": [ "Swords Dance", "Taunt", "Toxic", "Earthquake", "Stealth Rock", "Guillotine" ],
+          "move3": [ "Swords Dance", "Taunt", "Toxic", "Earthquake", "Stealth Rock", "Guillotine" ],
+          "move4": [ "Roost" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Toxic", "Guillotine" ],
+          "move2": [ "Roost" ],
+          "move3": [ "Protect" ],
+          "move4": [ "Substitute" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Swords Dance" ],
+          "move3": [ "Aerial Ace", "Knock Off", "Facade", "Thunder Fang", "Ice Fang", "Fire Fang", "Poison Jab", "X-Scissor", "Sky Uppercut", "Stone Edge", "Iron Tail", "Aqua Tail", "Quick Attack" ],
+          "move4": [ "Aerial Ace", "Knock Off", "Facade", "Thunder Fang", "Ice Fang", "Fire Fang", "Poison Jab", "X-Scissor", "Sky Uppercut", "Stone Edge", "Iron Tail", "Aqua Tail", "Quick Attack" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Swords Dance", "Hone Claws", "Curse" ],
+          "move3": [ "Agility" ],
+          "move4": [ "Baton Pass" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb", "pixelmon:liechi_berry", "pixelmon:salac_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Aerial Ace", "Knock Off", "Thunder Fang", "Ice Fang", "Fire Fang", "Poison Jab", "Sky Uppercut", "Stone Edge", "Iron Tail", "Aqua Tail", "Quick Attack", "U-turn", "Counter", "Guillotine" ],
+          "move3": [ "Aerial Ace", "Knock Off", "Thunder Fang", "Ice Fang", "Fire Fang", "Poison Jab", "Sky Uppercut", "Stone Edge", "Iron Tail", "Aqua Tail", "Quick Attack", "U-turn", "Counter", "Guillotine" ],
+          "move4": [ "Aerial Ace", "Knock Off", "Thunder Fang", "Ice Fang", "Fire Fang", "Poison Jab", "Sky Uppercut", "Stone Edge", "Iron Tail", "Aqua Tail", "Quick Attack", "U-turn", "Counter", "Guillotine" ],
+          "ability": [ "Poison Heal" ],
+          "heldItem": [ "pixelmon:toxic_orb", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Swinub",
+      "maxLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Bulldoze" ],
+          "move4": [ "Endeavor" ],
+          "heldItem": [ "pixelmon:never_melt_ice", "pixelmon:ice_gem", "pixelmon:soft_sand", "pixelmon:ground_gem" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Piloswine",
+      "minLevel": 33,
+      "maxLevel": 49,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Bulldoze" ],
+          "move3": [ "Ice Shard", "Toxic", "Roar" ],
+          "move4": [ "Icicle Spear", "Ice Fang" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpeed": 4
+        }
+      ]
+    },
+    {
+      "name": "Piloswine",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Ice Shard", "Toxic", "Roar", "Endeavor", "Fissure" ],
+          "move4": [ "Icicle Spear", "Icicle Crash", "Avalanche", "Freeze-Dry" ],
+          "ability": [ "Oblivious", "Thick Fat" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Brave" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Curse" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Ice Shard", "Icicle Spear", "Icicle Crash", "Avalanche" ],
+          "move4": [ "Stone Edge", "Superpower", "Bite", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:eviolite" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpeed": 4
+        },
+        {
+          "move1": [ "Hail" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Blizzard" ],
+          "move4": [ "Stone Edge", "Superpower", "Bite", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:eviolite", "pixelmon:icy_rock" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVSpecialAttack": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Mamoswine",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Icicle Crash", "Icicle Spear" ],
+          "move4": [ "Stone Edge", "Rock Slide", "Superpower", "Iron Head", "Knock Off", "Stealth Rock", "Endeavor", "Freeze-Dry", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty", "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Stone Edge", "Rock Slide", "Superpower", "Iron Head", "Knock Off", "Icicle Crash", "Icicle Spear", "Endeavor", "Freeze-Dry", "Fissure" ],
+          "ability": [ "Oblivious", "Thick Fat" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty", "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Icicle Crash", "Icicle Spear" ],
+          "move3": [ "Stone Edge", "Superpower", "Iron Head", "Knock Off", "Ice Shard", "Fissure" ],
+          "move4": [ "Stone Edge", "Superpower", "Iron Head", "Knock Off", "Ice Shard", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:focus_sash", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Icicle Crash", "Icicle Spear" ],
+          "move4": [ "Stone Edge", "Superpower", "Iron Head", "Knock Off", "Ice Shard", "Fissure" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_band", "pixelmon:assault_vest", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Shard" ],
+          "move3": [ "Stealth Rock", "Knock Off", "Toxic", "Icicle Spear", "Fissure", "Rock Tomb" ],
+          "move4": [ "Stealth Rock", "Knock Off", "Toxic", "Icicle Spear", "Fissure", "Rock Tomb" ],
+          "ability": [ "Thick Fat" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rocky_helmet", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVDefence": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Blizzard" ],
+          "move3": [ "Stone Edge", "Superpower", "Iron Head", "Knock Off", "Ice Shard", "Fissure" ],
+          "move4": [ "Hail" ],
+          "ability": [ "Snow Cloak" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:lum_berry", "pixelmon:lax_incense", "pixelmon:passho_berry" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Phanpy",
+      "maxLevel": 24,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Bulldoze" ],
+          "move3": [ "Rock Tomb", "Rock Smash", "Tackle", "Ice Shard", "Roar" ],
+          "move4": [ "Rock Tomb", "Rock Smash", "Tackle", "Ice Shard", "Roar" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Donphan",
+      "minLevel": 25,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Rapid Spin" ],
+          "move2": [ "Stealth Rock" ],
+          "move3": [ "Bulldoze" ],
+          "move4": [ "Knock Off", "Toxic", "Roar" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Donphan",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Rapid Spin" ],
+          "move2": [ "Stealth Rock" ],
+          "move3": [ "Earthquake" ],
+          "move4": [ "Knock Off", "Toxic", "Roar", "Counter", "Ice Shard", "Endeavor" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:maranga_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Shard", "Knock Off", "Fire Fang", "Thunder Fang", "Head Smash", "Iron Tail", "Bounce", "Gunk Shot", "Seed Bomb", "Superpower", "Flail", "Fissure" ],
+          "move3": [ "Ice Shard", "Knock Off", "Fire Fang", "Thunder Fang", "Head Smash", "Iron Tail", "Bounce", "Gunk Shot", "Seed Bomb", "Superpower", "Flail", "Fissure" ],
+          "move4": [ "Ice Shard", "Knock Off", "Fire Fang", "Thunder Fang", "Head Smash", "Iron Tail", "Bounce", "Gunk Shot", "Seed Bomb", "Superpower", "Flail", "Fissure" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Rapid Spin" ],
+          "move3": [ "Ice Shard", "Knock Off", "Fire Fang", "Thunder Fang", "Stone Edge", "Iron Tail", "Bounce", "Gunk Shot", "Seed Bomb", "Superpower", "Flail", "Fissure" ],
+          "move4": [ "Ice Shard", "Knock Off", "Fire Fang", "Thunder Fang", "Stone Edge", "Iron Tail", "Bounce", "Gunk Shot", "Seed Bomb", "Superpower", "Flail", "Fissure" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:assault_vest", "pixelmon:leftovers", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Ice Shard", "Knock Off", "Fire Fang", "Thunder Fang", "Head Smash", "Iron Tail", "Bounce", "Gunk Shot", "Seed Bomb", "Superpower", "Flail", "Fissure" ],
+          "move3": [ "Ice Shard", "Knock Off", "Fire Fang", "Thunder Fang", "Head Smash", "Iron Tail", "Bounce", "Gunk Shot", "Seed Bomb", "Superpower", "Flail", "Fissure" ],
+          "move4": [ "Rock Polish" ],
+          "ability": [ "Sturdy" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:maranga_berry", "pixelmon:quick_claw" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Larvitar",
+      "maxLevel": 29,
+      "sets": [
+        {
+          "move1": [ "Rock Polish" ],
+          "move2": [ "Rock Tomb", "Smack Down" ],
+          "move3": [ "Bulldoze" ],
+          "move4": [ "Bite", "Chip Away", "Power-Up Punch", "Rock Smash", "Assurance", "Pursuit" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:hard_stone", "pixelmon:rock_gem", "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:muscle_band", "pixelmon:passho_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Pupitar",
+      "minLevel": 30,
+      "maxLevel": 54,
+      "sets": [
+        {
+          "move1": [ "Rock Slide", "Stone Edge" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Brick Break", "Iron Tail", "Iron Head", "Outrage", "Superpower", "Stealth Rock" ],
+          "move4": [ "Dragon Dance", "Rock Polish" ],
+          "heldItem": [ "pixelmon:hard_stone", "pixelmon:rock_gem", "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:muscle_band", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Marshtomp",
+      "minLevel": 16,
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Scald", "Waterfall", "Water Pulse" ],
+          "move3": [ "Bulldoze", "Mud Bomb", "Mud Shot", "Dig" ],
+          "move4": [ "Rock Slide", "Brick Break", "Ice Punch", "Icy Wind", "Low Kick", "Ancient Power", "Toxic" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Swampert",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock" ],
+          "move2": [ "Scald", "Waterfall", "Aqua Tail", "Surf", "Hydro Pump" ],
+          "move3": [ "Earthquake", "Earth Power" ],
+          "move4": [ "Roar", "Toxic", "Protect", "Rock Slide", "Stone Edge", "Hammer Arm", "Brick Break", "Ice Beam", "Blizzard", "Sludge Wave", "Iron Tail", "Ice Punch", "Avalanche", "Focus Blast", "Ancient Power", "Low Kick", "Counter", "Mirror Coat" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:maranga_berry" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Waterfall", "Aqua Tail" ],
+          "move3": [ "Stone Edge", "Superpower", "Ice Punch", "Iron Tail", "Outrage" ],
+          "move4": [ "Stone Edge", "Superpower", "Ice Punch", "Iron Tail", "Outrage" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:assault_vest", "pixelmon:leftovers", "pixelmon:life_orb" ],
+          "nature": [ "Adamant" ],
+          "EVHP": 252,
+          "EVAttack": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Waterfall", "Aqua Tail" ],
+          "move3": [ "Curse" ],
+          "move4": [ "Rest" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:chesto_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Nincada",
+      "maxLevel": 19,
+      "sets": [
+        {
+          "move1": [ "Leech Life", "Bug Bite", "Fury Cutter", "Struggle Bug" ],
+          "move2": [ "Mud-Slap" ],
+          "move3": [ "Metal Claw", "Aerial Ace", "Cut", "Gust" ],
+          "move4": [ "Metal Claw", "Aerial Ace", "Cut", "Gust" ],
+          "heldItem": [ "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:soft_sand", "pixelmon:ground_gem" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Numel",
+      "maxLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Ember", "Flame Burst", "Flame Charge" ],
+          "move2": [ "Magnitude", "Bulldoze", "Mud Bomb" ],
+          "move3": [ "Ancient Power", "Rock Tomb", "Rollout", "Rock Smash" ],
+          "move4": [ "Growth" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:charcoal", "pixelmon:soft_sand" ],
+          "EVSpecialAttack": 128,
+          "EVSpecialDefence": 252,
+          "EVAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Camerupt",
+      "minLevel": 33,
+      "sets": [
+        {
+          "move1": [ "Flamethrower", "Lava Plume", "Fire Blast", "Overheat", "Heat Wave", "Eruption" ],
+          "move2": [ "Earthquake", "Earth Power" ],
+          "move3": [ "Stealth Rock" ],
+          "move4": [ "Toxic", "Will-O-Wisp", "Rock Slide", "Hidden Power Grass", "Stone Edge", "Roar", "Hidden Power Electric", "Yawn", "Protect", "Hidden Power Ice" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Flamethrower", "Lava Plume", "Fire Blast", "Overheat", "Heat Wave", "Eruption" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Ancient Power", "Flash Cannon", "Hidden Power Grass", "Hidden Power Electric", "Hidden Power Ice" ],
+          "move4": [ "Ancient Power", "Flash Cannon", "Hidden Power Grass", "Hidden Power Electric", "Hidden Power Ice" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:life_orb" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVSpeed": 4
+        },
+        {
+          "minLevel": 50,
+          "move1": [ "Flamethrower", "Lava Plume", "Fire Blast", "Heat Wave" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Ancient Power", "Flash Cannon", "Hidden Power Grass", "Hidden Power Electric", "Hidden Power Ice" ],
+          "move4": [ "Rock Polish" ],
+          "ability": [ "Solid Rock" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:charcoal", "pixelmon:soft_sand" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpeed": 252,
+          "EVSpecialAttack": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Trapinch",
+      "maxLevel": 34,
+      "sets": [
+        {
+          "move1": [ "Bulldoze" ],
+          "move2": [ "Bite", "Rock Tomb", "Rock Smash", "Bug Bite", "Quick Attack", "Toxic" ],
+          "move3": [ "Bite", "Rock Tomb", "Rock Smash", "Bug Bite", "Quick Attack", "Toxic" ],
+          "move4": [ "Bite", "Rock Tomb", "Rock Smash", "Bug Bite", "Quick Attack", "Toxic" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVSpecialDefence": 252,
+          "EVAttack": 4
+        }
+      ]
+    },
+    {
+      "name": "Vibrava",
+      "minLevel": 35,
+      "maxLevel": 44,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "U-turn", "Outrage", "Defog", "Tailwind", "Toxic", "Substitute", "Superpower", "Rock Slide", "Steel Wing", "Fly", "Quick Attack", "Crunch" ],
+          "move3": [ "U-turn", "Outrage", "Defog", "Tailwind", "Toxic", "Substitute", "Superpower", "Rock Slide", "Steel Wing", "Fly", "Quick Attack", "Crunch" ],
+          "move4": [ "Roost" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Flygon",
+      "minLevel": 47,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Dragon Claw", "Outrage", "Dragon Rush" ],
+          "move3": [ "U-turn", "Crunch", "Superpower", "Stone Edge", "Iron Tail", "Aerial Ace", "Thunder Punch", "Fire Punch", "Quick Attack" ],
+          "move4": [ "U-turn", "Crunch", "Superpower", "Stone Edge", "Iron Tail", "Aerial Ace", "Thunder Punch", "Fire Punch", "Quick Attack" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:soft_sand", "pixelmon:weakness_policy", "pixelmon:haban_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake", "Earth Power" ],
+          "move2": [ "Dragon Claw", "Outrage", "Dragon Rush", "Draco Meteor", "U-turn", "Dragon Tail", "Dragon Pulse" ],
+          "move3": [ "Defog", "Tailwind", "Toxic", "Roost" ],
+          "move4": [ "Defog", "Tailwind", "Toxic", "Roost" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:life_orb", "pixelmon:soft_sand", "pixelmon:weakness_policy", "pixelmon:haban_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Dragon Claw", "Outrage", "Dragon Rush" ],
+          "move3": [ "Bug Bite", "Crunch", "Superpower", "Stone Edge", "Iron Tail", "Aerial Ace", "Thunder Punch", "Fire Punch", "Quick Attack", "Swagger" ],
+          "move4": [ "Hone Claws" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:soft_sand", "pixelmon:weakness_policy", "pixelmon:haban_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Dragon Tail" ],
+          "move3": [ "Substitute" ],
+          "move4": [ "Roost" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:lum_berry" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake", "Earth Power" ],
+          "move2": [ "Dragon Claw", "Outrage", "Dragon Rush", "Draco Meteor", "Dragon Pulse" ],
+          "move3": [ "Bug Buzz", "Crunch", "Superpower", "Stone Edge", "Iron Tail", "Aerial Ace", "Thunder Punch", "Fire Blast", "Giga Drain", "Ominous Wind", "Roost", "U-turn", "Quick Attack", "Swagger" ],
+          "move4": [ "Bug Buzz", "Crunch", "Superpower", "Stone Edge", "Iron Tail", "Aerial Ace", "Thunder Punch", "Fire Blast", "Giga Drain", "Ominous Wind", "Roost", "U-turn", "Quick Attack", "Swagger" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:soft_sand", "pixelmon:weakness_policy", "pixelmon:haban_berry", "pixelmon:lum_berry" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty", "Mild", "Rash" ],
+          "EVAttack": 128,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 128
+        },
+        {
+          "move1": [ "Earth Power" ],
+          "move2": [ "Draco Meteor", "Dragon Pulse" ],
+          "move3": [ "Bug Buzz", "Air Cutter", "Fire Blast", "Giga Drain", "Ominous Wind" ],
+          "move4": [ "Bug Buzz", "Air Cutter", "Fire Blast", "Giga Drain", "Ominous Wind" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:soft_sand", "pixelmon:weakness_policy", "pixelmon:haban_berry", "pixelmon:choice_specs", "pixelmon:choice_scarf", "pixelmon:white_herb", "pixelmon:lum_berry" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Barboach",
+      "maxLevel": 29,
+      "sets": [
+        {
+          "move1": [ "Bulldoze", "Mud Shot", "Mud Bomb", "Mud-Slap" ],
+          "move2": [ "Whirlpool", "Water Gun", "Water Pulse" ],
+          "move3": [ "Rock Tomb", "Icy Wind", "Round" ],
+          "move4": [ "Rock Tomb", "Icy Wind", "Round" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:mystic_water", "pixelmon:water_gem" ],
+          "nature": [ "Lonely", "Naughty", "Hasty", "Naive", "Mild", "Rash" ],
+          "EVAttack": 128,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 128
+        }
+      ]
+    },
+    {
+      "name": "Whiscash",
+      "minLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Dragon Dance" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Waterfall", "Aqua Tail" ],
+          "move4": [ "Stone Edge", "Rock Slide", "Zen Headbutt", "Ice Beam", "Blizzard", "Spark", "Bounce", "Toxic", "Substitute", "Fissure" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:soft_sand", "pixelmon:expert_belt" ],
+          "nature": [ "Hasty", "Naive", "Lonely", "Naughty" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialAttack": 4
+        },
+        {
+          "move1": [ "Hydro Pump", "Surf", "Scald" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Ice Beam", "Blizzard" ],
+          "move4": [ "Hidden Power Electric" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:choice_specs", "pixelmon:assault_vest", "pixelmon:soft_sand", "pixelmon:expert_belt" ],
+          "nature": [ "Modest" ],
+          "EVSpecialAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Dragon Dance" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Waterfall", "Aqua Tail" ],
+          "move4": [ "Rest" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:chesto_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Amnesia", "Sleep Talk" ],
+          "move2": [ "Earth Power", "Fissure" ],
+          "move3": [ "Hydro Pump", "Surf", "Scald", "Muddy Water" ],
+          "move4": [ "Rest" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:chesto_berry", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Baltoy",
+      "maxLevel": 35,
+      "sets": [
+        {
+          "move1": [ "Rapid Spin" ],
+          "move2": [ "Stealth Rock" ],
+          "move3": [ "Bulldoze", "Mud-Slap" ],
+          "move4": [ "Confusion", "Magic Coat", "Cosmic Power", "Recycle", "Grass Knot", "Gravity", "Charge Beam", "Rock Tomb", "Ancient Power" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVDefence": 128,
+          "EVSpecialDefence": 128
+        }
+      ]
+    },
+    {
+      "name": "Claydol",
+      "minLevel": 36,
+      "sets": [
+        {
+          "move1": [ "Rapid Spin", "Calm Mind" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Psyshock", "Psychic" ],
+          "move4": [ "Ancient Power", "Ice Beam", "Shadow Ball", "Grass Knot", "Dazzling Gleam", "Signal Beam", "Toxic" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:soft_sand", "pixelmon:life_orb", "pixelmon:weakness_policy" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Rapid Spin" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Zen Headbutt" ],
+          "move4": [ "Rock Slide", "Stone Edge", "Toxic", "Explosion" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:soft_sand", "pixelmon:life_orb", "pixelmon:weakness_policy", "pixelmon:custap_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Trick" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Psyshock", "Psychic" ],
+          "move4": [ "Ancient Power", "Ice Beam", "Shadow Ball", "Grass Knot", "Dazzling Gleam", "Signal Beam" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:choice_scarf" ],
+          "nature": [ "Modest", "Timid" ],
+          "EVSpecialAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Cosmic Power", "Calm Mind" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Psyshock", "Psychic" ],
+          "move4": [ "Toxic" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:leftovers" ],
+          "nature": [ "Bold", "Calm" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Torterra",
+      "minLevel": 32,
+      "sets": [
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Iron Tail", "Stone Edge", "Rock Slide", "Iron Head", "Outrage", "Swords Dance", "Substitute" ],
+          "move4": [ "Rock Polish" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:soft_sand", "pixelmon:leftovers", "pixelmon:yache_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Synthesis" ],
+          "move4": [ "Stealth Rock" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Impish", "Careful" ],
+          "EVDefence": 252,
+          "EVHP": 252,
+          "EVAttack": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Stone Edge", "Iron Head", "Outrage", "Seed Bomb", "Superpower" ],
+          "move4": [ "Crunch", "Stone Edge", "Iron Head", "Outrage", "Seed Bomb", "Superpower" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:soft_sand", "pixelmon:yache_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Iron Tail", "Stone Edge", "Rock Slide", "Iron Head", "Outrage", "Synthesis" ],
+          "move4": [ "Swords Dance" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:soft_sand", "pixelmon:leftovers", "pixelmon:yache_berry" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Wood Hammer", "Seed Bomb" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Crunch", "Iron Tail", "Stone Edge", "Rock Slide", "Iron Head", "Outrage" ],
+          "move4": [ "Curse", "Stockpile" ],
+          "heldItem": [ "pixelmon:lum_berry", "pixelmon:soft_sand", "pixelmon:leftovers", "pixelmon:yache_berry" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Wormadam",
+      "minLevel": 23,
+      "maxLevel": 46,
+      "sets": [
+        {
+          "move1": [ "Bug Bite" ],
+          "move2": [ "Bulldoze" ],
+          "move3": [ "Stealth Rock" ],
+          "move4": [ "Rock Tomb", "Thief", "Secret Power", "Toxic", "Protect" ],
+          "heldItem": [ "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:silver_powder", "pixelmon:bug_gem", "pixelmon:muscle_band", "pixelmon:expert_belt", "pixelmon:sitrus_berry" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4,
+          "form": 1
+        }
+      ]
+    },
+    {
+      "name": "Wormadam",
+      "minLevel": 47,
+      "sets": [
+        {
+          "move1": [ "Bug Bite" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Stealth Rock" ],
+          "move4": [ "Rock Blast", "Rock Tomb", "Fissure", "Sucker Punch", "Thief", "Toxic", "Protect" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4,
+          "form": 1
+        },
+        {
+          "move1": [ "Bug Bite" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Thief", "Return", "Rock Blast" ],
+          "move4": [ "Thief", "Return", "Rock Blast" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:life_orb", "pixelmon:assault_vest" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4,
+          "form": 1
+        }
+      ]
+    },
+    {
+      "name": "Gastrodon",
+      "minLevel": 30,
+      "sets": [
+        {
+          "move1": [ "Scald", "Surf", "Muddy Water", "Waterfall" ],
+          "move2": [ "Earth Power", "Earthquake" ],
+          "move3": [ "Recover" ],
+          "move4": [ "Toxic", "Ice Beam", "Yawn", "Counter", "Clear Smog", "Mirror Coat", "Memento", "Stockpile", "Amnesia" ],
+          "ability": [ "Storm Drain" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:rindo_berry" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Scald", "Surf", "Muddy Water" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Ice Beam", "Sludge Wave", "Ancient Power" ],
+          "move4": [ "Ice Beam", "Sludge Wave", "Ancient Power" ],
+          "ability": [ "Storm Drain" ],
+          "heldItem": [ "pixelmon:choice_specs", "pixelmon:life_orb", "pixelmon:leftovers" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Waterfall", "Scald" ],
+          "move2": [ "Earthquake" ],
+          "move3": [ "Curse" ],
+          "move4": [ "Recover" ],
+          "ability": [ "Storm Drain" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Relaxed", "Sassy" ],
+          "EVHP": 252,
+          "EVDefence": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Scald", "Surf", "Muddy Water" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Ice Beam", "Sludge Wave", "Ancient Power", "Sludge Bomb", "Blizzard", "Counter", "Mirror Coat" ],
+          "move4": [ "Rain Dance" ],
+          "ability": [ "Storm Drain" ],
+          "heldItem": [ "pixelmon:damp_rock" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Scald", "Surf", "Muddy Water" ],
+          "move2": [ "Earth Power" ],
+          "move3": [ "Sandstorm" ],
+          "move4": [ "Recover" ],
+          "ability": [ "Sand Force" ],
+          "heldItem": [ "pixelmon:leftovers", "pixelmon:smooth_rock" ],
+          "nature": [ "Modest" ],
+          "EVHP": 252,
+          "EVSpecialAttack": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Sandile",
+      "maxLevel": 28,
+      "sets": [
+        {
+          "move1": [ "Stealth Rock", "Hone Claws" ],
+          "move2": [ "Pursuit", "Bite", "Assurance", "Beat Up", "Thief" ],
+          "move3": [ "Bulldoze" ],
+          "move4": [ "Taunt", "Rage", "Cut", "Rock Tomb" ],
+          "heldItem": [ "pixelmon:sitrus_berry" ],
+          "nature": [ "Jolly", "Impish", "Careful", "Adamant" ],
+          "EVAttack": 128,
+          "EVDefence": 128,
+          "EVSpeed": 252
+        }
+      ]
+    },
+    {
+      "name": "Krokorok",
+      "minLevel": 29,
+      "maxLevel": 39,
+      "sets": [
+        {
+          "move1": [ "Dig", "Bulldoze" ],
+          "move2": [ "Crunch", "Knock Off" ],
+          "move3": [ "Rock Slide", "Brick Break", "Fire Fang", "Thunder Fang" ],
+          "move4": [ "Rock Slide", "Brick Break", "Fire Fang", "Thunder Fang" ],
+          "heldItem": [ "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:black_glasses", "pixelmon:dark_gem", "pixelmon:muscle_band", "pixelmon:expert_belt" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 128,
+          "EVSpeed": 128,
+          "EVDefence": 252
+        }
+      ]
+    },
+    {
+      "name": "Krookodile",
+      "minLevel": 40,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Crunch", "Knock Off" ],
+          "move3": [ "Pursuit", "Stone Edge", "Superpower", "Aqua Tail", "Dragon Claw", "Aerial Ace", "Iron Tail", "Fire Fang", "Thunder Fang" ],
+          "move4": [ "Pursuit", "Stone Edge", "Superpower", "Aqua Tail", "Dragon Claw", "Aerial Ace", "Iron Tail", "Fire Fang", "Thunder Fang" ],
+          "ability": [ "Intimidate", "Moxie" ],
+          "heldItem": [ "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:life_orb", "pixelmon:black_glasses", "pixelmon:soft_sand", "pixelmon:rocky_helmet", "pixelmon:roseli_berry", "pixelmon:liechi_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Crunch", "Knock Off" ],
+          "move3": [ "Pursuit", "Stone Edge", "Superpower", "Aqua Tail", "Dragon Claw", "Aerial Ace", "Iron Tail", "Fire Fang", "Thunder Fang", "Taunt", "Stealth Rock", "Counter" ],
+          "move4": [ "Pursuit", "Stone Edge", "Superpower", "Aqua Tail", "Dragon Claw", "Aerial Ace", "Iron Tail", "Fire Fang", "Thunder Fang", "Taunt", "Stealth Rock", "Counter" ],
+          "ability": [ "Intimidate", "Moxie" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:black_glasses", "pixelmon:soft_sand", "pixelmon:rocky_helmet", "pixelmon:roseli_berry", "pixelmon:liechi_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Crunch", "Knock Off" ],
+          "move3": [ "Pursuit", "Stone Edge", "Superpower", "Aqua Tail", "Dragon Claw", "Aerial Ace", "Iron Tail", "Fire Fang", "Thunder Fang", "Taunt", "Stealth Rock", "Dragon Tail", "Rock Slide", "Brick Break", "Outrage" ],
+          "move4": [ "Bulk Up", "Hone Claws" ],
+          "ability": [ "Intimidate", "Moxie" ],
+          "heldItem": [ "pixelmon:life_orb", "pixelmon:black_glasses", "pixelmon:soft_sand", "pixelmon:rocky_helmet", "pixelmon:roseli_berry", "pixelmon:liechi_berry" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVSpecialDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Golett",
+      "minLevel": 13,
+      "maxLevel": 42,
+      "sets": [
+        {
+          "move1": [ "Shadow Punch", "Astonish" ],
+          "move2": [ "Bulldoze" ],
+          "move3": [ "Stealth Rock", "Rock Polish" ],
+          "move4": [ "Rollout", "Pound", "Rock Tomb", "Thief", "Rock Smash", "Power-Up Punch", "Low Kick" ],
+          "heldItem": [ "pixelmon:sitrus_berry", "pixelmon:soft_sand", "pixelmon:ground_gem", "pixelmon:spell_tag", "pixelmon:ghost_gem", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4
+        }
+      ]
+    },
+    {
+      "name": "Golurk",
+      "minLevel": 50,
+      "sets": [
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Shadow Punch", "Phantom Force" ],
+          "move3": [ "Stealth Rock", "Rock Polish" ],
+          "move4": [ "Drain Punch", "Hammer Arm", "Dynamic Punch", "Stone Edge", "Rock Slide", "Ice Punch", "Thunder Punch", "Fire Punch", "Fly", "Low Kick", "Superpower", "Zen Headbutt", "Magic Coat", "Heavy Slam" ],
+          "ability": [ "Iron Fist", "No Guard" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:focus_sash", "pixelmon:passho_berry", "pixelmon:lum_berry", "pixelmon:life_orb", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Shadow Punch", "Phantom Force" ],
+          "move3": [ "Hammer Arm", "Stone Edge", "Ice Punch", "Thunder Punch", "Fire Punch", "Fly", "Zen Headbutt", "Heavy Slam" ],
+          "move4": [ "Hammer Arm", "Stone Edge", "Ice Punch", "Thunder Punch", "Fire Punch", "Fly", "Zen Headbutt", "Heavy Slam" ],
+          "ability": [ "Iron Fist", "No Guard" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:focus_sash", "pixelmon:passho_berry", "pixelmon:lum_berry", "pixelmon:life_orb", "pixelmon:choice_band", "pixelmon:choice_scarf", "pixelmon:muscle_band" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Shadow Punch", "Phantom Force" ],
+          "move3": [ "Substitute" ],
+          "move4": [ "Focus Punch" ],
+          "ability": [ "Iron Fist" ],
+          "heldItem": [ "pixelmon:leftovers" ],
+          "nature": [ "Adamant", "Jolly" ],
+          "EVAttack": 252,
+          "EVSpeed": 252,
+          "EVDefence": 4
+        },
+        {
+          "move1": [ "Earthquake" ],
+          "move2": [ "Shadow Punch", "Phantom Force" ],
+          "move3": [ "Curse", "Iron Defense" ],
+          "move4": [ "Drain Punch", "Hammer Arm", "Dynamic Punch", "Stone Edge", "Rock Slide", "Ice Punch", "Thunder Punch", "Fire Punch", "Fly", "Low Kick", "Superpower", "Zen Headbutt", "Heavy Slam", "Gyro Ball" ],
+          "ability": [ "Iron Fist", "No Guard" ],
+          "heldItem": [ "pixelmon:colbur_berry", "pixelmon:passho_berry", "pixelmon:lum_berry", "pixelmon:muscle_band", "pixelmon:leftovers" ],
+          "nature": [ "Brave" ],
+          "EVAttack": 252,
+          "EVHP": 252,
+          "EVDefence": 4,
+          "IVSpeed": 0
+        }
+      ]
+    }
+  ]
+}

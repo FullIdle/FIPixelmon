@@ -1,0 +1,20 @@
+{
+  "cardCode": "JUNG32",
+  "attackNumber": 1,
+  "name": "attack.JUNG32.1.name",
+  "energy": [
+    "COLORLESS"
+  ],
+  "damage": 0,
+  "modifier": null,
+  "text": "attack.JUNG32.1.text",
+  "effectsString": "OPP_CONDITION:SLEEP",
+  "effects": [
+    {
+      "condition": "ASLEEP",
+      "onMe": false,
+      "modifier": null,
+      "needCoinSide": null
+    }
+  ]
+}

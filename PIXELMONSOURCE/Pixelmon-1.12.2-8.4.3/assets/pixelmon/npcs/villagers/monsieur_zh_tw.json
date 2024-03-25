@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "monsieur.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "雷吉納德"
+        },
+        {
+            "name": "赫伯特"
+        },
+        {
+            "name": "愛德華"
+        },
+        {
+            "name": "理查"
+        },
+        {
+            "name": "歐內斯特"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "我的家人在我還很年輕的時候建了一座寶可夢中心。"
+                },
+                {
+                    "text": "如果你仔細看，你會發現我們家族的家徽雕刻在牆上某個地方。"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "我是藝術的讚助者，因此我贊助了圖圖犬育種。"
+                },
+                {
+                    "text": "我親眼見證五種不同風格的畫家誕生！"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "我太晚吃午飯了！"
+                },
+                {
+                    "text": "No, a luncheon is NOT an Eevee evolution. How unsophisticated of you!"
+                }
+            ]
+        }
+    ]
+}

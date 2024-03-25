@@ -1,0 +1,65 @@
+{
+  "id": "Gible Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Gible"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Gabite"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 42,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Garchomp"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.1
+    }
+  ]
+}

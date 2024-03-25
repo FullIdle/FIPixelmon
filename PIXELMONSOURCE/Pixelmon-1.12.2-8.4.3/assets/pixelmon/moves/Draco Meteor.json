@@ -1,0 +1,62 @@
+{
+  "attackIndex": 456,
+  "attackName": "Draco Meteor",
+  "attackType": "Dragon",
+  "attackCategory": "SPECIAL",
+  "basePower": 130,
+  "ppBase": 5,
+  "ppMax": 8,
+  "accuracy": 90,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "SpecialAttack",
+      "amount": -2,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "RAIN",
+				"texture": "NORMAL",
+				"scale": 0.7,
+				"durationTicks": 5,
+				"power": 3,
+				"heightAboveTarget": 6
+			},
+			"7": {
+				"id": "RAIN",
+				"texture": "NORMAL",
+				"scale": 0.6,
+				"durationTicks": 5,
+				"power": 3,
+				"heightAboveTarget": 6
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "dragonium_z",
+      "attackName": "Devastating Drake",
+      "basePower": 195,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

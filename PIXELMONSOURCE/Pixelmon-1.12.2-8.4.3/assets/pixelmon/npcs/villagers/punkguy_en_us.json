@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "punkguy.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sven"
+        },
+        {
+            "name": "Eugene"
+        },
+        {
+            "name": "Dennis"
+        },
+        {
+            "name": "Donny"
+        },
+        {
+            "name": "Spike"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "I went to a concert last weekend. There was a mosh pit!"
+                },
+                {
+                    "text": "Fighting-type Pokémon shouldn't be allowed to mosh."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Like my jacket? It's real leather."
+                },
+                {
+                    "text": "From Normal type to punk type! That's an upgrade, man."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'm not a bad guy. See, I really like my Grimer."
+                },
+                {
+                    "text": "Sometimes I give her a ride on my head. It gets smelly, but I look cool."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I want to get some of my friends together who don't care about the rules..."
+                },
+                {
+                    "text": "And to have a big free-for-all Pokémon battle."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+  "pixelmonName": "Cutiefly",
+  "pokemon": "Cutiefly",
+  "form": -1,
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defence": 40,
+    "Speed": 84,
+    "SpecialAttack": 55,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 8,
+  "spawnLevelRange": 20,
+  "baseExp": 61,
+  "baseFriendship": 70,
+  "types": [
+    "Bug",
+    "Fairy"
+  ],
+  "height": 0.1,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 0.2,
+  "bounding_box": {
+    "width": 0.25,
+    "height": 0.3,
+    "eye_height": 0.085
+  },
+  "evolutions": [
+    {
+      "level": 25,
+      "to": {
+        "name": "Ribombee"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Pollen Puff"
+      ]
+    }
+  ],
+  "abilities": [
+    "HoneyGather",
+    "ShieldDust",
+    "SweetVeil"
+  ],
+  "eggGroups": [
+    "Bug",
+    "Fairy"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Fairy Wind"
+    ],
+    "6": [
+      "Stun Spore"
+    ],
+    "12": [
+      "Sweet Scent"
+    ],
+    "18": [
+      "Draining Kiss"
+    ],
+    "24": [
+      "Struggle Bug"
+    ],
+    "30": [
+      "Aromatherapy"
+    ],
+    "36": [
+      "Switcheroo"
+    ],
+    "42": [
+      "Dazzling Gleam"
+    ],
+    "48": [
+      "Bug Buzz"
+    ],
+    "54": [
+      "Quiver Dance"
+    ]
+  },
+  "tutorMoves": [
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Aromatic Mist",
+    "Moonblast",
+    "Sticky Web"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "After You",
+    "Bestow",
+    "Bug Bite",
+    "Confide",
+    "Covet",
+    "Defog",
+    "Double Team",
+    "Dream Eater",
+    "Frustration",
+    "Hidden Power",
+    "Infestation",
+    "Last Resort",
+    "Powder",
+    "Psych Up",
+    "Return",
+    "Roost",
+    "Signal Beam",
+    "Silver Wind",
+    "Swagger",
+    "Tailwind",
+    "Telekinesis",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Leech Life",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Baton Pass",
+    "Trick",
+    "Skill Swap",
+    "Calm Mind",
+    "Bug Buzz",
+    "Energy Ball",
+    "Ally Switch",
+    "Play Rough",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Charm",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Helping Hand",
+    "Imprison",
+    "Fake Tears",
+    "U-turn",
+    "Speed Swap",
+    "Wonder Room",
+    "Magic Room",
+    "Round",
+    "Acrobatics",
+    "Draining Kiss"
+  ],
+  "tmMoves7": [
+    "Calm Mind",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Roost",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Leech Life",
+    "Psychic",
+    "Double Team",
+    "Reflect",
+    "Aerial Ace",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Energy Ball",
+    "Acrobatics",
+    "Psych Up",
+    "Infestation",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

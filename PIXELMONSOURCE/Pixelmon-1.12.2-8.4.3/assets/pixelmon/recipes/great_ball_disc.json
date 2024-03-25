@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "pixelmon:cooked_blue_apricorn"
+    },
+    "B": {
+      "item": "pixelmon:cooked_red_apricorn"
+    }
+  },
+  "result": {
+    "item": "pixelmon:great_ball_disc",
+    "count": 2
+  }
+}

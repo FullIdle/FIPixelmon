@@ -1,0 +1,35 @@
+{
+  "id": "Croconaw",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Croconaw"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "river"
+        ]
+      },
+	  "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

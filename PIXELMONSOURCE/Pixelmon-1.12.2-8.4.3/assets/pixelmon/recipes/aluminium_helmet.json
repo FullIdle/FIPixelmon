@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "key": {
+    "M": {
+      "type": "forge:ore_dict",
+      "ore": "ingotAluminum"
+    }
+  },
+  "result": {
+    "item": "pixelmon:aluminium_helmet",
+    "count": 1
+  }
+}

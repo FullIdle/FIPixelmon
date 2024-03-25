@@ -1,0 +1,32 @@
+{
+  "id": "Fearow",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Fearow"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sharp_beak",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "hills",
+          "mountainous"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

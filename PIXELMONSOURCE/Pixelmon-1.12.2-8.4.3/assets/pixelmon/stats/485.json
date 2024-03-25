@@ -1,0 +1,348 @@
+{
+  "pixelmonName": "Heatran",
+  "pokemon": "Heatran",
+  "form": 0,
+  "stats": {
+    "HP": 91,
+    "Attack": 90,
+    "Defence": 106,
+    "Speed": 77,
+    "SpecialAttack": 130,
+    "SpecialDefence": 106
+  },
+  "catchRate": 3,
+  "malePercent": 50,
+  "spawnLevel": 50,
+  "spawnLevelRange": 0,
+  "baseExp": 215,
+  "baseFriendship": 100,
+  "types": [
+    "Fire",
+    "Steel"
+  ],
+  "height": 1.3,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "Slow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land",
+    "UnderGround"
+  ],
+  "evYields": {
+    "SpecialAttack": 3
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.6
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.35,
+      "z": -0.6
+    }
+  },
+  "weight": 430.0,
+  "bounding_box": {
+    "width": 1.7,
+    "height": 1.3,
+    "eye_height": 0.9
+  },
+  "evolutions": [],
+  "abilities": [
+    "FlashFire",
+    null,
+    "FlameBody"
+  ],
+  "eggGroups": [
+    "Undiscovered"
+  ],
+  "eggCycles": 11,
+  "levelUpMoves": {
+    "0": [
+      "Fire Spin",
+      "Leer"
+    ],
+    "6": [
+      "Metal Claw"
+    ],
+    "12": [
+      "Ancient Power"
+    ],
+    "18": [
+      "Fire Fang"
+    ],
+    "24": [
+      "Scary Face"
+    ],
+    "30": [
+      "Iron Head"
+    ],
+    "36": [
+      "Crunch"
+    ],
+    "42": [
+      "Lava Plume"
+    ],
+    "48": [
+      "Metal Sound"
+    ],
+    "54": [
+      "Earth Power"
+    ],
+    "60": [
+      "Heat Wave"
+    ],
+    "66": [
+      "Stone Edge"
+    ],
+    "72": [
+      "Magma Storm"
+    ]
+  },
+  "tutorMoves": [
+    "Burning Jealousy",
+    "Scorching Sands",
+    "Steel Beam",
+    "Steel Roller"
+  ],
+  "eggMoves": [],
+  "transferMoves": [
+    "Bug Bite",
+    "Captivate",
+    "Confide",
+    "Double Team",
+    "Eruption",
+    "Explosion",
+    "Flame Charge",
+    "Frustration",
+    "Headbutt",
+    "Hidden Power",
+    "Incinerate",
+    "Mud-Slap",
+    "Natural Gift",
+    "Nature Power",
+    "Return",
+    "Roar",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swagger",
+    "Torment",
+    "Toxic"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Body Slam",
+    "Flamethrower",
+    "Earthquake",
+    "Fire Blast",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Uproar",
+    "Heat Wave",
+    "Taunt",
+    "Overheat",
+    "Iron Defense",
+    "Dark Pulse",
+    "Dragon Pulse",
+    "Earth Power",
+    "Flash Cannon",
+    "Iron Head",
+    "Stone Edge",
+    "Stealth Rock",
+    "Heavy Slam",
+    "Heat Crash",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Solar Beam",
+    "Fire Spin",
+    "Dig",
+    "Self-Destruct",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Sunny Day",
+    "Will-O-Wisp",
+    "Facade",
+    "Rock Tomb",
+    "Payback",
+    "Fire Fang",
+    "Round",
+    "Bulldoze",
+    "Stomping Tantrum"
+  ],
+  "tmMoves7": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Will-O-Wisp",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Nature Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Nature Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Overheat",
+    "Incinerate",
+    "Will-O-Wisp",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Bulldoze",
+    "Rock Slide",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Roar",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Hyper Beam",
+    "Protect",
+    "Frustration",
+    "Solar Beam",
+    "Earthquake",
+    "Return",
+    "Dig",
+    "Double Team",
+    "Flamethrower",
+    "Fire Blast",
+    "Rock Tomb",
+    "Torment",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Overheat",
+    "Endure",
+    "Dragon Pulse",
+    "Will-O-Wisp",
+    "Explosion",
+    "Payback",
+    "Giga Impact",
+    "Stone Edge",
+    "Stealth Rock",
+    "Captivate",
+    "Dark Pulse",
+    "Rock Slide",
+    "Sleep Talk",
+    "Natural Gift",
+    "Swagger",
+    "Substitute",
+    "Flash Cannon"
+  ],
+  "forms": {}
+}

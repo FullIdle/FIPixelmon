@@ -1,0 +1,171 @@
+{
+  "pixelmonName": "Runerigus",
+  "pokemon": "Runerigus",
+  "form": 0,
+  "stats": {
+    "HP": 58,
+    "Attack": 95,
+    "Defence": 145,
+    "SpecialAttack": 50,
+    "SpecialDefence": 105,
+    "Speed": 30
+  },
+  "catchRate": 90,
+  "malePercent": 50,
+  "spawnLevel": 42,
+  "spawnLevelRange": 14,
+  "baseExp": 169,
+  "baseFriendship": 50,
+  "types": [
+    "Ground",
+    "Ghost"
+  ],
+  "height": 1.6,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Yamask f:2"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 2
+  },
+  "weight": 66.6,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.4,
+    "eye_height": 1.1
+  },
+  "evolutions": [],
+  "abilities": [
+    "WanderingSpirit",
+    null,
+    null
+  ],
+  "eggGroups": [
+    "Mineral",
+    "Amorphous"
+  ],
+  "eggCycles": 26,
+  "levelUpMoves": {
+    "0": [
+      "Astonish",
+      "Haze",
+      "Night Shade",
+      "Protect",
+      "Scary Face",
+      "Shadow Claw"
+    ],
+    "12": [
+      "Disable"
+    ],
+    "16": [
+      "Brutal Swing"
+    ],
+    "20": [
+      "Crafty Shield"
+    ],
+    "24": [
+      "Hex"
+    ],
+    "28": [
+      "Mean Look"
+    ],
+    "32": [
+      "Slam"
+    ],
+    "38": [
+      "Curse"
+    ],
+    "44": [
+      "Shadow Ball"
+    ],
+    "50": [
+      "Earthquake"
+    ],
+    "56": [
+      "Guard Split",
+      "Power Split"
+    ],
+    "62": [
+      "Destiny Bond"
+    ]
+  },
+  "tutorMoves": [
+    "Poltergeist"
+  ],
+  "eggMoves": [
+    "Memento"
+  ],
+  "transferMoves": [],
+  "hmMoves": [],
+  "trMoves": [
+    "Earthquake",
+    "Psychic",
+    "Amnesia",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Shadow Ball",
+    "Taunt",
+    "Trick",
+    "Skill Swap",
+    "Iron Defense",
+    "Calm Mind",
+    "Toxic Spikes",
+    "Dark Pulse",
+    "Dragon Pulse",
+    "Energy Ball",
+    "Earth Power",
+    "Nasty Plot",
+    "Zen Headbutt",
+    "Stone Edge",
+    "Stealth Rock",
+    "Grass Knot",
+    "Ally Switch",
+    "Body Press"
+  ],
+  "tmMoves8": [
+    "Hyper Beam",
+    "Giga Impact",
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Scary Face",
+    "Attract",
+    "Sandstorm",
+    "Rain Dance",
+    "Will-O-Wisp",
+    "Facade",
+    "Revenge",
+    "Imprison",
+    "Fake Tears",
+    "Rock Tomb",
+    "Sand Tomb",
+    "Rock Blast",
+    "Payback",
+    "Power Swap",
+    "Guard Swap",
+    "Shadow Claw",
+    "Trick Room",
+    "Wonder Room",
+    "Round",
+    "Hex",
+    "Bulldoze",
+    "Phantom Force",
+    "Brutal Swing"
+  ],
+  "forms": {}
+}

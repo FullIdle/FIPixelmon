@@ -1,0 +1,269 @@
+{
+  "pixelmonName": "Noibat",
+  "pokemon": "Noibat",
+  "form": 0,
+  "stats": {
+    "HP": 40,
+    "Attack": 30,
+    "Defence": 35,
+    "Speed": 55,
+    "SpecialAttack": 45,
+    "SpecialDefence": 40
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 31,
+  "spawnLevelRange": 16,
+  "baseExp": 49,
+  "baseFriendship": 0,
+  "types": [
+    "Flying",
+    "Dragon"
+  ],
+  "height": 0.5,
+  "isRideable": false,
+  "canFly": true,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "flyingParameters": {
+    "flyHeightMin": 0,
+    "flyHeightMax": 10,
+    "flySpeedModifier": 0.6,
+    "flyRefreshRateY": 80,
+    "flyRefreshRateXZ": 200,
+    "flyRefreshRateSpeed": 100,
+    "flightTimeMin": 0,
+    "flightTimeMax": 20,
+    "flapRate": 5,
+    "landingMaterials": "LEAVES_AND_GRASS"
+  },
+  "spawnLocations": [
+    "AirPersistent",
+    "UnderGround"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 8.0,
+  "bounding_box": {
+    "width": 0.5,
+    "height": 0.8,
+    "eye_height": 0.5
+  },
+  "evolutions": [
+    {
+      "level": 48,
+      "to": {
+        "name": "Noivern"
+      },
+      "conditions": [],
+      "evoType": "leveling",
+      "moves": [
+        "Dragon Pulse"
+      ]
+    }
+  ],
+  "abilities": [
+    "Frisk",
+    "Infiltrator",
+    "Telepathy"
+  ],
+  "eggGroups": [
+    "Flying",
+    "Dragon"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Absorb",
+      "Tackle"
+    ],
+    "4": [
+      "Gust"
+    ],
+    "8": [
+      "Supersonic"
+    ],
+    "12": [
+      "Double Team"
+    ],
+    "16": [
+      "Wing Attack"
+    ],
+    "20": [
+      "Bite"
+    ],
+    "24": [
+      "Air Cutter"
+    ],
+    "28": [
+      "Whirlwind"
+    ],
+    "32": [
+      "Super Fang"
+    ],
+    "36": [
+      "Air Slash"
+    ],
+    "40": [
+      "Screech"
+    ],
+    "44": [
+      "Roost"
+    ],
+    "49": [
+      "Tailwind"
+    ],
+    "52": [
+      "Hurricane"
+    ]
+  },
+  "tutorMoves": [
+    "Draco Meteor",
+    "Dual Wingbeat"
+  ],
+  "eggMoves": [
+    "Defog",
+    "Dragon Rush"
+  ],
+  "transferMoves": [
+    "Aerial Ace",
+    "Confide",
+    "Cut",
+    "Dream Eater",
+    "Echoed Voice",
+    "Frustration",
+    "Hidden Power",
+    "Razor Wind",
+    "Return",
+    "Secret Power",
+    "Sky Attack",
+    "Snatch",
+    "Swagger",
+    "Switcheroo",
+    "Torment",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Psychic",
+    "Agility",
+    "Leech Life",
+    "Substitute",
+    "Outrage",
+    "Endure",
+    "Sleep Talk",
+    "Iron Tail",
+    "Shadow Ball",
+    "Uproar",
+    "Heat Wave",
+    "Taunt",
+    "Hyper Voice",
+    "Dark Pulse",
+    "X-Scissor",
+    "Dragon Pulse",
+    "Wild Charge",
+    "Hurricane"
+  ],
+  "tmMoves8": [
+    "Fly",
+    "Solar Beam",
+    "Screech",
+    "Rest",
+    "Thief",
+    "Snore",
+    "Protect",
+    "Steel Wing",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Swift",
+    "Brick Break",
+    "U-turn",
+    "Shadow Claw",
+    "Round",
+    "Acrobatics",
+    "Air Slash"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Leech Life",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Acrobatics",
+    "Shadow Claw",
+    "Fly",
+    "X-Scissor",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Protect",
+    "Roost",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Psychic",
+    "Shadow Ball",
+    "Brick Break",
+    "Double Team",
+    "Aerial Ace",
+    "Torment",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Steel Wing",
+    "Acrobatics",
+    "Shadow Claw",
+    "X-Scissor",
+    "Dream Eater",
+    "Swagger",
+    "Sleep Talk",
+    "U-turn",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Dark Pulse",
+    "Confide"
+  ],
+  "forms": {}
+}

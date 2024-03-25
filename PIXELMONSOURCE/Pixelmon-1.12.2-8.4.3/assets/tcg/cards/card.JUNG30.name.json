@@ -1,0 +1,59 @@
+{
+  "id": 132,
+  "setId": 2,
+  "cardType": "STAGE2",
+  "isSpecial": false,
+  "hp": 80,
+  "energy1": "GRASS",
+  "energy2": null,
+  "pokemonId": 71,
+  "code": "JUNG30",
+  "name": "card.JUNG30.name",
+  "description": "",
+  "previousPokemonId": 70,
+  "cardAttacks": [
+    {
+      "cardCode": "JUNG30",
+      "attackNumber": 1,
+      "name": "attack.JUNG30.1.name",
+      "energy": [
+        "GRASS"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.JUNG30.1.text",
+      "effects": [
+        "OPP_SWITCH:BY_SELF"
+      ]
+    },
+    {
+      "cardCode": "JUNG30",
+      "attackNumber": 2,
+      "name": "attack.JUNG30.2.name",
+      "energy": [
+        "GRASS",
+        "GRASS"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.JUNG30.2.text",
+      "effects": [
+        "ACID"
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIRE",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "RARE",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

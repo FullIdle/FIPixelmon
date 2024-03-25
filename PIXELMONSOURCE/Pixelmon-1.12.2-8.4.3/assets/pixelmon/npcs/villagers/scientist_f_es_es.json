@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "scientist_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "María"
+        },
+        {
+            "name": "Ada"
+        },
+        {
+            "name": "Irene"
+        },
+        {
+            "name": "Harriet"
+        },
+        {
+            "name": "Sofía"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Los fósiles son fascinantes."
+                },
+                {
+                    "text": "¿Sabías que puedes encontrarlos en lo más profundo de las cuevas, entre la grava?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La gente dice que no puedes revivir Fósiles, esa ciencia no funciona de esa manera."
+                },
+                {
+                    "text": "¿Qué sabes tu sobre la ciencia? Un día lo mostraré todo."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Me estoy empezando a cuestionar mi elección de vestir falda."
+                },
+                {
+                    "text": "¿Qué pasaría si rocío ácido por mis piernas? Será mejor llevar mis tubos de ensayo directamente en mi bata."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La anatomía de Solosis me deja desconcertada."
+                },
+                {
+                    "text": "Parece unicelular pero sin embargo, tiene ojos y eso es tan... tan... ¡agh!"
+                }
+            ]
+        }
+    ]
+}

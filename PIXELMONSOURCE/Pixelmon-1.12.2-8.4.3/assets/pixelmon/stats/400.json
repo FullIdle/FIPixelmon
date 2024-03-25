@@ -1,0 +1,317 @@
+{
+  "pixelmonName": "Bibarel",
+  "pokemon": "Bibarel",
+  "form": 0,
+  "stats": {
+    "HP": 79,
+    "Attack": 85,
+    "Defence": 60,
+    "Speed": 71,
+    "SpecialAttack": 55,
+    "SpecialDefence": 60
+  },
+  "catchRate": 127,
+  "malePercent": 50,
+  "spawnLevel": 20,
+  "spawnLevelRange": 10,
+  "baseExp": 116,
+  "baseFriendship": 70,
+  "types": [
+    "Normal",
+    "Water"
+  ],
+  "height": 1.0,
+  "isRideable": true,
+  "canFly": false,
+  "canSurf": true,
+  "preEvolutions": [
+    "Bidoof"
+  ],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Attack": 2
+  },
+  "ridingOffsets": {
+    "standing": {
+      "x": 0.0,
+      "y": -0.6,
+      "z": -0.4
+    },
+    "moving": {
+      "x": 0.0,
+      "y": -0.4,
+      "z": -0.5
+    }
+  },
+  "weight": 31.5,
+  "bounding_box": {
+    "width": 1.4,
+    "height": 1.2,
+    "eye_height": 0.8
+  },
+  "evolutions": [],
+  "abilities": [
+    "Simple",
+    "Unaware",
+    "Moody"
+  ],
+  "eggGroups": [
+    "Water1",
+    "Field"
+  ],
+  "eggCycles": 16,
+  "levelUpMoves": {
+    "0": [
+      "Aqua Jet",
+      "Growl",
+      "Rototiller",
+      "Tackle",
+      "Water Gun"
+    ],
+    "5": [
+      "Defense Curl"
+    ],
+    "9": [
+      "Rollout"
+    ],
+    "13": [
+      "Headbutt"
+    ],
+    "18": [
+      "Hyper Fang"
+    ],
+    "23": [
+      "Yawn"
+    ],
+    "28": [
+      "Crunch"
+    ],
+    "33": [
+      "Take Down"
+    ],
+    "38": [
+      "Super Fang"
+    ],
+    "43": [
+      "Swords Dance"
+    ],
+    "48": [
+      "Amnesia"
+    ],
+    "53": [
+      "Superpower"
+    ],
+    "58": [
+      "Curse"
+    ]
+  },
+  "tutorMoves": [
+    "Aqua Tail",
+    "Covet",
+    "Focus Punch",
+    "Icy Wind",
+    "Iron Tail",
+    "Last Resort",
+    "Liquidation",
+    "Shock Wave",
+    "Snore",
+    "Stealth Rock",
+    "Stomping Tantrum",
+    "Super Fang",
+    "Superpower",
+    "Water Pulse"
+  ],
+  "eggMoves": [
+    "Aqua Tail",
+    "Defense Curl",
+    "Double-Edge",
+    "Endure",
+    "Fury Swipes",
+    "Mud Sport",
+    "Odor Sleuth",
+    "Quick Attack",
+    "Rock Climb",
+    "Rollout",
+    "Skull Bash",
+    "Sleep Talk",
+    "Water Sport"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Cut",
+    "Dig",
+    "Dive",
+    "Fury Cutter",
+    "Mud-Slap",
+    "Natural Gift",
+    "Pluck",
+    "Retaliate",
+    "Rock Smash",
+    "Secret Power",
+    "Strength",
+    "Swift",
+    "Whirlpool"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Work Up",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Charge Beam",
+    "Giga Impact",
+    "Thunder Wave",
+    "Swords Dance",
+    "Bulldoze",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Surf",
+    "Waterfall",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Bulldoze",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Round",
+    "Echoed Voice",
+    "Scald",
+    "Fling",
+    "Charge Beam",
+    "Retaliate",
+    "Giga Impact",
+    "Thunder Wave",
+    "Bulldoze",
+    "Work Up",
+    "Grass Knot",
+    "Swagger",
+    "Pluck",
+    "Substitute",
+    "Rock Smash"
+  ],
+  "tmMoves4": [
+    "Focus Punch",
+    "Water Pulse",
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Taunt",
+    "Ice Beam",
+    "Blizzard",
+    "Hyper Beam",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Iron Tail",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Dig",
+    "Shadow Ball",
+    "Double Team",
+    "Shock Wave",
+    "Facade",
+    "Secret Power",
+    "Rest",
+    "Attract",
+    "Thief",
+    "Fling",
+    "Charge Beam",
+    "Endure",
+    "Giga Impact",
+    "Thunder Wave",
+    "Stealth Rock",
+    "Captivate",
+    "Sleep Talk",
+    "Natural Gift",
+    "Grass Knot",
+    "Swagger",
+    "Pluck",
+    "Substitute"
+  ],
+  "forms": {}
+}

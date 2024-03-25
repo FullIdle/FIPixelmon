@@ -1,0 +1,234 @@
+{
+    "data": {
+        "trainerType": "BugManiac",
+        "minLevel": 20,
+        "maxLevel": 35,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 24
+    },
+    "pokemon": [
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Beedrill"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Beedrill"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Parasect"
+        },
+        {
+            "name": "Pinsir"
+        },
+        {
+            "name": "Forretress"
+        },
+        {
+            "name": "Scizor"
+        },
+        {
+            "name": "Heracross"
+        },
+        {
+            "name": "Heracross"
+        },
+        {
+            "name": "Beautifly"
+        },
+        {
+            "name": "Dustox"
+        },
+        {
+            "name": "Masquerain"
+        },
+        {
+            "name": "Ninjask"
+        },
+        {
+            "name": "Shedinja"
+        },
+        {
+            "name": "Volbeat"
+        },
+        {
+            "name": "Illumise"
+        },
+        {
+            "name": "Wormadam"
+        },
+        {
+            "name": "Mothim"
+        },
+        {
+            "name": "Vespiquen"
+        },
+        {
+            "name": "Yanmega"
+        },
+        {
+            "name": "Leavanny"
+        },
+        {
+            "name": "Whirlipede"
+        },
+        {
+            "name": "Whirlipede"
+        },
+        {
+            "name": "Scolipede"
+        },
+        {
+            "name": "Crustle"
+        },
+        {
+            "name": "Escavalier"
+        },
+        {
+            "name": "Galvantula"
+        },
+        {
+            "name": "Accelgor"
+        },
+        {
+            "name": "Durant"
+        },
+        {
+            "name": "Durant"
+        },
+        {
+            "name": "Larvesta"
+        },
+        {
+            "name": "Vivillon"
+        },
+        {
+            "name": "Vivillon"
+        },
+        {
+            "name": "Vikavolt"
+        },
+        {
+            "name": "Ribombee"
+        },
+        {
+            "name": "Araquanid"
+        },
+        {
+            "name": "Golisopod"
+        },
+        {
+            "name": "Orbeetle"
+        },
+        {
+            "name": "Centiskorch"
+        },
+        {
+            "name": "Frosmoth"
+        },
+        {
+            "name": "Buzzwole"
+        }
+    ],
+    "names": [
+        {
+            "name": "Rydia"
+        },
+        {
+            "name": "Crystal"
+        },
+        {
+            "name": "Megan"
+        },
+        {
+            "name": "Natalie"
+        },
+        {
+            "name": "Agatha"
+        },
+        {
+            "name": "Alexandra"
+        },
+        {
+            "name": "Brooke"
+        },
+        {
+            "name": "Marlee"
+        },
+        {
+            "name": "Julia"
+        },
+        {
+            "name": "Stella"
+        },
+        {
+            "name": "Tami"
+        },
+        {
+            "name": "Elsa"
+        },
+        {
+            "name": "Anna"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "I love bugs!",
+            "win": "I told you that bugs are awesome!",
+            "lose": "Bugs are still awesome!"
+        },
+        {
+            "opening": "Have you seen a Butterfree? I love those.",
+            "win": "I think I see one. Thanks for the battle.",
+            "lose": "Oh well. If you see one, let me know."
+        },
+        {
+            "opening": "Bugs are so beautiful. I would like to see you try to take down my team!",
+            "win": "See the beauty of my bugs.",
+            "lose": "You may have beaten me but it was my bugs that really shined."
+        },
+        {
+            "opening": "Can we battle? I need my bug Pokémon to be stronger.",
+            "win": "It looks like my Pokémon are stronger than I thought.",
+            "lose": "I should have known my Pokémon were too weak."
+        },
+        {
+            "opening": "Through much patience have I trained my team... Let's battle!",
+            "win": "Looks like my training paid off.",
+            "lose": "How could I lose after all that training?"
+        },
+        {
+            "opening": "Battling is a serious affair. Let's have a fun match!",
+            "win": "That was fun. Let's battle again sometime.",
+            "lose": "That was fun. Thanks for the battle."
+        },
+        {
+            "opening": "If I win, you have to give me your bug Pokémon!",
+            "win": "Haha, hand them over!",
+            "lose": "Don't touch my Pokémon!"
+        },
+        {
+            "opening": "BUGS!",
+            "win": "Bugs rule!",
+            "lose": "Why are bug Pokémon so rubbish?"
+        },
+        {
+            "opening": "There are no good bug Pokémon! If I lose, I am starting a new team!",
+            "win": "I don't need a new team! This one is awesome!",
+            "lose": "That's it. I'm making a new team!"
+        },
+        {
+            "opening": "Bugz, bugz, bugz!",
+            "win": "Need more bugz!",
+            "lose": "Need more bugz!"
+        }
+    ]
+}

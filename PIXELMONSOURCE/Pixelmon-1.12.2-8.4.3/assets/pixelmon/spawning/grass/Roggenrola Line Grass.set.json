@@ -1,0 +1,63 @@
+{
+  "id": "Roggenrola Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Roggenrola"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_savanna",
+          "mutated_savanna_rock",
+          "mesas"
+        ]
+      },
+      "rarity": 250.0
+    },
+    {
+      "spec": {
+        "name": "Boldore"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "stringBiomes": [
+          "mutated_savanna",
+          "mutated_savanna_rock",
+          "mesas"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "RGR"
+  ],
+  "key": {
+    "A": {
+      "item": "pixelmon:aluminium_plate"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "pixelmon:fossil_cleaner",
+    "count": 1
+  }
+}

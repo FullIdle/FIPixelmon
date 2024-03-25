@@ -1,0 +1,185 @@
+{
+    "data": {
+        "trainerType": "Blacksmith",
+        "minLevel": 20,
+        "maxLevel": 40,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Klink"
+        },
+        {
+            "name": "Klang"
+        },
+        {
+            "name": "Klinklang"
+        },
+        {
+            "name": "Magneton"
+        },
+        {
+            "name": "Magnezone"
+        },
+        {
+            "name": "Aron"
+        },
+        {
+            "name": "Aron"
+        },
+        {
+            "name": "Beldum"
+        },
+        {
+            "name": "Beldum"
+        },
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Magnemite"
+        },
+        {
+            "name": "Scizor"
+        },
+        {
+            "name": "Metang"
+        },
+        {
+            "name": "Lairon"
+        },
+        {
+            "name": "Aggron"
+        },
+        {
+            "name": "Metagross"
+        },
+        {
+            "name": "Steelix"
+        },
+        {
+            "name": "Stunfisk",
+            "form": 2
+        },
+        {
+            "name": "Honedge"
+        },
+        {
+            "name": "Honedge"
+        },
+        {
+            "name": "Doublade"
+        },
+        {
+            "name": "Aegislash"
+        },
+        {
+            "name": "Perrserker"
+        },
+        {
+            "name": "Pawniard"
+        },
+        {
+            "name": "Pawniard"
+        },
+        {
+            "name": "Bisharp"
+        },
+        {
+            "name": "Diglett",
+            "form": 1
+        },
+        {
+            "name": "Diglett",
+            "form": 1
+        },
+        {
+            "name": "Dugtrio",
+            "form": 1
+        },
+        {
+            "name": "Rolycoly"
+        },
+        {
+            "name": "Rolycoly"
+        },
+        {
+            "name": "Carkol"
+        },
+        {
+            "name": "Coalossal"
+        },
+        {
+            "name": "Cufant"
+        },
+        {
+            "name": "Cufant"
+        },
+        {
+            "name": "Copperajah"
+        },
+        {
+            "name": "Heatran"
+        }
+    ],
+    "names": [
+        {
+            "name": "Bazza"
+        },
+        {
+            "name": "Garth"
+        },
+        {
+            "name": "Rusty"
+        },
+        {
+            "name": "Atsushi"
+        },
+        {
+            "name": "Rarth"
+        },
+        {
+            "name": "Tibo"
+        },
+        {
+            "name": "Henry"
+        },
+        {
+            "name": "Bart"
+        },
+        {
+            "name": "Mikio"
+        },
+        {
+            "name": "Bartholomew"
+        },
+        {
+            "name": "Gunther"
+        },
+        {
+            "name": "Lars"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "You would dare to challenge a Steel-type Trainer?",
+            "win": "You dared and lost!",
+            "lose": "Your dare paid off..."
+        },
+        {
+            "opening": "They do not call me the Man of Steel for nothing! Be prepared to battle hard!",
+            "win": "Steel is impervious to all, you see.",
+            "lose": "I guess steel is not everything.."
+        },
+        {
+            "opening": "My Pokémon are trained hard over the fires of endurance. They are invincible!",
+            "win": "I did warn you! Nice try.",
+            "lose": "Not as invincible as I thought.."
+        }
+    ]
+}

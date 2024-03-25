@@ -1,0 +1,46 @@
+{
+  "id": 413,
+  "setId": 6,
+  "cardType": "BASIC",
+  "isSpecial": false,
+  "hp": 50,
+  "energy1": "FIRE",
+  "energy2": null,
+  "pokemonId": 58,
+  "code": "GYMH92",
+  "name": "card.GYMH92.name",
+  "description": "",
+  "previousPokemonId": null,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMH92",
+      "attackNumber": 1,
+      "name": "attack.GYMH92.1.name",
+      "energy": [
+        "FIRE",
+        "FIRE"
+      ],
+      "damage": 20,
+      "modifier": null,
+      "text": "attack.GYMH92.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "WATER",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 1,
+  "cardRarity": "COMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

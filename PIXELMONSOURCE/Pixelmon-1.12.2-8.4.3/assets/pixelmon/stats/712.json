@@ -1,0 +1,258 @@
+{
+  "pixelmonName": "Bergmite",
+  "pokemon": "Bergmite",
+  "form": 0,
+  "stats": {
+    "HP": 55,
+    "Attack": 69,
+    "Defence": 85,
+    "Speed": 28,
+    "SpecialAttack": 32,
+    "SpecialDefence": 35
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 23,
+  "spawnLevelRange": 13,
+  "baseExp": 61,
+  "baseFriendship": 0,
+  "types": [
+    "Ice"
+  ],
+  "height": 1.0,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Defence": 1
+  },
+  "weight": 99.5,
+  "bounding_box": {
+    "width": 0.7,
+    "height": 0.8,
+    "eye_height": 0.2
+  },
+  "evolutions": [
+    {
+      "level": 37,
+      "to": {
+        "name": "Avalugg"
+      },
+      "conditions": [
+        {
+          "biomes": [
+            "minecraft:ice_spikes"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Body Slam"
+      ]
+    },
+    {
+      "level": 37,
+      "to": {
+        "name": "Avalugg"
+      },
+      "conditions": [
+        {
+          "biomes": [
+            "minecraft:snowy_taiga_hills"
+          ],
+          "evoConditionType": "biome"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Rock Slide"
+      ]
+    }
+  ],
+  "abilities": [
+    "OwnTempo",
+    "IceBody",
+    "Sturdy"
+  ],
+  "eggGroups": [
+    "Monster",
+    "Mineral"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Harden",
+      "Rapid Spin"
+    ],
+    "3": [
+      "Tackle"
+    ],
+    "6": [
+      "Powder Snow"
+    ],
+    "9": [
+      "Curse"
+    ],
+    "12": [
+      "Icy Wind"
+    ],
+    "15": [
+      "Protect"
+    ],
+    "18": [
+      "Avalanche"
+    ],
+    "21": [
+      "Bite"
+    ],
+    "24": [
+      "Ice Fang"
+    ],
+    "27": [
+      "Iron Defense"
+    ],
+    "30": [
+      "Recover"
+    ],
+    "33": [
+      "Crunch"
+    ],
+    "36": [
+      "Take Down"
+    ],
+    "39": [
+      "Blizzard"
+    ],
+    "42": [
+      "Double-Edge"
+    ]
+  },
+  "tutorMoves": [],
+  "eggMoves": [
+    "Aurora Veil",
+    "Mirror Coat",
+    "Mist"
+  ],
+  "transferMoves": [
+    "After You",
+    "Barrier",
+    "Confide",
+    "Double Team",
+    "Flash",
+    "Frost Breath",
+    "Frustration",
+    "Hidden Power",
+    "Ice Ball",
+    "Return",
+    "Rock Polish",
+    "Rock Smash",
+    "Secret Power",
+    "Sharpen",
+    "Strength",
+    "Swagger",
+    "Toxic",
+    "Water Pulse"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Surf",
+    "Ice Beam",
+    "Blizzard",
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Crunch",
+    "Iron Defense",
+    "Gyro Ball",
+    "Flash Cannon",
+    "Stone Edge"
+  ],
+  "tmMoves8": [
+    "Safeguard",
+    "Rest",
+    "Rock Slide",
+    "Snore",
+    "Protect",
+    "Icy Wind",
+    "Attract",
+    "Rain Dance",
+    "Hail",
+    "Facade",
+    "Rock Tomb",
+    "Icicle Spear",
+    "Avalanche",
+    "Ice Fang",
+    "Round"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Polish",
+    "Stone Edge",
+    "Gyro Ball",
+    "Frost Breath",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Surf",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hail",
+    "Hidden Power",
+    "Ice Beam",
+    "Blizzard",
+    "Protect",
+    "Rain Dance",
+    "Safeguard",
+    "Frustration",
+    "Return",
+    "Double Team",
+    "Rock Tomb",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Round",
+    "Rock Polish",
+    "Flash",
+    "Stone Edge",
+    "Gyro Ball",
+    "Frost Breath",
+    "Rock Slide",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Flash Cannon",
+    "Secret Power",
+    "Confide"
+  ],
+  "forms": {}
+}

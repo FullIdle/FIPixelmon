@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "ornithologist.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mr. Bird"
+        },
+        {
+            "name": "Wilfred Warbler"
+        },
+        {
+            "name": "Geoffrey Twirp"
+        },
+        {
+            "name": "Bertram Birdlover"
+        },
+        {
+            "name": "Professor Bird"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ah, there's nothing like the sight of a Spearow in flight!"
+                },
+                {
+                    "text": "I wish I'd remembered to bring some bird seed!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "The nesting habits of the red-crested Pidgeot are remarkably similar to those of the tawny Hoothoot."
+                },
+                {
+                    "text": "It is such an interesting thing to observe bird Pokémon! You should try it sometime."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Sometimes I have to hide for weeks in the forest just to spot one Noctowl."
+                },
+                {
+                    "text": "It gets a bit uncomfortable, sleeping on the ground. Oh well, someone has to do it!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "My job is very important, you know! I provide all the information on bird Pokémon that you need to train them."
+                },
+                {
+                    "text": "Yes, the poor ornithologist is an unsung hero in the field of Pokémon research."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Pardon me, do you have any bread? I've run out of bird seed to tempt Starly with."
+                },
+                {
+                    "text": "My binoculars are the strongest available. I can spot a pygmy Starly from ten miles away!"
+                }
+            ]
+        }
+    ]
+}

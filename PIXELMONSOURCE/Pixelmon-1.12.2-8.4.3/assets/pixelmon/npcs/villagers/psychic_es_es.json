@@ -1,0 +1,56 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Tetsuo"
+        },
+        {
+            "name": "Neo"
+        },
+        {
+            "name": "Lucas"
+        },
+        {
+            "name": "Raz"
+        },
+        {
+            "name": "Nat"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "No, no voy ha hacerte ninguna demostración."
+                },
+                {
+                    "text": "Los poderes psíquicos son para usarlos con responsabilidad, no como un truco de mágia cualquiera."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Tu mente está llena de... woah."
+                },
+                {
+                    "text": "No, nada no importa, te dejaré sólo, adios."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Nada es imposible para una mente bien despierta."
+                },
+                {
+                    "text": "Con un simple pensamiento, puedo hacer malabares con Poké Balls, que es algo realmente inútil."
+                }
+            ]
+        }
+    ]
+}

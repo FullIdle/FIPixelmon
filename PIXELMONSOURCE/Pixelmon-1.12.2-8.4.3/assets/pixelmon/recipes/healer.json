@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ARA",
+    "RDR",
+    "ARA"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "A": {
+      "item": "pixelmon:aluminium_plate"
+    },
+    "R": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "pixelmon:healer",
+    "count": 1
+  }
+}

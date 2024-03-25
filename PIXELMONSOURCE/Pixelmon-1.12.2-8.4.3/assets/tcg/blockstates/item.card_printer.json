@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "tcg:item.card_printer" },
+    "inventory": { "model": "tcg:card_printer" }
+  }
+}

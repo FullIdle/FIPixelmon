@@ -1,0 +1,61 @@
+{
+  "id": 32,
+  "setId": 1,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 60,
+  "energy1": "PSYCHIC",
+  "energy2": null,
+  "pokemonId": 64,
+  "code": "BASE32",
+  "name": "card.BASE32.name",
+  "description": "",
+  "previousPokemonId": 63,
+  "cardAttacks": [
+    {
+      "cardCode": "BASE32",
+      "attackNumber": 1,
+      "name": "attack.BASE32.1.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC"
+      ],
+      "damage": 0,
+      "modifier": null,
+      "text": "attack.BASE32.1.text",
+      "effects": [
+        "SELF_DISCARD:PSYCHIC:1",
+        "SELF_HEAL:DAMAGE"
+      ]
+    },
+    {
+      "cardCode": "BASE32",
+      "attackNumber": 2,
+      "name": "attack.BASE32.2.name",
+      "energy": [
+        "PSYCHIC",
+        "PSYCHIC",
+        "COLORLESS"
+      ],
+      "damage": 50,
+      "modifier": null,
+      "text": null,
+      "effectsString": null,
+      "effects": null
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "PSYCHIC",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 3,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

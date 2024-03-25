@@ -1,0 +1,103 @@
+{
+    "data": {
+        "trainerType": "PkmnBreederWoman",
+        "minLevel": 10,
+        "maxLevel": 35,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 48
+    },
+    "pokemon": [
+        {
+            "name": "Eevee"
+        },
+        {
+            "name": "Flareon"
+        },
+        {
+            "name": "Jolteon"
+        },
+        {
+            "name": "Vaporeon"
+        },
+        {
+            "name": "Espeon"
+        },
+        {
+            "name": "Umbreon"
+        },
+        {
+            "name": "Leafeon"
+        },
+        {
+            "name": "Glaceon"
+        },
+        {
+            "name": "Pichu"
+        },
+        {
+            "name": "Elekid"
+        },
+        {
+            "name": "Magby"
+        },
+        {
+            "name": "Cleffa"
+        },
+        {
+            "name": "Igglybuff"
+        },
+        {
+            "name": "Smoochum"
+        },
+        {
+            "name": "Tyrogue"
+        },
+        {
+            "name": "Cubone"
+        },
+        {
+            "name": "Kangaskhan"
+        },
+        {
+            "name": "Togepi"
+        },
+        {
+            "name": "Ditto"
+        }
+    ],
+    "names": [
+        {
+            "name": "Corinne"
+        },
+        {
+            "name": "Elyse"
+        },
+        {
+            "name": "Zoey"
+        },
+        {
+            "name": "Gabriella"
+        },
+        {
+            "name": "\"Mama Teddiursa\""
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Ich kümmer mich um meine Pokemon seit sie geschlüpft sind. Keiner steht ihnen näher!",
+            "win": "Gut gemacht Leute! Ich wusste ihr könnt das!",
+            "lose": "Ich denke, wir waren doch nicht am Gewinnen..."
+        },
+        {
+            "opening": "Du willst kämpfen? Ich vermute, meine kleinen Schönheiten können spielen!",
+            "win": "Hat das Spaß gemacht, mein wunderschönes kleines Pokémon?",
+            "lose": "Nun ... meine würden definitiv bei einem Schönheitswettbewerb gewinnen."
+        },
+        {
+            "opening": "ich habe ein sehr starkes Team gezüchtet! Du bist kein Gegner für sie!",
+            "win": "Zur Perfektion gebracht!",
+            "lose": "Ich folgte dem, was die Foren sagten, um ein perfektes Pokémon zu erhalten!"
+        }
+    ]
+}

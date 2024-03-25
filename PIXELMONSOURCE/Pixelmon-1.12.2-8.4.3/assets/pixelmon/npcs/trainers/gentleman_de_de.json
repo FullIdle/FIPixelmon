@@ -1,0 +1,86 @@
+{
+    "data": {
+        "trainerType": "Gentleman",
+        "minLevel": 7,
+        "maxLevel": 12,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 2,
+        "winnings": 200,
+        "rarity": 6,
+        "spawnBiomes": "Plains"
+    },
+    "pokemon": [
+        {
+            "name": "Growlithe"
+        },
+        {
+            "name": "Pikachu"
+        },
+        {
+            "name": "Grimer"
+        }
+    ],
+    "names": [
+        {
+            "name": "Winston"
+        },
+        {
+            "name": "Robert"
+        },        
+        {
+            "name": "Rupert"
+        },        
+        {
+            "name": "Hienrich"
+        },        
+        {
+            "name": "Bertram"
+        },        
+        {
+            "name": "Montague"
+        },        
+        {
+            "name": "Kenneth"
+        },        
+        {
+            "name": "Wallice"
+        },        
+        {
+            "name": "Randolph"
+        },        
+        {
+            "name": "Wilfred"
+        },
+        {
+            "name": "William"
+        },
+        {
+            "name": "Kingsley"
+        },
+        {
+            "name": "Lincoln"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "Ich besitze eine Villa.",
+            "win": "Das war ein Gentleman-Spiel.",
+            "lose": "Wie unhöflich von dir."
+        },        
+        {
+            "opening": "Guten Tag der Herr.",
+            "win": "Es scheint ein schöner Tag für mich zu sein..",
+            "lose": "Wie unhöflich von dir, nicht zu antworten."
+        },        
+        {
+            "opening": "Lust auf ein Gentleman Duell?",
+            "win": "Es scheint, dass ich dich besiegt habe.",
+            "lose": "Wie grob von dir."
+        },
+        {
+            "opening": "Geld verdienen ist nicht meine einzige Fähigkeit.",
+            "win": "Wo das her kommt gibt es noch viel mehr!",
+            "lose": "Vieleicht brauch ich mehr Übung."
+        }
+    ]
+}

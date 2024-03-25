@@ -1,0 +1,55 @@
+{
+  "attackIndex": 482,
+  "attackName": "Dark Void",
+  "attackType": "Dark",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 50,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Sleep",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Sleep"
+    },
+    {
+      "users": [
+        "Darkrai"
+      ],
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "OnlyUser"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "darkinium_z",
+      "attackName": "Z-Dark Void",
+      "basePower": 0,
+      "effects": [
+	    {
+          "modifiers": [],
+          "persists": false,
+          "effectTypeID": "Haze",
+		  "onlyLowered": true
+        }
+      ],
+      "allowedPokemon": []
+    }
+  ]
+}

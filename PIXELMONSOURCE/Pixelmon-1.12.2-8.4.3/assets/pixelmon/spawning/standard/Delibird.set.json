@@ -1,0 +1,27 @@
+{
+  "id": "Delibird",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Delibird"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing mountains",
+          "mountainous"
+        ],
+        "minY": 120
+      },
+      "rarity": 30.0
+    }
+  ]
+}

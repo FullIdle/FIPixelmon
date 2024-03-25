@@ -1,0 +1,191 @@
+{
+  "pixelmonName": "Steenee",
+  "pokemon": "Steenee",
+  "form": 0,
+  "stats": {
+    "HP": 52,
+    "Attack": 40,
+    "Defence": 48,
+    "Speed": 62,
+    "SpecialAttack": 40,
+    "SpecialDefence": 48
+  },
+  "catchRate": 120,
+  "malePercent": 0,
+  "spawnLevel": 18,
+  "spawnLevelRange": 20,
+  "baseExp": 102,
+  "baseFriendship": 70,
+  "types": [
+    "Grass"
+  ],
+  "height": 0.7,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [
+    "Bounsweet"
+  ],
+  "experienceGroup": "MediumSlow",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [],
+  "evYields": {
+    "Speed": 2
+  },
+  "weight": 8.2,
+  "bounding_box": {
+    "width": 0.6,
+    "height": 0.85,
+    "eye_height": 0.6
+  },
+  "evolutions": [
+    {
+      "to": {
+        "name": "Tsareena"
+      },
+      "conditions": [
+        {
+          "attackIndex": 78,
+          "evoConditionType": "move"
+        }
+      ],
+      "evoType": "leveling",
+      "moves": [
+        "Trop Kick"
+      ]
+    }
+  ],
+  "abilities": [
+    "LeafGuard",
+    "Oblivious",
+    "SweetVeil"
+  ],
+  "eggGroups": [
+    "Grass"
+  ],
+  "eggCycles": 20,
+  "levelUpMoves": {
+    "0": [
+      "Flail",
+      "Play Nice",
+      "Rapid Spin",
+      "Razor Leaf",
+      "Splash"
+    ],
+    "16": [
+      "Sweet Scent"
+    ],
+    "22": [
+      "Magical Leaf"
+    ],
+    "28": [
+      "Stomp"
+    ],
+    "34": [
+      "Teeter Dance"
+    ],
+    "40": [
+      "Aromatic Mist"
+    ],
+    "46": [
+      "Aromatherapy"
+    ],
+    "52": [
+      "Leaf Storm"
+    ]
+  },
+  "tutorMoves": [
+    "Grassy Glide",
+    "Triple Axel"
+  ],
+  "eggMoves": [
+    "Acupressure",
+    "Endeavor",
+    "Synthesis"
+  ],
+  "transferMoves": [
+    "Captivate",
+    "Confide",
+    "Covet",
+    "Double Slap",
+    "Double Team",
+    "Feint",
+    "Frustration",
+    "Grass Whistle",
+    "Hidden Power",
+    "Knock Off",
+    "Nature Power",
+    "Return",
+    "Swagger",
+    "Toxic",
+    "Worry Seed"
+  ],
+  "hmMoves": [],
+  "trMoves": [
+    "Substitute",
+    "Endure",
+    "Sleep Talk",
+    "Seed Bomb",
+    "Energy Ball",
+    "Zen Headbutt",
+    "Leaf Storm",
+    "Grass Knot",
+    "Play Rough",
+    "Dazzling Gleam"
+  ],
+  "tmMoves8": [
+    "Magical Leaf",
+    "Solar Beam",
+    "Light Screen",
+    "Reflect",
+    "Safeguard",
+    "Rest",
+    "Snore",
+    "Protect",
+    "Giga Drain",
+    "Charm",
+    "Attract",
+    "Sunny Day",
+    "Facade",
+    "Helping Hand",
+    "Bounce",
+    "Payback",
+    "Fling",
+    "Low Sweep",
+    "Round",
+    "Draining Kiss"
+  ],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Sunny Day",
+    "Light Screen",
+    "Protect",
+    "Safeguard",
+    "Frustration",
+    "Solar Beam",
+    "Return",
+    "Double Team",
+    "Reflect",
+    "Facade",
+    "Rest",
+    "Attract",
+    "Low Sweep",
+    "Round",
+    "Energy Ball",
+    "Fling",
+    "Payback",
+    "Grass Knot",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Nature Power",
+    "Dazzling Gleam",
+    "Confide"
+  ],
+  "forms": {}
+}

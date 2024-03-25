@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "ranger_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Diana"
+        },
+        {
+            "name": "Helen"
+        },
+        {
+            "name": "Sylvie"
+        },
+        {
+            "name": "Jane"
+        },
+        {
+            "name": "Naomi"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "The Rangers are holding a meeting with the municipality later today."
+                },
+                {
+                    "text": "We'll talk about the preservation of the surrounding fauna and flora."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Grass-type Trainers always greet us Rangers with a smile. It's gratifying."
+                },
+                {
+                    "text": "They recognize just how important our work is."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "We have activities planned for the summer. We'll take the local kids to the woods and teach them about nature."
+                },
+                {
+                    "text": "Some are very eager to start their Pokémon journey. Ranger field trips help them wait."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I need to talk to higher-ups about our uniforms."
+                },
+                {
+                    "text": "The brambles keep scratching my thighs. I wish I had long pants."
+                }
+            ]
+        }
+    ]
+}

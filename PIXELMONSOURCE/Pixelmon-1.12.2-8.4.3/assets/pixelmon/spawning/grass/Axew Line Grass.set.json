@@ -1,0 +1,68 @@
+{
+  "id": "Axew Line Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Axew"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 22,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": {
+        "name": "Fraxure"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 39,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": {
+        "name": "Haxorus"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 49,
+      "maxLevel": 57,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

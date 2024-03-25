@@ -1,0 +1,32 @@
+{
+  "id": "Manaphy",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Manaphy",
+        "level": 50
+      },
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "oceanic"
+        ]
+      },
+      "rarity": 0.4
+    }
+  ]
+}

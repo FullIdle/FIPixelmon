@@ -1,0 +1,85 @@
+{
+    "data": {
+        "trainerType": "Ornithologist",
+        "minLevel": 15,
+        "maxLevel": 45,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Fearow"
+        },
+        {
+            "name": "Charizard"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Farfetchd"
+        }
+    ],
+    "names": [
+        {
+            "name": "沃森"
+        },
+        {
+            "name": "華特"
+        },
+        {
+            "name": "蒙哥馬利"
+        },
+        {
+            "name": "迪亞哥"
+        },
+        {
+            "name": "亞瑟"
+        },
+        {
+            "name": "卡勒姆"
+        },
+        {
+            "name": "蓋茲比"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "我用我的飛行寶可夢旅行世界。",
+            "win": "我的飛行寶可夢是很優秀的。",
+            "lose": "不，我優秀的寶可夢！"
+        },
+        {
+            "opening": "我會讓你知道鳥寶可夢是最令人印象深刻的。",
+            "win": "如你所見，鳥寶可夢是最優越的！",
+            "lose": "噢，親愛的。展翅翱翔吧！"
+        },
+        {
+            "opening": "我想看看你有甚麼樣的寶可夢。",
+            "win": "飛行寶可夢真的很強大，難怪你會輸。",
+            "lose": "我想其他屬性寶可夢也很棒。"
+        }
+    ]
+}

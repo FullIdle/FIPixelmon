@@ -1,0 +1,22 @@
+{
+  "id": "Sudowoodo Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Sudowoodo"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 20,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "redwoods"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

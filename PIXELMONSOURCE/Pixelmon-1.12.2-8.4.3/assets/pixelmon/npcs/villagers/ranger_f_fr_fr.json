@@ -1,0 +1,66 @@
+{
+    "skins": [
+        { 
+            "filename": "ranger_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Diana"
+        },
+        {
+            "name": "Helen"
+        },
+        {
+            "name": "Sylvie"
+        },
+        {
+            "name": "Jane"
+        },
+        {
+            "name": "Naomi"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Dans la journée, les Rangers ont rendez-vous avec des responsables des collectivités locales."
+                },
+                {
+                    "text": "On va aborder la sauvegarde de la faune et de la flore environnantes."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Les dresseurs portés sur le type Plante nous accueillent toujours avec le sourire, nous autres Rangers. C'est gratifiant."
+                },
+                {
+                    "text": "Ils savent à quel point notre travail est important."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Nous avons prévus des activités pour cet été. On va emmener les enfants du coin dans les bois pour leur apprendre des choses sur la nature."
+                },
+                {
+                    "text": "Il y en a qui ont vraiment hâte de commencer leur aventure avec les Pokémon. Les excursions des Rangers les aident à patienter."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il va falloir que je parle de nos uniformes avec les décideurs."
+                },
+                {
+                    "text": "Les ronces m'écorchent tout le temps les cuisses. Si seulement j'avais un pantalon."
+                }
+            ]
+        }
+    ]
+}

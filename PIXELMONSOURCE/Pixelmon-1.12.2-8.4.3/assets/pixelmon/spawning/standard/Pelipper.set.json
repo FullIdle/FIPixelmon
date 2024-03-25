@@ -1,0 +1,34 @@
+{
+  "id": "Pelipper",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pelipper"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 25,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:pretty_feather",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "stringBiomes": [
+          "oceanic",
+          "beaches"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

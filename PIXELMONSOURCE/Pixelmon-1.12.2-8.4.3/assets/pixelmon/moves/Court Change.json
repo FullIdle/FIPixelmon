@@ -1,0 +1,53 @@
+{
+  "attackIndex": 686,
+  "attackName": "Court Change",
+  "attackType": "Normal",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CourtChange"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": true,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": true,
+    "hitsSelf": true,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": true
+  },
+  "z": [
+    {
+      "crystal": "normalium_z",
+      "attackName": "Z-Court Change",
+      "basePower": 0,
+	  "effects": [
+		{
+          "type": "Speed",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [
+            {
+              "type": "Chance",
+              "value": 100.0
+            }
+          ],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+	    }
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

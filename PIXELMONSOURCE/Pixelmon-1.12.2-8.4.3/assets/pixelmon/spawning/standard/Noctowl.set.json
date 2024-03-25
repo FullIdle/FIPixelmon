@@ -1,0 +1,27 @@
+{
+  "id": "Noctowl",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Noctowl"
+      },
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "all forests",
+          "freezing forests",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

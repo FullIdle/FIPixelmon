@@ -1,0 +1,32 @@
+{
+  "id": "Palossand",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Palossand"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:beaches",
+          "white_beach"
+        ]
+      },
+      "rarity": 6.0
+    }
+  ]
+}

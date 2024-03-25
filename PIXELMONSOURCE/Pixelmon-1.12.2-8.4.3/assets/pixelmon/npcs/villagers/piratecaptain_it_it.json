@@ -1,0 +1,60 @@
+{
+    "skins": [
+        {
+            "filename": "piratecaptain.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Capitano BlockBeard"
+        },
+        {
+            "name": "Capitano Crook"
+        },
+        {
+            "name": "Capitano Crawdaunt"
+        },
+        {
+            "name": "Capitano Morgan"
+        },
+        {
+            "name": "Long John Silver"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Noi eravamo soliti seppellire il nostro tesoro sotto le X rosse, ma la gente continuava a rubarlo."
+                },
+                {
+                    "text": "Dovevamo diventare furbi, così abbiamo iniziato a nascondere meglio il nostro tesoro."
+				},
+				{
+					"text": "Come sotto due palme incrociate come una X."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I tuoi tesori saranno miei!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Prendere l'oro dal tempio del mare è più difficile che aprire una vongola!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hai delle arance con te? Il mio equipaggio sta diventando scorbuto."
+                }
+            ]
+        }
+    ]
+}

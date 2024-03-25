@@ -1,0 +1,275 @@
+{
+	"pools": 
+	[
+		{
+		"name": "potions",
+		"rolls": { "min": 1, "max": 4 },
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:potion",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 10
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:super_potion",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 0, "max": 2 }
+                        }
+                    ],
+				"weight": 7
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:hyper_potion",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 0, "max": 2 }
+                        }
+                    ],
+				"weight": 4
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:max_potion",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 0, "max": 2 }
+                        }
+                    ],
+				"weight": 1
+				}
+			]
+		},
+		{
+		"name": "revives",
+		"rolls": { "min": 0, "max": 2 },
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:revive",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 3 }
+                        }
+                    ],
+				"weight": 5
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:max_revive",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 0, "max": 2 }
+                        }
+                    ],
+				"weight": 1
+				}
+			]
+		},
+		{
+		"name": "ethers",
+		"rolls": { "min": 1, "max": 2 },
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:ether",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 3 }
+                        }
+                    ],
+				"weight": 5
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:max_ether",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 3 }
+                        }
+                    ],
+				"weight": 2
+				}
+			]
+		},
+		{
+		"name": "elixirs",
+		"rolls": { "min": 0, "max": 2 },
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:elixir",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 5
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:max_elixir",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 2
+				}
+			]
+		},
+		{
+		"name": "ppups",
+		"rolls": { "min": 0, "max": 1 },
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:pp_up",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 1 }
+                        }
+                    ],
+				"weight": 7
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:pp_max",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 1 }
+                        }
+                    ],
+				"weight": 1
+				}
+			]
+		},
+		{
+		"name": "restores",
+		"rolls": { "min": 2, "max": 4 },
+		"entries": 
+			[
+				{
+				"type": "item",
+				"name": "pixelmon:antidote",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:paralyze_heal",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:awakening",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:burn_heal",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:ice_heal",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:full_heal",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 1, "max": 2 }
+                        }
+                    ],
+				"weight": 1
+				},
+				{
+				"type": "item",
+				"name": "pixelmon:full_restore",
+				"functions": 
+					[
+                        {
+                        "function": "set_count",
+                        "count": { "min": 0, "max": 1 }
+                        }
+                    ],
+				"weight": 1
+				}
+			]
+		}
+	]
+}

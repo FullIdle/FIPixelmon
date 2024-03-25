@@ -1,0 +1,69 @@
+{
+    "skins": [
+        { 
+            "filename": "cueball.png"
+        },
+		{ 
+            "filename": "streetthug.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Il coltello a scarto"
+        },
+        {
+            "name": "Gouger"
+        },
+        {
+            "name": "Sig. Stabs"
+        },
+        {
+            "name": "Malocchio"
+        },
+        {
+            "name": "Gutmaul"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Questo è il mio posto. Stai lontano."
+                },
+                {
+                    "text": "Che ho detto?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La mia banda dovrebbe essere qui da un momento all'altro."
+                },
+                {
+                    "text": "Sì, siamo le persone più pericolose della regione."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Mi piacciono i Pokémon simpatici. Un ragazzo mi ha preso in giro per questo, una volta. "
+                },
+                {
+                    "text": "Solo una volta. Ho mangiato la sua faccia. Lo giuro."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Se vedi uno sbirro in giro, fammelo sapere, OK?"
+                },
+                {
+                    "text": "Perché? Perché sono allergico ai poliziotti e alle persone ficcanaso."
+                }
+            ]
+        }
+    ]
+}

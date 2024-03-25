@@ -1,0 +1,60 @@
+{
+    "skins": [
+        {
+            "filename": "piratecaptain.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Captain BlockBeard"
+        },
+        {
+            "name": "Captain Crook"
+        },
+        {
+            "name": "Captain Crawdaunt"
+        },
+        {
+            "name": "Captain Morgan"
+        },
+        {
+            "name": "Long John Silver"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "We used to bury our treasure under red X's, but people would keep stealing it."
+                },
+                {
+                    "text": "We had to get crafty, so we started hiding our treasure better."
+				},
+				{
+					"text": "Like underneath two palm trees crossed together like an X."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Your treasures will be mine!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Taking the gold out of the sea temple be harder than opening a clam!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "You got any oranges on you? My crew be getting scurvy."
+                }
+            ]
+        }
+    ]
+}

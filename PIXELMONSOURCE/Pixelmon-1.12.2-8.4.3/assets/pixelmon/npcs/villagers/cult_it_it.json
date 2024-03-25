@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "cult.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Seguace"
+        },
+        {
+            "name": "Seguace"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Tutti salutino il nostro Re e Salvatore, Bidoo...Dicevo, Arceus!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "La battaglia tra terra e mare distruggerà presto il nostro mondo, a meno che il cielo non interferisca."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "..."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Vorresti unirti alla nostra preghiera?"
+                },
+                {
+                    "text": "Abbiamo riunioni ogni venerdì e ci sono sempre spuntini!"
+                }
+            ]
+        }
+    ]
+}

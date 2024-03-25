@@ -1,0 +1,85 @@
+{
+    "data": {
+        "trainerType": "Ornithologist",
+        "minLevel": 15,
+        "maxLevel": 45,
+        "minPartyPokemon": 1,
+        "maxPartyPokemon": 6,
+        "winnings": 32
+    },
+    "pokemon": [
+        {
+            "name": "Pidgey"
+        },
+        {
+            "name": "Pidgeotto"
+        },
+        {
+            "name": "Pidgeot"
+        },
+        {
+            "name": "Spearow"
+        },
+        {
+            "name": "Fearow"
+        },
+        {
+            "name": "Charizard"
+        },
+        {
+            "name": "Doduo"
+        },
+        {
+            "name": "Dodrio"
+        },
+        {
+            "name": "Scyther"
+        },
+        {
+            "name": "Butterfree"
+        },
+        {
+            "name": "Farfetchd"
+        }
+    ],
+    "names": [
+        {
+            "name": "Watson"
+        },
+        {
+            "name": "Walter"
+        },
+        {
+            "name": "Montgomery"
+        },
+        {
+            "name": "Diego"
+        },
+        {
+            "name": "Arthur"
+        },
+        {
+            "name": "Callum"
+        },
+        {
+            "name": "Gastby"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "He viajado por todo el mundo con mis Pokémon voladores.",
+            "win": "¡Mis Pokémon de tipo Volador son magníficos!",
+            "lose": "¡No!, ¡mis maravillosos Pokémon!"
+        },
+        {
+		    "opening": "Los Pokémon de tipo Volador son impresionantes, para que lo sepas.",
+            "win": "Como viste, ¡los Pokémon de tipo Volador son superiores!",
+            "lose": "Cielos. Bueno, ¡me iré volando!"
+        },
+        {
+            "opening": "Me encantaría ver que tipo de Pokémon tienes.",
+            "win": "Los Pokémon voladores son muy fuertes. No es de extrañar que perdieses.",
+            "lose": "Supongo que existen Pokémon mejores."
+        }
+    ]
+}

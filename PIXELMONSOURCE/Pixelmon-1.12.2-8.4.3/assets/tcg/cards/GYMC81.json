@@ -1,0 +1,47 @@
+{
+  "id": 534,
+  "setId": 7,
+  "cardType": "STAGE1",
+  "isSpecial": false,
+  "hp": 70,
+  "energy1": "LIGHTNING",
+  "energy2": null,
+  "pokemonId": 101,
+  "code": "GYMC81",
+  "name": "card.GYMC81.name",
+  "description": "",
+  "previousPokemonId": 100,
+  "cardAttacks": [
+    {
+      "cardCode": "GYMC81",
+      "attackNumber": 1,
+      "name": "attack.GYMC81.1.name",
+      "energy": [
+        "LIGHTNING",
+        "LIGHTNING",
+        "COLORLESS"
+      ],
+      "damage": 30,
+      "modifier": null,
+      "text": "attack.GYMC81.1.text",
+      "effectsString": "",
+      "effects": [
+
+      ]
+    }
+  ],
+  "energyResistance": null,
+  "resistanceValue": 0,
+  "resistanceCardModifier": null,
+  "energyWeakness": "FIGHTING",
+  "weaknessValue": 2,
+  "weaknessCardModifier": "Multiply",
+  "retreatCost": 2,
+  "cardRarity": "UNCOMMON",
+  "customTexture": null,
+  "customTextureX": 0,
+  "customTextureY": 0,
+  "isHolo": true,
+  "effect": null,
+  "cardAbility": null
+}

@@ -1,0 +1,24 @@
+{
+  "cardCode": "BASE19",
+  "attackNumber": 2,
+  "name": "attack.BASE19.2.name",
+  "energy": [
+    "FIGHTING",
+    "FIGHTING",
+    "FIGHTING",
+    "FIGHTING"
+  ],
+  "damage": 70,
+  "modifier": null,
+  "text": "attack.BASE19.2.text",
+  "effectsString": "SELF_DAMAGE:BENCH:*:10",
+  "effects": [
+    {
+      "onMe": true,
+      "location": "Bench",
+      "count": -1,
+      "amount": 10,
+      "needCoinSide": null
+    }
+  ]
+}

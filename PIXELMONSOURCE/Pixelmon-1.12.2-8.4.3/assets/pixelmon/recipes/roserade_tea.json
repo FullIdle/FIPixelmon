@@ -1,0 +1,13 @@
+{
+  "type": "pixelmon:infusion",
+  
+  "input1": {
+      "item": "pixelmon:razz_berry"
+  },
+  "input2": {
+    "item": "pixelmon:fresh_water"
+  },
+  "result": {
+    "item": "pixelmon:roserade_tea"
+  }
+}

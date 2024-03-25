@@ -1,0 +1,25 @@
+{
+  "id": "Duosion",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Duosion"
+      },
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "swamps"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WDW",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "D": {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pixelmon:orange_umbrella",
+    "count": 1
+  }
+}

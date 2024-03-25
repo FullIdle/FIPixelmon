@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "ornithologist.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Sig. Bird"
+        },
+        {
+            "name": "Wilfred Warbler"
+        },
+        {
+            "name": "Geoffrey Twirp"
+        },
+        {
+            "name": "Bertram Birdlover"
+        },
+        {
+            "name": "Professor Bird"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Ah, non c'è niente come la vista di un Spearow in volo!"
+                },
+                {
+                    "text": "Vorrei aver ricordato di portare qualche semino per gli uccelli!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Le abitudini di del Pidgeot rosso-crestato per quanto riguarda i nidi sono notevolmente simili a quelle di Hoothoot."
+                },
+                {
+                    "text": "È una cosa così interessante osservare Pokémon uccelli! Dovresti provarlo qualche volta."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "A volte devo nascondermi per settimane nella foresta solo per individuare un Noctowl!."
+                },
+                {
+                    "text": "Diventa un po' noioso, dormire per terra. Però, qualcuno deve pur farlo!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Il mio lavoro è molto importante, lo sai! Fornisco tutte le informazioni sui Pokémon di uccelli di cui hai bisogno per addestrarli."
+                },
+                {
+                    "text": "Sì, il povero ornitologo è un eroe non celebrato nel campo della ricerca Pokémon."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Scusa, hai del pane? Sono a corto di semini per attirare gli Starly."
+                },
+                {
+                    "text": "I miei binocoli sono i migliori. Posso individuare un piccolissimo Starly a dieci miglia di distanza!"
+                }
+            ]
+        }
+    ]
+}

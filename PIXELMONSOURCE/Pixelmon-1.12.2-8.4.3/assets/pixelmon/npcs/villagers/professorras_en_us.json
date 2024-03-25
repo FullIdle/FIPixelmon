@@ -1,0 +1,48 @@
+{
+    "skins": [
+        {
+            "filename": "professorras.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Professor Ras"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Read the rules, or else."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "I'm not a real professor, I just play one on Youtube."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "You chose Bulbasaur as your starter? Really?"
+                },
+                {
+                    "text": "Chikorita is clearly the best starter!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "You have no idea what I have to deal with."
+                },
+                {
+                    "text": "One of my assistants spawned a giant sphere of TNT."
+                }
+            ]
+        }
+    ]
+}

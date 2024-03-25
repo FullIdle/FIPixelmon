@@ -1,0 +1,67 @@
+{
+    "skins": [
+        { 
+            "filename": "psychic_f.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "María"
+        },
+        {
+            "name": "Mme. Voyeuse"
+        },
+        {
+            "name": "Lutetia"
+        },
+        {
+            "name": "Ariadna"
+        },
+        {
+            "name": "Natasha"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "¿Quiéres una demostración? ¡Ja! Primero tienes que pasar tu mano con dinero."
+                },
+                {
+                    "text": "¡Ya puedo ver que estás metido en problemas!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Puedo leer tus pensamientos. Están llenos de Pokémon, y nada más que Pokémon."
+                },
+                {
+                    "text": "En realidad no es nada interesante para mí. ¡Lárgate!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "¡Tengo el poder de predecir tu futuro! Veo muchos combates, y también muy poca gloria."
+                },
+                {
+                    "text": "Pero por algo más de dinero, estoy segura de que podré ver mucha más gloria."
+                }
+            ]
+        },
+        {
+
+            "lines": [
+                {
+                    "text": "¡Estás ante la mejor adivina del mundo! Pregunta, ¡y te lo revelaré todo!"
+                },
+                {
+                    "text": "¿Qué que Pokémon deberías utilizar en tu siguiente combate? ¿Cómo podría saber eso? ¡Lárgate de aquí!"
+                }
+            ]
+        }
+    ]
+}

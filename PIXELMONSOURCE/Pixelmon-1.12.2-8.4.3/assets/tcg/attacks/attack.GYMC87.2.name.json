@@ -1,0 +1,17 @@
+{
+  "cardCode": "GYMC87",
+  "attackNumber": 2,
+  "name": "attack.GYMC87.2.name",
+  "energy": [
+    "PSYCHIC",
+    "COLORLESS",
+    "COLORLESS"
+  ],
+  "damage": 30,
+  "modifier": null,
+  "text": "attack.GYMC87.2.text",
+  "effectsString": "",
+  "effects": [
+
+  ]
+}

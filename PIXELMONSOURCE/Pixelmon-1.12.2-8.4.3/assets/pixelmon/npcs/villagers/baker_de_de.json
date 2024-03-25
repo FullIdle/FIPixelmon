@@ -1,0 +1,76 @@
+{
+    "skins": [
+        {
+            "filename": "baker.png"
+        }
+    ],
+    "names": [
+        {
+            "name": "Mr. Donut"
+        },
+        {
+            "name": "Mr. Puff"
+        },
+        {
+            "name": "Bob Baker"
+        },
+        {
+            "name": "Pieman Pete"
+        },
+        {
+            "name": "Mr. Bakelight"
+        }
+    ],
+    "chat": [
+        {
+            "lines": [
+                {
+                    "text": "Wenn du Brot brauchst, komm in meine Bäckerei."
+                },
+                {
+                    "text": "Ich verwende immer nur feinstes Mehl."
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Hallo, wir verkaufen heute Nachmittag frische, knusprige Brote zum halben Preis."
+                },
+                {
+                    "text": "Kann ich dich für ein Dutzend vom Feinsten interessieren?"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich habe ein Gefühl der Senkung, wenn ich sehe, dass ein Kuchen nicht aufsteigt."
+                },
+                {
+                    "text": "Gebäck ist eine anspruchsvolle Kunst! Nicht für schwache Nerven!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Du musst ein bisschen dicker werden! Komm und kaufe ein paar schöne Kuchen in meiner Bäckerei."
+                },
+                {
+                    "text": "Du magst keinen Kuchen? Umso mehr für mich dann!"
+                }
+            ]
+        },
+        {
+            "lines": [
+                {
+                    "text": "Ich wünschte, ich könnte aufhören, so viel von dem Brot zu essen, das ich backe."
+                },
+                {
+                    "text": "Glaubst du, ich sollte eine Diät machen?"
+                }
+            ]
+        }
+    ]
+}

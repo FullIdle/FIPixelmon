@@ -1,0 +1,87 @@
+{
+  "attackIndex": 687,
+  "attackName": "Decorate",
+  "attackType": "Fairy",
+  "attackCategory": "STATUS",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Attack",
+      "amount": 2,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+	{
+      "type": "SpecialAttack",
+      "amount": 2,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "faririum_z",
+      "attackName": "Z-Decorate",
+      "basePower": 0,
+	  "effects": [
+		{
+          "type": "Attack",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [
+            {
+              "type": "Chance",
+              "value": 100.0
+            }
+          ],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+	    },
+		{
+          "type": "SpecialAttack",
+          "amount": 1,
+          "isUser": true,
+          "modifiers": [
+            {
+              "type": "Chance",
+              "value": 100.0
+            }
+          ],
+          "persists": false,
+          "effectTypeID": "StatsEffect"
+	    }
+	  ],
+      "allowedPokemon": []
+    }
+  ]
+}

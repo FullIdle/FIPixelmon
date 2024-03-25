@@ -1,0 +1,25 @@
+{
+  "id": "Jynx Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Jynx"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

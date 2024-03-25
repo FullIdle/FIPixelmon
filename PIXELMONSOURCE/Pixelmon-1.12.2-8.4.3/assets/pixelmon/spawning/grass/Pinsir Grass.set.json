@@ -1,0 +1,29 @@
+{
+  "id": "Pinsir Grass",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Pinsir"
+      },
+      "stringLocationTypes": [
+        "Grass"
+      ],
+      "minLevel": 10,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "flowery",
+          "magical"
+        ]
+      },
+      "rarity": 8.0
+    }
+  ]
+}

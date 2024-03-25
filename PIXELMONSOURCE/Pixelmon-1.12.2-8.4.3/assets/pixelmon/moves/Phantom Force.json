@@ -1,0 +1,47 @@
+{
+  "attackIndex": 606,
+  "attackName": "Phantom Force",
+  "attackType": "Ghost",
+  "attackCategory": "PHYSICAL",
+  "basePower": 90,
+  "ppBase": 10,
+  "ppMax": 16,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "message": "pixelmon.effect.shadowforce",
+      "base": "Vanish",
+      "type": "Vanish",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "ShadowForce"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Feint"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "ghostium_z",
+      "attackName": "Never-Ending Nightmare",
+      "basePower": 175,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

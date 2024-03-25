@@ -1,0 +1,69 @@
+{
+    "data": {
+        "trainerType": "Bosses",
+        "minLevel": 40,
+        "maxLevel": 60,
+        "minPartyPokemon": 3,
+        "maxPartyPokemon": 6,
+        "winnings": 100
+    },
+    "models":[
+        {
+            "name": "magmaboss"
+        }
+    ],
+    "pokemon": [
+        {
+            "name": "Mightyena"
+        },
+        {
+            "name": "Camerupt"
+        },
+        {
+            "name": "Golbat"
+        },
+        {
+            "name": "Crobat"
+        },
+        {
+            "name": "Weezing"
+        },
+        {
+            "name": "Houndoom"
+        },
+        {
+            "name": "Swellow"
+        },
+		{
+			"name": "Magmortar"
+		},
+        {
+            "name": "Arcanine"
+        },
+        {
+            "name": "Groudon"
+        }
+    ],
+    "names": [
+        {
+            "name": "Maxie"
+        }
+    ],
+    "chat": [
+        {
+            "opening": "To rid the world of the sea to make more room for more land...that's my plan!",
+            "win": "Quaking in defeat!",
+            "lose": "Urgh, how did you beat me!"
+        },
+        {
+            "opening": "What are you doing here?!",
+            "win": "Get out of here.",
+            "lose": "Oh no! I lost!"
+        },
+        {
+            "opening": "Team Magma is the best!",
+            "win": "I told you we are the best!",
+            "lose": "Nooooo!"
+        }
+    ]
+}

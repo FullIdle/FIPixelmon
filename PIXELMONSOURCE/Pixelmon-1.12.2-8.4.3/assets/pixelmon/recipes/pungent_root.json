@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    "WRW",
+    " W "
+  ],
+  "key": {
+    "R": {
+      "item": "pixelmon:big_root"
+    },
+    "W": {
+      "item": "minecraft:nether_wart"
+    }
+  },
+  "result": {
+    "item": "pixelmon:curry_pungent_root",
+    "count": 1
+  }
+}

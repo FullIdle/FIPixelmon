@@ -1,0 +1,28 @@
+{
+  "id": "Regidrago",
+  "spawnInfos": [
+    {
+      "spec": {
+        "name": "Regidrago",
+        "level": 40
+      },
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "nether"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

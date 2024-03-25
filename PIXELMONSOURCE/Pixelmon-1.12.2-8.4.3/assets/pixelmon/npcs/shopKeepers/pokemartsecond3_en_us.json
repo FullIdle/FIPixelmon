@@ -1,0 +1,139 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+    {
+      "name": "shoplady2.png"
+    },
+    {
+      "name": "shoplady.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Mrs. Culligan"
+    },
+    {
+      "name": "Ms. Vernia"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have a stunning selection of food items for you today",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:curry_bread",
+      "variation": false,
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:curry_pasta",
+      "variation": false,
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:curry_fried_food",
+      "variation": false,
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:curry_instant_noodles",
+      "variation": false,
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:curry_precooked_burger",
+      "variation": false,
+      "rarity": 1
+    },
+    {
+      "name": "pixelmon:curry_sausages",
+      "variation": false,
+      "rarity": 0.75
+    },
+    {
+      "name": "pixelmon:curry_bean_tin",
+      "variation": false,
+      "rarity": 0.75
+    },
+    {
+      "name": "pixelmon:curry_mixed_mushrooms",
+      "variation": false,
+      "rarity": 0.75
+    },
+    {
+      "name": "pixelmon:curry_potato_pack",
+      "variation": false,
+      "rarity": 0.75
+    },
+    {
+      "name": "pixelmon:curry_salad_mix",
+      "variation": false,
+      "rarity": 0.75
+    },
+    {
+      "name": "pixelmon:curry_spice_mix",
+      "variation": false,
+      "rarity": 0.75
+    },
+    {
+      "name": "pixelmon:curry_bobs_tin",
+      "variation": false,
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:curry_bachs_tin",
+      "variation": false,
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:curry_brittle_bones",
+      "variation": false,
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:curry_fresh_cream",
+      "variation": false,
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:curry_packaged_curry",
+      "variation": false,
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:curry_coconut_milk",
+      "variation": false,
+      "rarity": 0.5
+    },
+    {
+      "name": "pixelmon:curry_smoke_poke_tail",
+      "variation": false,
+      "rarity": 0.25
+    },
+    {
+      "name": "pixelmon:curry_boiled_egg",
+      "variation": false,
+      "rarity": 0.25
+    },
+    {
+      "name": "pixelmon:curry_fruit_bunch",
+      "variation": false,
+      "rarity": 0.25
+    },
+    {
+      "name": "pixelmon:curry_moomoo_cheese",
+      "variation": false,
+      "rarity": 0.25
+    },
+    {
+      "name": "pixelmon:curry_gigantamix",
+      "variation": false,
+      "rarity": 0.1
+    }
+  ]
+}

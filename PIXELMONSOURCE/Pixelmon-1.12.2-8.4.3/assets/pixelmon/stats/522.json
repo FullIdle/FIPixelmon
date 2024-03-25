@@ -1,0 +1,209 @@
+{
+  "pixelmonName": "Blitzle",
+  "pokemon": "Blitzle",
+  "form": 0,
+  "stats": {
+    "HP": 45,
+    "Attack": 60,
+    "Defence": 32,
+    "Speed": 76,
+    "SpecialAttack": 50,
+    "SpecialDefence": 32
+  },
+  "catchRate": 190,
+  "malePercent": 50,
+  "spawnLevel": 16,
+  "spawnLevelRange": 10,
+  "baseExp": 59,
+  "baseFriendship": 70,
+  "types": [
+    "Electric"
+  ],
+  "height": 0.8,
+  "isRideable": false,
+  "canFly": false,
+  "canSurf": false,
+  "preEvolutions": [],
+  "experienceGroup": "MediumFast",
+  "aggression": {
+    "timid": 80,
+    "passive": 0,
+    "aggressive": 20
+  },
+  "spawnLocations": [
+    "Land"
+  ],
+  "evYields": {
+    "Speed": 1
+  },
+  "weight": 29.8,
+  "bounding_box": {
+    "width": 1.0,
+    "height": 1.4,
+    "eye_height": 1.0
+  },
+  "evolutions": [
+    {
+      "level": 27,
+      "to": {
+        "name": "Zebstrika"
+      },
+      "conditions": [],
+      "evoType": "leveling"
+    }
+  ],
+  "abilities": [
+    "LightningRod",
+    "MotorDrive",
+    "SapSipper"
+  ],
+  "eggGroups": [
+    "Field"
+  ],
+  "eggCycles": 21,
+  "levelUpMoves": {
+    "0": [
+      "Quick Attack"
+    ],
+    "4": [
+      "Tail Whip"
+    ],
+    "8": [
+      "Charge"
+    ],
+    "11": [
+      "Shock Wave"
+    ],
+    "15": [
+      "Thunder Wave"
+    ],
+    "18": [
+      "Flame Charge"
+    ],
+    "22": [
+      "Pursuit"
+    ],
+    "25": [
+      "Spark"
+    ],
+    "29": [
+      "Stomp"
+    ],
+    "32": [
+      "Discharge"
+    ],
+    "36": [
+      "Agility"
+    ],
+    "39": [
+      "Wild Charge"
+    ],
+    "43": [
+      "Thrash"
+    ]
+  },
+  "tutorMoves": [
+    "Bounce",
+    "Low Kick",
+    "Magnet Rise",
+    "Shock Wave",
+    "Signal Beam",
+    "Snatch",
+    "Snore"
+  ],
+  "eggMoves": [
+    "Double Kick",
+    "Double-Edge",
+    "Endure",
+    "Feint",
+    "Me First",
+    "Rage",
+    "Sand Attack",
+    "Screech",
+    "Shock Wave",
+    "Snatch",
+    "Take Down"
+  ],
+  "transferMoves": [
+    "Flash",
+    "Secret Power"
+  ],
+  "hmMoves": [],
+  "tmMoves7": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Charge Beam",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Confide"
+  ],
+  "tmMoves6": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Sleep Talk",
+    "Substitute",
+    "Wild Charge",
+    "Secret Power",
+    "Confide"
+  ],
+  "tmMoves5": [
+    "Toxic",
+    "Hidden Power",
+    "Light Screen",
+    "Protect",
+    "Rain Dance",
+    "Frustration",
+    "Thunderbolt",
+    "Thunder",
+    "Return",
+    "Double Team",
+    "Facade",
+    "Flame Charge",
+    "Rest",
+    "Attract",
+    "Round",
+    "Charge Beam",
+    "Flash",
+    "Volt Switch",
+    "Thunder Wave",
+    "Swagger",
+    "Substitute",
+    "Wild Charge"
+  ],
+  "forms": {}
+}

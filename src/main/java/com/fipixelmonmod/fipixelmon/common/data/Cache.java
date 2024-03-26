@@ -1,10 +1,14 @@
-package com.fipixelmonmod.fipixelmon.common.api;
+package com.fipixelmonmod.fipixelmon.common.data;
 
+import com.pixelmonmod.pixelmon.enums.EnumPokemonModel;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Cache {
     public static final ArrayList<EnumSpecies> extraEnumSpecies = new ArrayList<>();
     public static final ArrayList<EnumSpecies> extraLegendEnumSpecies = new ArrayList<>();
+    public static final Map<EnumSpecies, EnumPokemonModel> extraPokemonModels = new HashMap<>();
 }

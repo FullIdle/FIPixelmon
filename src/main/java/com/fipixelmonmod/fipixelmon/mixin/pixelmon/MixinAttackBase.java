@@ -1,4 +1,4 @@
-package com.fipixelmonmod.fipixelmon.mixin;
+package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.common.adapter.EnumSpeciesAdapter;
 import com.google.gson.Gson;

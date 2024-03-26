@@ -1,4 +1,4 @@
-package com.fipixelmonmod.fipixelmon.mixin;
+package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.pixelmonmod.pixelmon.Pixelmon;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;

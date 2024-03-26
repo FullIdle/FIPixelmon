@@ -1,6 +1,7 @@
 package com.fipixelmonmod.fipixelmon.common.util;
 
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
+import com.pixelmonmod.pixelmon.util.helpers.ReflectionHelper;
 import lombok.SneakyThrows;
 
 import java.lang.reflect.Field;
@@ -8,14 +9,8 @@ import java.lang.reflect.Field;
 public class ReflectUtil {
     public static final Field enumSpeciesDex;
     static {
-        Field field = null;
-        try {
-            field = EnumSpecies.class.getDeclaredField("nationalDex");
-        } catch (NoSuchFieldException e) {
-            throw new RuntimeException(e);
-        }
-        field.setAccessible(true);
-        enumSpeciesDex = field;
+        enumSpeciesDex = ReflectionHelper.findField(EnumSpecies.class,"nationalDex","nationalDex");
+        enumSpeciesDex.setAccessible(true);
     }
 
     @SneakyThrows

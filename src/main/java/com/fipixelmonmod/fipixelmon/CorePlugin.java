@@ -1,5 +1,6 @@
 package com.fipixelmonmod.fipixelmon;
 
+import com.fipixelmonmod.fipixelmon.common.FIPResourcePack;
 import net.minecraftforge.fml.relauncher.FMLLaunchHandler;
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 import net.minecraftforge.fml.relauncher.Side;
@@ -17,18 +18,29 @@ public class CorePlugin implements IFMLLoadingPlugin, IEarlyMixinLoader {
 
     public CorePlugin(){
         //文件
-        URL url = FIPixelmon.class.getClassLoader().getResource(FIPixelmon.class.getName().replace(".", "/") + ".class");
-        String path = url.getPath();
-        path = path.substring(5,path.indexOf("!"));
-        FIPixelmon.modsFolder = new File(path).getParentFile();
-        FIPixelmon.fiPixelmonFolder = new File(FIPixelmon.modsFolder,"fiPixelmonData");
-        if (!FIPixelmon.fiPixelmonFolder.exists()){
-            FIPixelmon.fiPixelmonFolder.mkdirs();
+        File fiPixelmonFolder = FIPixelmon.fiPixelmonFolder = new File("FIPixelmonData");
+        if (!fiPixelmonFolder.exists()){
+            fiPixelmonFolder.mkdirs();
         }
         //Stats
-        FIPixelmon.statsFolder = new File(FIPixelmon.fiPixelmonFolder, "stats");
-        if (!FIPixelmon.statsFolder.exists()) {
-            FIPixelmon.statsFolder.mkdirs();
+        File statsFolder = FIPixelmon.statsFolder = new File(fiPixelmonFolder, "stats");
+        if (!statsFolder.exists()) {
+            statsFolder.mkdirs();
+        }
+        //lang
+        File langFolder = FIPixelmon.langFolder = new File(fiPixelmonFolder, "lang");
+        if (!langFolder.exists()) {
+            langFolder.mkdirs();
+        }
+        //models
+        File modelsFolder = FIPixelmon.modelsFolder = new File(fiPixelmonFolder, "models");
+        if (!modelsFolder.exists()) {
+            modelsFolder.mkdirs();
+        }
+        //textures
+        File texturesFolder = FIPixelmon.texturesFolder = new File(fiPixelmonFolder, "textures");
+        if (!texturesFolder.exists()) {
+            texturesFolder.mkdirs();
         }
     }
 

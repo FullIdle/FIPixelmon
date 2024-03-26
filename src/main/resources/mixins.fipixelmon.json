@@ -7,11 +7,14 @@
   "target": "@env(DEFAULT)",
   "refmap": "mixins.fipixelmon.refmap.json",
   "mixins": [
-    "MixinAttackBase",
-    "MixinBaseStatsLoader",
-    "MixinSpawnConditionTypeAdapter",
-    "MixinEnumSpecies",
-    "MixinPixelmon"
+    "pixelmon.MixinAttackBase",
+    "pixelmon.MixinBaseStatsLoader",
+    "pixelmon.MixinClientProxy",
+    "pixelmon.MixinEnumPokemonModel",
+    "pixelmon.MixinEnumSpecies",
+    "pixelmon.MixinPixelmon",
+    "pixelmon.MixinPixelmonModelRegistry",
+    "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [
   ],

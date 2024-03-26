@@ -1,9 +1,9 @@
-package com.fipixelmonmod.fipixelmon.mixin;
+package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.common.adapter.EnumSpeciesAdapter;
-import com.fipixelmonmod.fipixelmon.common.api.Cache;
+import com.fipixelmonmod.fipixelmon.common.data.Cache;
 import com.fipixelmonmod.fipixelmon.common.util.ReflectUtil;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

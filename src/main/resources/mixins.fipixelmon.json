@@ -9,14 +9,13 @@
   "mixins": [
     "pixelmon.MixinAttackBase",
     "pixelmon.MixinBaseStatsLoader",
-    "pixelmon.MixinClientProxy",
-    "pixelmon.MixinEnumPokemonModel",
     "pixelmon.MixinEnumSpecies",
     "pixelmon.MixinPixelmon",
-    "pixelmon.MixinPixelmonModelRegistry",
     "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [
+    "pixelmon.MixinEnumPokemonModel",
+    "pixelmon.MixinPixelmonModelRegistry"
   ],
   "server": [
   ]

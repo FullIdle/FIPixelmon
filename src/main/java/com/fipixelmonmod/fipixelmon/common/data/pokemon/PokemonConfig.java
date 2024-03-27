@@ -16,40 +16,48 @@ public class PokemonConfig {
     private boolean legendary = false;
     private String model = null;
     private String flyingModel = null;
+    private EnumForm.FormData[] forms = null;
 
     public void inject() {
         EnumSpecies es = EnumHelper.addEnum(EnumSpecies.class, name, new Class<?>[]{int.class, String.class}, dex, name);
-        Cache.extraPokemonConfig.put(es,this);
+        Cache.extraPokemonConfig.put(es, this);
         Cache.extraEnumSpecies.add(es);
         if (legendary) {
             Cache.extraLegendEnumSpecies.add(es);
         }
-
-        //模型
-        if (model != null){
-            EnumHelper.addEnum(EnumPokemonModel.class,name,new Class<?>[]{String.class},
+        //模型//形态模型
+        if (model != null) {
+            EnumHelper.addEnum(EnumPokemonModel.class, name, new Class<?>[]{String.class},
                     formatModelPath(model));
         }
-        if (flyingModel != null){
-            EnumHelper.addEnum(EnumPokemonModel.class,name+"Flying",new Class<?>[]{String.class},
+        if (flyingModel != null) {
+            EnumHelper.addEnum(EnumPokemonModel.class, name + "Flying", new Class<?>[]{String.class},
                     formatModelPath(flyingModel));
+        }
+        if (forms != null && forms.length >= 1) {
+            for (EnumForm.FormData formData : this.forms) {
+                EnumForm enumForm = EnumHelper.addEnum(EnumForm.class, formData.getFormName(),
+                        new Class<?>[]{EnumForm.FormData.class}, formData);
+                formData.setEnumForm(enumForm);
+            }
         }
 
         FIPixelmon.logger.info("REGISTERED ENUM [name:" + name + ",dex:" + dex + "]");
     }
 
-    private static String formatModelPath(String path){
-        return "models"+((path.startsWith("/")?"":"/")+path);
+    private static String formatModelPath(String path) {
+        return "models" + ((path.startsWith("/") ? "" : "/") + path);
     }
 
-    public EnumPokemonModel getModel(){
+    public EnumPokemonModel getModel() {
         try {
             return EnumPokemonModel.valueOf(name);
         } catch (IllegalArgumentException e) {
             return null;
-        }    }
+        }
+    }
 
-    public EnumPokemonModel getFlyingModel(){
+    public EnumPokemonModel getFlyingModel() {
         try {
             return EnumPokemonModel.valueOf(name + "Flying");
         } catch (IllegalArgumentException e) {

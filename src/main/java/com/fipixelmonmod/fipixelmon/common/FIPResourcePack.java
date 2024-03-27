@@ -13,6 +13,7 @@ public class FIPResourcePack extends FolderResourcePack {
 
     public FIPResourcePack(File p_i1291_1_) {
         super(p_i1291_1_);
+        INSTANCES.add(this);
     }
 
     @Override

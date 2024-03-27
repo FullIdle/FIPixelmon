@@ -11,7 +11,6 @@ import java.lang.reflect.Type;
 public class EnumSpeciesAdapter implements JsonDeserializer<EnumSpecies> {
     public static final EnumSpeciesAdapter INSTANCE = new EnumSpeciesAdapter();
 
-
     @Override
     public EnumSpecies deserialize(JsonElement jsonElement, Type type, JsonDeserializationContext jsonDeserializationContext) throws JsonParseException {
         String name = jsonElement.getAsString();

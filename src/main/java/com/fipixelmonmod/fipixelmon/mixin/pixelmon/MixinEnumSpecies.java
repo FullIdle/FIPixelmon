@@ -2,12 +2,10 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.common.data.Cache;
+import com.fipixelmonmod.fipixelmon.common.data.pokemon.PokemonConfig;
 import com.google.common.collect.Lists;
-import com.google.gson.JsonObject;
-import com.pixelmonmod.pixelmon.enums.EnumPokemonModel;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import lombok.SneakyThrows;
-import net.minecraftforge.common.util.EnumHelper;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Mutable;
@@ -48,22 +46,8 @@ public class MixinEnumSpecies {
         File[] files = pokemonFolder.listFiles();
         if (files != null) {
             for (File file : files) {
-                JsonObject json = FIPixelmon.GSON.fromJson(new FileReader(file), JsonObject.class);
-                String name = json.get("name").getAsString();
-                int dex = json.get("dex").getAsInt();
-                boolean legendary = json.get("legendary").getAsBoolean();
-                String model = json.get("model").getAsString();
-
-                EnumSpecies es = EnumHelper.addEnum(EnumSpecies.class, name, new Class<?>[]{int.class, String.class}, dex, name);
-                Cache.extraEnumSpecies.add(es);
-                if (legendary) {
-                    Cache.extraLegendEnumSpecies.add(es);
-                }
-
-                Cache.extraPokemonModels.put(es,EnumHelper.addEnum(EnumPokemonModel.class,name,new Class<?>[]{String.class},
-                        "models"+((model.startsWith("/")?"":"/")+model)));
-
-                FIPixelmon.logger.info("REGISTERED ENUM:{name:" + name + ",dex:" + dex + "}");
+                PokemonConfig config = FIPixelmon.GSON.fromJson(new FileReader(file), PokemonConfig.class);
+                config.inject();
             }
         }
     }

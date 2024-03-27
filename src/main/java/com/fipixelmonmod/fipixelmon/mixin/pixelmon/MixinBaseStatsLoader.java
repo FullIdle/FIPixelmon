@@ -39,7 +39,7 @@ public class MixinBaseStatsLoader {
             .registerTypeAdapter(AttackBase.class, new AttackBaseAdapter())
             .registerTypeAdapter(PokemonSpec.class, PokemonSpec.SPEC_ADAPTER)
             .registerTypeHierarchyAdapter(ITechnicalMove.class, new ITechnicalMove.Adapter())
-            .create();;
+            .create();
 
     @Shadow
     private static void prepare(EnumSpecies species, BaseStats bs) {

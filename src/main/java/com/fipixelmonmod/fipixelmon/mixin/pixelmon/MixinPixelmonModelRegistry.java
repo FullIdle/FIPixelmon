@@ -1,6 +1,8 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.common.data.Cache;
+import com.fipixelmonmod.fipixelmon.common.data.pokemon.PokemonConfig;
+import com.pixelmonmod.pixelmon.client.models.DualModelFactory;
 import com.pixelmonmod.pixelmon.client.models.PixelmonModelRegistry;
 import com.pixelmonmod.pixelmon.client.models.PixelmonSmdFactory;
 import com.pixelmonmod.pixelmon.enums.EnumPokemonModel;
@@ -14,27 +16,28 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import java.util.Map;
 
 @Mixin(value = PixelmonModelRegistry.class,remap = false)
-public class MixinPixelmonModelRegistry {
+public abstract class MixinPixelmonModelRegistry {
     @Shadow
     private static void addModel(EnumSpecies species, PixelmonSmdFactory factory) {
+    }
+
+    @Shadow
+    private static void addFlyingModel(EnumSpecies species, PixelmonSmdFactory factory) {
     }
 
     @Inject(method = "init",remap = false,
             at = @At("TAIL")
     )
     private static void init(CallbackInfo ci){
-        for (Map.Entry<EnumSpecies, EnumPokemonModel> entry : Cache.extraPokemonModels.entrySet()) {
-            addModel(entry.getKey(),new PixelmonSmdFactory(entry.getValue()));
-        }
-    }
-
-    @Inject(method = "addModel(Lcom/pixelmonmod/pixelmon/enums/EnumSpecies;Lcom/pixelmonmod/pixelmon/client/models/PixelmonSmdFactory;)V",
-            remap = false,
-            at = @At("HEAD")
-    )
-    private static void am(EnumSpecies species, PixelmonSmdFactory factory, CallbackInfo ci){
-        if (species.name.equalsIgnoreCase("npc4")) {
-            System.out.println("TRUE");
+        for (Map.Entry<EnumSpecies, PokemonConfig> entry : Cache.extraPokemonConfig.entrySet()) {
+            EnumPokemonModel model = entry.getValue().getModel();
+            EnumPokemonModel fModel = entry.getValue().getFlyingModel();
+            if (model != null){
+                addModel(entry.getKey(),new PixelmonSmdFactory(model));
+            }
+            if (fModel != null){
+                addFlyingModel(entry.getKey(),new PixelmonSmdFactory(fModel));
+            }
         }
     }
 }

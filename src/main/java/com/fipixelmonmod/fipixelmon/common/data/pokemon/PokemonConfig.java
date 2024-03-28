@@ -38,6 +38,7 @@ public class PokemonConfig {
             for (EnumForm.FormData formData : this.forms) {
                 EnumForm enumForm = EnumHelper.addEnum(EnumForm.class, formData.getFormName(),
                         new Class<?>[]{EnumForm.FormData.class}, formData);
+                Cache.extraForm.put(es,enumForm);
                 formData.setEnumForm(enumForm);
             }
         }

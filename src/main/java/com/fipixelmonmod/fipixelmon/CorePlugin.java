@@ -1,6 +1,5 @@
 package com.fipixelmonmod.fipixelmon;
 
-import com.fipixelmonmod.fipixelmon.common.FIPResourcePack;
 import net.minecraftforge.fml.relauncher.FMLLaunchHandler;
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 import net.minecraftforge.fml.relauncher.Side;
@@ -8,7 +7,6 @@ import zone.rong.mixinbooter.IEarlyMixinLoader;
 
 import javax.annotation.Nullable;
 import java.io.File;
-import java.net.URL;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;

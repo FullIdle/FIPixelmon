@@ -3,6 +3,8 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 import com.fipixelmonmod.fipixelmon.common.data.Cache;
 import com.fipixelmonmod.fipixelmon.common.data.pokemon.EnumForm;
 import com.fipixelmonmod.fipixelmon.common.data.pokemon.PokemonConfig;
+import com.pixelmonmod.pixelmon.battles.BattleRegistry;
+import com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase;
 import com.pixelmonmod.pixelmon.client.models.PixelmonModelRegistry;
 import com.pixelmonmod.pixelmon.client.models.PixelmonSmdFactory;
 import com.pixelmonmod.pixelmon.enums.EnumPokemonModel;

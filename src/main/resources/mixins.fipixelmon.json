@@ -9,8 +9,10 @@
   "mixins": [
     "pixelmon.MixinAttackBase",
     "pixelmon.MixinBaseStatsLoader",
+    "pixelmon.MixinBattleControllerBase",
     "pixelmon.MixinEnumSpecies",
     "pixelmon.MixinPixelmon",
+    "pixelmon.MixinRandomAI",
     "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [

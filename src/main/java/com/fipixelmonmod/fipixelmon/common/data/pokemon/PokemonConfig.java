@@ -16,7 +16,7 @@ public class PokemonConfig {
     private boolean legendary = false;
     private String model = null;
     private String flyingModel = null;
-    private EnumForm.FormData[] forms = null;
+    private EnumForm.FormData[] forms = new EnumForm.FormData[]{};
 
     public void inject() {
         EnumSpecies es = EnumHelper.addEnum(EnumSpecies.class, name, new Class<?>[]{int.class, String.class}, dex, name);

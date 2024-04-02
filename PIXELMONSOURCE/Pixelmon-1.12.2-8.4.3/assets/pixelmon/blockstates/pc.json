@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "pixelmon:PC_Block" },
-    "inventory": { "model": "pixelmon:PC_Block" }
-  }
-}

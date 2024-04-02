@@ -1,7 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "pixelmon:Red_Apricorn_Tree" },
-    "blockpos=bottom": { "model": "pixelmon:Red_Apricorn_Tree" },
-    "blockpos=top": { "model": "pixelmon:Red_Apricorn_Tree" }
-  }
-}

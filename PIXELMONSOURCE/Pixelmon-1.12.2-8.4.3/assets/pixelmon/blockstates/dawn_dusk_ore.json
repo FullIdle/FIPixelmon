@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "pixelmon:Dawnstone_Ore" },
-    "contents=none": { "model": "stone" },
-    "contents=dawn": { "model": "pixelmon:Dawnstone_Ore" },
-    "contents=dusk": { "model": "pixelmon:Duskstone_Ore" }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "pixelmon:fan" },
-    "facing=south": { "model": "pixelmon:fan" },
-    "facing=north": { "model": "pixelmon:fan" },
-    "facing=east": { "model": "pixelmon:fan" },
-    "facing=west": { "model": "pixelmon:fan" }
-  }
-}

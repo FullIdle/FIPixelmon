@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "pixelmon:TimedFall" },
-    "inventory": { "model": "pixelmon:TimedFall" }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "pixelmon:OrangeChairBlock" },
-    "facing=south": { "model": "pixelmon:OrangeChairBlock" },
-    "facing=north": { "model": "pixelmon:OrangeChairBlock" },
-    "facing=east": { "model": "pixelmon:OrangeChairBlock" },
-    "facing=west": { "model": "pixelmon:OrangeChairBlock" }
-  }
-}

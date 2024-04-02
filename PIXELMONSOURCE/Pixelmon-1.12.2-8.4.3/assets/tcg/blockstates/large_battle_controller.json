@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "tcg:large_battle_controller" },
-	"facing=north": { "model": "tcg:large_battle_controller" },
-    "facing=east":  { "model": "tcg:large_battle_controller" },
-    "facing=south": { "model": "tcg:large_battle_controller" },
-    "facing=west":  { "model": "tcg:large_battle_controller" }
-  }
-}

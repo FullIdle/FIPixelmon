@@ -1,9 +1,0 @@
-{
-	"variants": {
-		"normal": { "model": "pixelmon:PokeHealer" },
-		"facing=north": { "model": "pixelmon:PokeHealer" },
-		"facing=south": { "model": "pixelmon:PokeHealer" },
-		"facing=east": { "model": "pixelmon:PokeHealer" },
-		"facing=west": { "model": "pixelmon:PokeHealer" }
-	}
-}

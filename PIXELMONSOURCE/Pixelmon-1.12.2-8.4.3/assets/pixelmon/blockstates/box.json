@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "pixelmon:BoxBlock" },
-    "facing=south": { "model": "pixelmon:BoxBlock" },
-    "facing=north": { "model": "pixelmon:BoxBlock" },
-    "facing=east": { "model": "pixelmon:BoxBlock" },
-    "facing=west": { "model": "pixelmon:BoxBlock" }
-  }
-}

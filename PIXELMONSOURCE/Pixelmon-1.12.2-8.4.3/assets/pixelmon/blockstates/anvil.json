@@ -1,9 +1,0 @@
-{
-	"variants": {
-		"normal": { "model": "pixelmon:Pixelmon_Anvil" },
-		"facing=north": { "model": "pixelmon:Pixelmon_Anvil" },
-		"facing=south": { "model": "pixelmon:Pixelmon_Anvil" },
-		"facing=east": { "model": "pixelmon:Pixelmon_Anvil" },
-		"facing=west": { "model": "pixelmon:Pixelmon_Anvil" }
-	}
-}

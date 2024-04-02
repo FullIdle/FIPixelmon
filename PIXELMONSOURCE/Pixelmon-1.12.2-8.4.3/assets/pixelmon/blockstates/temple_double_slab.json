@@ -1,6 +1,0 @@
-{
-	"variants": {
-		"half=bottom,variant=default": { "model": "pixelmon:ShrineBlock" },
-		"half=top,variant=default": { "model": "pixelmon:ShrineBlock" }
-	}
-}

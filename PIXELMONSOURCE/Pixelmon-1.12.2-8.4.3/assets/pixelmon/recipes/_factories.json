@@ -1,8 +1,0 @@
-{
-   "ingredients":{
-   },
-   "recipes":{
-	  "infusion": "com.pixelmonmod.pixelmon.api.recipe.InfuserRecipeFactory",
-	  "smelting": "com.pixelmonmod.pixelmon.api.recipe.FurnaceRecipeFactory"
-   }
-}

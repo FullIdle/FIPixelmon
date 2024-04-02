@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "half=lower": { "model": "pixelmon:long_grass_bottom" },
-        "half=upper": { "model": "pixelmon:long_grass_top" },
-        "inventory": { "model": "pixelmon:LongGrass" }
-    }
-}

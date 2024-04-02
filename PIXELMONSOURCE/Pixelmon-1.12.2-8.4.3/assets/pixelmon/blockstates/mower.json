@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "normal": { "model": "pixelmon:mower" },
-    "facing=south": { "model": "pixelmon:mower" },
-    "facing=north": { "model": "pixelmon:mower" },
-    "facing=east": { "model": "pixelmon:mower" },
-    "facing=west": { "model": "pixelmon:mower" }
-  }
-}

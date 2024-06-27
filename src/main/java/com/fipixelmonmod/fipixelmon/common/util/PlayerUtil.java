@@ -6,7 +6,7 @@ import com.pixelmonmod.pixelmon.enums.EnumGuiScreen;
 import java.util.UUID;
 
 public class PlayerUtil {
-    public static EnumGuiScreen getNowGui(UUID uuid){
+    public static EnumGuiScreen getNowGuiScreen(UUID uuid){
         return Cache.playerNowScreen.get(uuid);
     }
 }

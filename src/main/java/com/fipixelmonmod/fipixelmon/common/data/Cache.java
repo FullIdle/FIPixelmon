@@ -7,6 +7,7 @@ import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.UUID;
 
 public class Cache {
     public static final ArrayList<EnumSpecies> extraEnumSpecies = new ArrayList<>();

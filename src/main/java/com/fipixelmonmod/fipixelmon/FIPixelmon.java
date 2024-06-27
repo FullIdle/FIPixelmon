@@ -1,10 +1,6 @@
 package com.fipixelmonmod.fipixelmon;
 
-import com.fipixelmonmod.fipixelmon.common.adapter.EnumFormAdapter;
-import com.fipixelmonmod.fipixelmon.common.adapter.EnumSpeciesAdapter;
-import com.fipixelmonmod.fipixelmon.common.data.pokemon.EnumForm;
 import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import com.pixelmonmod.pixelmon.util.helpers.ReflectionHelper;
 import lombok.SneakyThrows;
 import net.minecraft.util.text.translation.I18n;

@@ -35,6 +35,7 @@ public class FIPixelmon {
     public static File langFolder;
     public static File modelsFolder;
     public static File texturesFolder;
+    public static boolean canRegister = false;
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent e) {
     }
@@ -52,12 +53,12 @@ public class FIPixelmon {
         for (File file : files) {
             inject.invoke(fallback,new BufferedInputStream(Files.newInputStream(file.toPath())));
         }
-
         //初始化
         logger.info("Complete initialization!");
     }
 
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent e){
+        canRegister = true;
     }
 }

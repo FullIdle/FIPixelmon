@@ -26,13 +26,6 @@ public class MixinPixelmon {
                 .create();
     }
 
-    @Inject(method = "onServerStart"
-            , at = @At("HEAD"), remap = false
-    )
-    private void onServerStart(FMLServerStartingEvent event, CallbackInfo ci) {
-        event.registerServerCommand(new BattleFixesCommand());
-    }
-
     @Inject(method = "preInit", at = @At("HEAD"), remap = false)
     private void perInit(FMLPreInitializationEvent event, CallbackInfo ci) {
     }

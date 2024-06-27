@@ -16,7 +16,8 @@
   "client": [
     "pixelmon.MixinEnumPokemonModel",
     "pixelmon.MixinPixelmonModelRegistry",
-    "pixelmon.MixinClientBattleManager"
+    "pixelmon.MixinClientBattleManager",
+    "pixelmon.MixinClientProxy"
   ],
   "server": [
   ]

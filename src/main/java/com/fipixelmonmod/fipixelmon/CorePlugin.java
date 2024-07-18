@@ -16,29 +16,34 @@ public class CorePlugin implements IFMLLoadingPlugin, IEarlyMixinLoader {
 
     public CorePlugin(){
         //文件
-        File fiPixelmonFolder = FIPixelmon.fiPixelmonFolder = new File("FIPixelmonData");
-        if (!fiPixelmonFolder.exists()){
-            fiPixelmonFolder.mkdirs();
+        FIPixelmon.fiPixelmonFolder = new File("FIPixelmonData");
+        if (!FIPixelmon.fiPixelmonFolder.exists()){
+            FIPixelmon.fiPixelmonFolder.mkdirs();
+        }
+        //pokemon
+        FIPixelmon.pokemonFolder = new File(FIPixelmon.fiPixelmonFolder, "pokemon");
+        if (!FIPixelmon.pokemonFolder.exists()) {
+            FIPixelmon.pokemonFolder.mkdirs();
         }
         //Stats
-        File statsFolder = FIPixelmon.statsFolder = new File(fiPixelmonFolder, "stats");
-        if (!statsFolder.exists()) {
-            statsFolder.mkdirs();
+        FIPixelmon.statsFolder = new File(FIPixelmon.fiPixelmonFolder, "stats");
+        if (!FIPixelmon.statsFolder.exists()) {
+            FIPixelmon.statsFolder.mkdirs();
         }
         //lang
-        File langFolder = FIPixelmon.langFolder = new File(fiPixelmonFolder, "lang");
-        if (!langFolder.exists()) {
-            langFolder.mkdirs();
+        FIPixelmon.langFolder = new File(FIPixelmon.fiPixelmonFolder, "lang");
+        if (!FIPixelmon.langFolder.exists()) {
+            FIPixelmon.langFolder.mkdirs();
         }
         //models
-        File modelsFolder = FIPixelmon.modelsFolder = new File(fiPixelmonFolder, "models");
-        if (!modelsFolder.exists()) {
-            modelsFolder.mkdirs();
+        FIPixelmon.modelsFolder = new File(FIPixelmon.fiPixelmonFolder, "models");
+        if (!FIPixelmon.modelsFolder.exists()) {
+            FIPixelmon.modelsFolder.mkdirs();
         }
         //textures
-        File texturesFolder = FIPixelmon.texturesFolder = new File(fiPixelmonFolder, "textures");
-        if (!texturesFolder.exists()) {
-            texturesFolder.mkdirs();
+        FIPixelmon.texturesFolder = new File(FIPixelmon.fiPixelmonFolder, "textures");
+        if (!FIPixelmon.texturesFolder.exists()) {
+            FIPixelmon.texturesFolder.mkdirs();
         }
     }
 

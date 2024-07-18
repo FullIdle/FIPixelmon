@@ -1,6 +1,6 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
-import com.fipixelmonmod.fipixelmon.common.adapter.EnumSpeciesAdapter;
+import com.fipixelmonmod.fipixelmon.adapter.EnumSpeciesAdapter;
 import com.google.gson.*;
 import com.pixelmonmod.pixelmon.api.spawning.conditions.SpawnCondition;
 import com.pixelmonmod.pixelmon.api.spawning.util.SpawnConditionTypeAdapter;

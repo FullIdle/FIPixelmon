@@ -1,4 +1,4 @@
-package com.fipixelmonmod.fipixelmon.common.adapter;
+package com.fipixelmonmod.fipixelmon.adapter;
 
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;

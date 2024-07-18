@@ -1,6 +1,6 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
-import com.fipixelmonmod.fipixelmon.common.adapter.EnumSpeciesAdapter;
+import com.fipixelmonmod.fipixelmon.adapter.EnumSpeciesAdapter;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.pixelmonmod.pixelmon.api.attackAnimations.AttackAnimation;

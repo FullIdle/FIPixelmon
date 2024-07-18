@@ -1,6 +1,6 @@
-package com.fipixelmonmod.fipixelmon.common.adapter;
+package com.fipixelmonmod.fipixelmon.adapter;
 
-import com.fipixelmonmod.fipixelmon.common.data.pokemon.EnumForm;
+import com.fipixelmonmod.fipixelmon.enums.EnumForm;
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
 import com.google.gson.JsonElement;

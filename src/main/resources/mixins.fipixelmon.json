@@ -14,7 +14,6 @@
     "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [
-    "pixelmon.MixinEnumPokemonModel",
     "pixelmon.MixinPixelmonModelRegistry"
   ],
   "server": [

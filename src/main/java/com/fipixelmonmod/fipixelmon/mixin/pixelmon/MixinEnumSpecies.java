@@ -1,10 +1,11 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
-import com.fipixelmonmod.fipixelmon.common.data.Cache;
-import com.fipixelmonmod.fipixelmon.common.data.pokemon.PokemonConfig;
+import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
+import com.google.common.collect.ListMultimap;
 import com.google.common.collect.Lists;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
+import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
 import lombok.SneakyThrows;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
@@ -17,20 +18,29 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import java.io.File;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.Map;
 
 
-@Mixin(value = EnumSpecies.class,remap = false)
-public class MixinEnumSpecies {
+@Mixin(value = EnumSpecies.class, remap = false)
+public abstract class MixinEnumSpecies {
     @Mutable
-    @Shadow @Final public static EnumSpecies[] LEGENDARY_ENUMS;
-    @Shadow @Final private int nationalDex;
+    @Shadow
+    @Final
+    public static EnumSpecies[] LEGENDARY_ENUMS;
+    @Shadow
+    @Final
+    private int nationalDex;
 
     @Shadow
     @Mutable
     @Final
     private static EnumSpecies[] $VALUES;
 
-    @Shadow @Final private static EnumSpecies[] VALUES;
+    @Shadow
+    @Final
+    private static EnumSpecies[] VALUES;
+
+    @Shadow private static ListMultimap<EnumSpecies, IEnumForm> formList;
 
     @SneakyThrows
     @Inject(method = "<clinit>",
@@ -40,10 +50,8 @@ public class MixinEnumSpecies {
                     shift = At.Shift.BEFORE
             ),
             remap = false)
-    private static void registerEnumSpecies(CallbackInfo ci){
-        File data = FIPixelmon.fiPixelmonFolder;
-        File pokemonFolder = new File(data, "pokemon");
-        File[] files = pokemonFolder.listFiles();
+    private static void registerEnumSpecies(CallbackInfo ci) {
+        File[] files = FIPixelmon.pokemonFolder.listFiles();
         if (files != null) {
             for (File file : files) {
                 PokemonConfig config = FIPixelmon.GSON.fromJson(new FileReader(file), PokemonConfig.class);
@@ -55,9 +63,28 @@ public class MixinEnumSpecies {
     @Inject(method = "<clinit>",
             at = @At("TAIL"),
             remap = false)
-    private static void cliTail(CallbackInfo ci){
+    private static void cliTail(CallbackInfo ci) {
         ArrayList<EnumSpecies> list = Lists.newArrayList(LEGENDARY_ENUMS);
-        list.addAll(Cache.extraLegendEnumSpecies);
+        for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet()) {
+            if (entry.getValue().isLegendary()) {
+                list.add(entry.getValue().getSpecies());
+            }
+        }
         LEGENDARY_ENUMS = list.toArray(new EnumSpecies[0]);
+    }
+
+    @Inject(method = "<clinit>",
+            at = @At(value = "FIELD",
+                    target = "Lcom/pixelmonmod/pixelmon/enums/EnumSpecies;formList:Lcom/google/common/collect/ListMultimap;",
+                    ordinal = 0,
+                    shift = At.Shift.AFTER
+            ),
+            remap = false)
+    private static void formsRegister(CallbackInfo ci){
+        for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet()) {
+            for (IEnumForm form : entry.getValue().getEnumForm()) {
+                formList.put(entry.getKey(),form);
+            }
+        }
     }
 }

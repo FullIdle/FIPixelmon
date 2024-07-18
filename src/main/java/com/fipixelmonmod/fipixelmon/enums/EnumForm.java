@@ -1,4 +1,4 @@
-package com.fipixelmonmod.fipixelmon.common.data.pokemon;
+package com.fipixelmonmod.fipixelmon.enums;
 
 import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
 import lombok.Getter;

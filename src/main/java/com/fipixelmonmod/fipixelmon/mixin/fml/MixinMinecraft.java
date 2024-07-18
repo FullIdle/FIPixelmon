@@ -1,7 +1,7 @@
 package com.fipixelmonmod.fipixelmon.mixin.fml;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
-import com.fipixelmonmod.fipixelmon.common.FIPResourcePack;
+import com.fipixelmonmod.fipixelmon.FIPResourcePack;
 import lombok.SneakyThrows;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.*;
@@ -12,7 +12,6 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 import java.lang.reflect.Field;
-import java.util.List;
 import java.util.Map;
 
 @Mixin(value = Minecraft.class)

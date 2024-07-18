@@ -1,9 +1,9 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
-import com.fipixelmonmod.fipixelmon.common.adapter.EnumFormAdapter;
-import com.fipixelmonmod.fipixelmon.common.adapter.EnumSpeciesAdapter;
-import com.fipixelmonmod.fipixelmon.common.data.pokemon.EnumForm;
+import com.fipixelmonmod.fipixelmon.adapter.EnumFormAdapter;
+import com.fipixelmonmod.fipixelmon.adapter.EnumSpeciesAdapter;
+import com.fipixelmonmod.fipixelmon.enums.EnumForm;
 import com.google.gson.GsonBuilder;
 import com.pixelmonmod.pixelmon.Pixelmon;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;

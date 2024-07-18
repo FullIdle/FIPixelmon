@@ -2,9 +2,8 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
-import com.fipixelmonmod.fipixelmon.common.adapter.EnumSpeciesAdapter;
-import com.fipixelmonmod.fipixelmon.common.data.Cache;
-import com.fipixelmonmod.fipixelmon.common.util.ReflectUtil;
+import com.fipixelmonmod.fipixelmon.adapter.EnumSpeciesAdapter;
+import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.pixelmonmod.pixelmon.Pixelmon;
@@ -53,8 +52,8 @@ public class MixinBaseStatsLoader {
     public static BaseStats getBaseStatsFromAssets(EnumSpecies species) throws IOException {
         String path;
         InputStreamReader insReader;
-        if (Cache.extraEnumSpecies.contains(species)) {
-            path = FIPixelmon.statsFolder.getAbsolutePath() + File.separator + ReflectUtil.getEnumSpeciesDex(species) + ".json";
+        if (PokemonConfig.extraPokemonConfig.keySet().contains(species)) {
+            path = FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexInteger() + ".json";
             insReader = new FileReader(path);
         } else {
             path = "/assets/pixelmon/stats/" + species.getNationalPokedexNumber() + ".json";

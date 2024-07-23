@@ -48,7 +48,6 @@ public abstract class MixinUIElement {
                     file.createNewFile();
                 }
                 String spec = split[0];
-                System.out.println(spec);
                 FileUtils.copyURLToFile(new URL(spec),file);
                 cir.setReturnValue(value);
                 cir.cancel();

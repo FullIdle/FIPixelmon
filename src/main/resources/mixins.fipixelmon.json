@@ -14,6 +14,7 @@
     "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [
+    "pixelmon.MixinGuiPixelmonOverlay",
     "pixelmon.MixinPixelmonModelRegistry"
   ],
   "server": [

@@ -1,4 +1,4 @@
-package com.fipixelmonmod.fipixelmon;
+package com.fipixelmonmod.fipixelmon.resource;
 
 import net.minecraft.client.resources.FolderResourcePack;
 import net.minecraft.util.ResourceLocation;

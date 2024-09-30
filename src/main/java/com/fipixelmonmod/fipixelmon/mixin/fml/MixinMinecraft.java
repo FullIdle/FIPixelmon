@@ -1,7 +1,7 @@
 package com.fipixelmonmod.fipixelmon.mixin.fml;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
-import com.fipixelmonmod.fipixelmon.FIPResourcePack;
+import com.fipixelmonmod.fipixelmon.resource.FIPResourcePack;
 import lombok.SneakyThrows;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.resources.*;

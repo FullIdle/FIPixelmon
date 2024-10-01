@@ -9,7 +9,8 @@
   "mixins": [
   ],
   "client": [
-    "fml.MixinMinecraft"
+    "fml.MixinLanguageManager",
+    "fml.MixinSimpleReloadableResourceManager"
   ],
   "server": [
   ]

@@ -36,6 +36,7 @@ public class FIPixelmon {
     public static File langFolder;
     public static File modelsFolder;
     public static File texturesFolder;
+
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent e) {
     }
@@ -51,7 +52,7 @@ public class FIPixelmon {
             return;
         }
         for (File file : files) {
-            inject.invoke(fallback,new BufferedInputStream(Files.newInputStream(file.toPath())));
+            inject.invoke(fallback, new BufferedInputStream(Files.newInputStream(file.toPath())));
         }
 
         //初始化
@@ -59,6 +60,6 @@ public class FIPixelmon {
     }
 
     @Mod.EventHandler
-    public void postInit(FMLPostInitializationEvent e){
+    public void postInit(FMLPostInitializationEvent e) {
     }
 }

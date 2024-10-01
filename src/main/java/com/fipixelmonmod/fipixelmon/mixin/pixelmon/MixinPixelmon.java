@@ -12,17 +12,17 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-@Mixin(value = Pixelmon.class,remap = false)
+@Mixin(value = Pixelmon.class, remap = false)
 public class MixinPixelmon {
-    @Inject(method = "<clinit>",at = @At("HEAD"),remap = false)
-    private static void cli(CallbackInfo ci){
+    @Inject(method = "<clinit>", at = @At("HEAD"), remap = false)
+    private static void cli(CallbackInfo ci) {
         FIPixelmon.GSON = new GsonBuilder().setPrettyPrinting()
                 .registerTypeAdapter(com.pixelmonmod.pixelmon.enums.EnumSpecies.class, EnumSpeciesAdapter.INSTANCE)
                 .registerTypeAdapter(EnumForm.class, EnumFormAdapter.INSTANCE)
                 .create();
     }
 
-    @Inject(method = "preInit",at = @At("HEAD"),remap = false)
-    private void perInit(FMLPreInitializationEvent event, CallbackInfo ci){
+    @Inject(method = "preInit", at = @At("HEAD"), remap = false)
+    private void perInit(FMLPreInitializationEvent event, CallbackInfo ci) {
     }
 }

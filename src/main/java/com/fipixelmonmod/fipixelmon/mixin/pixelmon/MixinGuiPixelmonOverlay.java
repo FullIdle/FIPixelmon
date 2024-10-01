@@ -13,7 +13,7 @@ public class MixinGuiPixelmonOverlay {
             at = @At("TAIL"),
             remap = false
     )
-    public void init(CallbackInfo ci){
+    public void init(CallbackInfo ci) {
         GuiPixelmonOverlay.icons.clear();
     }
 }

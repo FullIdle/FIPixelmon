@@ -42,7 +42,8 @@ public abstract class MixinEnumSpecies {
     @Final
     private static EnumSpecies[] VALUES;
 
-    @Shadow private static ListMultimap<EnumSpecies, IEnumForm> formList;
+    @Shadow
+    private static ListMultimap<EnumSpecies, IEnumForm> formList;
 
     @SneakyThrows
     @Inject(method = "<clinit>",
@@ -85,7 +86,7 @@ public abstract class MixinEnumSpecies {
                 formList.removeAll(entry.getKey());
             }
             for (IEnumForm form : entry.getValue().getEnumForm()) {
-                formList.put(entry.getKey(),form);
+                formList.put(entry.getKey(), form);
             }
         }
         formList = Multimaps.unmodifiableListMultimap(formList);

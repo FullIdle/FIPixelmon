@@ -33,10 +33,10 @@ public class PokemonConfig {
         if (this.dex > 905) {
             this.species = EnumHelper.addEnum(EnumSpecies.class, this.name, new Class<?>[]{int.class, String.class}, this.dex, this.name);
             info = "REGISTERED ENUM [name:{},dex:{}]";
-        }else{
+        } else {
             this.species = EnumSpecies.values()[this.dex];
             if (!species.name.equals(this.name)) {
-                ReflectionHelper.setPrivateValue(EnumSpecies.class,this.species,this.name,"name","name");
+                ReflectionHelper.setPrivateValue(EnumSpecies.class, this.species, this.name, "name", "name");
                 isReplace = true;
             }
             info = "EDIT ENUM [name:{},dex:{}]";

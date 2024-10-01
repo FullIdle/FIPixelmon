@@ -14,10 +14,10 @@ import java.util.Map;
 public class CorePlugin implements IFMLLoadingPlugin, IEarlyMixinLoader {
     public static final boolean isClient = FMLLaunchHandler.side() == Side.CLIENT;
 
-    public CorePlugin(){
+    public CorePlugin() {
         //文件
         FIPixelmon.fiPixelmonFolder = new File("FIPixelmonData");
-        if (!FIPixelmon.fiPixelmonFolder.exists()){
+        if (!FIPixelmon.fiPixelmonFolder.exists()) {
             FIPixelmon.fiPixelmonFolder.mkdirs();
         }
         //pokemon

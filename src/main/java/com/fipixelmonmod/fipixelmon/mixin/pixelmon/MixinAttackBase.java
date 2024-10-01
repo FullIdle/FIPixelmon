@@ -16,7 +16,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Mutable;
 import org.spongepowered.asm.mixin.Shadow;
 
-@Mixin(value = AttackBase.class,remap = false)
+@Mixin(value = AttackBase.class, remap = false)
 public class MixinAttackBase {
     @Mutable
     @Shadow

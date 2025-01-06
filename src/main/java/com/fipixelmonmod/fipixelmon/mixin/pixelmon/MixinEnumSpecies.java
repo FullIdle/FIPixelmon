@@ -34,23 +34,15 @@ public abstract class MixinEnumSpecies {
     private int nationalDex;
 
     @Shadow
-    @Mutable
-    @Final
-    private static EnumSpecies[] $VALUES;
-
-    @Shadow
-    @Final
-    private static EnumSpecies[] VALUES;
-
-    @Shadow
     private static ListMultimap<EnumSpecies, IEnumForm> formList;
 
     @SneakyThrows
     @Inject(method = "<clinit>",
-            at = @At(value = "FIELD",
-                    target = "Lcom/pixelmonmod/pixelmon/enums/EnumSpecies;VALUES:[Lcom/pixelmonmod/pixelmon/enums/EnumSpecies;",
+            at = @At(
+                    value = "FIELD",
+                    target = "Lcom/pixelmonmod/pixelmon/enums/EnumSpecies;$VALUES:[Lcom/pixelmonmod/pixelmon/enums/EnumSpecies;",
                     ordinal = 0,
-                    shift = At.Shift.BEFORE
+                    shift = At.Shift.AFTER
             ),
             remap = false)
     private static void registerEnumSpecies(CallbackInfo ci) {

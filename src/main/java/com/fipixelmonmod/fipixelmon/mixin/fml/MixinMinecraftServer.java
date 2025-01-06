@@ -2,9 +2,9 @@ package com.fipixelmonmod.fipixelmon.mixin.fml;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
-import com.pixelmonmod.pixelmon.util.helpers.ReflectionHelper;
 import lombok.SneakyThrows;
 import net.minecraft.server.MinecraftServer;
+import net.minecraftforge.fml.relauncher.ReflectionHelper;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

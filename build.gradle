@@ -65,10 +65,13 @@ test {
 tasks.withType(JavaCompile) {
     options.encoding = "UTF-8"
 }
-/*processResources {
-    setFilteringCharset("UTF-8")
-    expand project.properties
-}*/
+
+processResources {
+    filteringCharset 'UTF-8'
+    filesMatching('mcmod.info') {
+        expand project.properties
+    }
+}
 
 //mixin
 mixin {

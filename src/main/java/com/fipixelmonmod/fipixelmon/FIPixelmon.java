@@ -31,6 +31,7 @@ public class FIPixelmon {
     public static final Logger logger = LogManager.getLogger("FIPixelmon");
     public static Gson GSON;
     public static File pokemonFolder;
+    public static File pokeballFolder;
     public static File fiPixelmonFolder;
     public static File statsFolder;
     public static File langFolder;

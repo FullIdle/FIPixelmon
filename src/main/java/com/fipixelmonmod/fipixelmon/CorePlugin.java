@@ -16,35 +16,19 @@ public class CorePlugin implements IFMLLoadingPlugin, IEarlyMixinLoader {
 
     public CorePlugin() {
         //文件
-        FIPixelmon.fiPixelmonFolder = new File("FIPixelmonData");
-        if (!FIPixelmon.fiPixelmonFolder.exists()) {
-            FIPixelmon.fiPixelmonFolder.mkdirs();
-        }
+        (FIPixelmon.fiPixelmonFolder = new File("FIPixelmonData")).mkdirs();
         //pokemon
-        FIPixelmon.pokemonFolder = new File(FIPixelmon.fiPixelmonFolder, "pokemon");
-        if (!FIPixelmon.pokemonFolder.exists()) {
-            FIPixelmon.pokemonFolder.mkdirs();
-        }
+        (FIPixelmon.pokemonFolder = new File(FIPixelmon.fiPixelmonFolder, "pokemon")).mkdirs();
+        //pokeball
+        (FIPixelmon.pokeballFolder = new File(FIPixelmon.fiPixelmonFolder, "pokeball")).mkdirs();
         //Stats
-        FIPixelmon.statsFolder = new File(FIPixelmon.fiPixelmonFolder, "stats");
-        if (!FIPixelmon.statsFolder.exists()) {
-            FIPixelmon.statsFolder.mkdirs();
-        }
+        (FIPixelmon.statsFolder = new File(FIPixelmon.fiPixelmonFolder, "stats")).mkdirs();
         //lang
-        FIPixelmon.langFolder = new File(FIPixelmon.fiPixelmonFolder, "lang");
-        if (!FIPixelmon.langFolder.exists()) {
-            FIPixelmon.langFolder.mkdirs();
-        }
+        (FIPixelmon.langFolder = new File(FIPixelmon.fiPixelmonFolder, "lang")).mkdirs();
         //models
-        FIPixelmon.modelsFolder = new File(FIPixelmon.fiPixelmonFolder, "models");
-        if (!FIPixelmon.modelsFolder.exists()) {
-            FIPixelmon.modelsFolder.mkdirs();
-        }
+        (FIPixelmon.modelsFolder = new File(FIPixelmon.fiPixelmonFolder, "models")).mkdirs();
         //textures
-        FIPixelmon.texturesFolder = new File(FIPixelmon.fiPixelmonFolder, "textures");
-        if (!FIPixelmon.texturesFolder.exists()) {
-            FIPixelmon.texturesFolder.mkdirs();
-        }
+        (FIPixelmon.texturesFolder = new File(FIPixelmon.fiPixelmonFolder, "textures")).mkdirs();
     }
 
     @Override

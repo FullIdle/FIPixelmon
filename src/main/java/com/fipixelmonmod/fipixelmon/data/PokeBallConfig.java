@@ -29,11 +29,12 @@ public class PokeBallConfig {
 
     transient public ResourceLocation guiTexResourceLocation;
     transient public Item item;
+    transient public EnumPokeballs enumPokeballs;
 
     public void inject() {
-        EnumPokeballs enumPokeballs = EnumHelper.addEnum(EnumPokeballs.class, this.name, addEnumParamTypes,
+        this.enumPokeballs = EnumHelper.addEnum(EnumPokeballs.class, this.name, addEnumParamTypes,
                 this.index, this.ballBonus, this.filenamePrefix, quantityMade, breakChance);
-        extraPokeBallConfig.put(enumPokeballs, this);
+        extraPokeBallConfig.put(this.enumPokeballs, this);
         FIPixelmon.logger.info("REGISTERED BALL [name:{},index:{}]", this.name, this.index);
     }
 

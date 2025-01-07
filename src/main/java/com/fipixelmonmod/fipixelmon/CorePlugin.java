@@ -21,6 +21,8 @@ public class CorePlugin implements IFMLLoadingPlugin, IEarlyMixinLoader {
         (FIPixelmon.pokemonFolder = new File(FIPixelmon.fiPixelmonFolder, "pokemon")).mkdirs();
         //pokeball
         (FIPixelmon.pokeballFolder = new File(FIPixelmon.fiPixelmonFolder, "pokeball")).mkdirs();
+        //megastone
+        (FIPixelmon.megastoneFolder = new File(FIPixelmon.fiPixelmonFolder, "megastone")).mkdirs();
         //Stats
         (FIPixelmon.statsFolder = new File(FIPixelmon.fiPixelmonFolder, "stats")).mkdirs();
         //lang

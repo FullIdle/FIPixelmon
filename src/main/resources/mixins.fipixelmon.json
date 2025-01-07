@@ -13,7 +13,8 @@
     "pixelmon.MixinPixelmon",
     "pixelmon.MixinSpawnConditionTypeAdapter",
     "pixelmon.MixinEnumPokeballs",
-    "pixelmon.MixinRegistryListener"
+    "pixelmon.MixinRegistryListener",
+    "pixelmon.MixinEnumMegaPokemon"
   ],
   "client": [
     "pixelmon.MixinGuiHelper",

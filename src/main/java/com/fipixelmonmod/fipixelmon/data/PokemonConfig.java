@@ -10,6 +10,7 @@ import lombok.Setter;
 import net.minecraftforge.common.util.EnumHelper;
 import net.minecraftforge.fml.relauncher.ReflectionHelper;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -27,6 +28,7 @@ public class PokemonConfig {
     transient private boolean isReplace = false;
     transient private IEnumForm[] enumForm;
     transient private EnumSpecies species;
+    transient private File fromZip = null;
 
     public void inject() {
         String info;
@@ -55,5 +57,9 @@ public class PokemonConfig {
         this.enumForm = iEnumForms.toArray(new IEnumForm[0]);
         FIPixelmon.logger.info(info, this.name, this.dex);
         extraPokemonConfig.put(this.species, this);
+    }
+
+    public boolean isFromZip() {
+        return this.fromZip != null;
     }
 }

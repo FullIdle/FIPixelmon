@@ -2,6 +2,7 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
+import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.google.common.collect.ListMultimap;
 import com.google.common.collect.Lists;
 import com.google.common.collect.MultimapBuilder;
@@ -19,8 +20,10 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 import java.io.File;
 import java.io.FileReader;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Map;
+import java.util.zip.ZipFile;
 
 
 @Mixin(value = EnumSpecies.class, remap = false)
@@ -49,8 +52,27 @@ public abstract class MixinEnumSpecies {
         File[] files = FIPixelmon.pokemonFolder.listFiles();
         if (files != null) {
             for (File file : files) {
-                PokemonConfig config = FIPixelmon.GSON.fromJson(new FileReader(file), PokemonConfig.class);
-                config.inject();
+                if (file.getName().endsWith(".json")) {
+                    PokemonConfig config = FIPixelmon.GSON.fromJson(new FileReader(file), PokemonConfig.class);
+                    config.inject();
+                }
+            }
+        }
+        File[] list = FIPixelmon.fiPixelmonFolder.listFiles();
+        if (list != null) {
+            for (File file : list) {
+                if (!FileHelper.isZip(file)) continue;
+                ZipFile zipFile = new ZipFile(file);
+                for (String path : FileHelper.getZipFileList(zipFile, "pokemon")) {
+                    if (path.endsWith(".json")) {
+                        InputStreamReader reader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry(path)));
+                        PokemonConfig config = FIPixelmon.GSON.fromJson(reader, PokemonConfig.class);
+                        config.setFromZip(file);
+                        config.inject();
+                        reader.close();
+                    }
+                }
+                zipFile.close();
             }
         }
     }

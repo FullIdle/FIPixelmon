@@ -1,5 +1,7 @@
 package com.fipixelmonmod.fipixelmon;
 
+import com.fipixelmonmod.fipixelmon.helper.FileHelper;
+import com.fipixelmonmod.fipixelmon.resource.ZipResourcePack;
 import com.google.gson.Gson;
 import lombok.SneakyThrows;
 import net.minecraft.util.text.translation.I18n;
@@ -17,6 +19,7 @@ import java.io.File;
 import java.io.InputStream;
 import java.lang.reflect.Method;
 import java.nio.file.Files;
+import java.util.zip.ZipFile;
 
 @Mod(
         modid = FIPixelmon.MODID,
@@ -54,7 +57,22 @@ public class FIPixelmon {
             return;
         }
         for (File file : files) {
-            inject.invoke(fallback, new BufferedInputStream(Files.newInputStream(file.toPath())));
+            if (file.getName().endsWith(".lang")) {
+                BufferedInputStream bins = new BufferedInputStream(Files.newInputStream(file.toPath()));
+                inject.invoke(fallback, bins);
+                bins.close();
+            }
+        }
+        //load zip lang config
+        for (File file : FileHelper.loadedZipFile) {
+            ZipFile zipFile = new ZipFile(file);
+            for (String lang : FileHelper.getZipFileList(zipFile, "lang")) {
+                if (lang.endsWith(".lang")) {
+                    BufferedInputStream bins = new BufferedInputStream(zipFile.getInputStream(zipFile.getEntry(lang)));
+                    inject.invoke(fallback, bins);
+                    bins.close();
+                }
+            }
         }
 
         //初始化

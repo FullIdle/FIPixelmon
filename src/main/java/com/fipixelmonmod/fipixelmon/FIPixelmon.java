@@ -1,7 +1,6 @@
 package com.fipixelmonmod.fipixelmon;
 
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
-import com.fipixelmonmod.fipixelmon.resource.ZipResourcePack;
 import com.google.gson.Gson;
 import lombok.SneakyThrows;
 import net.minecraft.util.text.translation.I18n;

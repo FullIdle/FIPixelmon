@@ -6,7 +6,6 @@ import com.fipixelmonmod.fipixelmon.adapter.EnumSpeciesAdapter;
 import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.pixelmonmod.pixelmon.Pixelmon;
 import com.pixelmonmod.pixelmon.api.pokemon.PokemonSpec;
 import com.pixelmonmod.pixelmon.battles.attacks.Attack;
 import com.pixelmonmod.pixelmon.battles.attacks.AttackBase;
@@ -21,6 +20,9 @@ import com.pixelmonmod.pixelmon.entities.pixelmon.stats.evolution.conditions.Evo
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import com.pixelmonmod.pixelmon.enums.technicalmoves.ITechnicalMove;
 import org.spongepowered.asm.mixin.*;
+import org.spongepowered.asm.mixin.injection.At;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 import java.io.*;
 import java.util.zip.ZipFile;
@@ -45,57 +47,30 @@ public class MixinBaseStatsLoader {
     private static void prepare(EnumSpecies species, BaseStats bs) {
     }
 
-    /**
-     * @author
-     * @reason
-     */
-    @Overwrite
-    public static BaseStats getBaseStatsFromAssets(EnumSpecies species) throws IOException {
-        String path = "";
-        InputStreamReader insReader;
-        ZipFile zipFile = null;
-        if (PokemonConfig.extraPokemonConfig.keySet().contains(species)) {
+    @Inject(
+            method = "getBaseStatsFromAssets",
+            at = @At("HEAD"),
+            cancellable = true
+    )
+    private static void getBaseStatsFromAssets(EnumSpecies species, CallbackInfoReturnable<BaseStats> cir) throws IOException {
+        if (PokemonConfig.extraPokemonConfig.containsKey(species)) {
             PokemonConfig config = PokemonConfig.extraPokemonConfig.get(species);
-            if (species.getNationalPokedexInteger() < 906) {
-                if (config.isReplace()) {
-                    if (config.isFromZip()) {
-                        zipFile = new ZipFile(config.getFromZip());
-                        insReader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry("stats/"+species.getNationalPokedexNumber()+".json")));
-                    }else{
-                        path = FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexNumber() + ".json";
-                        insReader = new FileReader(path);
-                    }
-                } else {
-                    if (config.isFromZip()){
-                        zipFile = new ZipFile(config.getFromZip());
-                        insReader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry("stats/"+species.getNationalPokedexNumber()+".json")));
-                    }else {
-                        path = "/assets/pixelmon/stats/" + species.getNationalPokedexNumber() + ".json";
-                        insReader = new InputStreamReader(BaseStats.class.getResourceAsStream(path));
-                    }
-                }
-            } else {
-                if (config.isFromZip()) {
-                    zipFile = new ZipFile(config.getFromZip());
-                    insReader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry("stats/"+species.getNationalPokedexNumber()+".json")));
-                }else{
-                    path = FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexNumber() + ".json";
-                    insReader = new FileReader(path);
-                }
+            InputStreamReader insReader = null;
+            ZipFile zipFile = null;
+            if (config.isFromZip()) {
+                zipFile = new ZipFile(config.getFromZip());
+                insReader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry("stats/" + species.getNationalPokedexNumber() + ".json")));
+            } else if (config.isReplace()) {
+                insReader = new FileReader(FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexNumber() + ".json");
             }
-        } else {
-            path = "/assets/pixelmon/stats/" + species.getNationalPokedexNumber() + ".json";
-            insReader = new InputStreamReader(BaseStats.class.getResourceAsStream(path));
-        }
-        try (Reader reader = insReader) {
-            BaseStats bs = GSON.fromJson(reader, BaseStats.class);
-            prepare(species, bs);
-            insReader.close();
-            if (zipFile != null) zipFile.close();
-            return bs;
-        } catch (Exception e) {
-            Pixelmon.LOGGER.error("Couldn't load internal stat JSON: " + path);
-            throw e;
+            if (insReader != null) {
+                BaseStats bs = GSON.fromJson(insReader, BaseStats.class);
+                prepare(species, bs);
+                insReader.close();
+                if (zipFile != null) zipFile.close();
+                cir.setReturnValue(bs);
+                cir.cancel();
+            }
         }
     }
 }

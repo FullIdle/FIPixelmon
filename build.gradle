@@ -1,6 +1,9 @@
 buildscript {
     repositories {
-        maven { url = 'https://maven.minecraftforge.net/' }
+        maven {
+            allowInsecureProtocol = true
+            url = 'http://sever.pokeod.com:31647/snapshots'
+        }
         maven { url = 'https://repo.spongepowered.org/maven' }
         mavenCentral()
     }

@@ -60,8 +60,9 @@ public class MixinBaseStatsLoader {
             if (config.isFromZip()) {
                 zipFile = new ZipFile(config.getFromZip());
                 insReader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry("stats/" + species.getNationalPokedexNumber() + ".json")));
-            } else if (config.isReplace()) {
-                insReader = new FileReader(FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexNumber() + ".json");
+            } else {
+                if (species.getNationalPokedexInteger() > 906 || config.isReplace())
+                    insReader = new FileReader(FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexNumber() + ".json");
             }
             if (insReader != null) {
                 BaseStats bs = GSON.fromJson(insReader, BaseStats.class);

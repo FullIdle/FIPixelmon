@@ -17,6 +17,7 @@
     "pixelmon.MixinEnumMegaPokemon"
   ],
   "client": [
+    "pixelmon.MixinClientProxy",
     "pixelmon.MixinGuiHelper",
     "pixelmon.MixinPixelmonModelRegistry"
   ],

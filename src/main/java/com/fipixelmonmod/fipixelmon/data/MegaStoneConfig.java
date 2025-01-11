@@ -32,5 +32,6 @@ public class MegaStoneConfig {
         this.enumMegaPokemon = EnumHelper.addEnum(EnumMegaPokemon.class, this.name, addEnumParamTypes, this.pokemon, this.numMegaForms);
         this.item = new ItemMegaStone(this.name.toLowerCase(),this.numMegaForms,this.pokemon);
         extraMegaStoneConfig.put(this.enumMegaPokemon,this);
+        FIPixelmon.logger.info("REGISTERED MEGA STONE [name:{},pokemon:{}]", this.name, this.pokemon.getLocalizedName());
     }
 }

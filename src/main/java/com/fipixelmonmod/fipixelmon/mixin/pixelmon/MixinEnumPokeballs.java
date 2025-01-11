@@ -4,12 +4,14 @@ import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.data.PokeBallConfig;
 import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
+import com.pixelmonmod.pixelmon.client.models.pokeballs.ModelPokeballs;
 import com.pixelmonmod.pixelmon.enums.items.EnumPokeballs;
 import lombok.SneakyThrows;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 import java.io.File;
 import java.io.FileReader;
@@ -17,7 +19,7 @@ import java.io.InputStreamReader;
 import java.util.zip.ZipFile;
 
 @Mixin(value = EnumPokeballs.class,remap = false)
-public class MixinEnumPokeballs {
+public class MixinEnumPokeballs{
     @SneakyThrows
     @Inject(
             method = "<clinit>",
@@ -53,6 +55,22 @@ public class MixinEnumPokeballs {
                     }
                 }
                 zipFile.close();
+            }
+        }
+    }
+
+    @Inject(
+            method = "getModel",
+            at = @At("HEAD"),
+            cancellable = true,
+            remap = false
+    )
+    private void getModel(CallbackInfoReturnable<ModelPokeballs> cir){
+        if (PokeBallConfig.extraPokeBallConfig.containsKey(this)) {
+            PokeBallConfig config = PokeBallConfig.extraPokeBallConfig.get(this);
+            if (config.hasCustomModel()) {
+                cir.setReturnValue(new ModelPokeballs(config.customModel));
+                cir.cancel();
             }
         }
     }

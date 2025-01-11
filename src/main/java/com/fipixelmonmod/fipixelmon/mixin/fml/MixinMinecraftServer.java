@@ -29,18 +29,8 @@ public class MixinMinecraftServer {
         assert files != null;
         for (File file : files) {
             if (FileHelper.isZip(file)) {
-                ZipFile zipFile = new ZipFile(file);
-                Enumeration<? extends ZipEntry> entries = zipFile.entries();
-                URL fileUrl = file.toURI().toURL();
-                while (entries.hasMoreElements()) {
-                    ZipEntry zipEntry = entries.nextElement();
-                    String name = zipEntry.getName();
-                    if (!name.contains("/") || name.indexOf("/") == name.lastIndexOf("/"))
-                        method.invoke(classLoader, new URL("jar:" + fileUrl + "!/" + name));
-                }
                 FileHelper.loadedZipFile.add(file);
-                method.invoke(classLoader, fileUrl);
-                zipFile.close();
+                method.invoke(classLoader, file.toURI().toURL());
             }
         }
     }

@@ -68,4 +68,8 @@ public class PokeBallConfig {
     public boolean hasCustomModel(){
         return this.customModel != null;
     }
+
+    public boolean hasCustomTextureDirectory(){
+        return this.textureDirectory != null;
+    }
 }

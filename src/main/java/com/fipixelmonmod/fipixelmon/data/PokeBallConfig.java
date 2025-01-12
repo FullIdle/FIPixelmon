@@ -25,6 +25,7 @@ public class PokeBallConfig {
     private int index = -1;
     private double ballBonus = -1;
     private String filenamePrefix = null;
+    private String textureDirectory = null;
     private int quantityMade = -1;
     private int breakChance = -1;
     private String guiTex = null;
@@ -39,6 +40,16 @@ public class PokeBallConfig {
     public void inject() {
         this.enumPokeballs = EnumHelper.addEnum(EnumPokeballs.class, this.name, ballEnumTypes,
                 this.index, this.ballBonus, this.filenamePrefix, quantityMade, breakChance);
+        assert this.enumPokeballs != null;
+        if (textureDirectory != null) {
+            this.enumPokeballs.setTextureDirectory(
+                    "pixelmon:" +
+                            (textureDirectory.endsWith("/") ?
+                                    textureDirectory :
+                                    ("/"+textureDirectory)
+                            )
+            );
+        }
         extraPokeBallConfig.put(this.enumPokeballs, this);
         FIPixelmon.logger.info("REGISTERED BALL [name:{},index:{}]", this.name, this.index);
         this.injectModel();

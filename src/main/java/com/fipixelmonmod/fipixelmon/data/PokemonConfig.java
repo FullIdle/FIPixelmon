@@ -25,22 +25,22 @@ public class PokemonConfig {
     private String model = null;
     private String flyingModel = null;
     private EnumForm.FormData[] forms = new EnumForm.FormData[]{};
-    transient private boolean isReplace = false;
     transient private IEnumForm[] enumForm;
     transient private EnumSpecies species;
     transient private File fromZip = null;
+    transient private boolean isEdit = false;
 
     public void inject() {
         String info;
-        if (this.dex > 905) {
+        EnumSpecies fromDex = EnumSpecies.getFromDex(this.dex);
+        if (fromDex == null) {
             this.species = EnumHelper.addEnum(EnumSpecies.class, this.name, new Class<?>[]{int.class, String.class}, this.dex, this.name);
             info = "REGISTERED ENUM [name:{},dex:{}]";
         } else {
-            this.species = EnumSpecies.values()[this.dex];
-            if (!species.name.equals(this.name)) {
+            this.species = fromDex;
+            if (!species.name.equals(this.name))
                 ReflectionHelper.setPrivateValue(EnumSpecies.class, this.species, this.name, "name", "name");
-                isReplace = true;
-            }
+            this.isEdit = true;
             info = "EDIT ENUM [name:{},dex:{}]";
         }
         ArrayList<IEnumForm> iEnumForms = new ArrayList<>();

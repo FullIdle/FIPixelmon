@@ -61,7 +61,7 @@ public class MixinBaseStatsLoader {
                 zipFile = new ZipFile(config.getFromZip());
                 insReader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry("stats/" + species.getNationalPokedexNumber() + ".json")));
             } else {
-                if (species.getNationalPokedexInteger() > 905 || config.isReplace())
+                if (config.isEdit())
                     insReader = new FileReader(FIPixelmon.statsFolder.getAbsolutePath() + File.separator + species.getNationalPokedexNumber() + ".json");
             }
             if (insReader != null) {

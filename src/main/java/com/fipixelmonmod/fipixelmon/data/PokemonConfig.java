@@ -25,6 +25,7 @@ public class PokemonConfig {
     private String model = null;
     private String flyingModel = null;
     private EnumForm.FormData[] forms = new EnumForm.FormData[]{};
+    private boolean editReplace = false;
     transient private IEnumForm[] enumForm;
     transient private EnumSpecies species;
     transient private File fromZip = null;

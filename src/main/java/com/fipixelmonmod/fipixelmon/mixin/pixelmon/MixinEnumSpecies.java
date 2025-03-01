@@ -96,7 +96,7 @@ public abstract class MixinEnumSpecies {
     private static void formsRegister(CallbackInfo ci) {
         formList = MultimapBuilder.enumKeys(EnumSpecies.class).arrayListValues(1).build(formList);
         for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet()) {
-            if (entry.getValue().isReplace()) {
+            if (entry.getValue().isEdit()) {
                 formList.removeAll(entry.getKey());
             }
             for (IEnumForm form : entry.getValue().getEnumForm()) {

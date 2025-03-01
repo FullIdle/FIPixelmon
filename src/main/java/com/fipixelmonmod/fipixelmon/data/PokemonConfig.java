@@ -32,7 +32,7 @@ public class PokemonConfig {
 
     public void inject() {
         String info;
-        EnumSpecies fromDex = EnumSpecies.getFromDex(this.dex);
+        EnumSpecies fromDex = getFromDex(this.dex);
         if (fromDex == null) {
             this.species = EnumHelper.addEnum(EnumSpecies.class, this.name, new Class<?>[]{int.class, String.class}, this.dex, this.name);
             info = "REGISTERED ENUM [name:{},dex:{}]";
@@ -61,5 +61,28 @@ public class PokemonConfig {
 
     public boolean isFromZip() {
         return this.fromZip != null;
+    }
+
+    //旧的获取方法
+    public static EnumSpecies getFromDex(int nationalDex) {
+        EnumSpecies[] VALUES = EnumSpecies.values();
+
+        if (nationalDex < 0) {
+            return null;
+        } else if (nationalDex < VALUES.length && VALUES[nationalDex].getNationalPokedexInteger() == nationalDex) {
+            return VALUES[nationalDex];
+        } else {
+            for(int i = VALUES.length - 1; i >= 0; --i) {
+                if (VALUES[i].getNationalPokedexInteger() == nationalDex) {
+                    return VALUES[i];
+                }
+
+                if (VALUES[i].getNationalPokedexInteger() < nationalDex) {
+                    break;
+                }
+            }
+
+            return null;
+        }
     }
 }

@@ -45,7 +45,6 @@ public class PokemonConfig {
             info = "EDIT ENUM [name:{},dex:{}]";
         }
         ArrayList<IEnumForm> iEnumForms = new ArrayList<>();
-        if (this.model != null) iEnumForms.add(EnumNoForm.NoForm);
 
         if (this.forms != null && this.forms.length >= 1) {
             for (EnumForm.FormData formData : this.forms) {

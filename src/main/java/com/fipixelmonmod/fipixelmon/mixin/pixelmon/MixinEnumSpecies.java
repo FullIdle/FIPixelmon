@@ -8,6 +8,7 @@ import com.google.common.collect.Lists;
 import com.google.common.collect.MultimapBuilder;
 import com.google.common.collect.Multimaps;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
+import com.pixelmonmod.pixelmon.enums.forms.EnumNoForm;
 import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
 import lombok.SneakyThrows;
 import org.spongepowered.asm.mixin.Final;
@@ -22,6 +23,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 import java.util.zip.ZipFile;
 
@@ -95,12 +97,24 @@ public abstract class MixinEnumSpecies {
             remap = false)
     private static void formsRegister(CallbackInfo ci) {
         formList = MultimapBuilder.enumKeys(EnumSpecies.class).arrayListValues(1).build(formList);
+        EnumSpecies species;
+        List<IEnumForm> forms;
+        List<IEnumForm> temp;
         for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet()) {
+            species = entry.getKey();
             if (entry.getValue().isEdit() && entry.getValue().isEditReplace()) {
-                formList.removeAll(entry.getKey());
+                formList.removeAll(species);
             }
             for (IEnumForm form : entry.getValue().getEnumForm()) {
-                formList.put(entry.getKey(), form);
+                formList.put(species, form);
+            }
+            //检查是否该精灵是否拥有形态
+            if (formList.containsKey(species)) {
+                //拥有形态则获取处理后的所有形态并算出非临时形态的数量
+                temp = Lists.newArrayList(forms = formList.get(species));
+                temp.removeIf(IEnumForm::isTemporary);
+                //全是临时形态的时候增加一个非临时形态的普通形态
+                if (temp.isEmpty()) forms.add(0, EnumNoForm.NoForm);
             }
         }
         formList = Multimaps.unmodifiableListMultimap(formList);

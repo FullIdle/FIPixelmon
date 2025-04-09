@@ -42,21 +42,37 @@ public abstract class MixinPixelmonModelRegistry {
     @Final
     private static EnumMap<EnumSpecies, PixelmonModelHolder<?>> modelRegistry;
 
+    @Shadow
+    @Final
+    private static Map<EnumSpecies, Map<IEnumForm, PixelmonModelHolder<?>>> flyingModelRegistry;
+
     @Inject(method = "init", remap = false,
             at = @At("TAIL")
     )
     private static void init(CallbackInfo ci) {
+        EnumSpecies es;
+        PokemonConfig pokemonConfig;
+        String formFlyPath;
         for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet()) {
-            EnumSpecies es = entry.getKey();
-            for (IEnumForm form : entry.getValue().getEnumForm()) {
-                boolean b = form == EnumNoForm.NoForm;
-                ResourceLocation model = new ResourceLocation("pixelmon",
-                        fIPixelmon$formatPath((b ? entry.getValue().getModel() : ((EnumForm) form).getData().getModel())));
-                addModel(es, form, new PixelmonSmdFactory(model));
-                String flyingModelPath = b ? entry.getValue().getFlyingModel() : ((EnumForm) form).getData().getFlyingModel();
-                if (flyingModelPath != null) {
+            es = entry.getKey();
+            pokemonConfig = entry.getValue();
+            if (es.getDefaultForms().contains(EnumNoForm.NoForm)) {
+                addModel(es, EnumNoForm.NoForm, new PixelmonSmdFactory(
+                        new ResourceLocation("pixelmon", fIPixelmon$formatPath(pokemonConfig.getModel()))
+                ));
+                if (pokemonConfig.getFlyingModel() != null)
+                    addFlyingModel(es, EnumNoForm.NoForm, new PixelmonSmdFactory(
+                            new ResourceLocation("pixelmon", fIPixelmon$formatPath(pokemonConfig.getFlyingModel()))
+                    ));
+            }
+
+            for (IEnumForm form : pokemonConfig.getEnumForm()) {
+                addModel(es, form, new PixelmonSmdFactory(
+                        new ResourceLocation("pixelmon", fIPixelmon$formatPath(((EnumForm) form).getData().getModel()))
+                ));
+                if ((formFlyPath = ((EnumForm) form).getData().getFlyingModel()) != null) {
                     addFlyingModel(es, form, new PixelmonSmdFactory(new ResourceLocation("pixelmon",
-                            fIPixelmon$formatPath(flyingModelPath))));
+                            fIPixelmon$formatPath(formFlyPath))));
                 }
             }
         }

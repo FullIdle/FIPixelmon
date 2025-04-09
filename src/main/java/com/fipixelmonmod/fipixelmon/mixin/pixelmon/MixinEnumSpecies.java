@@ -100,9 +100,10 @@ public abstract class MixinEnumSpecies {
         EnumSpecies species;
         List<IEnumForm> forms;
         List<IEnumForm> temp;
+        boolean isCovered;
         for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet()) {
             species = entry.getKey();
-            if (entry.getValue().isEdit() && entry.getValue().isEditReplace()) {
+            if (isCovered = (entry.getValue().isEdit() && entry.getValue().isEditReplace())) {
                 formList.removeAll(species);
             }
             for (IEnumForm form : entry.getValue().getEnumForm()) {
@@ -113,9 +114,18 @@ public abstract class MixinEnumSpecies {
                 //拥有形态则获取处理后的所有形态并算出非临时形态的数量
                 temp = Lists.newArrayList(forms = formList.get(species));
                 temp.removeIf(IEnumForm::isTemporary);
+
+                //如果是覆盖的情况下,且没有NoForm则增加一个默认形态
+                if (isCovered && !temp.contains(EnumNoForm.NoForm)) {
+                    forms.add(0, EnumNoForm.NoForm);
+                }
+
                 //全是临时形态的时候增加一个非临时形态的普通形态
                 if (temp.isEmpty()) forms.add(0, EnumNoForm.NoForm);
+                continue;
             }
+            //没有形态则增加一个默认形态
+            formList.put(species, EnumNoForm.NoForm);
         }
         formList = Multimaps.unmodifiableListMultimap(formList);
     }

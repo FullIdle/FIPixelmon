@@ -3,7 +3,6 @@ package com.fipixelmonmod.fipixelmon.data;
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.enums.EnumForm;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
-import com.pixelmonmod.pixelmon.enums.forms.EnumNoForm;
 import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
 import lombok.Getter;
 import lombok.Setter;

@@ -30,19 +30,24 @@ public class PokemonConfig {
     transient private File fromZip = null;
     transient private boolean isEdit = false;
 
+    //在EnumSpecies的$VAULT被初始化并被第一次条用之前进行注入
     public void inject() {
         String info;
         EnumSpecies fromDex = getFromDex(this.dex);
+        //判断是否存在这个编号的精灵
         if (fromDex == null) {
+            //进行注册
             this.species = EnumHelper.addEnum(EnumSpecies.class, this.name, new Class<?>[]{int.class, String.class}, this.dex, this.name);
             info = "REGISTERED ENUM [name:{},dex:{}]";
         } else {
+            //进行修改
             this.species = fromDex;
             if (!species.name.equals(this.name))
                 ReflectionHelper.setPrivateValue(EnumSpecies.class, this.species, this.name, "name", "name");
             this.isEdit = true;
             info = "EDIT ENUM [name:{},dex:{}]";
         }
+        //形态
         ArrayList<IEnumForm> iEnumForms = new ArrayList<>();
 
         if (this.forms != null && this.forms.length >= 1) {

@@ -42,9 +42,14 @@ repositories {
 }
 
 dependencies {
+    //minecraft
     minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2860'
 
+    //宝可梦
     compileOnly 'com.pixelmonmod.pixelmon:Pixelmon:1.12.2-8.4.3'
+
+
+    //mixin
     annotationProcessor 'org.ow2.asm:asm-debug-all:5.2'
     annotationProcessor 'com.google.guava:guava:32.1.2-jre'
     annotationProcessor 'com.google.code.gson:gson:2.8.9'
@@ -55,9 +60,11 @@ dependencies {
         transitive = false
     }
 
+    //test
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 
+    //lombok
     compileOnly 'org.projectlombok:lombok:1.18.28'
     annotationProcessor 'org.projectlombok:lombok:1.18.28'
 }

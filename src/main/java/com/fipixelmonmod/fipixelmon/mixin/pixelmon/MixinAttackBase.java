@@ -23,6 +23,7 @@ public class MixinAttackBase {
     @Final
     public static Gson GSON = (new GsonBuilder())
             .setPrettyPrinting()
+            //增加物种适配器
             .registerTypeAdapter(EnumSpecies.class, EnumSpeciesAdapter.INSTANCE)
             .registerTypeAdapter(EffectBase.class, new EffectTypeAdapter())
             .registerTypeAdapter(AttackAnimation.class, AttackAnimationTypeAdapter.ADAPTER)

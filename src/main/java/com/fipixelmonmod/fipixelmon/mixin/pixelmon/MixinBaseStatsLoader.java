@@ -41,6 +41,7 @@ public class MixinBaseStatsLoader {
     @Final
     public static transient Gson GSON = (new GsonBuilder())
             .setPrettyPrinting()
+            //增加物种适配器
             .registerTypeAdapter(EnumSpecies.class, EnumSpeciesAdapter.INSTANCE)
             .registerTypeAdapter(Evolution.class, new EvolutionTypeAdapter())
             .registerTypeAdapter(EvoCondition.class, new EvoConditionTypeAdapter())

@@ -2,6 +2,7 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
+import com.fipixelmonmod.fipixelmon.enums.EnumForm;
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.google.common.collect.ListMultimap;
 import com.google.common.collect.Lists;
@@ -116,15 +117,18 @@ public abstract class MixinEnumSpecies {
                 temp.removeIf(IEnumForm::isTemporary);
 
                 //如果是覆盖的情况下,且没有NoForm则增加一个默认形态
-                if (isCovered && !temp.contains(EnumNoForm.NoForm)) {
+                if (isCovered && !temp.contains(EnumNoForm.NoForm))
                     forms.add(0, EnumNoForm.NoForm);
-                }
+
+                //排除已FIP增加的形态(因为上面的覆盖判断需要带上FIP增加的形态进行判断)
+                temp.removeIf(form -> form instanceof EnumForm);
 
                 //全是临时形态的时候增加一个非临时形态的普通形态
                 if (temp.isEmpty()) forms.add(0, EnumNoForm.NoForm);
                 continue;
             }
             //没有形态则增加一个默认形态
+            System.out.println(species.getNationalPokedexInteger()+"增加了默认形态");
             formList.put(species, EnumNoForm.NoForm);
         }
         formList = Multimaps.unmodifiableListMultimap(formList);

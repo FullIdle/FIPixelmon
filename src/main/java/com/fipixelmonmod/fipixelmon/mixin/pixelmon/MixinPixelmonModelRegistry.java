@@ -57,9 +57,10 @@ public abstract class MixinPixelmonModelRegistry {
             es = entry.getKey();
             pokemonConfig = entry.getValue();
             if (es.getDefaultForms().contains(EnumNoForm.NoForm)) {
-                addModel(es, EnumNoForm.NoForm, new PixelmonSmdFactory(
-                        new ResourceLocation("pixelmon", fIPixelmon$formatPath(pokemonConfig.getModel()))
-                ));
+                if (pokemonConfig.getModel() != null)
+                    addModel(es, EnumNoForm.NoForm, new PixelmonSmdFactory(
+                            new ResourceLocation("pixelmon", fIPixelmon$formatPath(pokemonConfig.getModel()))
+                    ));
                 if (pokemonConfig.getFlyingModel() != null)
                     addFlyingModel(es, EnumNoForm.NoForm, new PixelmonSmdFactory(
                             new ResourceLocation("pixelmon", fIPixelmon$formatPath(pokemonConfig.getFlyingModel()))

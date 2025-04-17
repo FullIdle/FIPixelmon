@@ -39,6 +39,15 @@ repositories {
         url "http://server.pokemtd.top:31647/snapshots"
     }
     maven { url "https://maven.cleanroommc.com" }
+
+    maven {
+        name = 'GeckoLib'
+        url 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+        content {
+            includeGroupByRegex("software\\.bernie.*")
+            includeGroup("com.eliotlash.mclib")
+        }
+    }
 }
 
 dependencies {
@@ -47,6 +56,10 @@ dependencies {
 
     //宝可梦
     compileOnly fg.deobf('com.pixelmonmod.pixelmon:Pixelmon:1.12.2-8.4.3')
+
+    //gecko
+    compileOnly fg.deobf("software.bernie.geckolib:geckolib-forge-1.12.2:${geckolib_version}")
+    compileOnly("com.eliotlash.mclib:mclib:20")
 
     //mixin
     annotationProcessor 'org.ow2.asm:asm-debug-all:5.2'

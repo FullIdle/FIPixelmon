@@ -20,6 +20,9 @@
 
 QQ群聊: 775364107
 
+## 下载
+九域论坛[下载](https://bbs.mc9y.net/resources/1018/)
+
 ## 许可
 
 本项目采用 [GPL v3](LICENSE) 许可。

@@ -40,6 +40,7 @@ public class FIPixelmon {
     public static File langFolder;
     public static File modelsFolder;
     public static File texturesFolder;
+    public static File movesFolder;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent e) {

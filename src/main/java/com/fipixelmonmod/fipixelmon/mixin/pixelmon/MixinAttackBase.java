@@ -14,7 +14,7 @@ import com.pixelmonmod.pixelmon.battles.attacks.animations.AttackAnimationData;
 import com.pixelmonmod.pixelmon.battles.attacks.animations.AttackAnimationDataAdapter;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import com.pixelmonmod.pixelmon.util.ResourceLocationAdapter;
-import lombok.val;
+import com.pixelmonmod.pixelmon.util.helpers.RCFileHelper;
 import net.minecraft.util.ResourceLocation;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
@@ -60,15 +60,15 @@ public class MixinAttackBase {
             )
     )
     private static void loadAllAttacks(CallbackInfo ci) {
-        val files = FIPixelmon.movesFolder.listFiles();
-        if (files != null) for (File file : files) {
-            if (!file.getName().endsWith(".json")) continue;
+        ArrayList<File> files = new ArrayList();
+        RCFileHelper.recursiveJSONSearch(FIPixelmon.movesFolder.getPath(), files);
+        for (File moveFile : files) {
             try {
-                AttackBase ab = GSON.fromJson(new FileReader(file), AttackBase.class);
+                AttackBase ab = GSON.fromJson(new FileReader(moveFile), AttackBase.class);
                 ATTACKS.add(ab);
                 ATTACK_MAP.put(ab.getAttackName().toLowerCase(), ab);
             } catch (JsonIOException | FileNotFoundException | JsonSyntaxException e) {
-                Pixelmon.LOGGER.error("Unable to load external move JSON " + file.getName());
+                Pixelmon.LOGGER.error("Unable to load external move JSON " + moveFile.getName());
                 e.printStackTrace();
             }
         }

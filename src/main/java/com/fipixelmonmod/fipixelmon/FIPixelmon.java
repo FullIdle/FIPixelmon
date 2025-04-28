@@ -2,6 +2,7 @@ package com.fipixelmonmod.fipixelmon;
 
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.google.gson.Gson;
+import com.pixelmonmod.pixelmon.client.render.RenderPixelmon;
 import lombok.SneakyThrows;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.text.translation.I18n;
@@ -77,12 +78,6 @@ public class FIPixelmon {
                     bins.close();
                 }
             }
-        }
-
-        for (Map.Entry<ResourceLocation, GeoModel> entry : GeckoLibCache.getInstance().getGeoModels().entrySet()) {
-            System.out.println("====");
-            System.out.println(entry.getKey());
-            System.out.println(entry.getValue());
         }
 
         //初始化

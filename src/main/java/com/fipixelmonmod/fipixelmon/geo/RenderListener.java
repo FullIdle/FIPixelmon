@@ -15,7 +15,6 @@ public class RenderListener {
      * */
     @SubscribeEvent
     public static void bindEntityRenderer(ModelRegistryEvent event) {
-        if (!GeckoLib.hasInitialized) GeckoLib.initialize();
         RenderingRegistry.registerEntityRenderingHandler(EntityPixelmon.class, GeoRender::new);
     }
 }

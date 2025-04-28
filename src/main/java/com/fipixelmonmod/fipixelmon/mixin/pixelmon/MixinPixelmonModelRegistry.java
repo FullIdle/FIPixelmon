@@ -8,7 +8,10 @@ import com.pixelmonmod.pixelmon.client.models.PixelmonSmdFactory;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import com.pixelmonmod.pixelmon.enums.forms.EnumNoForm;
 import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
+import lombok.val;
+import net.minecraft.client.Minecraft;
 import net.minecraft.util.ResourceLocation;
+import net.minecraftforge.fml.relauncher.ReflectionHelper;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
@@ -16,6 +19,10 @@ import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import software.bernie.geckolib3.GeckoLib;
+import software.bernie.geckolib3.file.AnimationFileLoader;
+import software.bernie.geckolib3.file.GeoModelLoader;
+import software.bernie.geckolib3.resource.GeckoLibCache;
 
 import java.util.EnumMap;
 import java.util.Map;
@@ -53,9 +60,35 @@ public abstract class MixinPixelmonModelRegistry {
         EnumSpecies es;
         PokemonConfig pokemonConfig;
         String formFlyPath;
+
+        //TODO geo
+        if (!GeckoLib.hasInitialized) GeckoLib.initialize();
+        val geckoLibCache = GeckoLibCache.getInstance();
+        val animations = geckoLibCache.getAnimations();
+        val geoModels = geckoLibCache.getGeoModels();
+        AnimationFileLoader animationLoader = ReflectionHelper.getPrivateValue(GeckoLibCache.class, geckoLibCache, "animationLoader");
+        GeoModelLoader modelLoader = ReflectionHelper.getPrivateValue(GeckoLibCache.class, geckoLibCache, "modelLoader");
+        val resourceManager = Minecraft.getMinecraft().getResourceManager();
+        ResourceLocation location;
+
         for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet()) {
             es = entry.getKey();
             pokemonConfig = entry.getValue();
+
+            //TODO geo
+            if (pokemonConfig.getGeoModel() != null) {
+                animations.put(
+                        location = new ResourceLocation("pixelmon", pokemonConfig.getGeoAnimation()),
+                        animationLoader.loadAllAnimations(geckoLibCache.parser,location, resourceManager)
+                );
+
+                geoModels.put(
+                        location = new ResourceLocation("pixelmon", pokemonConfig.getGeoModel()),
+                        modelLoader.loadModel(resourceManager, location)
+                );
+            }
+
+            //TODO pixelmon
             if (es.getDefaultForms().contains(EnumNoForm.NoForm)) {
                 if (pokemonConfig.getModel() != null)
                     addModel(es, EnumNoForm.NoForm, new PixelmonSmdFactory(

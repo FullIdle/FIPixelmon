@@ -31,11 +31,6 @@ public class FIPDataFolderResourcePack extends FolderResourcePack implements FIP
     }
 
     @Override
-    public Set<String> getResourceDomains() {
-        return Collections.singleton("pixelmon");
-    }
-
-    @Override
     protected InputStream getInputStreamByName(String resourceName) throws IOException {
         try {
             return super.getInputStreamByName(resourceName);

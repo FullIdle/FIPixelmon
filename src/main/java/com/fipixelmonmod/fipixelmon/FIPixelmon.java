@@ -1,31 +1,20 @@
 package com.fipixelmonmod.fipixelmon;
 
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
-import com.fipixelmonmod.fipixelmon.mixin.pixelmon.MixinEntityPixelmon;
-import com.fipixelmonmod.fipixelmon.test.RenderTest;
 import com.google.gson.Gson;
-import com.pixelmonmod.pixelmon.client.gui.fishingLog.GuiFishingLogInformation;
-import com.pixelmonmod.pixelmon.entities.pixelmon.EntityPixelmon;
 import lombok.SneakyThrows;
-import net.minecraft.client.Minecraft;
-import net.minecraft.client.resources.IResource;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.text.translation.I18n;
 import net.minecraft.util.text.translation.LanguageMap;
-import net.minecraftforge.client.event.ModelRegistryEvent;
-import net.minecraftforge.fml.client.registry.RenderingRegistry;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.relauncher.ReflectionHelper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import software.bernie.geckolib3.GeckoLib;
 import software.bernie.geckolib3.geo.render.built.GeoModel;
 import software.bernie.geckolib3.resource.GeckoLibCache;
-import software.bernie.geckolib3.util.GeckoLibUtil;
 
 import java.io.BufferedInputStream;
 import java.io.File;
@@ -41,7 +30,6 @@ import java.util.zip.ZipFile;
         version = FIPixelmon.VERSION,
         dependencies = "required-after:pixelmon@[1.12.2-8.4.3,)"
 )
-@Mod.EventBusSubscriber(modid = "fipixelmon")
 public class FIPixelmon {
     public static final String MODID = "fipixelmon";
     public static final String MODNAME = "FIPixelmon Mod";
@@ -103,19 +91,5 @@ public class FIPixelmon {
 
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent e) {
-    }
-
-    @SubscribeEvent
-    public static void bindEntityRenderer(ModelRegistryEvent event) {
-        // 自然也可以用 method reference。这里写成 lambda 只是为了更加明显。
-
-        if (!GeckoLib.hasInitialized) {
-            GeckoLib.initialize();
-        }
-
-        FIPixelmon.logger.info("TESTETESTSETSETSETESTESTESTSE");
-/*
-        RenderingRegistry.registerEntityRenderingHandler(EntityPixelmon.class, RenderTest::new);
-*/
     }
 }

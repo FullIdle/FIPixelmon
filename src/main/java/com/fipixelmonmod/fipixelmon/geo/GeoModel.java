@@ -1,21 +1,21 @@
-package com.fipixelmonmod.fipixelmon.test;
+package com.fipixelmonmod.fipixelmon.geo;
 
 import net.minecraft.util.ResourceLocation;
 import software.bernie.geckolib3.model.AnimatedGeoModel;
 
-public class ModelTest extends AnimatedGeoModel {
+public class GeoModel extends AnimatedGeoModel {
     @Override
-    public ResourceLocation getModelLocation(Object o) {
+    public ResourceLocation getModelLocation(Object entity) {
         return new ResourceLocation("fipixelmon", "geo/test.geo.json");
     }
 
     @Override
-    public ResourceLocation getTextureLocation(Object o) {
+    public ResourceLocation getTextureLocation(Object entity) {
         return new ResourceLocation("fipixelmon", "textures/test.png");
     }
 
     @Override
-    public ResourceLocation getAnimationFileLocation(Object o) {
+    public ResourceLocation getAnimationFileLocation(Object entity) {
         return new ResourceLocation("fipixelmon", "animations/test.animation.json");
     }
 }

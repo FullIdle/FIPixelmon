@@ -27,7 +27,7 @@ minecraft {
 }
 
 group = 'com.fipixelmonmod.fipixelmon.FIPixelmon'
-version = '1.2.6-STABLE'
+version = '1.2.7-STABLE'
 def modid = 'fipixelmon'
 
 //depend

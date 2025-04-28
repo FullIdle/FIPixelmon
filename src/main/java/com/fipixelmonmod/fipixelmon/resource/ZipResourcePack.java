@@ -23,11 +23,6 @@ public class ZipResourcePack extends FileResourcePack implements FIPResourcePack
     }
 
     @Override
-    public Set<String> getResourceDomains() {
-        return Collections.singleton("pixelmon");
-    }
-
-    @Override
     protected InputStream getInputStreamByName(String resourceName) throws IOException {
         try {
             return super.getInputStreamByName(resourceName);

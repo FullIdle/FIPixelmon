@@ -59,6 +59,7 @@ public abstract class MixinPixelmonModelRegistry {
     private static void init(CallbackInfo ci) {
         EnumSpecies es;
         PokemonConfig pokemonConfig;
+        String formPath;
         String formFlyPath;
 
         //TODO geo
@@ -100,10 +101,16 @@ public abstract class MixinPixelmonModelRegistry {
                     ));
             }
 
+
+            /*
+            形态
+            * */
             for (IEnumForm form : pokemonConfig.getEnumForm()) {
-                addModel(es, form, new PixelmonSmdFactory(
-                        new ResourceLocation("pixelmon", fIPixelmon$formatPath(((EnumForm) form).getData().getModel()))
-                ));
+                if ((formPath = ((EnumForm) form).getData().getModel()) != null) {
+                    addModel(es, form, new PixelmonSmdFactory(
+                            new ResourceLocation("pixelmon", fIPixelmon$formatPath(formPath))
+                    ));
+                }
                 if ((formFlyPath = ((EnumForm) form).getData().getFlyingModel()) != null) {
                     addFlyingModel(es, form, new PixelmonSmdFactory(new ResourceLocation("pixelmon",
                             fIPixelmon$formatPath(formFlyPath))));

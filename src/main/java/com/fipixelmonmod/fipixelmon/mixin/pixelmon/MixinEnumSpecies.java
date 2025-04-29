@@ -128,7 +128,7 @@ public abstract class MixinEnumSpecies {
                 continue;
             }
             //没有形态则增加一个默认形态
-            System.out.println(species.getNationalPokedexInteger()+"增加了默认形态");
+            System.out.println(species.getNationalPokedexInteger()+" added default shapes");
             formList.put(species, EnumNoForm.NoForm);
         }
         formList = Multimaps.unmodifiableListMultimap(formList);

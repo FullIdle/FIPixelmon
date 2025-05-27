@@ -77,20 +77,18 @@ public abstract class MixinPixelmonModelRegistry {
             pokemonConfig = entry.getValue();
 
             //TODO geo
+            //TODO pixelmon
             if (pokemonConfig.getGeoModel() != null) {
                 animations.put(
                         location = new ResourceLocation("pixelmon", pokemonConfig.getGeoAnimation()),
-                        animationLoader.loadAllAnimations(geckoLibCache.parser,location, resourceManager)
+                        animationLoader.loadAllAnimations(geckoLibCache.parser, location, resourceManager)
                 );
 
                 geoModels.put(
                         location = new ResourceLocation("pixelmon", pokemonConfig.getGeoModel()),
                         modelLoader.loadModel(resourceManager, location)
                 );
-            }
-
-            //TODO pixelmon
-            if (es.getDefaultForms().contains(EnumNoForm.NoForm)) {
+            } else if (es.getDefaultForms().contains(EnumNoForm.NoForm)) {
                 if (pokemonConfig.getModel() != null)
                     addModel(es, EnumNoForm.NoForm, new PixelmonSmdFactory(
                             new ResourceLocation("pixelmon", fIPixelmon$formatPath(pokemonConfig.getModel()))
@@ -105,13 +103,23 @@ public abstract class MixinPixelmonModelRegistry {
             /*
             形态
             * */
-            for (IEnumForm form : pokemonConfig.getEnumForm()) {
-                if ((formPath = ((EnumForm) form).getData().getModel()) != null) {
+            for (EnumForm form : (EnumForm[]) pokemonConfig.getEnumForm()) {
+                if (form.getData().getGeoModel() != null) {
+                    animations.put(
+                            location = new ResourceLocation("pixelmon", form.getData().getGeoAnimation()),
+                            animationLoader.loadAllAnimations(geckoLibCache.parser, location, resourceManager)
+                    );
+
+                    geoModels.put(
+                            location = new ResourceLocation("pixelmon", form.getData().getGeoModel()),
+                            modelLoader.loadModel(resourceManager, location)
+                    );
+                } else if ((formPath = form.getData().getModel()) != null) {
                     addModel(es, form, new PixelmonSmdFactory(
                             new ResourceLocation("pixelmon", fIPixelmon$formatPath(formPath))
                     ));
                 }
-                if ((formFlyPath = ((EnumForm) form).getData().getFlyingModel()) != null) {
+                if ((formFlyPath = form.getData().getFlyingModel()) != null) {
                     addFlyingModel(es, form, new PixelmonSmdFactory(new ResourceLocation("pixelmon",
                             fIPixelmon$formatPath(formFlyPath))));
                 }

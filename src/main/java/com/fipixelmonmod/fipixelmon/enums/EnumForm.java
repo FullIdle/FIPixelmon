@@ -46,6 +46,8 @@ public enum EnumForm implements IEnumForm {
         private String model = null;
         private String flyingModel = null;
         private boolean temporary = true;
+        private String geoModel = null;
+        private String geoAnimation = null;
         @Setter
         private transient EnumForm enumForm;
     }

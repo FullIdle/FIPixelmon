@@ -29,7 +29,6 @@ public class PokemonConfig {
     //geo
     private String geoModel = null;
     private String geoAnimation = null;
-    private String geoTexture = null;
 
     //transient
     transient private IEnumForm[] enumForm;

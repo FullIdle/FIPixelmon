@@ -20,7 +20,8 @@
     "pixelmon.MixinClientProxy",
     "pixelmon.MixinGuiHelper",
     "pixelmon.MixinPixelmonModelRegistry",
-    "pixelmon.MixinEntityPixelmon"
+    "pixelmon.MixinEntityPixelmon",
+    "pixelmon.MixinEntity2Client"
   ],
   "server": [
   ]

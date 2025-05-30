@@ -103,7 +103,7 @@ public abstract class MixinPixelmonModelRegistry {
             /*
             形态
             * */
-            for (EnumForm form : (EnumForm[]) pokemonConfig.getEnumForm()) {
+            for (EnumForm form : pokemonConfig.getEnumForm()) {
                 if (form.getData().getGeoModel() != null) {
                     animations.put(
                             location = new ResourceLocation("pixelmon", form.getData().getGeoAnimation()),

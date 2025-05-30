@@ -31,7 +31,7 @@ public class PokemonConfig {
     private String geoAnimation = null;
 
     //transient
-    transient private IEnumForm[] enumForm;
+    transient private EnumForm[] enumForm;
     transient private EnumSpecies species;
     transient private File fromZip = null;
     transient private boolean isEdit = false;
@@ -54,17 +54,18 @@ public class PokemonConfig {
             info = "EDIT ENUM [name:{},dex:{}]";
         }
         //形态
-        ArrayList<IEnumForm> iEnumForms = new ArrayList<>();
+        ArrayList<EnumForm> EnumForms = new ArrayList<>();
 
         if (this.forms != null && this.forms.length >= 1) {
             for (EnumForm.FormData formData : this.forms) {
                 EnumForm enumForm = EnumHelper.addEnum(EnumForm.class, formData.getFormName(),
                         new Class<?>[]{EnumForm.FormData.class}, formData);
                 formData.setEnumForm(enumForm);
-                iEnumForms.add(enumForm);
+                EnumForms.add(enumForm);
             }
         }
-        this.enumForm = iEnumForms.toArray(new IEnumForm[0]);
+        this.enumForm = EnumForms
+                .toArray(new EnumForm[0]);
         FIPixelmon.logger.info(info, this.name, this.dex);
         extraPokemonConfig.put(this.species, this);
     }

@@ -78,7 +78,7 @@ public class GeoModel extends AnimatedGeoModel {
 
     private void setHeadRotation(EntityPixelmon entity, IBone head) {
         head.setRotationX(formatPitch(entity.rotationPitch));
-        head.setRotationY(formatYaw(entity.rotationYaw - entity.prevRotationYawHead));
+        head.setRotationY(formatYaw(entity.renderYawOffset - entity.rotationYawHead));
     }
 
     private float formatPitch(float pitch) {

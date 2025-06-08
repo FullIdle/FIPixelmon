@@ -7,6 +7,7 @@ import software.bernie.geckolib3.core.IAnimatable;
 import software.bernie.geckolib3.core.PlayState;
 import software.bernie.geckolib3.core.builder.AnimationBuilder;
 import software.bernie.geckolib3.core.controller.AnimationController;
+import software.bernie.geckolib3.core.event.predicate.AnimationEvent;
 
 import static com.fipixelmonmod.fipixelmon.geo.GeoAnimations.*;
 
@@ -14,13 +15,13 @@ public class GeoAnimationController extends AnimationController {
     public GeoAnimationController(IAnimatable animatable, String name, float transitionLengthTicks) {
         super(animatable, name, transitionLengthTicks, event -> {
             //控制器
-            event.getController().setAnimation(judgeAnimation((EntityPixelmon) event.getAnimatable()));
+            event.getController().setAnimation(judgeAnimation(event,(EntityPixelmon) event.getAnimatable()));
             //不会用，不管了就直接CONTINUE
             return PlayState.CONTINUE;
         });
     }
 
-    private static AnimationBuilder judgeAnimation(EntityPixelmon ep) {
+    private static AnimationBuilder judgeAnimation(AnimationEvent event,EntityPixelmon ep) {
         //空中处理
         if (ep.world.getBlockState(
                 new BlockPos(ep.posX, ep.posY - 0.5, ep.posZ)
@@ -33,7 +34,7 @@ public class GeoAnimationController extends AnimationController {
         }
 
         // 地面或水中行为判断
-        return getGroundAnimation(ep.isInWater(), ep.isSprinting());
+        return getGroundAnimation(ep.isInWater(), event.isMoving());
     }
 
     private static AnimationBuilder getGroundAnimation(boolean isInWater, boolean isMoving) {

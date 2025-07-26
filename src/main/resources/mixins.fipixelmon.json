@@ -15,6 +15,8 @@
   ],
   "client": [
     "pixelmon.MixinUIElement",
+    "pixelmon.MixinClientProxy",
+    "pixelmon.MixinGuiHelper",
     "pixelmon.MixinPixelmonModelRegistry"
   ],
   "server": [

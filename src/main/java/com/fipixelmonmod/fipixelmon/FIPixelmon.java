@@ -1,5 +1,6 @@
 package com.fipixelmonmod.fipixelmon;
 
+import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.google.gson.Gson;
 import lombok.SneakyThrows;
 import net.minecraft.util.text.translation.I18n;
@@ -17,6 +18,7 @@ import java.io.File;
 import java.io.InputStream;
 import java.lang.reflect.Method;
 import java.nio.file.Files;
+import java.util.zip.ZipFile;
 
 @Mod(
         modid = FIPixelmon.MODID,
@@ -31,11 +33,15 @@ public class FIPixelmon {
     public static final Logger logger = LogManager.getLogger("FIPixelmon");
     public static Gson GSON;
     public static File pokemonFolder;
+    public static File pokeballFolder;
+    public static File megastoneFolder;
     public static File fiPixelmonFolder;
     public static File statsFolder;
     public static File langFolder;
     public static File modelsFolder;
     public static File texturesFolder;
+    public static File movesFolder;
+
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent e) {
     }
@@ -51,7 +57,22 @@ public class FIPixelmon {
             return;
         }
         for (File file : files) {
-            inject.invoke(fallback,new BufferedInputStream(Files.newInputStream(file.toPath())));
+            if (file.getName().endsWith(".lang")) {
+                BufferedInputStream bins = new BufferedInputStream(Files.newInputStream(file.toPath()));
+                inject.invoke(fallback, bins);
+                bins.close();
+            }
+        }
+        //load zip lang config
+        for (File file : FileHelper.loadedZipFile) {
+            ZipFile zipFile = new ZipFile(file);
+            for (String lang : FileHelper.getZipFileList(zipFile, "lang")) {
+                if (lang.endsWith(".lang")) {
+                    BufferedInputStream bins = new BufferedInputStream(zipFile.getInputStream(zipFile.getEntry(lang)));
+                    inject.invoke(fallback, bins);
+                    bins.close();
+                }
+            }
         }
 
         //初始化
@@ -59,6 +80,6 @@ public class FIPixelmon {
     }
 
     @Mod.EventHandler
-    public void postInit(FMLPostInitializationEvent e){
+    public void postInit(FMLPostInitializationEvent e) {
     }
 }

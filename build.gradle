@@ -1,6 +1,10 @@
 buildscript {
     repositories {
-        maven { url = 'https://maven.minecraftforge.net/' }
+        mavenLocal()
+        maven {
+            allowInsecureProtocol = true
+            url = 'http://qiyuan.figsq.top:31647/snapshots'
+        }
         maven { url = 'https://repo.spongepowered.org/maven' }
         mavenCentral()
     }
@@ -21,37 +25,47 @@ java {
 //Forge
 minecraft {
     mappings channel: 'snapshot', version: '20171003-1.12'
+    accessTransformer 'src/main/resources/META-INF/accesstransformer.cfg'
 }
 
 group = 'com.fipixelmonmod.fipixelmon.FIPixelmon'
-version = '1.1'
+version = '1.2.7-STABLE'
 def modid = 'fipixelmon'
 
 //depend
 repositories {
     mavenCentral()
     mavenLocal()
-    maven { url 'https://raw.github.com/FullIdle/maven-repository/main/' }
+    maven {
+        allowInsecureProtocol = true
+        url "http://qiyuan.figsq.top:31647/snapshots"
+    }
     maven { url "https://maven.cleanroommc.com" }
 }
 
 dependencies {
+    //minecraft
     minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2860'
 
-    compileOnly 'com.pixelmonmod.pixelmon:Pixelmon:1.12.2-8.4.3'
+    //宝可梦
+    compileOnly fg.deobf('com.pixelmonmod.pixelmon:Pixelmon:1.12.2-8.4.3')
+
+    //mixin
     annotationProcessor 'org.ow2.asm:asm-debug-all:5.2'
     annotationProcessor 'com.google.guava:guava:32.1.2-jre'
     annotationProcessor 'com.google.code.gson:gson:2.8.9'
-    implementation('zone.rong:mixinbooter:8.8') {
+    implementation('zone.rong:mixinbooter:9.4') {
         transitive = false
     }
-    annotationProcessor('zone.rong:mixinbooter:8.8') {
+    annotationProcessor('zone.rong:mixinbooter:9.4') {
         transitive = false
     }
 
+    //test
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 
+    //lombok
     compileOnly 'org.projectlombok:lombok:1.18.28'
     annotationProcessor 'org.projectlombok:lombok:1.18.28'
 }
@@ -62,10 +76,13 @@ test {
 tasks.withType(JavaCompile) {
     options.encoding = "UTF-8"
 }
-/*processResources {
-    setFilteringCharset("UTF-8")
-    expand project.properties
-}*/
+
+processResources {
+    filteringCharset 'UTF-8'
+    filesMatching('mcmod.info') {
+        expand project.properties
+    }
+}
 
 //mixin
 mixin {

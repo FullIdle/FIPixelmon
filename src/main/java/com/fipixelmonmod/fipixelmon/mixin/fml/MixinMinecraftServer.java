@@ -1,0 +1,38 @@
+package com.fipixelmonmod.fipixelmon.mixin.fml;
+
+import com.fipixelmonmod.fipixelmon.FIPixelmon;
+import com.fipixelmonmod.fipixelmon.helper.FileHelper;
+import lombok.SneakyThrows;
+import net.minecraft.server.MinecraftServer;
+import net.minecraftforge.fml.relauncher.ReflectionHelper;
+import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.injection.At;
+import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+
+import java.io.File;
+import java.lang.reflect.Method;
+import java.net.URL;
+import java.net.URLClassLoader;
+import java.util.Enumeration;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipFile;
+
+@Mixin({MinecraftServer.class})
+public class MixinMinecraftServer {
+    @SneakyThrows
+    @Inject(method = {"<clinit>"}, at = {@At("HEAD")}, remap = false)
+    private static void clinit(CallbackInfo ci) {
+        Method method = ReflectionHelper.findMethod(URLClassLoader.class, "addURL", "addURL", URL.class);
+        ClassLoader classLoader = MinecraftServer.class.getClassLoader();
+        File[] files = FIPixelmon.fiPixelmonFolder.listFiles();
+        assert files != null;
+        for (File file : files) {
+            if (FileHelper.isZip(file)) {
+                FileHelper.loadedZipFile.add(file);
+                method.invoke(classLoader, file.toURI().toURL());
+            }
+        }
+    }
+}
+

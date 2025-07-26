@@ -3,7 +3,7 @@
   "modid": "fipixelmon",
   "name": "FIPixelmon Mod",
   "description": "A Pixelmon extend mod",
-  "version": "1.0",
+  "version": "${version}",
   "mcversion": "1.12.2",
   "forgeversion": "Forge 14.23.5.2860",
   "url": "",

@@ -32,14 +32,20 @@ public enum EnumForm implements IEnumForm {
         return "pixelmon." + data.pokeName.toLowerCase() + ".form." + this.name().toLowerCase();
     }
 
+    @Override
+    public boolean isTemporary() {
+        return this.data.temporary;
+    }
+
     @Setter
     @Getter
     public static class FormData {
-        private String pokeName;
-        private int form;
-        private String formName;
-        private String model;
-        private String flyingModel;
+        private String pokeName = "UNNAMED";
+        private int form = -1;
+        private String formName = "UNNAMED";
+        private String model = null;
+        private String flyingModel = null;
+        private boolean temporary = true;
         @Setter
         private transient EnumForm enumForm;
     }

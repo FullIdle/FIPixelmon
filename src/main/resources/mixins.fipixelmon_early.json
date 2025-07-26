@@ -7,9 +7,10 @@
   "target": "@env(DEFAULT)",
   "refmap": "mixins.fipixelmon.refmap.json",
   "mixins": [
+    "fml.MixinMinecraftServer"
   ],
   "client": [
-    "fml.MixinMinecraft"
+    "fml.MixinSimpleReloadableResourceManager"
   ],
   "server": [
   ]

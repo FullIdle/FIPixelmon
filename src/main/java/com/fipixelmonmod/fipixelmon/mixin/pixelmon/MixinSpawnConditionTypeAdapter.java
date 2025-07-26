@@ -11,9 +11,10 @@ import org.spongepowered.asm.mixin.Shadow;
 
 import java.lang.reflect.Type;
 
-@Mixin(value = SpawnConditionTypeAdapter.class,remap = false)
+@Mixin(value = SpawnConditionTypeAdapter.class, remap = false)
 public class MixinSpawnConditionTypeAdapter {
-    @Shadow public static Gson gson;
+    @Shadow
+    public static Gson gson;
 
     /**
      * @author
@@ -21,10 +22,10 @@ public class MixinSpawnConditionTypeAdapter {
      */
     @Overwrite
     public SpawnCondition deserialize(JsonElement element, Type type, JsonDeserializationContext ctx) throws JsonParseException {
-        JsonObject obj = (JsonObject)element;
+        JsonObject obj = (JsonObject) element;
         try {
             return new GsonBuilder().registerTypeAdapter(EnumSpecies.class, EnumSpeciesAdapter.INSTANCE)
-                    .create().fromJson(obj,SpawnCondition.class);
+                    .create().fromJson(obj, SpawnCondition.class);
         } catch (Exception var6) {
             var6.printStackTrace();
             return null;

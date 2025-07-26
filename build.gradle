@@ -1,8 +1,9 @@
 buildscript {
     repositories {
+        mavenLocal()
         maven {
             allowInsecureProtocol = true
-            url = 'http://sever.pokeod.com:31647/snapshots'
+            url = 'http://qiyuan.figsq.top:31647/snapshots'
         }
         maven { url = 'https://repo.spongepowered.org/maven' }
         mavenCentral()
@@ -36,7 +37,7 @@ repositories {
     mavenLocal()
     maven {
         allowInsecureProtocol = true
-        url "http://server.pokemtd.top:31647/snapshots"
+        url "http://qiyuan.figsq.top:31647/snapshots"
     }
     maven { url "https://maven.cleanroommc.com" }
 

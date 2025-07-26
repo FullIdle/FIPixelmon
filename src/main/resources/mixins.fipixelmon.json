@@ -9,16 +9,21 @@
   "mixins": [
     "pixelmon.MixinAttackBase",
     "pixelmon.MixinBaseStatsLoader",
+    "pixelmon.MixinEnumMegaItem",
+    "pixelmon.MixinEnumMegaItemsUnlocked",
+    "pixelmon.MixinEnumMegaPokemon",
+    "pixelmon.MixinEnumPokeballs",
     "pixelmon.MixinEnumSpecies",
     "pixelmon.MixinPixelmon",
-    "pixelmon.MixinSpawnConditionTypeAdapter",
-    "pixelmon.MixinEnumPokeballs",
+    "pixelmon.MixinPlayerPartyStorage",
     "pixelmon.MixinRegistryListener",
-    "pixelmon.MixinEnumMegaPokemon"
+    "pixelmon.MixinSetMegaItemHandler",
+    "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [
     "pixelmon.MixinClientProxy",
     "pixelmon.MixinGuiHelper",
+    "pixelmon.MixinGuiMegaItem",
     "pixelmon.MixinPixelmonModelRegistry"
   ],
   "server": [

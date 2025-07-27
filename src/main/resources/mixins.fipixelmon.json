@@ -25,6 +25,7 @@
     "pixelmon.MixinClientProxy",
     "pixelmon.MixinGuiHelper",
     "pixelmon.MixinGuiMegaItem",
+    "pixelmon.MixinGuiScreenPokeChecker",
     "pixelmon.MixinPixelmonModelRegistry"
   ],
   "server": [

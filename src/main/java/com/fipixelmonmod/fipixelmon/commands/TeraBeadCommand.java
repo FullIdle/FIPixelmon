@@ -1,5 +1,6 @@
 package com.fipixelmonmod.fipixelmon.commands;
 
+import com.fipixelmonmod.fipixelmon.helper.EnumMegaItemsUnlockedHelper;
 import com.fipixelmonmod.fipixelmon.helper.PlayerPartyStorageHelper;
 import com.pixelmonmod.pixelmon.Pixelmon;
 import com.pixelmonmod.pixelmon.api.command.PixelmonCommand;
@@ -24,7 +25,7 @@ public class TeraBeadCommand extends PixelmonCommand {
         this.resendWithMultipleTargets(sender, args, 0);
         EntityPlayerMP player = args.length == 1 ? requireEntityPlayer(args[0]) : requireEntityPlayer(sender);
         PlayerPartyStorage party = Pixelmon.storageManager.getParty(player);
-        if (!party.getMegaItemsUnlocked().canMega()) {
+        if (!EnumMegaItemsUnlockedHelper.canTerastal(party.getMegaItemsUnlocked())) {
             party.setMegaItem(EnumMegaItem.BraceletORAS, false);
             PlayerPartyStorageHelper.unlockTerastal(party);
             if (sender != player) {

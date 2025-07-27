@@ -16,6 +16,7 @@
     "pixelmon.MixinEnumSpecies",
     "pixelmon.MixinPixelmon",
     "pixelmon.MixinPlayerPartyStorage",
+    "pixelmon.MixinPokemon",
     "pixelmon.MixinRegistryListener",
     "pixelmon.MixinSetMegaItemHandler",
     "pixelmon.MixinSpawnConditionTypeAdapter"

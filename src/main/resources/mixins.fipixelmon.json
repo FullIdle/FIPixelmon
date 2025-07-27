@@ -14,6 +14,7 @@
     "pixelmon.MixinEnumMegaPokemon",
     "pixelmon.MixinEnumPokeballs",
     "pixelmon.MixinEnumSpecies",
+    "pixelmon.MixinEnumUpdateType",
     "pixelmon.MixinPixelmon",
     "pixelmon.MixinPlayerPartyStorage",
     "pixelmon.MixinPokemon",

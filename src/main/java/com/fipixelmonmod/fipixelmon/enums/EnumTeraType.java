@@ -1,7 +1,9 @@
 package com.fipixelmonmod.fipixelmon.enums;
 
 import com.pixelmonmod.pixelmon.util.ITranslatable;
+import lombok.Getter;
 import net.minecraft.util.IStringSerializable;
+import net.minecraft.util.ResourceLocation;
 
 public enum EnumTeraType implements ITranslatable, IStringSerializable {
     Stellar,
@@ -25,6 +27,9 @@ public enum EnumTeraType implements ITranslatable, IStringSerializable {
     Fairy;
 
     public static final String TERA_TYPE_KEY = "TeraType";
+
+    @Getter
+    private final ResourceLocation texture = new ResourceLocation("fipixelmon:textures/gui/teratype/" + this.getName().toLowerCase() + ".png");
 
     @Override
     public String getUnlocalizedName() {

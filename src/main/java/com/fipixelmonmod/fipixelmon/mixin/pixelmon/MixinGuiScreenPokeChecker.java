@@ -1,10 +1,15 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
+import com.fipixelmonmod.fipixelmon.helper.PokemonHelper;
+import com.pixelmonmod.pixelmon.Pixelmon;
 import com.pixelmonmod.pixelmon.api.pokemon.Pokemon;
+import com.pixelmonmod.pixelmon.api.storage.PokemonStorage;
 import com.pixelmonmod.pixelmon.battles.status.StatusType;
 import com.pixelmonmod.pixelmon.client.gui.GuiHelper;
 import com.pixelmonmod.pixelmon.client.gui.GuiResources;
 import com.pixelmonmod.pixelmon.client.gui.pokechecker.GuiScreenPokeChecker;
+import com.pixelmonmod.pixelmon.client.storage.ClientStorageManager;
+import lombok.val;
 import net.minecraft.client.gui.GuiScreen;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.client.resources.I18n;
@@ -46,6 +51,8 @@ public abstract class MixinGuiScreenPokeChecker extends GuiScreen {
     @Shadow
     public abstract void drawArrows(int mouseX, int mouseY);
 
+    @Shadow protected PokemonStorage storage;
+
     /**
      * @author FIGSQ
      * @reason 增加太晶内容
@@ -67,7 +74,17 @@ public abstract class MixinGuiScreenPokeChecker extends GuiScreen {
             this.drawCenteredString(this.mc.fontRenderer, "???/???", 140, -13, 14540253);
         }
 
-        this.drawString(this.mc.fontRenderer, I18n.format("gui.screenpokechecker.status"), -9, 111, 16777215);
+        //渲染状态字的地方
+        val teraType = PokemonHelper.getTeraType(pokemon);
+        if (teraType == null) {
+            //原版
+            this.drawString(this.mc.fontRenderer, I18n.format("gui.screenpokechecker.status"), -9, 111, 16777215);
+        } else {
+            this.drawString(this.mc.fontRenderer, I18n.format("gui.screenpokechecker.status"), -23, 111, 16777215);
+            this.drawString(this.mc.fontRenderer, "太晶属性", 9, 111, 16777215);
+        }
+        /*==><==*/
+
         this.drawString(this.mc.fontRenderer, I18n.format("gui.screenpokechecker.texp"), 107, 32, 16777215);
         this.drawCenteredString(this.mc.fontRenderer, I18n.format("gui.screenpokechecker.levelup"), 134, 56, 16777215);
         this.drawCenteredString(this.mc.fontRenderer, I18n.format("gui.screenpokechecker.dynamaxlevel"), 134, 80, 16777215);
@@ -134,10 +151,23 @@ public abstract class MixinGuiScreenPokeChecker extends GuiScreen {
         float textureX1 = texturePair[0];
         float textureY1 = texturePair[1];
         this.mc.renderEngine.bindTexture(GuiResources.status);
-        if (textureX1 != -1.0F) {
-            GuiHelper.drawImageQuad((float) (this.width - this.xSize) / 2.0F - 6.0F, (float) (this.height - this.ySize) / 2.0F + 130.0F, 24.0F, 24.0F, textureX1 / 768.0F, textureY1 / 512.0F, (textureX1 + 240.0F) / 768.0F, (textureY1 + 240.0F) / 512.0F, this.zLevel);
+        //渲染状态图标的地方
+        val teraType = PokemonHelper.getTeraType(pokemon);
+        //原版
+        if (teraType == null) {
+            if (textureX1 != -1.0F)
+                GuiHelper.drawImageQuad((float) (this.width - this.xSize) / 2.0F - 6.0F, (float) (this.height - this.ySize) / 2.0F + 130.0F, 24.0F, 24.0F, textureX1 / 768.0F, textureY1 / 512.0F, (textureX1 + 240.0F) / 768.0F, (textureY1 + 240.0F) / 512.0F, this.zLevel);
+            else
+                GuiHelper.drawImageQuad((float) (this.width - this.xSize) / 2.0F - 6.0F, (float) (this.height - this.ySize) / 2.0F + 130.0F, 24.0F, 24.0F, 0.34375F, 0.515625F, 0.65625F, 0.984375F, this.zLevel);
         } else {
-            GuiHelper.drawImageQuad((float) (this.width - this.xSize) / 2.0F - 6.0F, (float) (this.height - this.ySize) / 2.0F + 130.0F, 24.0F, 24.0F, 0.34375F, 0.515625F, 0.65625F, 0.984375F, this.zLevel);
+            //多个太晶
+            if (textureX1 != -1.0F)
+                GuiHelper.drawImageQuad((float) (this.width - this.xSize) / 2.0F - 26.0F, (float) (this.height - this.ySize) / 2.0F + 130.0F, 24.0F, 24.0F, textureX1 / 768.0F, textureY1 / 512.0F, (textureX1 + 240.0F) / 768.0F, (textureY1 + 240.0F) / 512.0F, this.zLevel);
+            else
+                GuiHelper.drawImageQuad((float) (this.width - this.xSize) / 2.0F - 26.0F, (float) (this.height - this.ySize) / 2.0F + 130.0F, 24.0F, 24.0F, 0.34375F, 0.515625F, 0.65625F, 0.984375F, this.zLevel);
+            //渲染太晶属性图
+            this.mc.renderEngine.bindTexture(teraType.getTexture());
+            GuiHelper.drawImageQuad((float) (this.width - this.xSize) / 2.0F + 15.0F, (float) (this.height - this.ySize) / 2.0F + 130.0F, 24.0F, 24.0F, 0.0F, 0.0F, 1.0F, 1.0F, this.zLevel);
         }
 
         this.drawPokemonName();

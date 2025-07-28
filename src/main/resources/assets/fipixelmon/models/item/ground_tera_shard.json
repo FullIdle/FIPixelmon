@@ -1,0 +1,6 @@
+{
+	"parent": "pixelmon:item/pixelmon_item",
+	"textures": {
+		"layer0": "fipixelmon:items/terashard/ground"
+	}
+}

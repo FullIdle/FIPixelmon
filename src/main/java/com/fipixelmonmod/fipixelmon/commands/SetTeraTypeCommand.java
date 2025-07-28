@@ -45,11 +45,15 @@ public class SetTeraTypeCommand extends PixelmonCommand {
                 return;
             }
             val teraType = EnumTeraType.getEnumTeraTypeFormName(args[2]);
-            if (teraType == null) {
+            if (teraType == null && !args[2].equalsIgnoreCase("none")) {
                 endCommand(args[2]+"不是合法的元素");
                 return;
             }
             PokemonHelper.setTeraType(pokemon, teraType);
+            if (teraType == null) {
+                this.sendMessage(sender, "%s 的太晶属性清理成功。", pokemon.getDisplayName());
+                return;
+            }
             this.sendMessage(sender, "%s 的太晶属性 %s 设置成功。", pokemon.getDisplayName(), teraType.getLocalizedName());
         } catch (NumberFormatException e) {
             endCommand(this.getUsage(sender));

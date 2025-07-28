@@ -9,6 +9,7 @@
   "mixins": [
     "pixelmon.MixinAttackBase",
     "pixelmon.MixinBaseStatsLoader",
+    "pixelmon.MixinCommonProxy",
     "pixelmon.MixinEnumMegaItem",
     "pixelmon.MixinEnumMegaItemsUnlocked",
     "pixelmon.MixinEnumMegaPokemon",

@@ -18,7 +18,7 @@ public class TeraOrbCommand extends PixelmonCommand {
     public static final TeraOrbCommand INSTANCE = new TeraOrbCommand();
 
     private TeraOrbCommand() {
-        super("teraord", "/teraord [player]", 2);
+        super("teraorb", "/teraorb [player]", 2);
     }
 
     public void execute(ICommandSender sender, String[] args) throws CommandException {

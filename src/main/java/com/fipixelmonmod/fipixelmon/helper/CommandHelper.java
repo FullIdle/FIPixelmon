@@ -7,7 +7,7 @@ public class CommandHelper {
     public static void register(FMLServerStartingEvent event){
         event.registerServerCommand(OpenScreenCommand.INSTANCE);
         event.registerServerCommand(ClearAllMegaItemCommand.INSTANCE);
-        event.registerServerCommand(TeraBeadCommand.INSTANCE);
+        event.registerServerCommand(TeraOrbCommand.INSTANCE);
         event.registerServerCommand(SetTeraTypeCommand.INSTANCE);
         event.registerServerCommand(LookTeraTypeCommand.INSTANCE);
     }

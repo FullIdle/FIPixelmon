@@ -14,11 +14,11 @@ import net.minecraft.util.math.BlockPos;
 
 import java.util.List;
 
-public class TeraBeadCommand extends PixelmonCommand {
-    public static final TeraBeadCommand INSTANCE = new TeraBeadCommand();
+public class TeraOrbCommand extends PixelmonCommand {
+    public static final TeraOrbCommand INSTANCE = new TeraOrbCommand();
 
-    private TeraBeadCommand() {
-        super("terabead", "/terabead [player]", 2);
+    private TeraOrbCommand() {
+        super("teraord", "/teraord [player]", 2);
     }
 
     public void execute(ICommandSender sender, String[] args) throws CommandException {

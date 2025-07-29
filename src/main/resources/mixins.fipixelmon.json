@@ -16,11 +16,15 @@
     "pixelmon.MixinEnumPokeballs",
     "pixelmon.MixinEnumSpecies",
     "pixelmon.MixinEnumUpdateType",
+    "pixelmon.MixinGuiResources",
+    "pixelmon.MixinIInventoryPixelmon",
+    "pixelmon.MixinInventoryPixelmon",
     "pixelmon.MixinPixelmon",
     "pixelmon.MixinPlayerPartyStorage",
     "pixelmon.MixinPokemon",
     "pixelmon.MixinRegistryListener",
     "pixelmon.MixinSetMegaItemHandler",
+    "pixelmon.MixinSlotInventoryPixelmon",
     "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [

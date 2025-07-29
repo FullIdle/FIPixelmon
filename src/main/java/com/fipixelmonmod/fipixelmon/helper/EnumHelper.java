@@ -10,13 +10,13 @@ import java.util.Arrays;
 /**
  * 不知道对不对，先写了
  */
+@SuppressWarnings("unchecked")
 public class EnumHelper {
     public static sun.misc.Unsafe unsafe = Unsafe.instance;
 
     /**
      * 需要注意缓存的清理
      */
-    @SuppressWarnings("unchecked")
     public static <T extends Enum<T>> void removeEnumSafely(Class<T> enumClass, T enumToRemove) {
         try {
             val offset = unsafe.staticFieldOffset(enumClass.getDeclaredField("$VALUES"));

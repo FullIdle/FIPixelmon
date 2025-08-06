@@ -12,6 +12,7 @@ import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import com.pixelmonmod.pixelmon.enums.forms.EnumNoForm;
 import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
 import lombok.SneakyThrows;
+import lombok.val;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Mutable;
@@ -24,6 +25,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import java.util.zip.ZipFile;
@@ -52,32 +54,27 @@ public abstract class MixinEnumSpecies {
             ),
             remap = false)
     private static void registerEnumSpecies(CallbackInfo ci) {
+        val configs = new ArrayList<PokemonConfig>();
         File[] files = FIPixelmon.pokemonFolder.listFiles();
-        if (files != null) {
-            for (File file : files) {
-                if (file.getName().endsWith(".json")) {
-                    PokemonConfig config = FIPixelmon.GSON.fromJson(new FileReader(file), PokemonConfig.class);
-                    config.inject();
-                }
-            }
-        }
+        if (files != null) for (File file : files)
+            if (file.getName().endsWith(".json"))
+                configs.add(FIPixelmon.GSON.fromJson(new FileReader(file), PokemonConfig.class));
         File[] list = FIPixelmon.fiPixelmonFolder.listFiles();
-        if (list != null) {
-            for (File file : list) {
-                if (!FileHelper.isZip(file)) continue;
-                ZipFile zipFile = new ZipFile(file);
-                for (String path : FileHelper.getZipFileList(zipFile, "pokemon")) {
-                    if (path.endsWith(".json")) {
-                        InputStreamReader reader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry(path)));
-                        PokemonConfig config = FIPixelmon.GSON.fromJson(reader, PokemonConfig.class);
-                        config.setFromZip(file);
-                        config.inject();
-                        reader.close();
-                    }
+        if (list != null) for (File file : list) {
+            if (!FileHelper.isZip(file)) continue;
+            ZipFile zipFile = new ZipFile(file);
+            for (String path : FileHelper.getZipFileList(zipFile, "pokemon"))
+                if (path.endsWith(".json")) {
+                    InputStreamReader reader = new InputStreamReader(zipFile.getInputStream(zipFile.getEntry(path)));
+                    PokemonConfig config = FIPixelmon.GSON.fromJson(reader, PokemonConfig.class);
+                    config.setFromZip(file);
+                    reader.close();
+                    configs.add(config);
                 }
-                zipFile.close();
-            }
+            zipFile.close();
         }
+        Collections.sort(configs);
+        configs.forEach(PokemonConfig::inject);
     }
 
     @Inject(method = "<clinit>",

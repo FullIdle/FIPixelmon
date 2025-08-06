@@ -16,7 +16,7 @@ import java.util.Map;
 
 @Getter
 @Setter
-public class PokemonConfig {
+public class PokemonConfig implements Comparable<PokemonConfig> {
     public static final Map<EnumSpecies, PokemonConfig> extraPokemonConfig = new HashMap<>();
     private String name = null;
     private int dex = -1;
@@ -88,5 +88,10 @@ public class PokemonConfig {
 
             return null;
         }
+    }
+
+    @Override
+    public int compareTo(PokemonConfig o) {
+        return Integer.compare(this.dex, o.dex);
     }
 }

@@ -2,9 +2,7 @@ package com.fipixelmonmod.fipixelmon;
 
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.google.gson.Gson;
-import com.pixelmonmod.pixelmon.client.render.RenderPixelmon;
 import lombok.SneakyThrows;
-import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.text.translation.I18n;
 import net.minecraft.util.text.translation.LanguageMap;
 import net.minecraftforge.fml.common.Mod;
@@ -14,15 +12,12 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.relauncher.ReflectionHelper;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import software.bernie.geckolib3.geo.render.built.GeoModel;
-import software.bernie.geckolib3.resource.GeckoLibCache;
 
 import java.io.BufferedInputStream;
 import java.io.File;
 import java.io.InputStream;
 import java.lang.reflect.Method;
 import java.nio.file.Files;
-import java.util.Map;
 import java.util.zip.ZipFile;
 
 @Mod(

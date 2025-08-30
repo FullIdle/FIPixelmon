@@ -103,7 +103,9 @@ public abstract class MixinPixelmonModelRegistry {
             /*
             形态
             * */
-            for (EnumForm form : pokemonConfig.getEnumForm()) {
+            for (IEnumForm iForm : pokemonConfig.getEnumForm()) {
+                if (!(iForm instanceof EnumForm)) continue;
+                val form = (EnumForm) iForm;
                 if (form.getData().getGeoModel() != null) {
                     animations.put(
                             location = new ResourceLocation("pixelmon", form.getData().getGeoAnimation()),

@@ -9,12 +9,12 @@
   "mixins": [
     "pixelmon.MixinAttackBase",
     "pixelmon.MixinBaseStatsLoader",
+    "pixelmon.MixinEnumMegaPokemon",
+    "pixelmon.MixinEnumPokeballs",
     "pixelmon.MixinEnumSpecies",
     "pixelmon.MixinPixelmon",
-    "pixelmon.MixinSpawnConditionTypeAdapter",
-    "pixelmon.MixinEnumPokeballs",
     "pixelmon.MixinRegistryListener",
-    "pixelmon.MixinEnumMegaPokemon"
+    "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [
     "pixelmon.MixinClientProxy",

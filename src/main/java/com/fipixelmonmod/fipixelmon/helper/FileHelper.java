@@ -16,6 +16,7 @@ public class FileHelper {
                 name.endsWith(".rar");
     }
 
+    @Deprecated
     public static List<String> getZipFileList(ZipFile zipFile,String path){
         path = repPath(path);
         Enumeration<? extends ZipEntry> entries = zipFile.entries();

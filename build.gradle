@@ -3,13 +3,13 @@ buildscript {
         mavenLocal()
         maven {
             allowInsecureProtocol = true
-            url = 'http://qiyuan.figsq.top:31647/snapshots'
+            url = 'http://server.pokemtd.top:31647/snapshots'
         }
         maven { url = 'https://repo.spongepowered.org/maven' }
         mavenCentral()
     }
     dependencies {
-        classpath 'net.minecraftforge.gradle:ForgeGradle:6.0.+'
+        classpath 'net.minecraftforge.gradle:ForgeGradle:6.0.42'
         classpath 'org.spongepowered:mixingradle:0.7-SNAPSHOT'
     }
 }
@@ -25,10 +25,11 @@ java {
 //Forge
 minecraft {
     mappings channel: 'snapshot', version: '20171003-1.12'
+    accessTransformer 'src/main/resources/META-INF/accesstransformer.cfg'
 }
 
 group = 'com.fipixelmonmod.fipixelmon.FIPixelmon'
-version = '1.2.7-STABLE'
+version = '1.2.8-STABLE'
 def modid = 'fipixelmon'
 
 //depend
@@ -37,7 +38,7 @@ repositories {
     mavenLocal()
     maven {
         allowInsecureProtocol = true
-        url "http://qiyuan.figsq.top:31647/snapshots"
+        url "http://server.pokemtd.top:31647/snapshots"
     }
     maven { url "https://maven.cleanroommc.com" }
 

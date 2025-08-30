@@ -31,7 +31,7 @@ QQ群聊: 775364107
 * 查看 ./minecraft内或 服务端根目录内是否有 FIPixelmonData 文件夹
 
 ## 构建
-1. 下载或克隆源码 `git clone https://github.com/FullIdle/FIPixelmon.git FIPixelmon`
+1. 下载或克隆源码 `git clone -b fipGecko https://github.com/FullIdle/FIPixelmon.git FIPixelmon`
 2. 进入源码文件夹目录 `cd FIPixelmon`
 3. 运行 `./gradlew build`
 

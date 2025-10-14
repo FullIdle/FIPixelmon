@@ -3,10 +3,7 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 import com.fipixelmonmod.fipixelmon.bridge.EnumSpeciesBridge;
 import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
 import com.fipixelmonmod.fipixelmon.enums.EnumForm;
-import com.google.common.collect.ListMultimap;
-import com.google.common.collect.Lists;
-import com.google.common.collect.MultimapBuilder;
-import com.google.common.collect.Multimaps;
+import com.google.common.collect.*;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import com.pixelmonmod.pixelmon.enums.forms.EnumNoForm;
 import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
@@ -20,9 +17,7 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 
 @Mixin(value = EnumSpecies.class, remap = false)
@@ -49,6 +44,8 @@ public abstract class MixinEnumSpecies implements EnumSpeciesBridge {
     @Shadow
     @Final
     public String name;
+
+    @Shadow public static Set<EnumSpecies> legendaries;
 
     @Invoker("<init>")
     private static EnumSpecies create(String enumName, int ordinal, int dex, String name) {
@@ -91,9 +88,14 @@ public abstract class MixinEnumSpecies implements EnumSpeciesBridge {
             remap = false)
     private static void cliTail(CallbackInfo ci) {
         ArrayList<EnumSpecies> list = Lists.newArrayList(LEGENDARY_ENUMS);
+        val set = new HashSet<>(legendaries);
         for (Map.Entry<EnumSpecies, PokemonConfig> entry : PokemonConfig.extraPokemonConfig.entrySet())
-            if (entry.getValue().isLegendary()) list.add(entry.getValue().getSpecies());
+            if (entry.getValue().isLegendary()) {
+                list.add(entry.getValue().getSpecies());
+                set.add(entry.getValue().getSpecies());
+            }
         LEGENDARY_ENUMS = list.toArray(new EnumSpecies[0]);
+        legendaries = Sets.immutableEnumSet(set);
     }
 
     @Inject(method = "<clinit>",

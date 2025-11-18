@@ -46,7 +46,7 @@ public class PokeBallConfig {
                     "pixelmon:" +
                             (textureDirectory.endsWith("/") ?
                                     textureDirectory :
-                                    ("/"+textureDirectory)
+                                    ("/" + textureDirectory)
                             )
             );
         }
@@ -55,21 +55,21 @@ public class PokeBallConfig {
         this.injectModel();
     }
 
-    public void bindPokeballTexture(){
+    public void bindPokeballTexture() {
         Minecraft.getMinecraft().renderEngine.bindTexture(this.guiTexResourceLocation);
     }
 
-    public void injectModel(){
+    public void injectModel() {
         if (this.ballModelName == null || this.ballModelPath == null) return;
         this.customModel = EnumHelper.addEnum(EnumCustomModel.class, this.ballModelName, modelEnumTypes, this.ballModelPath);
         FIPixelmon.logger.info("REGISTERED BALL MODEL [name:{},path:{}]", this.ballModelName, this.ballModelPath);
     }
 
-    public boolean hasCustomModel(){
+    public boolean hasCustomModel() {
         return this.customModel != null;
     }
 
-    public boolean hasCustomTextureDirectory(){
+    public boolean hasCustomTextureDirectory() {
         return this.textureDirectory != null;
     }
 }

@@ -9,12 +9,13 @@ import com.pixelmonmod.pixelmon.enums.forms.IEnumForm;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.val;
-import net.minecraftforge.common.util.EnumHelper;
 
-import java.io.*;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Stream;

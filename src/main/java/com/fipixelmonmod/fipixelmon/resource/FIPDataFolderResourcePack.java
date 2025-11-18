@@ -10,8 +10,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
-import java.util.Collections;
-import java.util.Set;
 
 public class FIPDataFolderResourcePack extends FolderResourcePack implements FIPResourcePack {
     public static final FIPDataFolderResourcePack instance = new FIPDataFolderResourcePack(FIPixelmon.fiPixelmonFolder);

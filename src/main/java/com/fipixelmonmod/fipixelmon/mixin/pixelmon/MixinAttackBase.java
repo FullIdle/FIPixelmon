@@ -47,9 +47,13 @@ public class MixinAttackBase {
             .registerTypeAdapter(ZMove.class, new ZMoveAdapter())
             .create();
 
-    @Shadow @Final public static transient ArrayList<AttackBase> ATTACKS;
+    @Shadow
+    @Final
+    public static transient ArrayList<AttackBase> ATTACKS;
 
-    @Shadow @Final private static Map<String, AttackBase> ATTACK_MAP;
+    @Shadow
+    @Final
+    private static Map<String, AttackBase> ATTACK_MAP;
 
     @Inject(
             method = "loadAllAttacks",

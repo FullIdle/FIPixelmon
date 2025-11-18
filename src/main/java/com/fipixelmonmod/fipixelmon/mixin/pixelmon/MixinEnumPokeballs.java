@@ -2,7 +2,6 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.data.PokeBallConfig;
-import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.pixelmonmod.pixelmon.client.models.pokeballs.ModelPokeballs;
 import com.pixelmonmod.pixelmon.enums.items.EnumPokeballs;
@@ -18,8 +17,8 @@ import java.io.FileReader;
 import java.io.InputStreamReader;
 import java.util.zip.ZipFile;
 
-@Mixin(value = EnumPokeballs.class,remap = false)
-public class MixinEnumPokeballs{
+@Mixin(value = EnumPokeballs.class, remap = false)
+public class MixinEnumPokeballs {
     @SneakyThrows
     @Inject(
             method = "<clinit>",
@@ -31,7 +30,7 @@ public class MixinEnumPokeballs{
             ),
             remap = false
     )
-    private static void regBallEnum(CallbackInfo ci){
+    private static void regBallEnum(CallbackInfo ci) {
         File[] files = FIPixelmon.pokeballFolder.listFiles();
         if (files != null) {
             for (File file : files) {
@@ -65,7 +64,7 @@ public class MixinEnumPokeballs{
             cancellable = true,
             remap = false
     )
-    private void getModel(CallbackInfoReturnable<ModelPokeballs> cir){
+    private void getModel(CallbackInfoReturnable<ModelPokeballs> cir) {
         if (PokeBallConfig.extraPokeBallConfig.containsKey(this)) {
             PokeBallConfig config = PokeBallConfig.extraPokeBallConfig.get(this);
             if (config.hasCustomModel()) {

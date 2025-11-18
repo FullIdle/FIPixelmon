@@ -2,7 +2,6 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.data.MegaStoneConfig;
-import com.fipixelmonmod.fipixelmon.data.PokeBallConfig;
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.pixelmonmod.pixelmon.enums.EnumMegaPokemon;
 import lombok.SneakyThrows;
@@ -16,7 +15,7 @@ import java.io.FileReader;
 import java.io.InputStreamReader;
 import java.util.zip.ZipFile;
 
-@Mixin(value = EnumMegaPokemon.class,remap = false)
+@Mixin(value = EnumMegaPokemon.class, remap = false)
 public class MixinEnumMegaPokemon {
     @SneakyThrows
     @Inject(
@@ -28,7 +27,7 @@ public class MixinEnumMegaPokemon {
             ),
             remap = false
     )
-    private static void regEnumMegaPokemon(CallbackInfo ci){
+    private static void regEnumMegaPokemon(CallbackInfo ci) {
         File[] files = FIPixelmon.megastoneFolder.listFiles();
         if (files != null) {
             for (File file : files) {

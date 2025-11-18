@@ -5,7 +5,8 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Getter
-public enum EnumForm implements IEnumForm{;
+public enum EnumForm implements IEnumForm {
+    ;
     private final FormData data;
 
     EnumForm(FormData data) {

@@ -45,7 +45,8 @@ public abstract class MixinEnumSpecies implements EnumSpeciesBridge {
     @Final
     public String name;
 
-    @Shadow public static Set<EnumSpecies> legendaries;
+    @Shadow
+    public static Set<EnumSpecies> legendaries;
 
     @Invoker("<init>")
     private static EnumSpecies create(String enumName, int ordinal, int dex, String name) {

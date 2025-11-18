@@ -30,7 +30,7 @@ public class MixinClientProxy {
             at = @At("HEAD"),
             remap = false
     )
-    private void loadSpritesToAtlas(TextureStitchEvent.Pre event, CallbackInfo ci){
+    private void loadSpritesToAtlas(TextureStitchEvent.Pre event, CallbackInfo ci) {
         {//FIPDataFile
             File file = new File(FIPixelmon.texturesFolder, "sprites");
             if (file.exists() && file.listFiles() != null) {
@@ -65,7 +65,7 @@ public class MixinClientProxy {
                         folderName = new StringBuilder(path.substring(path.substring(0, index).lastIndexOf('/') + 1, index));
                         if (folderName.length() > 0) folderName.append("/");
                         fileName = path.substring(index + 1, path.length() - 4);
-                        event.getMap().registerSprite(new ResourceLocation("pixelmon", "sprites/"+ folderName + fileName));
+                        event.getMap().registerSprite(new ResourceLocation("pixelmon", "sprites/" + folderName + fileName));
                     }
                 }
                 zipFile.close();

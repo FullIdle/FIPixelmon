@@ -8,7 +8,10 @@ import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
  */
 public interface EnumSpeciesBridge {
     void fIPixelmon$setName(String name);
+
     void fIPixelmon$setDex(int dex);
+
     boolean fIPixelmon$isCreatedInFIP();
+
     PokemonConfig fIPixelmon$getPokemonConfig();
 }

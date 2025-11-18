@@ -4,7 +4,10 @@ import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.fipixelmonmod.fipixelmon.resource.FIPDataFolderResourcePack;
 import com.fipixelmonmod.fipixelmon.resource.ZipResourcePack;
-import net.minecraft.client.resources.*;
+import net.minecraft.client.resources.FallbackResourceManager;
+import net.minecraft.client.resources.IResourceManager;
+import net.minecraft.client.resources.IResourcePack;
+import net.minecraft.client.resources.SimpleReloadableResourceManager;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
@@ -21,7 +24,10 @@ public abstract class MixinSimpleReloadableResourceManager implements IResourceM
     @Shadow
     public abstract void reloadResources(List<IResourcePack> p_110541_1_);
 
-    @Shadow @Final private Map<String, FallbackResourceManager> domainResourceManagers;
+    @Shadow
+    @Final
+    private Map<String, FallbackResourceManager> domainResourceManagers;
+
     @Inject(
             method = "reloadResourcePack",
             at = @At("TAIL")

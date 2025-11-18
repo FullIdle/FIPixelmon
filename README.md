@@ -21,15 +21,18 @@
 QQ群聊: 775364107
 
 ## 下载
+
 九域论坛[下载](https://bbs.mc9y.net/resources/1018/)
 
 ## 安装
+
 * 下载模组 jar 文件
 * 将 jar 文件放入客户端与服务端(混合端) /mods 文件夹中
 * 启动 客户端/服务端
 * 查看 ./minecraft内或 服务端根目录内是否有 FIPixelmonData 文件夹
 
 ## 构建
+
 1. 下载或克隆源码 `git clone https://github.com/FullIdle/FIPixelmon.git FIPixelmon`
 2. 进入源码文件夹目录 `cd FIPixelmon`
 3. 运行 `./gradlew build`

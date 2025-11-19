@@ -19,7 +19,7 @@ apply plugin: 'java'
 apply plugin: 'org.spongepowered.mixin'
 
 java {
-    sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
+    sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = JavaVersion.VERSION_1_8
 }
 
 //Forge
@@ -32,6 +32,16 @@ group = 'com.fipixelmonmod.fipixelmon.FIPixelmon'
 version = '1.2.8-STABLE'
 def modid = 'fipixelmon'
 
+configurations {
+    bundle {
+        canBeConsumed = false
+        canBeResolved = true
+    }
+
+    compileClasspath.extendsFrom bundle
+    runtimeClasspath.extendsFrom bundle
+}
+
 //depend
 repositories {
     mavenCentral()
@@ -41,6 +51,10 @@ repositories {
         url "http://localhost:31647/snapshots"
     }
     maven { url "https://maven.cleanroommc.com" }
+
+    flatDir {
+        dirs 'lib'
+    }
 }
 
 dependencies {
@@ -49,6 +63,8 @@ dependencies {
 
     //宝可梦
     compileOnly fg.deobf('com.pixelmonmod.pixelmon:Pixelmon:1.12.2-8.4.3')
+
+    bundle "jdk.nashorn.api:nashorn:1.0.0"
 
     //mixin
     annotationProcessor 'org.ow2.asm:asm-debug-all:5.2'
@@ -106,4 +122,11 @@ jar {
                 "FMLCorePluginContainsFMLMod": true
         ])
     }
+
+    from {
+        configurations.bundle.collect {
+            it.isDirectory() ? it : zipTree(it) }
+    }
+    exclude 'META-INF/*.SF', 'META-INF/*.DSA', 'META-INF/*.RSA'
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 }

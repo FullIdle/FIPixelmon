@@ -41,6 +41,7 @@ public class FIPixelmon {
     public static File modelsFolder;
     public static File texturesFolder;
     public static File movesFolder;
+    public static File abilitiesFolder;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent e) {

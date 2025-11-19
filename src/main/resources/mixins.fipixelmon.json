@@ -14,7 +14,9 @@
     "pixelmon.MixinEnumSpecies",
     "pixelmon.MixinPixelmon",
     "pixelmon.MixinRegistryListener",
-    "pixelmon.MixinSpawnConditionTypeAdapter"
+    "pixelmon.MixinSpawnConditionTypeAdapter",
+    "pixelmon.MixinAbilityBase",
+    "pixelmon.MixinPokemon"
   ],
   "client": [
     "pixelmon.MixinClientProxy",

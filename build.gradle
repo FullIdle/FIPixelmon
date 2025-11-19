@@ -29,7 +29,7 @@ minecraft {
 }
 
 group = 'com.fipixelmonmod.fipixelmon.FIPixelmon'
-version = '1.2.8-STABLE'
+version = '1.2.9-STABLE'
 def modid = 'fipixelmon'
 
 configurations {

@@ -38,13 +38,7 @@ public class AbilityConfig {
         this.script = script;
         val formatScript = String.format(script, script);
         this.representedClass = (Class<? extends AbilityBase>) ((StaticClass)
-                ScriptEngineHelper.usingEngine.eval(formatScript)).getRepresentedClass();
-        try {
-            System.out.println(this.representedClass.getConstructor().newInstance());
-        } catch (InstantiationException | IllegalAccessException | InvocationTargetException |
-                 NoSuchMethodException e) {
-            throw new RuntimeException(e);
-        }
+                ScriptEngineHelper.usingEngine.eval(script)).getRepresentedClass();
     }
 
 

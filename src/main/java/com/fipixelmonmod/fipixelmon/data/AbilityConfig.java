@@ -36,7 +36,6 @@ public class AbilityConfig {
     public AbilityConfig(String name, String script) throws ScriptException {
         this.name = name;
         this.script = script;
-        val formatScript = String.format(script, script);
         this.representedClass = (Class<? extends AbilityBase>) ((StaticClass)
                 ScriptEngineHelper.usingEngine.eval(script)).getRepresentedClass();
     }

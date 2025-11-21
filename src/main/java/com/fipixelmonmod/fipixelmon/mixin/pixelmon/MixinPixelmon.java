@@ -16,6 +16,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 public class MixinPixelmon {
     @Inject(method = "<clinit>", at = @At("HEAD"), remap = false)
     private static void cli(CallbackInfo ci) {
+        //我也忘记玩什么写再这里了，我不敢改动了，怕加载顺序问题啥的
         FIPixelmon.GSON = new GsonBuilder().setPrettyPrinting()
                 .registerTypeAdapter(com.pixelmonmod.pixelmon.enums.EnumSpecies.class, EnumSpeciesAdapter.INSTANCE)
                 .registerTypeAdapter(EnumForm.class, EnumFormAdapter.INSTANCE)

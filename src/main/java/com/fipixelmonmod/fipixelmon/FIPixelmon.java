@@ -43,6 +43,7 @@ public class FIPixelmon {
     public static File movesFolder;
     public static File abilitiesFolder;
     public static File effectsFolder;
+    public static File typesFolder;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent e) {

@@ -28,7 +28,7 @@ public abstract class MixinAbilityBase implements ITranslatable, IRarityTweak {
     private static void getAbility(String name, CallbackInfoReturnable<Optional<AbilityBase>> cir, @Local(name = "name") String localName) {
         val config = AbilityConfig.extraAbilities.get(localName);
         if (config != null) try {
-            cir.setReturnValue(Optional.of(config.representedClass.getConstructor().newInstance()));
+            cir.setReturnValue(Optional.of(config.getRepresentedClass().getConstructor().newInstance()));
             cir.cancel();
         } catch (InstantiationException | IllegalAccessException | InvocationTargetException |
                  NoSuchMethodException e) {

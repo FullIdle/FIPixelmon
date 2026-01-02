@@ -25,7 +25,7 @@ java {
 //Forge
 minecraft {
     mappings channel: 'snapshot', version: '20171003-1.12'
-    accessTransformer 'src/main/resources/META-INF/accesstransformer.cfg'
+    accessTransformer 'src/main/resources/META-INF/fipixelmon_at.cfg'
 }
 
 group = 'com.fipixelmonmod.fipixelmon.FIPixelmon'

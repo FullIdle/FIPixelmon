@@ -13,7 +13,8 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import java.util.HashMap;
 
 @Mixin(
-        value = EffectTypeAdapter.class
+        value = EffectTypeAdapter.class,
+        remap = false
 )
 public class MixinEffectTypeAdapter {
     @Shadow @Final public static HashMap<String, Class<? extends EffectBase>> EFFECTS;

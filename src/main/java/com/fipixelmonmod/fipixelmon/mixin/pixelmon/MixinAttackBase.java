@@ -32,6 +32,21 @@ import java.util.Map;
 
 @Mixin(value = AttackBase.class, remap = false)
 public class MixinAttackBase {
+    @Mutable
+    @Shadow
+    @Final
+    public static Gson GSON = (new GsonBuilder())
+            .setPrettyPrinting()
+            //增加物种适配器
+            .registerTypeAdapter(EnumSpecies.class, EnumSpeciesAdapter.INSTANCE)
+            .registerTypeAdapter(EffectBase.class, new EffectTypeAdapter())
+            .registerTypeAdapter(AttackAnimation.class, AttackAnimationTypeAdapter.ADAPTER)
+            .registerTypeAdapter(AttackAnimationData.class, AttackAnimationDataAdapter.ADAPTER)
+            .registerTypeAdapter(MoveFlags.class, MoveFlags.ADAPTER)
+            .registerTypeAdapter(ResourceLocation.class, ResourceLocationAdapter.ADAPTER)
+            .registerTypeAdapter(ZMove.class, new ZMoveAdapter())
+            .create();
+
     @Shadow
     @Final
     public static transient ArrayList<AttackBase> ATTACKS;
@@ -39,8 +54,6 @@ public class MixinAttackBase {
     @Shadow
     @Final
     private static Map<String, AttackBase> ATTACK_MAP;
-
-    @Shadow @Final public static Gson GSON;
 
     @Inject(
             method = "loadAllAttacks",

@@ -22,7 +22,8 @@
   "client": [
     "pixelmon.MixinClientProxy",
     "pixelmon.MixinGuiHelper",
-    "pixelmon.MixinPixelmonModelRegistry"
+    "pixelmon.MixinPixelmonModelRegistry",
+    "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "server": [
   ]

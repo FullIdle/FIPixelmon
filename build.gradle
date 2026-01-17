@@ -1,10 +1,7 @@
 buildscript {
     repositories {
         mavenLocal()
-        maven {
-            allowInsecureProtocol = true
-            url = 'http://localhost:31647/snapshots'
-        }
+        maven { url = 'https://repo.figsq.top/snapshots' }
         maven { url = 'https://repo.spongepowered.org/maven' }
         mavenCentral()
     }
@@ -46,10 +43,7 @@ configurations {
 repositories {
     mavenCentral()
     mavenLocal()
-    maven {
-        allowInsecureProtocol = true
-        url "http://localhost:31647/snapshots"
-    }
+    maven { url = 'https://repo.figsq.top/snapshots' }
     maven { url "https://maven.cleanroommc.com" }
 
     flatDir {

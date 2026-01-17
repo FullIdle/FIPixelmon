@@ -16,6 +16,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Stream;
@@ -57,7 +59,7 @@ public class PokemonConfig implements Comparable<PokemonConfig> {
         return this.fromZip != null;
     }
 
-    //旧的获取方法
+    //旧版本的获取逻辑
     public static EnumSpecies getFromDex(EnumSpecies[] $VALUES, int nationalDex) {
         if ($VALUES == null) $VALUES = EnumSpecies.values();
 
@@ -75,54 +77,82 @@ public class PokemonConfig implements Comparable<PokemonConfig> {
     }
 
     /**
+     * 旧版本的获取逻辑
+     */
+    public static EnumSpecies getFromDex(int nationalDex) {
+        return getFromDex(EnumSpecies.values(), nationalDex);
+    }
+
+    /**
+     * 更全面的获取
+     */
+    public static EnumSpecies fromDex(EnumSpecies[] VALUES, int nationalDex) {
+        if (nationalDex < 0) return null;
+        try {
+            if (VALUES[nationalDex].getNationalPokedexInteger() == nationalDex) return VALUES[nationalDex];
+        } catch (Exception e) {
+            for (EnumSpecies value : VALUES) if (value.getNationalPokedexInteger() == nationalDex) return value;
+        }
+        return null;
+    }
+
+    /**
      * 返回的流是并行的
      */
-    public static Stream<PokemonConfig> readAllConfigs() throws IOException {
-        return Stream.concat(
-                readPokemonFolder(),
-                readDataFolderZip());
+    public static Collection<PokemonConfig> readAllConfigs() throws IOException {
+        return readDataFolderZipTo(readPokemonFolderTo(new ArrayList<>()));
     }
 
-    public static Stream<PokemonConfig> readPokemonFolder() throws IOException {
-        return Files.walk(FIPixelmon.pokemonFolder.toPath())
-                .map(Path::toFile)
-                .filter(file -> file.getName().endsWith(".json"))
-                .map(file -> {
-                    try (
-                            val reader = new FileReader(file);
-                    ) {
-                        return FIPixelmon.GSON.fromJson(reader, PokemonConfig.class);
-                    } catch (IOException e) {
-                        throw new RuntimeException(e);
-                    }
-                });
+    public static <T extends Collection<PokemonConfig>> T readPokemonFolderTo(T configs) throws IOException {
+        try(
+                val walk = Files.walk(FIPixelmon.pokemonFolder.toPath())
+        ) {
+            walk.map(Path::toFile)
+                    .filter(file -> file.getName().endsWith(".json"))
+                    .forEach(file -> {
+                        try (
+                                val reader = new FileReader(file);
+                        ) {
+                            configs.add(FIPixelmon.GSON.fromJson(reader, PokemonConfig.class));
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
+                    });
+        }
+        return configs;
     }
 
-    public static Stream<PokemonConfig> readDataFolderZip() throws IOException {
-        return Files.walk(FIPixelmon.fiPixelmonFolder.toPath())
-                .map(Path::toFile)
-                .filter(FileHelper::isZip)
-                .flatMap(file -> {
-                    try (
-                            ZipFile zipFile = new ZipFile(file);
-                    ) {
-                        return zipFile.stream()
-                                .filter(s -> s.getName().startsWith("pokemon") && s.getName().endsWith(".json"))
-                                .map(zipEntry -> {
+    public static <T extends Collection<PokemonConfig>> T readDataFolderZipTo(T configs) throws IOException {
+        try (
+                val walk = Files.walk(FIPixelmon.fiPixelmonFolder.toPath())
+        ) {
+            walk.map(Path::toFile)
+                    .forEach(file -> {
+                        if (FileHelper.isZip(file)) try (
+                                ZipFile zipFile = new ZipFile(file)
+                        ) {
+                            val entries = zipFile.entries();
+                            while (entries.hasMoreElements()) {
+                                val entry = entries.nextElement();
+                                val entryName = entry.getName();
+                                if (entryName.startsWith("pokemon") && entryName.endsWith(".json")) {
                                     try (
-                                            InputStreamReader reader = new InputStreamReader(zipFile.getInputStream(zipEntry))
+                                            InputStreamReader reader = new InputStreamReader(zipFile.getInputStream(entry))
                                     ) {
                                         PokemonConfig config = FIPixelmon.GSON.fromJson(reader, PokemonConfig.class);
                                         config.setFromZip(file);
-                                        return config;
+                                        configs.add(config);
                                     } catch (IOException e) {
                                         throw new RuntimeException(e);
                                     }
-                                });
-                    } catch (IOException e) {
-                        throw new RuntimeException(e);
-                    }
-                });
+                                }
+                            }
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
+                    });
+        }
+        return configs;
     }
 
     @Override

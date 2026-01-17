@@ -1,5 +1,6 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
+import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.bridge.EnumSpeciesBridge;
 import com.fipixelmonmod.fipixelmon.data.PokemonConfig;
 import com.fipixelmonmod.fipixelmon.enums.EnumForm;
@@ -15,6 +16,7 @@ import org.spongepowered.asm.mixin.gen.Invoker;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 import java.io.IOException;
 import java.util.*;
@@ -70,15 +72,13 @@ public abstract class MixinEnumSpecies implements EnumSpeciesBridge {
             ),
             remap = false)
     private static void registerEnumSpecies(CallbackInfo ci) {
-        try (val stream = PokemonConfig.readAllConfigs()) {
-            //本来想说增加的枚举最后直接用System.arraycopy合进去这样消耗应该更小，不过由于fip支持多个配置对同一个宝可梦修改，所以没法这样做。。。
-            stream.sorted()
-                    .forEachOrdered(config -> {
-                        val fromDex = PokemonConfig.getFromDex($VALUES, config.getDex());
-                        val species = fromDex == null ? fIPixelmon$create(config.getDex(), config.getName()) : fromDex;
-                        (((MixinEnumSpecies) (Object) species)).fIPixelmon$pokemonConfig = config;
-                        config.inject(species);
-                    });
+        try {
+            for (PokemonConfig config : PokemonConfig.readAllConfigs()) {
+                val fromDex = PokemonConfig.fromDex($VALUES, config.getDex());
+                val species = fromDex == null ? fIPixelmon$create(config.getDex(), config.getName()) : fromDex;
+                (((MixinEnumSpecies) (Object) species)).fIPixelmon$pokemonConfig = config;
+                config.inject(species);
+            }
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -141,11 +141,25 @@ public abstract class MixinEnumSpecies implements EnumSpeciesBridge {
                 continue;
             }
             //没有形态则增加一个默认形态
-            System.out.println(species.getNationalPokedexInteger() + "增加了默认形态");
+            FIPixelmon.logger.info("{}增加了默认形态", species.getNationalPokedexInteger());
             formList.put(species, EnumNoForm.NoForm);
         }
         formList = Multimaps.unmodifiableListMultimap(formList);
     }
+
+    /**
+     * 通过编号获取宝可梦物种，由于FIPixelmon扩展的宝可梦不一定按照$VALUE排序，所以不能直接通过$VALUE获取
+     * 想要调用旧版本的? {@link PokemonConfig#getFromDex(int)}
+     */
+    @Inject(
+            method = "getFromDex",
+            at = @At("HEAD"),
+            cancellable = true
+    )
+    private static void getFromDex(int nationalDex, CallbackInfoReturnable<EnumSpecies> cir) {
+        cir.setReturnValue(PokemonConfig.fromDex(EnumSpecies.values(), nationalDex));
+    }
+
     /*==>bridge impl<==*/
 
     @Override

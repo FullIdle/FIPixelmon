@@ -17,13 +17,13 @@
     "pixelmon.MixinAbilityBase",
     "pixelmon.MixinPokemon",
     "pixelmon.MixinEffectTypeAdapter",
-    "pixelmon.MixinEnumType"
+    "pixelmon.MixinEnumType",
+    "pixelmon.MixinSpawnConditionTypeAdapter"
   ],
   "client": [
     "pixelmon.MixinClientProxy",
     "pixelmon.MixinGuiHelper",
-    "pixelmon.MixinPixelmonModelRegistry",
-    "pixelmon.MixinSpawnConditionTypeAdapter"
+    "pixelmon.MixinPixelmonModelRegistry"
   ],
   "server": [
   ]

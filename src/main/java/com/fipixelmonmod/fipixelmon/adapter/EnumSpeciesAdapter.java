@@ -1,5 +1,6 @@
 package com.fipixelmonmod.fipixelmon.adapter;
 
+import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.google.gson.*;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
 import lombok.val;
@@ -16,7 +17,7 @@ public class EnumSpeciesAdapter implements JsonDeserializer<EnumSpecies> {
             return EnumSpecies.valueOf(name);
         } catch (IllegalArgumentException e) {
             val none = EnumSpecies.getFromNameAnyCase(name);
-            if (none == null) throw new JsonParseException("Invalid EnumSpecies: " + name);
+            if (none == null) FIPixelmon.logger.warn("Invalid EnumSpecies: {}", name);
             return none;
         }
     }

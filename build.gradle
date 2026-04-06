@@ -59,7 +59,7 @@ dependencies {
     compileOnly fg.deobf('com.pixelmonmod.pixelmon:Pixelmon:1.12.2-8.4.3')
 
     bundle "jdk.nashorn.api:nashorn:1.0.0"
-
+    bundle "net.bytebuddy:byte-buddy:1.14.3"
     //mixin
     annotationProcessor 'org.ow2.asm:asm-debug-all:5.2'
     annotationProcessor 'com.google.guava:guava:32.1.2-jre'
@@ -121,6 +121,6 @@ jar {
         configurations.bundle.collect {
             it.isDirectory() ? it : zipTree(it) }
     }
-    exclude 'META-INF/*.SF', 'META-INF/*.DSA', 'META-INF/*.RSA'
+    exclude 'META-INF/*.SF', 'META-INF/*.DSA', 'META-INF/*.RSA', 'META-INF/versions/9/**'
     duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 }

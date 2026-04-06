@@ -2,15 +2,22 @@ package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
+import com.pixelmonmod.pixelmon.api.storage.StoragePosition;
 import com.pixelmonmod.pixelmon.client.ClientProxy;
+import com.pixelmonmod.pixelmon.client.gui.pokechecker.GuiScreenPokeChecker;
+import com.pixelmonmod.pixelmon.client.storage.ClientStorageManager;
+import com.pixelmonmod.pixelmon.enums.EnumGuiScreen;
 import com.pixelmonmod.pixelmon.util.helpers.RCFileHelper;
 import lombok.SneakyThrows;
+import net.minecraft.client.gui.GuiScreen;
+import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.client.event.TextureStitchEvent;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 import java.io.File;
 import java.nio.file.Path;
@@ -24,6 +31,19 @@ import java.util.zip.ZipFile;
         remap = false
 )
 public class MixinClientProxy {
+    @Inject(
+            method = "createScreen",
+            at = @At("HEAD"),
+            cancellable = true
+    )
+    private static void createScreen(EntityPlayer player, EnumGuiScreen gui, int[] data, CallbackInfoReturnable<GuiScreen> cir) {
+        if (gui.name().equals("PokeChecker")) {
+            cir.setReturnValue(new GuiScreenPokeChecker(ClientStorageManager.party, new StoragePosition(-1, data.length > 0 ? data[0] : 0), null));
+            cir.cancel();
+            return;
+        }
+    }
+
     @SneakyThrows
     @Inject(
             method = "loadSpritesToAtlas",

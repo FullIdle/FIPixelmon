@@ -1,6 +1,7 @@
 package com.fipixelmonmod.fipixelmon.commands;
 
 import com.fipixelmonmod.fipixelmon.data.AbilityConfig;
+import com.fipixelmonmod.fipixelmon.data.ExtendClassConfig;
 import com.fipixelmonmod.fipixelmon.helper.ScriptEngineHelper;
 import com.pixelmonmod.pixelmon.Pixelmon;
 import com.pixelmonmod.pixelmon.api.command.PixelmonCommand;
@@ -23,7 +24,7 @@ public class PokeAbilityReload extends PixelmonCommand {
     }
 
     public void execute(ICommandSender sender, String[] args) {
-        AbilityConfig.extraAbilities.values().forEach(AbilityConfig::load);
-        this.sendMessage(sender, "特性函数重载完成。(成员变化需要重启!)");
+        AbilityConfig.extraAbilities.values().forEach(ExtendClassConfig::load);
+        this.sendMessage(sender, "FIPixelmon 特性函数重载完成。(成员变化需要重启!)");
     }
 }

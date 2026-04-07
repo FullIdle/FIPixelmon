@@ -11,23 +11,17 @@ import java.util.Map;
 
 @Getter
 public class EffectTypeConfig {
-    // 文件名去除 .js 后缀
-    private final String name;
-
-    private EffectTypeConfig(File file) {
-        this.name = file.getName().substring(0, file.getName().length() - 3);
-    }
-
     //clinit
-    public static final Map<String, EffectTypeConfig> extraEffectTypes;
+    public static final Map<String, ExtendClassConfig> extraEffectTypes;
 
     static {
+        val packageName = "com.pixelmonmod.pixelmon.battles.attacks.fipixelmon";
         extraEffectTypes = new HashMap<>();
         val files = FIPixelmon.effectsFolder.listFiles();
         if (files != null) for (File file : files) {
             val fileName = file.getName();
             if (!fileName.endsWith(".js")) continue;
-            val config = new EffectTypeConfig(file);
+            val config = new ExtendClassConfig(file, packageName, EffectBase.class);
             extraEffectTypes.put(config.getName(), config);
         }
     }

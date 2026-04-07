@@ -24,6 +24,6 @@ public class MixinEffectTypeAdapter {
             at = @At("TAIL")
     )
     private static void injected(CallbackInfo ci) {
-//        EffectTypeConfig.extraEffectTypes.forEach((name,  config) -> EFFECTS.put(name, config.getRepresentedClass()));
+        EffectTypeConfig.extraEffectTypes.forEach((name,  config) -> EFFECTS.put(name, (Class<? extends EffectBase>) config.getRepresentedClass()));
     }
 }

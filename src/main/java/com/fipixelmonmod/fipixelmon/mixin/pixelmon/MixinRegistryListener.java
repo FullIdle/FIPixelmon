@@ -1,5 +1,6 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
+import com.fipixelmonmod.fipixelmon.data.ItemHeldConfig;
 import com.fipixelmonmod.fipixelmon.data.MegaStoneConfig;
 import com.fipixelmonmod.fipixelmon.data.PokeBallConfig;
 import com.pixelmonmod.pixelmon.client.gui.GuiResources;
@@ -8,6 +9,7 @@ import com.pixelmonmod.pixelmon.config.PixelmonItemsPokeballs;
 import com.pixelmonmod.pixelmon.config.RegistryListener;
 import com.pixelmonmod.pixelmon.enums.EnumMegaPokemon;
 import com.pixelmonmod.pixelmon.enums.items.EnumPokeballs;
+import com.pixelmonmod.pixelmon.items.ItemHeld;
 import com.pixelmonmod.pixelmon.items.ItemPokeball;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;
@@ -32,6 +34,7 @@ public class MixinRegistryListener {
             method = "registerAllFields",
             at = @At("TAIL")
     )
+    @SuppressWarnings("unchecked")
     private static <T extends IForgeRegistryEntry<T>> void registerAllFields(Class clazzWithFields, Class<T> type, IForgeRegistry<T> registry, CallbackInfo ci) {
         if (clazzWithFields == PixelmonItemsPokeballs.class) {
             for (Map.Entry<EnumPokeballs, PokeBallConfig> entry : PokeBallConfig.extraPokeBallConfig.entrySet()) {
@@ -48,6 +51,9 @@ public class MixinRegistryListener {
                     list.add(value.item);
                 registry.register((T) value.item);
             }
+
+            //额外携带道具
+            ItemHeldConfig.registerAll(registry);
         }
     }
 
@@ -71,6 +77,9 @@ public class MixinRegistryListener {
                 MegaStoneConfig value = entry.getValue();
                 ModelLoader.setCustomModelResourceLocation(value.item, 0, new ModelResourceLocation(value.item.getRegistryName(), "inventory"));
             }
+
+            for (ItemHeld value : ItemHeldConfig.extraHeldItemsMap.values())
+                ModelLoader.setCustomModelResourceLocation(value, 0, new ModelResourceLocation(value.getRegistryName(), "inventory"));
         }
     }
 }

@@ -28,31 +28,33 @@ import java.util.concurrent.Callable;
 @Getter
 @Setter
 public class ExtendClassConfig {
+    //就是类名
     private final String name;
     private final File file;
     private ScriptContext scriptContext;
+    private final ScriptObjectMirror global;
     private final Class<?> representedClass;
 
     public ExtendClassConfig(File file, String packageName, Class<?>... needExtend) {
         this.file = file;
         load();//scriptContext
-        val global = ((ScriptObjectMirror) scriptContext.getBindings(ScriptContext.ENGINE_SCOPE).get("nashorn.global"));
+        global = ((ScriptObjectMirror) scriptContext.getBindings(ScriptContext.ENGINE_SCOPE).get("nashorn.global"));
         val NAME = Objects.requireNonNull(global.get("NAME").toString());
         val EXTEND = Objects.requireNonNull(global.get("EXTEND").toString());
         this.name = NAME;
-        if (NAME.contains(" ")) throw new IllegalArgumentException("Ability name cannot contain space");
+        if (NAME.contains(" ")) throw new IllegalArgumentException("Class name cannot contain spaces: '" + NAME + "'");
         try {
             val extend = Class.forName(EXTEND);
 
             for (Class<?> clazz : needExtend)
                 if (!clazz.isAssignableFrom(extend))
-                    throw new IllegalArgumentException("Ability extend class " + clazz + " is not assignable from " + extend);
+                    throw new IllegalArgumentException("EXTEND must be subclass of " + clazz.getName());
 
             val newClassName = packageName + "." + NAME;
 
             try {
                 Class.forName(newClassName);
-                throw new RuntimeException("Ability class already exists " + newClassName);
+                throw new RuntimeException("Class " + newClassName + " already exists");
             } catch (ClassNotFoundException ignored) {
             }
 
@@ -76,6 +78,10 @@ public class ExtendClassConfig {
         } catch (ClassNotFoundException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    public Object getGlobal(String name) {
+        return global.get("NAME");
     }
 
     /**

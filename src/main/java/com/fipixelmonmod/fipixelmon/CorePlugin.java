@@ -39,6 +39,8 @@ public class CorePlugin implements IFMLLoadingPlugin, IEarlyMixinLoader {
         (FIPixelmon.effectsFolder = new File(FIPixelmon.fiPixelmonFolder, "effects")).mkdirs();
         //types
         (FIPixelmon.typesFolder = new File(FIPixelmon.fiPixelmonFolder, "types")).mkdirs();
+        //itemHeld
+        (FIPixelmon.heldItemsFolder = new File(FIPixelmon.fiPixelmonFolder, "helditems")).mkdirs();
     }
 
     @Override

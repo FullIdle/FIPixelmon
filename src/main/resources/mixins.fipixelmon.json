@@ -19,7 +19,8 @@
     "pixelmon.MixinEffectTypeAdapter",
     "pixelmon.MixinEnumType",
     "pixelmon.MixinSpawnConditionTypeAdapter",
-    "pixelmon.MixinEnumGuiScreen"
+    "pixelmon.MixinEnumGuiScreen",
+    "pixelmon.MixinEnumHeldItems"
   ],
   "client": [
     "pixelmon.MixinClientProxy",

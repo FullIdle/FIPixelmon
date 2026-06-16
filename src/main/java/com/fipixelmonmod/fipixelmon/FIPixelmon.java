@@ -3,8 +3,10 @@ package com.fipixelmonmod.fipixelmon;
 import com.fipixelmonmod.fipixelmon.helper.FileHelper;
 import com.google.gson.Gson;
 import lombok.SneakyThrows;
+import lombok.val;
 import net.minecraft.util.text.translation.I18n;
 import net.minecraft.util.text.translation.LanguageMap;
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
@@ -15,17 +17,13 @@ import org.apache.logging.log4j.Logger;
 
 import java.io.BufferedInputStream;
 import java.io.File;
+import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Method;
 import java.nio.file.Files;
 import java.util.zip.ZipFile;
 
-@Mod(
-        modid = FIPixelmon.MODID,
-        name = FIPixelmon.MODNAME,
-        version = FIPixelmon.VERSION,
-        dependencies = "required-after:pixelmon@[1.12.2-8.4.3,)"
-)
+@Mod(modid = FIPixelmon.MODID, name = FIPixelmon.MODNAME, version = FIPixelmon.VERSION, dependencies = "required-after:pixelmon@[1.12.2-8.4.3,)")
 public class FIPixelmon {
     public static final String MODID = "fipixelmon";
     public static final String MODNAME = "FIPixelmon Mod";
@@ -47,7 +45,24 @@ public class FIPixelmon {
     public static File heldItemsFolder;
 
     @Mod.EventHandler
-    public void preInit(FMLPreInitializationEvent e) {
+    public void preInit(FMLPreInitializationEvent evt) {
+        val file = new File(evt.getModConfigurationDirectory(), MODID + ".cfg");
+        val path = file.toPath();
+        if (!file.exists()) try (val writer = Files.newBufferedWriter(path);) {
+            new Config();
+            GSON.toJson(Config.INSTANCE, writer);
+            writer.flush();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+        else try (val reader = Files.newBufferedReader(path);) {
+            Config.INSTANCE = GSON.fromJson(reader, Config.class);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
+        KeyBindings.register();
+        MinecraftForge.EVENT_BUS.register(KeyBindings.class);
     }
 
     @SneakyThrows

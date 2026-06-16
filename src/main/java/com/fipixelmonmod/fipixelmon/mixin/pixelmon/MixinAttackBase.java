@@ -1,6 +1,7 @@
 package com.fipixelmonmod.fipixelmon.mixin.pixelmon;
 
 import com.fipixelmonmod.fipixelmon.FIPixelmon;
+import com.fipixelmonmod.fipixelmon.adapter.EnumHeldItemsAdapter;
 import com.fipixelmonmod.fipixelmon.adapter.EnumSpeciesAdapter;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -13,8 +14,11 @@ import com.pixelmonmod.pixelmon.battles.attacks.*;
 import com.pixelmonmod.pixelmon.battles.attacks.animations.AttackAnimationData;
 import com.pixelmonmod.pixelmon.battles.attacks.animations.AttackAnimationDataAdapter;
 import com.pixelmonmod.pixelmon.enums.EnumSpecies;
+import com.pixelmonmod.pixelmon.enums.heldItems.EnumHeldItems;
 import com.pixelmonmod.pixelmon.util.ResourceLocationAdapter;
 import com.pixelmonmod.pixelmon.util.helpers.RCFileHelper;
+import lombok.SneakyThrows;
+import lombok.val;
 import net.minecraft.util.ResourceLocation;
 import org.spongepowered.asm.mixin.Final;
 import org.spongepowered.asm.mixin.Mixin;
@@ -45,6 +49,7 @@ public class MixinAttackBase {
             .registerTypeAdapter(MoveFlags.class, MoveFlags.ADAPTER)
             .registerTypeAdapter(ResourceLocation.class, ResourceLocationAdapter.ADAPTER)
             .registerTypeAdapter(ZMove.class, new ZMoveAdapter())
+            .registerTypeAdapter(EnumHeldItems.class, EnumHeldItemsAdapter.INSTANCE)
             .create();
 
     @Shadow
@@ -55,6 +60,7 @@ public class MixinAttackBase {
     @Final
     private static Map<String, AttackBase> ATTACK_MAP;
 
+    @SneakyThrows
     @Inject(
             method = "loadAllAttacks",
             at = @At(
@@ -64,7 +70,7 @@ public class MixinAttackBase {
             )
     )
     private static void loadAllAttacks(CallbackInfo ci) {
-        ArrayList<File> files = new ArrayList();
+        val files = new ArrayList<File>();
         RCFileHelper.recursiveJSONSearch(FIPixelmon.movesFolder.getPath(), files);
         for (File moveFile : files) {
             try {

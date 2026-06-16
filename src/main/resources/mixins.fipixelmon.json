@@ -20,12 +20,14 @@
     "pixelmon.MixinEnumType",
     "pixelmon.MixinSpawnConditionTypeAdapter",
     "pixelmon.MixinEnumGuiScreen",
-    "pixelmon.MixinEnumHeldItems"
+    "pixelmon.MixinEnumHeldItems",
+    "pixelmon.MixinGuiPixelmonOverlay"
   ],
   "client": [
     "pixelmon.MixinClientProxy",
     "pixelmon.MixinGuiHelper",
-    "pixelmon.MixinPixelmonModelRegistry"
+    "pixelmon.MixinPixelmonModelRegistry",
+    "pixelmon.MixinGuiTCGOverlay"
   ],
   "server": [
   ]

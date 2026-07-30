@@ -6,7 +6,6 @@ import lombok.SneakyThrows;
 import lombok.val;
 import net.minecraft.util.text.translation.I18n;
 import net.minecraft.util.text.translation.LanguageMap;
-import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
@@ -46,23 +45,24 @@ public class FIPixelmon {
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent evt) {
-        val file = new File(evt.getModConfigurationDirectory(), MODID + ".cfg");
-        val path = file.toPath();
-        if (!file.exists()) try (val writer = Files.newBufferedWriter(path);) {
-            new Config();
-            GSON.toJson(Config.INSTANCE, writer);
-            writer.flush();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-        else try (val reader = Files.newBufferedReader(path);) {
-            Config.INSTANCE = GSON.fromJson(reader, Config.class);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+        if (CorePlugin.isClient) {
+            val file = new File(evt.getModConfigurationDirectory(), MODID + ".cfg");
+            val path = file.toPath();
+            if (!file.exists()) try (val writer = Files.newBufferedWriter(path);) {
+                new Config();
+                GSON.toJson(Config.INSTANCE, writer);
+                writer.flush();
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+            else try (val reader = Files.newBufferedReader(path);) {
+                Config.INSTANCE = GSON.fromJson(reader, Config.class);
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
 
-        KeyBindings.register();
-        MinecraftForge.EVENT_BUS.register(KeyBindings.class);
+            KeyBindings.register();
+        }
     }
 
     @SneakyThrows

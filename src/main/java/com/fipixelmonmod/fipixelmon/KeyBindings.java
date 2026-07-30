@@ -2,6 +2,7 @@ package com.fipixelmonmod.fipixelmon;
 
 import com.fipixelmonmod.fipixelmon.helper.PixelHelper;
 import net.minecraft.client.settings.KeyBinding;
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.client.registry.ClientRegistry;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.InputEvent;
@@ -15,6 +16,7 @@ public class KeyBindings {
 
     public static void register() {
         for (KeyBinding value : PARTY_SELECT_KEY.keySet()) ClientRegistry.registerKeyBinding(value);
+        MinecraftForge.EVENT_BUS.register(KeyBindings.class);
     }
 
     @SubscribeEvent
